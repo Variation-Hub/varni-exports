@@ -1,9 +1,15 @@
-// src/components/Navbar.jsx
 import { Link } from 'react-router-dom'
+import Style from './style.module.css'
+import logo from "../../assets/logo.svg"
 
 function Navbar() {
     return (
-        <nav className="p-4">
+        <nav className={Style.navbar_container}>
+            <div className={Style.logo_container}>
+                <Link to="/">
+                    <img src={logo} alt="logo" width="100%"/>
+                </Link>
+            </div>
             <ul className="flex space-x-4">
                 <li>
                     <Link to="/">Home</Link>

@@ -1,0 +1,16 @@
+.navbar_container{
+    position: sticky;
+    top:0;
+    left: 0;
+    width: 100vw;
+    height: 9vh;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo_container{
+    width: 20%;
+    height: 9vh;
+}
