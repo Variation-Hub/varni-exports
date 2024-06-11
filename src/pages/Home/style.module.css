@@ -1,0 +1,59 @@
+.sliderImages {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    top: -9vh;
+}
+
+.slider_component {
+    position: relative;
+
+}
+
+.sliderText {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+.sliderText h1 {
+    font-size: 3vw;
+}
+
+.sliderText p {
+    font-size: 1.5vw;
+}
+
+.commit_container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.commitmentSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    gap: 10px
+}
+
+.commitmentSection div {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.commitmentSection h2 {
+    font-size: 1.5vw;
+    color: var(--primary-color)
+}
+
+.commitmentSection article {
+    text-align: center;
+    width: 100%;
+    color: var(--secondary-color)
+}

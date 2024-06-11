@@ -7,11 +7,36 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 
 :root {
   --primary-color: #003C54;
   --secondary-color: #808083;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #808083;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #003C54;
+  border-radius: 50px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: white;
 }
