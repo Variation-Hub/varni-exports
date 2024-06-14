@@ -3,10 +3,8 @@ import router from './router'
 import './index.css'
 
 function App() {
-  return ( 
-    
+  return (
     <RouterProvider router={router} />
-    
   )
 }
 
