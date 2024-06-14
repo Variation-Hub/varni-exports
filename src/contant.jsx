@@ -8,7 +8,7 @@ import { FaUserClock } from "react-icons/fa";
 
 export const catagories = [
     { name: 'Rice', path: '/products/Rice' },
-    { name: 'Wheat (Whole Grain)', path: '/products/Wheat' },
+    { name: 'Wheat (Whole Grain)', path: '/products/Wheat'  },
     { name: 'Barley', path: '/products/Barley' },
     { name: 'Steel-Cut Oats', path: '/products/Oats' },
     { name: 'Quinoa', path: '/products/Quinoa' },
