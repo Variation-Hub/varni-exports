@@ -1,0 +1,268 @@
+.img_style {
+    height: 50vh;
+    position: relative;
+    top: -9vh;
+    /* margin-top: 0%; */
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: url(../../assets/2330483.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.img_style h1 {
+
+    font-size: 45px;
+}
+
+.img_home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.GreaterThan {
+    font-size: 10px;
+
+}
+
+.contact {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact_Form1 {
+    height: 90%;
+    width: 35%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact_Form2 {
+    height: 90%;
+    width: 35%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact_Form1 h1 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.get_in {
+    display: grid;
+    padding: 5px;
+    gap: 15px;
+}
+
+.media {
+    display: flex;
+    gap: 2%;
+}
+
+.media div {
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #cecece;
+    border: none;
+}
+
+.main_location {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.icon {
+    color: #ed1c24;
+    font-size: 25px;
+
+}
+
+.location {
+    display: flex;
+    gap: 2%;
+    width: 80%;
+}
+
+.FiPhone {
+    color: #ed1c24;
+    font-size: 20px;
+
+}
+
+.Mail {
+    color: #ed1c24;
+    font-size: 25px;
+}
+
+.phon {
+    display: flex;
+    gap: 2%;
+}
+
+.mail {
+    display: flex;
+    gap: 2%;
+}
+
+.fonts {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.font {
+    padding: 15px;
+    display: grid;
+    gap: 10%;
+}
+
+.btn {
+
+    border: 1px solid #0b0b0b;
+    padding: 10px 25px;
+    margin: 15px;
+}
+
+.btn:hover {
+    background-color: #ed1c24;
+}
+
+.home:hover {
+    color: #ed1c24;
+}
+
+/* Tablet */
+
+@media screen and (max-width:768px) {
+    .contact {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+    }
+
+    .get_in {
+
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .contact_Form1 {
+        display: flex;
+        /* flex-direction: column; */
+        gap: 40px;
+        width: 90%;
+    }
+
+    .main_location {
+
+        display: flex;
+        flex-direction: row;
+        /* align-items: center; */
+        justify-content: center;
+    }
+
+    .location {
+        width: 55%;
+    }
+
+    .contacts {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 30%;
+
+    }
+
+    .media {
+
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: center;
+
+    }
+
+    .contact_Form2 {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .send {
+        display: grid;
+        justify-content: center;
+    }
+}
+
+/* mobile */
+
+@media screen and (max-width:430px) {
+
+    .main_location {
+        width: 100%;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        flex-direction: column;
+        gap: 15px;
+        /* margin-left:21px; */
+    }
+
+    .location {
+        width: 100%;
+    }
+
+    .contacts {
+        display: flex;
+        gap: 15px;
+    }
+
+    .get_in {
+        gap: 5px;
+    }
+
+}
+
+/* small mobile */
+
+@media screen and (max-width:320px) {
+    .contact_Form1 h1 {
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+}
