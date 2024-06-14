@@ -58,3 +58,10 @@ export const products = [
     { id: 7, name: "Split-bengal-gram-chana-dal", image: Split_bengal_gram_chana_dal },
     { id: 8, name: "White-Onion", image: White_Onion },
 ]
+
+export const counter = [
+    { id: 1, name: "Projects", number: "63" },
+    { id: 2, name: "Likes", number: "50" },
+    { id: 3, name: "On Going Projects", number: "15" },
+    { id: 4, name: "Awards", number: "4" },
+]

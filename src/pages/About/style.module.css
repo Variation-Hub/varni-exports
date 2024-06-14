@@ -116,3 +116,32 @@
     font-size: 40px;
     font-weight: 700;
 }
+
+.Counter {
+    font-family: Raleway, sans-serif, Arial, Helvetica, sans-serif;
+    /* border: 1px solid black !important; */
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    height: 120px !important;
+    font-weight: 100;
+    margin: 30px 0px 50px 0px;
+
+}
+
+.counter_component {
+    width: 260px !important;
+    /* border: 1px solid black !important; */
+    font-weight: 100;
+
+}
+
+.sliderText {
+    /* font-family: Raleway, sans-serif, Arial, Helvetica, sans-serif; */
+    color: rgb(136, 136, 136);
+    font-size: 18px;
+    /* font-weight: 100; */
+
+}

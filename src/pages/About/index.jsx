@@ -1,4 +1,6 @@
 import Style from "./style.module.css";
+import { counter } from '../../contant';
+
 
 const About = () => {
 
@@ -52,15 +54,25 @@ const About = () => {
                         <h1 className={Style.our_story}> Many Teams, One Focus: Your Growth </h1>
                         <hr className={Style.line} />
                         <p className={Style.p}>
-                        We have ambitious sales team, forex team, marketing team and purchase team working in one channel to help you to make whole exports process smooth and prompt. Customer service is not a department here. It is the entire company. Bhimani export is customer centric firm and that is our USP.
+                            We have ambitious sales team, forex team, marketing team and purchase team working in one channel to help you to make whole exports process smooth and prompt. Customer service is not a department here. It is the entire company. Bhimani export is customer centric firm and that is our USP.
                         </p>
                     </div>
                 </div>
 
-                our story main box
             </div>
 
-            <div>our team work box</div>
+            <div className={Style.Counter}>
+                {counter.map((slider, index) => {
+                    return (
+                        <div key={index} className={Style.counter_component}>
+                            <p style={{ fontSize: "40px", fontWeight: "700", color: " rgb(61, 61, 61)" }}>{slider.number}</p>
+                            <div className={Style.sliderText}>
+                                <h1>{slider.name}</h1>
+                            </div>
+                        </div>
+                    )
+                })}
+            </div>
         </>
     )
 }
