@@ -31,3 +31,11 @@ export const commitmentSection = [
     { title: "COMMITMENT", description: "We are committed to fulfilling all your requirements just in time. We consider your consignment as our mission statement.", logo: <FaUserClock size={60} color="var(--primary-color)" /> },
 
 ]
+
+export const contactUsSection = {
+    companyName: "BHIMANI EXPORTS PVT. LTD",
+    address: "B-705, Titanium Heights, Opp. Vodafone House, Corporate Rd, Prahlad Nagar, Ahmedabad, 380015 Gujarat, India",
+    contact: "+91-9033903314",
+    email:"bhimaniexports@gmail.com"
+
+}
