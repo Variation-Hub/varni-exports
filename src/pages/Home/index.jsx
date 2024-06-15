@@ -10,11 +10,11 @@ const Home = () => {
   const settings = {
     infinite: true,
     autoplay: true,
-    autoplaySpeed: 1500,
-    cssEase: "linear",
+    autoplaySpeed: 4000,
+    fade: true,
     speed: 500,
     slidesToShow: 1,
-    slidesToScroll: 1
+    slidesToScroll: 1,
   };
   const set = {
     infinite: true,
@@ -123,7 +123,7 @@ const Home = () => {
               <div key={index} className={Style.products_component}>
                 <img src={slider.image} alt="Slide 1" width="100%" height="100%" />
                 {/* dwon */}
-                <div  className={Style.sliderTextp} >
+                <div className={Style.sliderTextp} >
                   <h1>{slider.name}</h1>
                 </div>
                 {/* dwon */}

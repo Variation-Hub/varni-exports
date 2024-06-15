@@ -71,9 +71,9 @@ const Contact = () => {
 
         <div className={style.contact_Form2}>
 
-          <input type="text" name=" name" value="" placeholder="Name" className={style.fonts} />
-          <input type="Email" name=" email" value="" placeholder="Email" className={style.fonts} />
-          <input type="number" name=" number" value="" placeholder="Phone Number" className={style.fonts} />
+          <input type="text" name=" name"  placeholder="Name" className={style.fonts} />
+          <input type="Email" name=" email"  placeholder="Email" className={style.fonts} />
+          <input type="text" name=" number"  placeholder="Phone Number" className={style.fonts} />
           <select name="course" placeholder="Choose product type of inquiry" className={style.fonts}>
 
             <option className={style.fonts}>Choose product type of inquiry </option>

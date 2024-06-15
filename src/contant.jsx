@@ -28,7 +28,7 @@ export const catagories = [
 ];
 
 export const landingPageSlider = [
-    { title: "15+ Years of Experience in Agri-Commodities", description: "one-stop for all impex solutions", image: banner1 },
+    { title: "Experience in Agri-Commodities", description: "one-stop for all impex solutions", image: banner1 },
     { title: "Black And White Sesame Seeds Exporter", description: "One Place for Best Quality Sesame Seeds", image: banner2 },
     { title: "Leading Spice Exporter", description: "One-Stop For Best Quality Spices", image: banner3 }
 ]
@@ -41,10 +41,10 @@ export const commitmentSection = [
 ]
 
 export const contactUsSection = {
-    companyName: "BHIMANI EXPORTS PVT. LTD",
+    companyName: "VARNI EXPORTS",
     address: "B-705, Titanium Heights, Opp. Vodafone House, Corporate Rd, Prahlad Nagar, Ahmedabad, 380015 Gujarat, India",
-    contact: "+91-9033903314",
-    email: "bhimaniexports@gmail.com"
+    contact: "+91 94088 62963",
+    email:"sales@varniexports.com"
 
 }
 

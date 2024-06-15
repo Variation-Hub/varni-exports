@@ -1,6 +1,6 @@
 .sliderImages {
     width: 100vw;
-    height: 100vh;
+    /* height: 100vh; */
     overflow: hidden;
     position: relative;
     top: -9vh;
@@ -14,15 +14,17 @@
 .sliderText {
     position: absolute;
     top: 30%;
-    left: 10%;
+    left: 25%;
 }
 
 .sliderText h1 {
     font-size: 3vw;
+    color: var(--primary-color)
 }
 
 .sliderText p {
     font-size: 1.5vw;
+    color: var(--secondary-color)
 }
 
 .commit_container {
