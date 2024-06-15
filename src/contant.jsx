@@ -12,6 +12,13 @@ import White_Onion from './assets/White_Onion.png';
 import { IoShieldHalfSharp } from "react-icons/io5";
 import { FaHandshake } from "react-icons/fa6";
 import { FaUserClock } from "react-icons/fa";
+import haccplogo from "./assets/haccplogo-transformed.png"
+import cgs from "./assets/CGS.png"
+import fssi from "./assets/fssai.png"
+import iso from "./assets/iso.png"
+import kosher from "./assets/kosher.png"
+import usdi from "./assets/usdi.png"
+
 
 
 export const catagories = [
@@ -44,7 +51,7 @@ export const contactUsSection = {
     companyName: "VARNI EXPORTS",
     address: "B-705, Titanium Heights, Opp. Vodafone House, Corporate Rd, Prahlad Nagar, Ahmedabad, 380015 Gujarat, India",
     contact: "+91 94088 62963",
-    email:"sales@varniexports.com"
+    email: "sales@varniexports.com"
 
 }
 
@@ -64,4 +71,12 @@ export const counter = [
     { id: 2, name: "Likes", number: "50" },
     { id: 3, name: "On Going Projects", number: "15" },
     { id: 4, name: "Awards", number: "4" },
+]
+export const logo = [
+    { id: 1, image: haccplogo },
+    { id: 2, image: cgs },
+    { id: 3, image: iso },
+    { id: 4, image: fssi },
+    { id: 5, image: usdi },
+    { id: 6, image: kosher }
 ]
