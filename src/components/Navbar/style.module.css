@@ -80,3 +80,9 @@
         display: block;
     }
 }
+
+@media screen and (max-width:425px) {
+    .navbar_container {
+        backdrop-filter: blur(0px);
+    }
+}

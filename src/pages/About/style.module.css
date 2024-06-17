@@ -1,50 +1,38 @@
-* {
-    padding: 0%;
-    margin: 0%;
-    box-sizing: border-box;
-    font-family: Roboto, sans-serif, Arial, Helvetica, sans-serif;
-}
-
-.About_main {
-    width: 100%;
-    height: 350px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-image: url("../../assets/Abput_us_bg.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+.img_style {
+    position: relative;
+    top: -12vh;
     color: white;
+    margin-bottom: 0vh;
 }
 
-.About_box {
-    /* border: 1px solid black; */
-    height: 250px;
+.img_style h1 {
+    font-size: 55px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    text-shadow: 0px -5px 1px black;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    word-spacing: 15px;
+}
+
+.h1 {
     width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    .h1 {
-        /* height: 22vh; */
-        width: 100%;
-        text-align: center;
-        color: white;
-        font-size: 55px;
-    }
-
-    .h2 {
-        /* height: 22vh; */
-        width: 100%;
-        text-align: center;
-        color: white;
-        font-size: 16px;
-        font-weight: 200;
-    }
+    text-align: center;
+    color: white;
+    font-size: 55px;
 }
+
+.h2 {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 200;
+}
+
 
 .OS {
     /* border: 1px solid black; */
@@ -140,15 +128,12 @@
 }
 
 .OS_s2 {
-    /* border: 1px solid black; */
     height: 100%;
     width: 510px;
-    /* display: grid; */
     justify-content: center;
     /* align-items: ; */
     text-align: justify;
     font-size: 15px;
-    font-family: s;
 }
 
 
@@ -163,7 +148,6 @@
 .bold {
     font-weight: 700;
     font-style: bold;
-    font-family: Roboto, sans-serif, Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
 
@@ -179,9 +163,8 @@
 }
 
 .Counter {
-    font-family: Raleway, sans-serif, Arial, Helvetica, sans-serif;
-    /* border: 1px solid black !important; */
-    display: flex;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
     justify-content: space-evenly;
     align-items: center;
     text-align: center;
@@ -191,6 +174,7 @@
 }
 
 .counter_component {
+    width: 260px !important;
     font-weight: 100;
 }
 
@@ -244,6 +228,13 @@
 
     .our_story {
         font-size: 4vh;
+    }
+
+    .Counter {
+        display: grid;
+        grid-template-columns: auto auto;
+        /* flex-wrap: wrap; */
+        padding-bottom: 4vh;
     }
 
 }

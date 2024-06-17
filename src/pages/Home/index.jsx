@@ -33,7 +33,7 @@ const Home = () => {
           {landingPageSlider.map((slider, index) => {
             return (
               <div key={index} className={Style.slider_component}>
-                <img src={slider.image} alt="Slide 1" width="100%" height="100%" />
+                <img src={slider.image} alt="Slide 1"/>
                 <div className={Style.sliderText}>
                   <h1>{slider.title}</h1>
                   <p>{slider.description}</p>
@@ -119,14 +119,11 @@ const Home = () => {
         <Slider {...set}>
           {products.map((slider, index) => {
             return (
-              // warp slider
               <div key={index} className={Style.products_component}>
                 <img src={slider.image} alt="Slide 1" width="100%" height="100%" />
-                {/* dwon */}
                 <div className={Style.sliderTextp} >
                   <h1>{slider.name}</h1>
                 </div>
-                {/* dwon */}
               </div>
             )
           })}

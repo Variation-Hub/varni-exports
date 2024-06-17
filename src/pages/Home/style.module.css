@@ -1,6 +1,5 @@
 .sliderImages {
     width: 100vw;
-    /* height: 100vh; */
     overflow: hidden;
     position: relative;
     top: -9vh;
@@ -8,7 +7,10 @@
 
 .slider_component {
     position: relative;
+}
 
+.slider_component img{
+    height: 100vh;
 }
 
 .sliderText {
@@ -205,4 +207,28 @@
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
     display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    .slider_component img{
+        height: 80vh;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .slider_component img{
+        height: 50vh;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .slider_component img{
+        height: 30vh;
+    }
+}
+
+@media screen and (max-width: 325px) {
+    .slider_component img{
+        height: 26vh;
+    }
 }

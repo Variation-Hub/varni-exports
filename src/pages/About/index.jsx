@@ -1,17 +1,14 @@
 import Style from "./style.module.css";
 import { counter } from '../../contant';
-
+import aboutImage from "../../assets/Banner/about-us-banner.webp"
 
 const About = () => {
 
     return (
         <>
-            <div className={Style.About_main}>
-
-                <div className={Style.About_box}>
-                    <h1 className={Style.h1}>About</h1>
-                    <h2 className={Style.h2}>Home - About</h2>
-                </div>
+            <div className={Style.img_style}>
+                <h1>About Us</h1>
+                <img src={aboutImage} alt="" width="100%" height="100%"/>
             </div>
 
             <div className={Style.OS} >

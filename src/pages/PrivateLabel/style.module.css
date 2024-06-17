@@ -1,0 +1,22 @@
+.label_image{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+}
+
+.label_image h1{
+    font-size: 50px;
+}
+
+.artical_private_label{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5vh 2vh;
+}
+.artical_private_label p{
+    width: 80%;
+}

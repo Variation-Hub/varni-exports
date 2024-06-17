@@ -1,21 +1,63 @@
 .img_style {
-    height: 50vh;
     position: relative;
-    top: -9vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    top: -12vh;
     color: white;
-    background-image: url(../../assets/2330483.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-
+    margin-bottom: 0vh;
 }
 
 .img_style h1 {
+    font-size: 55px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    text-shadow: 0px -5px 1px black;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    word-spacing: 15px;
+}
 
-    font-size: 45px;
+.point {
+    width: 12px;
+    height: 12px;
+    background-color: #AFB7BF;
+    position: absolute;
+    top: 49%;
+    left: 62.35%;
+    filter: blur(1px);
+}
+
+.point::before {
+    width: 8px;
+    height: 8px;
+    background-color: #AFB7BF;
+    content: "";
+    position: absolute;
+    left: -4px;
+    top: 4px;
+    border-radius: 50px;
+}
+
+.point2 {
+    width: 10px;
+    height: 10px;
+    background-color: #2C384B;
+    position: absolute;
+    top: 48%;
+    left: 61.85%;
+    filter: blur(1px);
+}
+
+.point2::before {
+    width: 10px;
+    height: 10px;
+    background-color: #2C384B;
+    content: "";
+    position: absolute;
+    left: -2px;
+    top: 4px;
+    border-radius: 50px;
 }
 
 .img_home {
@@ -46,23 +88,19 @@
 .contact_Form1 {
     height: 90%;
     width: 35%;
-    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     gap: 40px;
     float: left;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact_Form2 {
     height: 90%;
     width: 35%;
-    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     gap: 19px;
     float: left;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact_Form1 h1 {
@@ -180,7 +218,6 @@
 
     .contact_Form1 {
         display: flex;
-        /* flex-direction: column; */
         gap: 40px;
         width: 90%;
     }
@@ -189,7 +226,6 @@
 
         display: flex;
         flex-direction: row;
-        /* align-items: center; */
         justify-content: center;
     }
 
@@ -206,9 +242,7 @@
     }
 
     .media {
-
         display: flex;
-        /* flex-direction: column; */
         justify-content: center;
 
     }
@@ -237,7 +271,6 @@
         justify-content: center;
         flex-direction: column;
         gap: 15px;
-        /* margin-left:21px; */
     }
 
     .location {
