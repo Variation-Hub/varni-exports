@@ -1,15 +1,17 @@
-import {  Link, useParams } from 'react-router-dom'
 
+import certificateImage from '../../assets/Banner/certificate-banner.webp'
+import Style from './style.module.css'
 function Category() {
-  const { categoryId } = useParams()
+
   return (
-    <div className="p-4">
-      <h1 className="text-2xl font-bold">{categoryId}</h1>
-      <ul>
-      <li><Link to={`/products/${categoryId}/product1`}>Product 1</Link></li>
-          <li><Link to={`/products/${categoryId}/product2`}>Product 2</Link></li>
-      </ul>
-    </div>
+    <>
+      <section className={Style.img_style}>
+        <h1>Contact Us</h1>
+        <img src={certificateImage} alt="" width="100%" height="100%" />
+        <div className={Style.point}></div>
+        <div className={Style.point2}></div>
+      </section>
+    </>
   )
 }
 
