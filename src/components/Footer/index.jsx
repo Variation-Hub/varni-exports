@@ -1,38 +1,65 @@
 import { Link } from 'react-router-dom';
 import styles from './style.module.css';
+import { logo } from '../../contant';
+import { FiPhone } from "react-icons/fi";
+import { IoLocationOutline } from "react-icons/io5";
+import { FaLink } from "react-icons/fa";
+import { MdProductionQuantityLimits } from "react-icons/md";
+import { GrCertificate } from "react-icons/gr";
+import { BsInfoCircle } from "react-icons/bs";
+import { RiContactsBook3Line } from "react-icons/ri";
+
 
 const Footer = () => {
   return (
     <footer className={styles.footer}>
+
       <div className={styles.footerSection}>
-        <h3>Certificates</h3>
-        <div className={styles.certificatesLogos}>
-          <img src="path_to_certificate_logo_1" alt="Certificate 1" />
-          <img src="path_to_certificate_logo_2" alt="Certificate 2" />
-          <img src="path_to_certificate_logo_3" alt="Certificate 3" />
-          {/* Add more images as needed */}
+        <div className={styles.font}>
+          <h3 >Certificates</h3>
+          <div className={styles.certificatesLogos}>
+            {logo.map((imgs, index) => {
+              return (
+                <div key={index} className={styles.logo}>
+                  <img src={imgs.image} />
+                </div>
+              )
+            })}
+          </div>
         </div>
       </div>
+
       <div className={styles.footerSection}>
-        <h3>Contact</h3>
-        <a href="mailto:info@bhimaniexports.com">info@varniexports.com</a>
-        <p>+91 94088 62963</p>
-        <p>+91 94088 62963</p>
-      </div>
-      <div className={styles.footerSection}>
-        <h3>Address</h3>
-        <p>Head Office</p>
-        <p>Ahmedabad, Gujarat, India</p>
-      </div>
-      <div className={styles.footerSection}>
-        <h3>Quick Links</h3>
-        <div className='flex flex-col'>
-          <Link to="/products" className="text-gray-700 no-underline">Products</Link>
-          <Link to="/certificates" className="text-gray-700 no-underline">Certificates</Link>
-          <Link to="/about" className="text-gray-700 no-underline">About</Link>
-          <Link to="/contact-us" className="text-gray-700 no-underline">Contact Us</Link>
+        <div className={styles.font}>
+          <h3>Contact</h3>
+          <div className={styles.cont}>
+            <a className='flex items-center gap-2' href="mailto:info@bhimaniexports.com" ><FaLink />info@varniexports.com</a>
+            <p className='flex items-center gap-2' ><FiPhone />+91 94088 62963</p>
+            <p className='flex items-center gap-2' ><FiPhone />+91 94088 62963</p>
+          </div>
         </div>
       </div>
+
+      <div className={styles.footerSection}>
+        <div className={styles.font}>
+          <h3>Address</h3>
+          <p className='flex items-center gap-2'  > <IoLocationOutline className='text-3xl' />Head Office
+            Ahmedabad, <br />Gujarat, India</p>
+        </div>
+      </div>
+
+      <div className={styles.footerSection}>
+        <div className={styles.font}>
+          <h3 className='flex items-center'>Quick Links</h3>
+          <div className='flex flex-col gap-4'>
+            <Link to="/products" className="text-gray-700 no-underline flex items-center gap-2"><MdProductionQuantityLimits className='text-2xl' />Products</Link>
+            <Link to="/certificates" className="text-gray-700 no-underline flex items-center gap-2"><GrCertificate className='text-2xl' />Certificates</Link>
+            <Link to="/about" className="text-gray-700 no-underline flex items-center gap-2"><BsInfoCircle className='text-2xl' />About</Link>
+            <Link to="/contact-us" className="text-gray-700 no-underline flex items-center gap-2"><RiContactsBook3Line className='text-2xl' />Contact Us</Link>
+          </div>
+        </div>
+      </div>
+
       <div className={styles.footerBottom}>
         <p>&copy; Varni Export Pvt Ltd. All Rights Reserved</p>
       </div>
