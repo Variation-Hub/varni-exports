@@ -92,3 +92,18 @@ export const privateLable = {
     thumbImage: "",
     productImage: [privateProductFront, privateProductBack],
 }
+
+export const aboutUsDetail = {
+    content1: {
+        title: "",
+        description: ""
+    },
+    content2: {
+        title: "",
+        description: ""
+    },
+    content3: {
+        title: "",
+        description: ""
+    }
+}

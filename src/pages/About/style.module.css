@@ -58,65 +58,6 @@
     align-items: center;
 }
 
-@media only screen and (max-width: 768px) {
-    .OS {
-        height: 100%;
-        width: 100%;
-        display: flex;
-        /* flex-direction: column; */
-        justify-content: center;
-        align-items: center;
-        /* padding: 6%; */
-    }
-
-    .OS_S1,
-    .OS_S2,
-    .OS_S3 {
-        height: 100%;
-        width: 100%;
-        display: flex;
-        /* flex-direction: column; */
-        justify-content: center;
-        align-items: center;
-        padding: 6% 0%;
-    }
-
-    .OS_s1,
-    .OS_s2 {
-        height: 100%;
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: flex-start;
-        padding: 6%;
-        font-size: 14px;
-
-    }
-
-    .our_story {
-        font-size: 30px;
-    }
-
-    .Counter {
-        display: flex;
-        /* flex-direction: column; */
-        padding-bottom: 4vh;
-    }
-
-    .counter_component {
-        font-size: 20px;
-        padding: 1.5vh;
-    }
-
-    .sliderText {
-        font-weight: 100;
-        font-size: 5.5vw;
-    }
-
-}
-
-
 .OS_s1 {
     /* border: 1px solid black; */
     height: 100%;
@@ -183,6 +124,56 @@
     font-size: 1.5vw;
 }
 
+@media only screen and (max-width: 768px) {
+
+    .OS_S1,
+    .OS_S3 {
+        flex-direction: column;
+    }
+
+    .OS_S2{
+        flex-direction: column-reverse;
+    }
+    .OS_s1,
+    .OS_s2 {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 6%;
+        font-size: 14px;
+
+    }
+
+    .our_story {
+        font-size: 30px;
+    }
+
+    .Counter {
+        display: flex;
+        /* flex-direction: column; */
+        padding-bottom: 4vh;
+    }
+
+    .counter_component {
+        font-size: 20px;
+        padding: 1.5vh;
+    }
+
+    .sliderText {
+        font-weight: 300;
+        font-size: 3vw;
+    }
+
+    .Counter {
+        display: grid;
+        grid-template-columns: auto auto;
+        padding-bottom: 4vh;
+    }
+}
+
 @media only screen and (max-width: 425px) {
     .OS {
         height: 100%;
@@ -230,16 +221,6 @@
         font-size: 4vh;
     }
 
-    .Counter {
-        display: grid;
-        grid-template-columns: auto auto;
-        /* flex-wrap: wrap; */
-        padding-bottom: 4vh;
-    }
-
-}
-
-@media only screen and (max-width: 425px) {
     .Counter {
         display: flex;
         flex-direction: column;
