@@ -19,7 +19,7 @@ const About = () => {
                 <div className={Style.OS_S1}>
 
                     <div className={Style.OS_s1}>
-                        <img src="./src/assets/about_us_1.png" alt="OS_image_1" height={"645px"} width={"510px"} />
+                        <img className={Style.img} src="./src/assets/about_us_1.png" alt="OS_image_1" />
                     </div>
                     <div className={Style.OS_s2}>
                         <h1 className={Style.our_story}> Our Story </h1>
@@ -35,20 +35,26 @@ const About = () => {
                     <div className={Style.OS_s2}>
                         <h1 className={Style.our_story}> Our Mission </h1>
                         <hr className={Style.line} />
-                        <b>Our mission is to get you the best trades. Money is secondary.</b>
+                        <p className={Style.p}>
+                            <b >Our mission is to get you the best trades. Money is secondary.</b>
+                        </p>
                         <p className={Style.p}>
                             International trade is one of the hot industries of the new millennium and Its trending business worldwide. As a result, getting a better deal for your products is tough. But not with Bhimani Exports! We have the best team in this area who can understand your requirements and give you hassle-free shipment in no time. We consider your requirements as our “Mission Statement”. Bhimani Export’s team will make sure to give you the best experience you ever had in international trade.
                         </p>
                     </div>
                     <div className={Style.OS_s1}>
-                        <img src="./src/assets/about_us_2.jpg" alt="" height={"340px"} width={"510px"} />
+                        <img src="./src/assets/about_us_2.jpg" alt=""
+                        // height={"340px"} width={"510px"} 
+                        />
                     </div>
                 </div>
 
                 <div className={Style.OS_S3}>
 
                     <div className={Style.OS_s1}>
-                        <img src="./src/assets/about_us_3.jpg" alt="" height={"490px"} width={"510px"} />
+                        <img src="./src/assets/about_us_3.jpg" alt=""
+                        // height={"490px"} width={"510px"}
+                        />
                     </div>
                     <div className={Style.OS_s2}>
                         <h1 className={Style.our_story}> Many Teams, One Focus: Your Growth </h1>
