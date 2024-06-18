@@ -18,6 +18,9 @@ import fssi from "./assets/fssai.png"
 import iso from "./assets/iso.png"
 import kosher from "./assets/kosher.png"
 import usdi from "./assets/usdi.png"
+import mission from "./assets/Card_fechers/mission.png"
+import values from "./assets/Card_fechers/values.png"
+import vision from "./assets/Card_fechers/vision.png"
 
 
 
@@ -68,12 +71,12 @@ export const contactUsSection = {
 
 }
 
-export const products = [
+export const Slider_products = [
     { id: 1, name: "Black-raisins", image: Black_raisins },
     { id: 2, name: "Brown-Sesame", image: Brown_Sesame },
     { id: 3, name: "Cardamom", image: Cardamom },
     { id: 4, name: "Currants", image: Currants },
-    { id: 5, name: "guar-meal", image: guar_meal },
+    { id: 5, name: "Guar-meal", image: guar_meal },
     { id: 6, name: "Red-Raisin", image: Red_Raisin },
     { id: 7, name: "Split-bengal-gram-chana-dal", image: Split_bengal_gram_chana_dal },
     { id: 8, name: "White-Onion", image: White_Onion },
@@ -121,3 +124,9 @@ export const aboutUsDetail = {
         description: ""
     }
 }
+
+export const Cardfeatures = [
+    { id: "1", logo: mission, title: "Our Quality", description: "Every single product we export and supply consists of highly effective elements, outstanding quality and the capacity to offer a healthy life. All our..." },
+    { id: "2", logo: values, title: "Why Us?", description: "As a renowned brand, we only pick our products from manufacturers who only use 100% authentic materials or ingredients which ensure the highest purity..." },
+    { id: "3", logo: vision, title: "Our Mission", description: "From the very beginning of our organisation, we always aim towards supplying superior quality products with the highest precision. With our responsibl..." }
+]
