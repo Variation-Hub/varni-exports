@@ -67,7 +67,7 @@ function Navbar() {
                                 <ul className={Style.list_product}>
                                     {catagories.map((product, index) => (
                                         <li key={index}>
-                                            <Link to={product.path}>{product.name}</Link>
+                                            <Link to={product.path} className={Style.product_name}>{product.name}</Link>
                                         </li>
                                     ))}
                                 </ul>

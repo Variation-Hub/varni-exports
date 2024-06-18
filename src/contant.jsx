@@ -29,17 +29,25 @@ import usdi from "./assets/usdi.png"
 // =======
 // >>>>>>> 5bc3f58204b863bd42d4a6978f37035d33c62236
 
+// Category Images
+import dehydratedProductImages from "./assets/Categories/dehydrated-product.webp"
+import fruitsandvefetableImages from "./assets/Categories/fruits-and-vegetables.webp"
+import grainsImage from "./assets/Categories/grains.webp"
+import onionImage from "./assets/Categories/onion.webp"
+import peanutsImage from "./assets/Categories/peanuts.webp"
+import raisinsImage from "./assets/Categories/raisins.webp"
+import sesameseedImage from "./assets/Categories/sesame-seeds.webp"
+import spicesImage from "./assets/Categories/spices.webp"
+
 export const catagories = [
-    { name: 'Rice', path: '/products/Rice' },
-    { name: 'Wheat (Whole Grain)', path: '/products/Wheat' },
-    { name: 'Barley', path: '/products/Barley' },
-    { name: 'Steel-Cut Oats', path: '/products/Oats' },
-    { name: 'Quinoa', path: '/products/Quinoa' },
-    { name: 'Sweet Corn', path: '/products/Corn' },
-    { name: 'Millet', path: '/products/Millet' },
-    { name: 'Rye Berries', path: '/products/Rye' },
-    { name: 'Sorghum', path: '/products/Sorghum' },
-    { name: 'Buckwheat Groats', path: '/products/Buckwheat' }
+    { name: 'peanuts', path: '/products/peanuts', image: peanutsImage, description: 'Our premium-grade peanuts are carefully selected for their rich flavor and exceptional quality. These versatile nuts are perfect for snacking, cooking, and baking, offering a delightful crunch and wholesome nutrition in every bite. Sourced from the finest farms, our peanuts ensure freshness and superior taste.'},
+    { name: 'fruits and vegetables', path: '/products/fruits-and-vegetables', image: fruitsandvefetableImages, description: 'Experience the vibrant freshness of our hand-picked fruits and vegetables. Each item is harvested at peak ripeness to deliver maximum flavor, nutrition, and quality. Whether you seek crisp vegetables or juicy, succulent fruits, our produce promises to add color and health to your table.'},
+    { name: 'dehydrated product', path: '/products/dehydrated-product', image: dehydratedProductImages, description: 'Our dehydrated fruits are carefully dried to retain their natural sweetness and nutritional value. Perfect for snacking, baking, or adding to cereals and trail mixes, these fruits provide a burst of flavor and a healthy treat. Enjoy the convenience and delicious taste of our premium dehydrated fruits.'},
+    { name: 'grains', path: '/products/grains', image: grainsImage, description: 'Our selection of high-quality grains is meticulously sourced to ensure superior taste and nutrition. Ideal for a variety of culinary applications, from hearty soups and stews to wholesome baked goods and salads, our grains offer versatility and excellent nutritional value. Experience the quality and natural goodness of our premium grains.'},
+    { name: 'onion', path: '/products/onion', image: onionImage, description: 'Bursting with robust flavor, our onions are a kitchen essential. Grown in fertile soils and harvested at the perfect time, these onions add a savory depth to any dish. Whether used raw in salads or cooked in your favorite recipes, our onions are sure to enhance your culinary creations.'},
+    { name: 'raisins', path: '/products/raisins', image: raisinsImage, description: 'Our succulent raisins are sun-dried to perfection, preserving their natural sweetness and rich, fruity flavor. These delightful treats are perfect for snacking, baking, and adding a sweet touch to your dishes. Enjoy the wholesome goodness of our premium-quality raisins.'},
+    { name: 'sesame seeds', path: '/products/sesame seeds', image: sesameseedImage, description: 'Add a nutty flavor and a nutritional boost to your meals with our top-quality sesame seeds. These tiny seeds are rich in essential nutrients and are perfect for sprinkling over salads, baked goods, or adding to your favorite recipes. Experience the superior taste and health benefits of our sesame seeds.'},
+    { name: 'spices', path: '/products/spices', image: spicesImage, description: "Elevate your culinary creations with our exquisite selection of spices. Sourced from the best regions around the world, our spices are known for their vibrant colors, intense aromas, and rich flavors. Whether you're looking to add a hint of heat or a burst of flavor, our premium spices will transform your dishes into gourmet masterpieces."}
 ];
 
 export const landingPageSlider = [

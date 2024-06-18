@@ -1,5 +1,5 @@
 import { contactUsSection } from '../../contant'
-import style from '../ContactUs/style.module.css'
+import style from './style.module.css'
 import { IoLocationOutline } from "react-icons/io5";
 import { FiPhone } from "react-icons/fi";
 import { HiOutlineMailOpen } from "react-icons/hi";

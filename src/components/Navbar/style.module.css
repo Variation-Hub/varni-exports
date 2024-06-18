@@ -29,6 +29,9 @@
     animation: borderAnimation 0.2s linear;
 }
 
+.product_name{
+    text-transform: capitalize;
+}
 @keyframes borderAnimation {
     from {
         width: 0%;
