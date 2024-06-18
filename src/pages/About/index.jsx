@@ -1,6 +1,7 @@
 import Style from "./style.module.css";
 import { counter } from '../../contant';
 import aboutImage from "../../assets/Banner/about-us-banner.webp"
+import CountUp from 'react-countup';
 
 const About = () => {
 
@@ -8,7 +9,7 @@ const About = () => {
         <>
             <div className={Style.img_style}>
                 <h1>About Us</h1>
-                <img src={aboutImage} alt="" width="100%" height="100%"/>
+                <img src={aboutImage} alt="" width="100%" height="100%" />
             </div>
 
             <div className={Style.OS} >
@@ -68,7 +69,11 @@ const About = () => {
                 {counter.map((slider, index) => {
                     return (
                         <div key={index} className={Style.counter_component}>
-                            <p style={{ fontSize: "40px", fontWeight: "700", color: " rgb(61, 61, 61)" }}>{slider.number}</p>
+
+
+                            <p style={{ fontSize: "40px", fontWeight: "500", color: " rgb(61, 61, 61)" }}>
+                                <CountUp start={0} end={slider.number} enableScrollSpy={true}/>+
+                            </p>
                             <div className={Style.sliderText}>
                                 <h1>{slider.name}</h1>
                             </div>

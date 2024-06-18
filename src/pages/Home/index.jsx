@@ -1,10 +1,12 @@
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { commitmentSection, landingPageSlider, products } from '../../contant';
+import { commitmentSection, landingPageSlider } from '../../contant';
 import Style from "./style.module.css";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import Cardfeature from '../../components/Card_features';
+import Lider from '../../components/Slider';
 
 const Home = () => {
   const settings = {
@@ -33,7 +35,7 @@ const Home = () => {
           {landingPageSlider.map((slider, index) => {
             return (
               <div key={index} className={Style.slider_component}>
-                <img src={slider.image} alt="Slide 1"/>
+                <img src={slider.image} alt="Slide 1" />
                 <div className={Style.sliderText}>
                   <h1>{slider.title}</h1>
                   <p>{slider.description}</p>
@@ -114,21 +116,9 @@ const Home = () => {
 
       </div>
 
+      <Lider />
 
-      <div className={Style.sliderImagesp}>
-        <Slider {...set}>
-          {products.map((slider, index) => {
-            return (
-              <div key={index} className={Style.products_component}>
-                <img src={slider.image} alt="Slide 1" width="100%" height="100%" />
-                <div className={Style.sliderTextp} >
-                  <h1>{slider.name}</h1>
-                </div>
-              </div>
-            )
-          })}
-        </Slider>
-      </div>
+      <Cardfeature />
 
     </>
   );
