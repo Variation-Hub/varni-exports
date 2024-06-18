@@ -20,9 +20,10 @@ import kosher from "./assets/kosher.png"
 import usdi from "./assets/usdi.png"
 
 
+
 // Product Images
-import privateProductFront from "./assets/private lable/package-front.png"
-import privateProductBack from "./assets/private lable/package-back.png"
+// import privateProductFront from "./assets/private lable/package-front.png"
+// import privateProductBack from "./assets/private lable/package-back.png"
 
 
 export const catagories = [
@@ -84,26 +85,3 @@ export const logo = [
     { id: 5, image: usdi },
     { id: 6, image: kosher }
 ]
-
-export const privateLable = {
-    title: "Private Label",
-    description: `We offer private labelling to companies who do not have the expertise and machinery to handle the production process. We handle the complete production from scratch.We manufacture and export over 350+ products. ​You can have your own brand and product identity. We are amongst the top private label food manufacturers. Our products excel in quality control, flavour and food safety. We strive to satisfy the tastes of our discerning customers.
-    Our team is skilled in producing, co- packing, and exporting quality private label food products.We make sure to meet the sanitation and hygiene standards and uphold the integrity and pride of our organisation with a great culinary legacy and outstanding service.`,
-    thumbImage: "",
-    productImage: [privateProductFront, privateProductBack],
-}
-
-export const aboutUsDetail = {
-    content1: {
-        title: "",
-        description: ""
-    },
-    content2: {
-        title: "",
-        description: ""
-    },
-    content3: {
-        title: "",
-        description: ""
-    }
-}
