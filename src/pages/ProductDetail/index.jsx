@@ -1,22 +1,30 @@
 import { FaGreaterThan } from 'react-icons/fa6'
 import { Link, useParams } from 'react-router-dom'
 import style from '../ProductDetail/style.module.css'
-import { products_detail2, products_detail1 } from '../../contant'
+import { catagories } from '../../contant'
 import Markdown from 'react-markdown'
+import { useEffect, useState } from 'react'
 
 function Category() {
-  const { categoryId, productId } = useParams()
 
-  // const data=array.find(item=>item.type===categoryId && item.name===productId); 
+  const { categoryId, productId } = useParams();
+  const [suggestedCategory, setSuggestedCategory] = useState([]);
+  const [data, setData] = useState(null);
+
+  useEffect(() => {
+    const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
+    setSuggestedCategory(category);
+    const productData = category?.find(item => item.name === productId) || null;
+    setData(productData);
+  }, [categoryId, productId]);
+
+
   return (
     <>
       <section >
-        {/* <div className="p-4">
-        <h1 className="text-2xl font-bold">{categoryId} {productId}</h1>
-      <h1>Non Basmati Rice Exporter</h1> </div> */}
 
         <div className={style.main}>
-          <h1>Non Basmati Rice Exporter </h1>
+          <h1>{data?.name}</h1>
           <div className={style.img_home}>
             <div className={style.home}>
               <Link to="/">Home</Link>
@@ -31,30 +39,27 @@ function Category() {
         <div className={style.section}>
 
           <div>
-            <h1>Non Basmati Rice Exporter</h1>
-          </div>
-
-          <div className={style.Non_Basmati}>
-            <div className={style.img}></div>
-            <Markdown>{atob(products_detail1)}</Markdown>
+            <h1>{data?.name}</h1>
           </div>
 
           <div>
-            <Markdown>{atob(products_detail2)}</Markdown>
+            {data?.description ?
+              <Markdown>{atob(data?.description)}</Markdown>
+              : null}
           </div>
         </div>
 
         <div className={style.box1}>
           <h1>Other Products</h1>
-          <div className={style.box2}> 
-            <div className={style.Exporter}>
-              <div className={style.rice_img1}></div>
-              <p>Brown Rice Exporter</p>
-            </div>
-            <div className={style.Exporter}>
-              <div className={style.rice_img2}></div>
-              <p>Basmati Rice Exporter</p>
-            </div>
+          <div className={style.box2}>
+            {suggestedCategory?.map(item => {
+              return (
+                <Link to={`/products/${categoryId}/${item.name}`} key={item.id} className={style.Exporter}>
+                  <div className={style.rice_img2}></div>
+                  <p>{item.name}</p>
+                </Link>
+              )
+            })}
           </div>
         </div>
 

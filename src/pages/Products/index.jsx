@@ -14,11 +14,14 @@ function Products() {
         <ul className={Style.products_contianer}>
           {catagories.map((product, index) => (
             <Link to={product.path} key={index} className={Style.product_name}>
+              <h1>{product.name}</h1>
               <div className={Style.image}>
                 <img src={product?.image} alt="" />
+                <div className={Style.more_info}>
+                  <button>More Info</button>
+                </div>
               </div>
-              <h1>{product.name}</h1>
-              <article>{product.description}</article>
+              <article>{product.description.length > 315 ? `${product.description.slice(0, 312)}...` : product.description}</article>
             </Link>
           ))}
         </ul>

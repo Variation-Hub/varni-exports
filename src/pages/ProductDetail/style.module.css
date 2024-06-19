@@ -67,16 +67,13 @@
 
 .Rice {
     display: flex;
-    /* flex-direction: column; */
-    /* align-items: center; */
     justify-content: center;
+    align-items: flex-start;
 
 }
 
 .box1 {
-    height: 25vh;
     width: 20vw;
-    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -99,7 +96,6 @@
 .rice_img1 {
     height: 45px;
     width: 45px;
-    /* border: 1px solid black; */
     border-radius: 50%;
     background-image: url(../../assets/rice/Brown-Rice.jpg);
     background-position: center;
@@ -112,7 +108,6 @@
 .rice_img2 {
     height: 45px;
     width: 45px;
-    /* border: 1px solid black; */
     border-radius: 50%;
     background-image: url(../../assets/rice/1121-raw-img.jpg);
     background-position: center;
