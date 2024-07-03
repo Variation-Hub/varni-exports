@@ -21,7 +21,7 @@ function Products() {
                   <button>More Info</button>
                 </div>
               </div>
-              <article>{product.description.length > 315 ? `${product.description.slice(0, 312)}...` : product.description}</article>
+              <article>{product?.description?.length > 315 ? `${product?.description.slice(0, 312)}...` : product?.description}</article>
             </Link>
           ))}
         </ul>

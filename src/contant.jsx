@@ -1,14 +1,6 @@
 import banner1 from './assets/Banner/banner-1.webp';
 import banner2 from './assets/Banner/banner-2.webp';
 import banner3 from './assets/Banner/banner-3.webp';
-import Black_raisins from './assets/Black_raisins.jpg';
-import Brown_Sesame from './assets/Brown_Sesame.png';
-import Cardamom from './assets/Cardamom.jpg';
-import Currants from './assets/Currants.jpg';
-import guar_meal from './assets/guar_meal.jpg';
-import Red_Raisin from './assets/Red_Raisin.jpg';
-import Split_bengal_gram_chana_dal from './assets/Split_bengal_gram_chana_dal.jpg';
-import White_Onion from './assets/White_Onion.png';
 import { IoShieldHalfSharp } from "react-icons/io5";
 import { FaHandshake } from "react-icons/fa6";
 import { FaUserClock } from "react-icons/fa";
@@ -24,19 +16,147 @@ import vision from "./assets/Card_fechers/vision.png"
 
 
 // Product Images
-import privateProductFront from "./assets/private lable/package-front.png"
-import privateProductBack from "./assets/private lable/package-back.png"
+import privateProductFront from "./assets/private lable/1.png"
+import privateProductBack from "./assets/private lable/2.png"
 
 
 // Category Images
-import dehydratedProductImages from "./assets/Categories/dehydrated-product.webp"
-import fruitsandvefetableImages from "./assets/Categories/fruits-and-vegetables.webp"
-import grainsImage from "./assets/Categories/grains.webp"
-import onionImage from "./assets/Categories/onion.webp"
-import peanutsImage from "./assets/Categories/peanuts.webp"
-import raisinsImage from "./assets/Categories/raisins.webp"
-import sesameseedImage from "./assets/Categories/sesame-seeds.webp"
-import spicesImage from "./assets/Categories/spices.webp"
+import grainsImage from "./assets/Categories/1.png"
+import raisinsImage from "./assets/Categories/2.png"
+import sesameseedImage from "./assets/Categories/3.png"
+import spicesImage from "./assets/Categories/4.png"
+import wholespicesImage from "./assets/Categories/5.png"
+import groundspicesImage from "./assets/Categories/6.png"
+import onionImage from "./assets/Categories/7.png"
+import peanutsImage from "./assets/Categories/8.png"
+import dehydratedProductImages from "./assets/Categories/9.png"
+import fruitsandvefetableImages from "./assets/Categories/10.png"
+import roastedGramImage from "./assets/Categories/11.png"
+import othersImage from "./assets/Categories/12.png"
+
+// Peanut Images
+
+import peanut1 from "./assets/Products/Peanut/1.png"
+import peanut2 from "./assets/Products/Peanut/2.png"
+import peanut3 from "./assets/Products/Peanut/3.png"
+import peanut4 from "./assets/Products/Peanut/4.png"
+import peanut5 from "./assets/Products/Peanut/5.png"
+
+// Fruits and Vegetables
+
+import fruitsandvegetables1 from "./assets/Products/fruits/6.png"
+import fruitsandvegetables2 from "./assets/Products/fruits/7.png"
+import fruitsandvegetables3 from "./assets/Products/fruits/8.png"
+import fruitsandvegetables4 from "./assets/Products/fruits/9.png"
+
+// Dehydrated
+
+import dehydrated1 from "./assets/Products/Dehydrated/10.png"
+import dehydrated2 from "./assets/Products/Dehydrated/11.png"
+import dehydrated3 from "./assets/Products/Dehydrated/12.png"
+import dehydrated4 from "./assets/Products/Dehydrated/13.png"
+import dehydrated5 from "./assets/Products/Dehydrated/14.png"
+import dehydrated6 from "./assets/Products/Dehydrated/15.png"
+import dehydrated7 from "./assets/Products/Dehydrated/16.png"
+import dehydrated8 from "./assets/Products/Dehydrated/17.png"
+import dehydrated9 from "./assets/Products/Dehydrated/18.png"
+import dehydrated10 from "./assets/Products/Dehydrated/19.png"
+
+// Grains
+
+import grains1 from "./assets/Products/grains/20.png"
+import grains2 from "./assets/Products/grains/21.png"
+import grains3 from "./assets/Products/grains/22.png"
+import grains4 from "./assets/Products/grains/24.png"
+import grains5 from "./assets/Products/grains/23.png"
+import grains6 from "./assets/Products/grains/25.png"
+
+// Onion
+
+import onion1 from "./assets/Products/onion/26.png"
+import onion2 from "./assets/Products/onion/27.png"
+import onion3 from "./assets/Products/onion/28.png"
+import onion4 from "./assets/Products/onion/29.png"
+
+// Raisins
+
+import raisins1 from "./assets/Products/raisins/30.png"
+import raisins2 from "./assets/Products/raisins/31.png"
+import raisins3 from "./assets/Products/raisins/32.png"
+import raisins4 from "./assets/Products/raisins/33.png"
+import raisins5 from "./assets/Products/raisins/34.png"
+import raisins6 from "./assets/Products/raisins/35.png"
+import raisins7 from "./assets/Products/raisins/36.png"
+import raisins8 from "./assets/Products/raisins/37.png"
+
+// Sesame Seeds
+
+import sesameseed1 from "./assets/Products/sesame/38.png"
+import sesameseed2 from "./assets/Products/sesame/39.png"
+import sesameseed3 from "./assets/Products/sesame/40.png"
+import sesameseed4 from "./assets/Products/sesame/41.png"
+
+// Spices
+
+import spices1 from "./assets/Products/whole-spices/42.png";
+import spices2 from "./assets/Products/whole-spices/43.png";
+import spices3 from "./assets/Products/whole-spices/44.png";
+import spices4 from "./assets/Products/whole-spices/45.png";
+import spices5 from "./assets/Products/whole-spices/46.png";
+import spices6 from "./assets/Products/whole-spices/47.png";
+import spices7 from "./assets/Products/whole-spices/48.png";
+import spices8 from "./assets/Products/whole-spices/49.png";
+import spices9 from "./assets/Products/whole-spices/50.png";
+import spices10 from "./assets/Products/whole-spices/51.png";
+import spices11 from "./assets/Products/whole-spices/52.png";
+import spices12 from "./assets/Products/whole-spices/53.png";
+import spices13 from "./assets/Products/whole-spices/54.png";
+import spices14 from "./assets/Products/whole-spices/55.png";
+import spices15 from "./assets/Products/whole-spices/56.png";
+import spices16 from "./assets/Products/whole-spices/57.png";
+import spices17 from "./assets/Products/whole-spices/58.png";
+import spices18 from "./assets/Products/whole-spices/59.png";
+import spices19 from "./assets/Products/whole-spices/60.png";
+import spices20 from "./assets/Products/whole-spices/61.png";
+import spices21 from "./assets/Products/whole-spices/62.png";
+import spices22 from "./assets/Products/whole-spices/63.png";
+import spices23 from "./assets/Products/whole-spices/64.png";
+import spices24 from "./assets/Products/whole-spices/65.png";
+
+import spices25 from "./assets/Products/ground-spices/66.png";
+import spices26 from "./assets/Products/ground-spices/67.png";
+import spices27 from "./assets/Products/ground-spices/68.png";
+import spices28 from "./assets/Products/ground-spices/69.png";
+import spices29 from "./assets/Products/ground-spices/70.png";
+import spices30 from "./assets/Products/ground-spices/71.png";
+import spices31 from "./assets/Products/ground-spices/72.png";
+import spices32 from "./assets/Products/ground-spices/73.png";
+import spices33 from "./assets/Products/ground-spices/74.png";
+import spices34 from "./assets/Products/ground-spices/75.png";
+import spices35 from "./assets/Products/ground-spices/76.png";
+import spices36 from "./assets/Products/ground-spices/77.png";
+import spices37 from "./assets/Products/ground-spices/78.png";
+import spices38 from "./assets/Products/ground-spices/79.png";
+import spices39 from "./assets/Products/ground-spices/80.png";
+
+// Roasted Gram Products
+
+import roastedGram1 from "./assets/Products/Roasted-Gram/81.png";
+import roastedGram2 from "./assets/Products/Roasted-Gram/82.png";
+import roastedGram3 from "./assets/Products/Roasted-Gram/83.png";
+
+// Other Products
+
+import otherProducts1 from "./assets/Products/others/84.png";
+import otherProducts2 from "./assets/Products/others/85.png";
+import otherProducts3 from "./assets/Products/others/86.png";
+import otherProducts4 from "./assets/Products/others/87.png";
+
+// services
+
+import importImage from "./assets/Card_fechers/import-service.png"
+import privateLableImage from "./assets/Card_fechers/packaging.png"
+import exportImage from "./assets/Card_fechers/export-service.png"
 
 export const catagories = [
     {
@@ -49,7 +169,7 @@ export const catagories = [
             "id": "1",
             "name": "Blanched Peanut Seeds",
             "Category": "Peanut",
-            "images": "",
+            "images": peanut1,
             "Origin": "Gujarat-India",
             "Peanut / Ounce": "50/60, 50/55, 40/50",
             "Self Life": "6 Month",
@@ -68,7 +188,7 @@ export const catagories = [
             "id": "2",
             "name": "Java Peanut Seed",
             "Category": "Peanut",
-            "images": "",
+            "images": peanut2,
             "Origin": "Gujarat-India",
             "Peanut / Ounce": "56/60, 80/90, 110/120",
             "Moisture": "7 % to 8 % Maximum",
@@ -84,7 +204,7 @@ export const catagories = [
             "id": "3",
             "name": "Bold Peanut Seed",
             "Category": "Peanut",
-            "images": "",
+            "images": peanut3,
             "Origin": "Gujarat-India",
             "Peanut / Ounce": "38/42, 40/50, 50/60, 90/100 ",
             "Moisture": "7 % to 8 % Maximum",
@@ -100,7 +220,7 @@ export const catagories = [
             "id": "4",
             "name": "Ground Nuts",
             "Category": "Peanut",
-            "images": "",
+            "images": peanut4,
             "Origin": "Gujarat-India",
             "Peanut / Ounce": "38/42, 40/50, 50/60,90/100",
             "Moisture": "7 % to 8 % Maximum",
@@ -116,7 +236,7 @@ export const catagories = [
             "id": "5",
             "name": "Roasted Peanuts",
             "Category": "Peanut",
-            "images": "",
+            "images": peanut5,
             "Origin": "Gujarat-India",
             "Peanut / Ounce": "70/80, 80/90, 100/120, 120/140",
             "Moisture": "7 % to 8 % Maximum",
@@ -141,6 +261,7 @@ export const catagories = [
                 "id": "1",
                 "name": "Mango",
                 "Category": "Fruits",
+                "images": fruitsandvegetables1,
                 "Type": "Fresh Mango",
                 "Cultivation Type": "Organic",
                 "Color": "Yellow",
@@ -161,6 +282,7 @@ export const catagories = [
                 "id": "2",
                 "name": "Banana",
                 "Category": "Fruits",
+                "images": fruitsandvegetables2,
                 "Type": "Fresh",
                 "Style": "Natural",
                 "Color": "Yellow",
@@ -179,6 +301,7 @@ export const catagories = [
                 "id": "3",
                 "name": "Pomegranate",
                 "Category": "Fruits",
+                "images": fruitsandvegetables3,
                 "Type": "Fresh Pomegranate",
                 "Cultivation Type": "Organic",
                 "Color": "Pink",
@@ -197,6 +320,7 @@ export const catagories = [
                 "id": "4",
                 "name": "Coconut",
                 "Category": "Fruits",
+                "images": fruitsandvegetables4,
                 "Type": "Fresh Coconut",
                 "Cultivation Type": "Common",
                 "Color": "Dark Brown",
@@ -223,7 +347,7 @@ export const catagories = [
                 "id": "1",
                 "name": "Dehydrated White Onion Flakes",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated1,
                 "Botanical Name": "Allium Cepa",
                 "Color": "Natural White",
                 "Taste / Flavour": "Fresh, Aromatic & Spicy, From Mild To Pungent, Characteristic Of Onion",
@@ -239,7 +363,7 @@ export const catagories = [
                 "id": "2",
                 "name": "Dehydrated White Onion Powder",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated2,
                 "Botanical Name": "Allium Cepa",
                 "Color": "Natural White",
                 "Taste / Flavour": "Fresh, Aromatic & Spicy, From Mild To Pungent, Characteristic Of Onion",
@@ -255,7 +379,7 @@ export const catagories = [
                 "id": "3",
                 "name": "Dehydrated Red Onion Flakes",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated3,
                 "Botanical Name": "Allium Cepa",
                 "Color": "Red and Opposite Side White",
                 "Moisture Content": "Less Than 6.0% Maximum",
@@ -272,7 +396,7 @@ export const catagories = [
                 "id": "4",
                 "name": "Dehydrated Red Onion Powder",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated4,
                 "Botanical Name": "Allium Cepa",
                 "Color": "Natural White",
                 "Taste / Flavour": "Fresh, Aromatic & Spicy, From Mild To Pungent, Characteristic Of Onion",
@@ -290,7 +414,7 @@ export const catagories = [
                 "id": "5",
                 "name": "Dehydrated Pink Onion Flakes",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated5,
                 "Botanical Name": "Allium Cepa",
                 "Color": "Pink and Opposite Side White",
                 "Moisture Content": "Less Than 6.0% Maximum",
@@ -307,7 +431,7 @@ export const catagories = [
                 "id": "6",
                 "name": "Dehydrated Pink Onion Powder",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated6,
                 "Botanical Name": "Allium Cepa",
                 "Color": "Pink",
                 "Taste / Flavour": "Fresh, Aromatic & Spicy, From Mild To Pungent, Characteristic Of Onion",
@@ -325,7 +449,7 @@ export const catagories = [
                 "id": "7",
                 "name": "Dehydrated Garlic Flakes/Cloves",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated7,
                 "Botanical Name": "Allium Sativum",
                 "Chopped": "2.2-3.5mm",
                 "Minced": "1-2mm",
@@ -344,7 +468,7 @@ export const catagories = [
                 "id": "8",
                 "name": "Dehydrated Garlic Powder",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated8,
                 "Botanical Name": "Allium Sativum",
                 "Color": "Natural White",
                 "Taste / Flavour": "Fresh, Aromatic & Spicy, From Mild To Pungent, Characteristic Of Garlic",
@@ -362,7 +486,7 @@ export const catagories = [
                 "id": "9",
                 "name": "Ginger Powder",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated9,
                 "Botanical Name": "Zingiber Officinale",
                 "Color": "Light Yellow",
                 "Taste / Flavour": "Fresh, Aromatic, Spicy, Characteristic Of Ginger",
@@ -381,7 +505,7 @@ export const catagories = [
                 "id": "10",
                 "name": "Ginger Flakes",
                 "Category": "Dehydrated Products",
-                "images": "",
+                "images": dehydrated10,
                 "Shape": "Flakes",
                 "Use": "Cooking",
                 "Style": "Dried",
@@ -411,7 +535,7 @@ export const catagories = [
                 "id": "1",
                 "name": "Wheat",
                 "Category": "Grains",
-                "images": "",
+                "images": grains1,
                 "Origin": "Punjab-India",
                 "Size": "Varies",
                 "Shape": "Oval",
@@ -430,7 +554,7 @@ export const catagories = [
                 "id": "2",
                 "name": "Maize/Corn",
                 "Category": "Grains",
-                "images": "",
+                "images": grains2,
                 "Origin": "Rajasthan-India",
                 "Size": "Varies",
                 "Shape": "Small Round",
@@ -449,7 +573,7 @@ export const catagories = [
                 "id": "3",
                 "name": "Flax Seeds",
                 "Category": "Grains",
-                "images": "",
+                "images": grains3,
                 "Origin": "Madhya Pradesh-India",
                 "Size": "Small",
                 "Shape": "Oval",
@@ -468,7 +592,7 @@ export const catagories = [
                 "id": "4",
                 "name": "Sooji (Semolina)",
                 "Category": "Grains",
-                "images": "",
+                "images": grains4,
                 "Origin": "Uttar Pradesh-India",
                 "Size": "Fine",
                 "Shape": "Granular",
@@ -481,6 +605,42 @@ export const catagories = [
                 "Packaging": "1 kg to 50 kg PP Bag",
                 "Loading": "20 to 24 tons",
                 "description": "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFNvb2ppIChTZW1vbGluYSkgU3VwcGxpZXIKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgU29vamkgKFNlbW9saW5hKSBnbG9iYWxseS4gV2UgdGFrZSBwcmlkZSBpbiBvZmZlcmluZyBTb29qaSB0aGF0IGlzIHJlbm93bmVkIGZvciBpdHMgcHVyaXR5LCBmcmVzaG5lc3MsIGFuZCB2ZXJzYXRpbGl0eSBpbiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuCgojIyMgQWJvdXQgU29vamkgKFNlbW9saW5hKQoKU29vamksIGFsc28ga25vd24gYXMgc2Vtb2xpbmEgb3IgcmF2YSwgaXMgYSBjb2Fyc2UgZmxvdXIgbWFkZSBmcm9tIGR1cnVtIHdoZWF0LiBJdCBpcyB3aWRlbHkgdXNlZCBpbiBjb29raW5nIGFjcm9zcyB2YXJpb3VzIGN1bHR1cmVzLCBwcml6ZWQgZm9yIGl0cyB0ZXh0dXJlIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4gU29vamkgaXMgY29tbW9ubHkgdXNlZCBpbiBwcmVwYXJpbmcgYSB2YXJpZXR5IG9mIGRpc2hlcywgcmFuZ2luZyBmcm9tIHNhdm9yeSB0byBzd2VldC4KCiMjIyBQcmVtaXVtIFF1YWxpdHkgU29vamkKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByb3ZpZGUgU29vamkgbWFkZSBmcm9tIHRoZSBmaW5lc3QgcXVhbGl0eSBkdXJ1bSB3aGVhdCBncmFpbnMuIE91ciBTb29qaSBpcyBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzIHRvIGVuc3VyZSBzdXBlcmlvciB0ZXh0dXJlLCBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCB2YWx1ZS4gSXQgaXMgY2hhcmFjdGVyaXplZCBieSBpdHMgZ3JhbnVsYXIgdGV4dHVyZSBhbmQgcGFsZSB5ZWxsb3cgY29sb3IuCgojIyMgQ3VsaW5hcnkgVXNlcyBvZiBTb29qaQoKMS4gKipJbmRpYW4gQ3Vpc2luZSoqOiBTb29qaSBpcyBhIHN0YXBsZSBpbmdyZWRpZW50IGluIEluZGlhbiBjdWlzaW5lLCB1c2VkIHRvIHByZXBhcmUgZGlzaGVzIHN1Y2ggYXMgdXBtYSwgaGFsd2EsIGlkbGksIGRvc2EsIGFuZCB2YXJpb3VzIHN3ZWV0cyBsaWtlIGxhZG9vIGFuZCBrZXNhcmkuCgoyLiAqKkJha2luZyoqOiBTb29qaSBpcyB1c2VkIGluIGJha2luZyB0byBjcmVhdGUgY3Jpc3AgY3J1c3RzIGZvciBicmVhZCwgcGl6emEsIGFuZCBiaXNjdWl0cy4gSXQgaXMgYWxzbyBhZGRlZCB0byBkb3VnaHMgdG8gZW5oYW5jZSB0ZXh0dXJlIGFuZCBzdHJ1Y3R1cmUuCgozLiAqKlNvdXBzIGFuZCBQb3JyaWRnZXMqKjogU29vamkgY2FuIGJlIHVzZWQgdG8gdGhpY2tlbiBzb3VwcyBhbmQgc3Rld3MsIGFkZGluZyBhIGhlYXJ0eSB0ZXh0dXJlLiBJdCBpcyBhbHNvIHVzZWQgdG8gbWFrZSBjcmVhbXkgcG9ycmlkZ2VzIGFuZCBwdWRkaW5ncy4KCjQuICoqRnJpZWQgYW5kIFJvYXN0ZWQgU25hY2tzKio6IFNvb2ppIGlzIHVzZWQgdG8gbWFrZSBzbmFja3MgbGlrZSBwYWtvcmFzLCBiaGFqaXMsIGFuZCBjcmlzcHkgZnJpZWQgaXRlbXMgYnkgY29hdGluZyB2ZWdldGFibGVzIG9yIG1lYXRzLgoKIyMjIEhlYWx0aCBCZW5lZml0cyBvZiBTb29qaQoKMS4gKipOdXRyaWVudC1SaWNoKio6IFNvb2ppIGlzIGEgZ29vZCBzb3VyY2Ugb2YgY2FyYm9oeWRyYXRlcywgcHJvdmlkaW5nIGVuZXJneSBmb3IgdGhlIGJvZHkuIEl0IGFsc28gY29udGFpbnMgcHJvdGVpbiwgZmliZXIsIGFuZCBlc3NlbnRpYWwgdml0YW1pbnMgYW5kIG1pbmVyYWxzLgoKMi4gKipEaWdlc3RpdmUgSGVhbHRoKio6IFNvb2ppIGFpZHMgaW4gZGlnZXN0aW9uIGR1ZSB0byBpdHMgZmliZXIgY29udGVudCwgcHJvbW90aW5nIGRpZ2VzdGl2ZSByZWd1bGFyaXR5IGFuZCBndXQgaGVhbHRoLgoKMy4gKipHbHV0ZW4tRnJlZSBPcHRpb24qKjogV2hlbiBtYWRlIGZyb20gZ2x1dGVuLWZyZWUgZ3JhaW5zLCBTb29qaSBjYW4gYmUgc3VpdGFibGUgZm9yIGluZGl2aWR1YWxzIHdpdGggZ2x1dGVuIGludG9sZXJhbmNlLgoKNC4gKipWZXJzYXRpbGUgQ29va2luZyBJbmdyZWRpZW50Kio6IEl0cyBuZXV0cmFsIGZsYXZvciBhbmQgYWJpbGl0eSB0byBhYnNvcmIgZmxhdm9ycyBtYWtlIFNvb2ppIGEgdmVyc2F0aWxlIGluZ3JlZGllbnQgaW4gYm90aCBzd2VldCBhbmQgc2F2b3J5IGRpc2hlcy4KCiMjIyBTb3VyY2luZyBhbmQgUXVhbGl0eSBBc3N1cmFuY2UKClZhcm5pIEV4cG9ydHMgZW5zdXJlcyB0aGF0IG91ciBTb29qaSBpcyBzb3VyY2VkIGZyb20gdHJ1c3RlZCBzdXBwbGllcnMgd2hvIGFkaGVyZSB0byBzdHJpY3QgcXVhbGl0eSBjb250cm9sIG1lYXN1cmVzLiBPdXIgcHJvY2Vzc2luZyBmYWNpbGl0aWVzIGFyZSBlcXVpcHBlZCB3aXRoIG1vZGVybiB0ZWNobm9sb2d5IHRvIGNsZWFuLCBncmluZCwgYW5kIHBhY2sgU29vamkgaHlnaWVuaWNhbGx5LCBwcmVzZXJ2aW5nIGl0cyBmcmVzaG5lc3MgYW5kIG51dHJpdGlvbmFsIGNvbnRlbnQuCgojIyMgRXhwb3J0aW5nIEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBTb29qaSBmcm9tIEluZGlhLCBWYXJuaSBFeHBvcnRzIGNhdGVycyB0byBnbG9iYWwgbWFya2V0cyB3aXRoIGEgY29tbWl0bWVudCB0byBkZWxpdmVyaW5nIHByZW1pdW0gcXVhbGl0eSBwcm9kdWN0cy4gV2UgbWFpbnRhaW4gdHJhbnNwYXJlbnQgY29tbXVuaWNhdGlvbiwgYWRoZXJlIHRvIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBhbmQgcHJpb3JpdGl6ZSBjdXN0b21lciBzYXRpc2ZhY3Rpb24uCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBTb29qaSBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3Qgb3VyIGtub3dsZWRnZWFibGUgdGVhbSBhdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMgYW5kIGV4Y2VsbGVudCBjdXN0b21lciBzZXJ2aWNlLiBFeHBlcmllbmNlIHRoZSBleGNlbGxlbmNlIG9mIFZhcm5pIEV4cG9ydHMgdG9kYXkh"
+            },
+            {
+                "id": "5",
+                "name": "Rice",
+                "Category": "Grains",
+                "images": grains5,
+                "Varieties": "Basmati, Non-Basmati, Long Grain, Short Grain",
+                "Shelf Life": "12 months when kept in a cool and dry place",
+                "Color": "White, Brown",
+                "Texture": "Firm and fluffy",
+                "Moisture": "14% max",
+                "Broken Grains": "5% max",
+                "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                "Storage Condition": "Cool And Dry",
+                "Loading": "20 to 30 Tons",
+                "Certification": "FSSAI Certified",
+                "description": "UmljZSBpcyBhIGZ1bmRhbWVudGFsIHN0YXBsZSBpbiBjdWlzaW5lcyB3b3JsZHdpZGUsIGtub3duIGZvciBpdHMgdmVyc2F0aWxpdHksIG51dHJpdGlvbmFsIHZhbHVlLCBhbmQgYWJpbGl0eSB0byBjb21wbGVtZW50IGEgd2lkZSByYW5nZSBvZiBkaXNoZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIG9mZmVyIGEgc2VsZWN0aW9uIG9mIHByZW1pdW0gcXVhbGl0eSByaWNlIHZhcmlldGllcyB0aGF0IGNhdGVyIHRvIGRpdmVyc2UgY3VsaW5hcnkgbmVlZHMsIGVuc3VyaW5nIHN1cGVyaW9yIHRhc3RlIGFuZCB0ZXh0dXJlLgoKKipWYXJpZXRpZXMgb2YgUmljZSoqCgoxLiAqKkJhc21hdGkgUmljZToqKiAKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBMb25nLCBzbGVuZGVyIGdyYWlucyB3aXRoIGEgZGlzdGluY3QgYXJvbWEgYW5kIGZsdWZmeSB0ZXh0dXJlIHdoZW4gY29va2VkLgogICAtICoqVXNlczoqKiBJZGVhbCBmb3IgYmlyeWFuaXMsIHBpbGFmcywgYW5kIGFzIGEgc2lkZSBkaXNoIGZvciBjdXJyaWVzIGFuZCBncmlsbGVkIG1lYXRzLgoKMi4gKipKYXNtaW5lIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBGcmFncmFudCwgbG9uZy1ncmFpbiByaWNlIHdpdGggYSBzb2Z0LCBzdGlja3kgdGV4dHVyZS4KICAgLSAqKlVzZXM6KiogUGVyZmVjdCBmb3IgVGhhaSBhbmQgb3RoZXIgU291dGhlYXN0IEFzaWFuIGRpc2hlcywgaW5jbHVkaW5nIHN0aXItZnJpZXMgYW5kIGN1cnJpZXMuCgozLiAqKlNob3J0LUdyYWluIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBTaG9ydCwgcGx1bXAgZ3JhaW5zIHRoYXQgYmVjb21lIHRlbmRlciBhbmQgc3RpY2t5IHdoZW4gY29va2VkLgogICAtICoqVXNlczoqKiBDb21tb25seSB1c2VkIGluIHN1c2hpLCByaXNvdHRvcywgYW5kIHJpY2UgcHVkZGluZ3MuCgo0LiAqKkJyb3duIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBXaG9sZSBncmFpbiByaWNlIHdpdGggdGhlIGJyYW4gYW5kIGdlcm0gaW50YWN0LCBvZmZlcmluZyBhIGNoZXd5IHRleHR1cmUgYW5kIG51dHR5IGZsYXZvci4KICAgLSAqKlVzZXM6KiogU3VpdGFibGUgZm9yIGhlYWx0aC1jb25zY2lvdXMgZGlzaGVzLCBzYWxhZHMsIGFuZCBhcyBhIG51dHJpdGlvdXMgYWx0ZXJuYXRpdmUgdG8gd2hpdGUgcmljZS4KCjUuICoqUGFyYm9pbGVkIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBQYXJ0aWFsbHkgYm9pbGVkIGluIHRoZSBodXNrLCByZXRhaW5pbmcgbW9yZSBudXRyaWVudHMgd2l0aCBhIGZpcm1lciB0ZXh0dXJlLgogICAtICoqVXNlczoqKiBFeGNlbGxlbnQgZm9yIGRpc2hlcyB0aGF0IHJlcXVpcmUgZGlzdGluY3QsIHNlcGFyYXRlIGdyYWlucywgc3VjaCBhcyBwaWxhZnMgYW5kIGZyaWVkIHJpY2UuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgotICoqTnV0cmllbnQtUmljaDoqKiBSaWNlIGlzIGEgZ29vZCBzb3VyY2Ugb2YgY2FyYm9oeWRyYXRlcywgcHJvdmlkaW5nIGVuZXJneSBhbmQgZXNzZW50aWFsIG51dHJpZW50cyBsaWtlIEIgdml0YW1pbnMsIGlyb24sIGFuZCBtYWduZXNpdW0uCi0gKipHbHV0ZW4tRnJlZToqKiBOYXR1cmFsbHkgZ2x1dGVuLWZyZWUsIG1ha2luZyBpdCBzdWl0YWJsZSBmb3IgaW5kaXZpZHVhbHMgd2l0aCBnbHV0ZW4gaW50b2xlcmFuY2Ugb3IgY2VsaWFjIGRpc2Vhc2UuCi0gKipWZXJzYXRpbGUgRGlldGFyeSBPcHRpb246KiogQ2FuIGJlIGluY2x1ZGVkIGluIHZhcmlvdXMgZGlldGFyeSBwbGFucywgZnJvbSB2ZWdhbiBhbmQgdmVnZXRhcmlhbiB0byBsb3ctZmF0IGFuZCBoZWFydC1oZWFsdGh5IGRpZXRzLgoKKipDdWxpbmFyeSBVc2VzKioKCi0gKipWZXJzYXRpbGUgSW5ncmVkaWVudDoqKiBSaWNlIGNhbiBiZSB1c2VkIGluIGFuIGFycmF5IG9mIGRpc2hlcywgZnJvbSBtYWluIGNvdXJzZXMgYW5kIHNpZGUgZGlzaGVzIHRvIGRlc3NlcnRzIGFuZCBzbmFja3MuCi0gKipDb21wbGVtZW50YXJ5IEJhc2U6KiogU2VydmVzIGFzIGEgcGVyZmVjdCBiYXNlIGZvciBzdGV3cywgY3Vycmllcywgc3Rpci1mcmllcywgYW5kIGdyaWxsZWQgZGlzaGVzLCBhYnNvcmJpbmcgZmxhdm9ycyBhbmQgYWRkaW5nIHRleHR1cmUuCi0gKipDdWx0dXJhbCBTdGFwbGU6KiogSW50ZWdyYWwgdG8gbnVtZXJvdXMgdHJhZGl0aW9uYWwgY3Vpc2luZXMsIGluY2x1ZGluZyBJbmRpYW4sIENoaW5lc2UsIEphcGFuZXNlLCBUaGFpLCBJdGFsaWFuLCBhbmQgTWlkZGxlIEVhc3Rlcm4uCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhbmQgZW5zdXJlIHRoYXQgb3VyIHJpY2UgbWVldHMgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzOgotICoqU291cmNlZCBmcm9tIFRydXN0ZWQgU3VwcGxpZXJzOioqIFdlIHByb2N1cmUgcmljZSBmcm9tIHJlcHV0YWJsZSBmYXJtZXJzIGFuZCBzdXBwbGllcnMga25vd24gZm9yIHRoZWlyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBhbmQgc3VzdGFpbmFibGUgcHJhY3RpY2VzLgotICoqUmlnb3JvdXMgUXVhbGl0eSBDb250cm9sOioqIE91ciByaWNlIHVuZGVyZ29lcyBzdHJpbmdlbnQgcXVhbGl0eSBjaGVja3MgdG8gZW5zdXJlIHB1cml0eSwgY29uc2lzdGVuY3ksIGFuZCBzdXBlcmlvciB0YXN0ZS4KLSAqKkh5Z2llbmljIFByb2Nlc3Npbmc6KiogUHJvY2Vzc2VkIGFuZCBwYWNrYWdlZCB1bmRlciBoeWdpZW5pYyBjb25kaXRpb25zIHRvIHByZXNlcnZlIGZyZXNobmVzcyBhbmQgbnV0cml0aW9uYWwgdmFsdWUuCgoqKkV4cGVyaWVuY2UgUHJlbWl1bSBSaWNlIHdpdGggVmFybmkgRXhwb3J0cyoqCgpEaXNjb3ZlciB0aGUgd29ybGQgb2YgcHJlbWl1bSByaWNlIHdpdGggVmFybmkgRXhwb3J0cy4gV2hldGhlciB5b3UgYXJlIGEgY3VsaW5hcnkgcHJvZmVzc2lvbmFsIG9yIGEgaG9tZSBjb29rLCBvdXIgZGl2ZXJzZSByYW5nZSBvZiByaWNlIHZhcmlldGllcyBwcm9taXNlcyB0byBlbGV2YXRlIHlvdXIgY29va2luZyBleHBlcmllbmNlLiBDb250YWN0IHVzIHRvZGF5IHRvIGV4cGxvcmUgb3VyIHNlbGVjdGlvbiBhbmQgcGxhY2UgeW91ciBvcmRlci4gRW5qb3kgdGhlIGF1dGhlbnRpYyBmbGF2b3JzIGFuZCBleGNlcHRpb25hbCBxdWFsaXR5IG9mIHJpY2UgZnJvbSBWYXJuaSBFeHBvcnRzLCB5b3VyIHRydXN0ZWQgcGFydG5lciBpbiBwcmVtaXVtIGdyYWlucyBhbmQgc3RhcGxlcy4="
+            },
+            {
+                "id": "6",
+                "name": "Green Millet",
+                "Category": "Grains",
+                "images": grains6,
+                "Color": "Green",
+                "Size": "Varies",
+                "Shape": "Small Round",
+                "Moisture": "12% max",
+                "Purity": "98% min",
+                "Foreign Matter": "2% max",
+                "Shelf Life": "12 months when kept in a cool and dry place",
+                "Application": "Food Products, Animal Feed",
+                "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                "Storage Condition": "Cool And Dry",
+                "Loading": "20 to 30 Tons",
+                "Certification": "FSSAI Certified",
+                "description": "KipHcmVlbiBNaWxsZXQ6IEEgTnV0cml0aW91cyBHcmFpbiBmb3IgYSBIZWFsdGhpZXIgTGlmZXN0eWxlKioKCioqSW50cm9kdWN0aW9uKioKCkdyZWVuIG1pbGxldCwgYWxzbyBrbm93biBhcyBwZWFybCBtaWxsZXQsIGlzIGEgaGlnaGx5IG51dHJpdGlvdXMgYW5kIHZlcnNhdGlsZSBncmFpbiB0aGF0IGhhcyBiZWVuIGEgc3RhcGxlIGluIG1hbnkgdHJhZGl0aW9uYWwgZGlldHMgYWNyb3NzIEFmcmljYSBhbmQgQXNpYS4gQXQgVmFybmkgRXhwb3J0cywgd2Ugb2ZmZXIgcHJlbWl1bSBxdWFsaXR5IGdyZWVuIG1pbGxldCB0aGF0IGlzIHBlcmZlY3QgZm9yIGEgdmFyaWV0eSBvZiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMsIHByb3ZpZGluZyBlc3NlbnRpYWwgbnV0cmllbnRzIGFuZCBoZWFsdGggYmVuZWZpdHMuCgoqKk51dHJpdGlvbmFsIFByb2ZpbGUqKgoKR3JlZW4gbWlsbGV0IGlzIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHM6Ci0gKipSaWNoIGluIFByb3RlaW46KiogQ29udGFpbnMgYSBzaWduaWZpY2FudCBhbW91bnQgb2YgcHJvdGVpbiwgbWFraW5nIGl0IGFuIGV4Y2VsbGVudCBkaWV0YXJ5IGNob2ljZSBmb3IgdmVnZXRhcmlhbnMgYW5kIHZlZ2Fucy4KLSAqKkhpZ2ggaW4gRmliZXI6KiogQSBncmVhdCBzb3VyY2Ugb2YgZGlldGFyeSBmaWJlciwgd2hpY2ggYWlkcyBpbiBkaWdlc3Rpb24gYW5kIGhlbHBzIG1haW50YWluIGhlYWx0aHkgYm93ZWwgbW92ZW1lbnRzLgotICoqRXNzZW50aWFsIE1pbmVyYWxzOioqIExvYWRlZCB3aXRoIGlyb24sIG1hZ25lc2l1bSwgcGhvc3Bob3J1cywgYW5kIHBvdGFzc2l1bSwgY29udHJpYnV0aW5nIHRvIG92ZXJhbGwgaGVhbHRoIGFuZCB3ZWxsLWJlaW5nLgotICoqVml0YW1pbnM6KiogQ29udGFpbnMgQiB2aXRhbWlucywgaW5jbHVkaW5nIG5pYWNpbiwgdGhpYW1pbmUsIGFuZCByaWJvZmxhdmluLCB3aGljaCBhcmUgY3J1Y2lhbCBmb3IgZW5lcmd5IG1ldGFib2xpc20gYW5kIG1haW50YWluaW5nIGEgaGVhbHRoeSBuZXJ2b3VzIHN5c3RlbS4KLSAqKkdsdXRlbi1GcmVlOioqIE5hdHVyYWxseSBnbHV0ZW4tZnJlZSwgbWFraW5nIGl0IHN1aXRhYmxlIGZvciB0aG9zZSB3aXRoIGdsdXRlbiBpbnRvbGVyYW5jZSBvciBjZWxpYWMgZGlzZWFzZS4KCioqSGVhbHRoIEJlbmVmaXRzKioKCkluY29ycG9yYXRpbmcgZ3JlZW4gbWlsbGV0IGludG8geW91ciBkaWV0IGNhbiBvZmZlciBudW1lcm91cyBoZWFsdGggYmVuZWZpdHM6Ci0gKipTdXBwb3J0cyBIZWFydCBIZWFsdGg6KiogUmljaCBpbiBtYWduZXNpdW0gYW5kIHBvdGFzc2l1bSwgZ3JlZW4gbWlsbGV0IGhlbHBzIG1haW50YWluIGhlYWx0aHkgYmxvb2QgcHJlc3N1cmUgbGV2ZWxzIGFuZCBzdXBwb3J0cyBjYXJkaW92YXNjdWxhciBoZWFsdGguCi0gKipBaWRzIGluIFdlaWdodCBNYW5hZ2VtZW50OioqIEhpZ2ggZmliZXIgY29udGVudCBwcm9tb3RlcyBhIGZlZWxpbmcgb2YgZnVsbG5lc3MsIHJlZHVjaW5nIG92ZXJhbGwgY2Fsb3JpZSBpbnRha2UgYW5kIGFpZGluZyBpbiB3ZWlnaHQgbWFuYWdlbWVudC4KLSAqKlJlZ3VsYXRlcyBCbG9vZCBTdWdhciBMZXZlbHM6KiogTG93IGdseWNlbWljIGluZGV4IG1ha2VzIGl0IGFuIGV4Y2VsbGVudCBjaG9pY2UgZm9yIGRpYWJldGljcyBhbmQgdGhvc2UgbG9va2luZyB0byBtYWludGFpbiBzdGFibGUgYmxvb2Qgc3VnYXIgbGV2ZWxzLgotICoqQm9vc3RzIEltbXVuZSBTeXN0ZW06KiogQ29udGFpbnMgYW50aW94aWRhbnRzIGFuZCBlc3NlbnRpYWwgbnV0cmllbnRzIHRoYXQgc3RyZW5ndGhlbiB0aGUgaW1tdW5lIHN5c3RlbSBhbmQgcHJvdGVjdCBhZ2FpbnN0IGluZmVjdGlvbnMuCgoqKkN1bGluYXJ5IFVzZXMqKgoKR3JlZW4gbWlsbGV0IGlzIGluY3JlZGlibHkgdmVyc2F0aWxlIGFuZCBjYW4gYmUgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKlRyYWRpdGlvbmFsIERpc2hlczoqKiBDb21tb25seSB1c2VkIGluIHBvcnJpZGdlcywgZmxhdGJyZWFkcywgYW5kIGZlcm1lbnRlZCBmb29kcyBpbiBtYW55IGN1bHR1cmVzLgotICoqU2FsYWRzOioqIEFkZHMgYSBudXRyaXRpb3VzIGFuZCBjcnVuY2h5IGVsZW1lbnQgdG8gc2FsYWRzIHdoZW4gY29va2VkIGFuZCBjb29sZWQuCi0gKipCYWtpbmc6KiogQ2FuIGJlIGdyb3VuZCBpbnRvIGZsb3VyIGFuZCB1c2VkIGluIGJha2luZyBicmVhZCwgbXVmZmlucywgYW5kIG90aGVyIGdsdXRlbi1mcmVlIGJha2VkIGdvb2RzLgotICoqU2lkZSBEaXNoZXM6KiogQ29va2VkIGdyZWVuIG1pbGxldCBjYW4gYmUgc2VydmVkIGFzIGEgc2lkZSBkaXNoLCBzaW1pbGFyIHRvIHJpY2Ugb3IgcXVpbm9hLCBjb21wbGVtZW50aW5nIGEgdmFyaWV0eSBvZiBtYWluIGNvdXJzZXMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGVuc3VyZSB0aGF0IG91ciBncmVlbiBtaWxsZXQgbWVldHMgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIG9mIHF1YWxpdHkgYW5kIHNhZmV0eToKLSAqKlByZW1pdW0gU291cmNpbmc6KiogU291cmNlZCBmcm9tIHRydXN0ZWQgZmFybWVycyB3aG8gcHJhY3RpY2Ugc3VzdGFpbmFibGUgYWdyaWN1bHR1cmUuCi0gKipSaWdvcm91cyBRdWFsaXR5IENvbnRyb2w6KiogVW5kZXJnb2VzIHN0cmluZ2VudCBxdWFsaXR5IGNoZWNrcyB0byBlbnN1cmUgcHVyaXR5LCBjb25zaXN0ZW5jeSwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgotICoqSHlnaWVuaWMgUHJvY2Vzc2luZzoqKiBQcm9jZXNzZWQgYW5kIHBhY2thZ2VkIHVuZGVyIGh5Z2llbmljIGNvbmRpdGlvbnMgdG8gbWFpbnRhaW4gZnJlc2huZXNzIGFuZCBwcmV2ZW50IGNvbnRhbWluYXRpb24uCgoqKkV4cGVyaWVuY2UgR3JlZW4gTWlsbGV0IHdpdGggVmFybmkgRXhwb3J0cyoqCgpEaXNjb3ZlciB0aGUgYmVuZWZpdHMgYW5kIHZlcnNhdGlsaXR5IG9mIGdyZWVuIG1pbGxldCB3aXRoIFZhcm5pIEV4cG9ydHMuIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIHRvIGVuaGFuY2UgeW91ciBkaWV0IHdpdGggbnV0cml0aW91cyBncmFpbnMgb3Igc2Vla2luZyBhIGdsdXRlbi1mcmVlIGFsdGVybmF0aXZlIGZvciB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucywgb3VyIGdyZWVuIG1pbGxldCBpcyB0aGUgcGVyZmVjdCBjaG9pY2UuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcHJvZHVjdHMgYW5kIHBsYWNlIHlvdXIgb3JkZXIuIEVuam95IHRoZSB3aG9sZXNvbWUgZ29vZG5lc3MgYW5kIGV4Y2VwdGlvbmFsIHF1YWxpdHkgb2YgZ3JlZW4gbWlsbGV0IGZyb20gVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gcHJlbWl1bSBncmFpbnMgYW5kIHN0YXBsZXMu"
             }
 
         ]
@@ -496,7 +656,7 @@ export const catagories = [
                 "id": "1",
                 "name": "Red Onion",
                 "Category": "Onion",
-                "images": "",
+                "images": onion1,
                 "Origin": "Gujarat-India",
                 "Size": "Large, Medium, small",
                 "Shape": "Oval-Round",
@@ -515,7 +675,7 @@ export const catagories = [
                 "id": "2",
                 "name": "Yellow Onion",
                 "Category": "Onion",
-                "images": "",
+                "images": onion2,
                 "Origin": "Gujarat-India",
                 "Size": "Large, Medium, small",
                 "Shape": "Oval-Round",
@@ -534,7 +694,7 @@ export const catagories = [
                 "id": "3",
                 "name": "White Onions",
                 "Category": "Onion",
-                "images": "",
+                "images": onion3,
                 "Origin": "Gujarat-India",
                 "Size": "Large, Medium, small",
                 "Shape": "Oval-Round",
@@ -553,7 +713,7 @@ export const catagories = [
                 "id": "4",
                 "name": "Pink Onion",
                 "Category": "Onion",
-                "images": "",
+                "images": onion4,
                 "Origin": "Gujarat-India",
                 "Size": "Large, Medium, small",
                 "Shape": "Oval-Round",
@@ -580,7 +740,7 @@ export const catagories = [
                 "id": "1",
                 "name": "Golden Raisins",
                 "Category": "Raisins",
-                "images": "",
+                "images": raisins1,
                 "Color": "Golden",
                 "Appearance": "Round / Long / Oval shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -601,7 +761,7 @@ export const catagories = [
                 "id": "2",
                 "name": "Golden Long Raisins",
                 "Category": "Raisins",
-                "images": "",
+                "images": raisins2,
                 "Color": "Golden",
                 "Appearance": "Long shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -622,7 +782,7 @@ export const catagories = [
                 "id": "3",
                 "name": "Golden Round Raisins",
                 "Category": "Raisins",
-                "images": "",
+                "images": raisins3,
                 "Color": "Golden",
                 "Appearance": "Round shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -643,7 +803,7 @@ export const catagories = [
                 "id": "4",
                 "name": "Green Raisins",
                 "Category": "Raisins",
-                "images": "",
+                "images": raisins4,
                 "Color": "Green",
                 "Appearance": "Round / Long / Oval shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -664,7 +824,7 @@ export const catagories = [
                 "id": "5",
                 "name": "Sultanas Raisins",
                 "Category": "Dried Fruits",
-                "images": "",
+                "images": raisins5,
                 "Color": "Golden Yellow",
                 "Appearance": "Round / Long / Oval shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -685,7 +845,7 @@ export const catagories = [
                 "id": "6",
                 "name": "Black Raisins",
                 "Category": "Raisins",
-                "images": "",
+                "images": raisins6,
                 "Color": "Black",
                 "Appearance": "Round / Long / Oval shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -707,7 +867,7 @@ export const catagories = [
                 "id": "7",
                 "name": "Brown Raisins",
                 "Category": "Raisins",
-                "images": "",
+                "images": raisins7,
                 "Color": "Brown",
                 "Appearance": "Round / Long / Oval shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -729,7 +889,7 @@ export const catagories = [
                 "id": "8",
                 "name": "Yellow Raisins",
                 "Category": "Raisins",
-                "images": "",
+                "images": raisins8,
                 "Color": "Yellow",
                 "Appearance": "Round / Long / Oval shape",
                 "Color Uniformity": "90% Uniform, 10% Opp. color",
@@ -752,7 +912,7 @@ export const catagories = [
     {
         name: 'sesame seeds',
         path: '/products/sesame seeds',
-        catagoriesId: "sesame-seeds",
+        catagoriesId: "sesame seeds",
         image: sesameseedImage,
         description: 'Add a nutty flavor and a nutritional boost to your meals with our top-quality sesame seeds. These tiny seeds are rich in essential nutrients and are perfect for sprinkling over salads, baked goods, or adding to your favorite recipes. Experience the superior taste and health benefits of our sesame seeds.',
         products_detail: [
@@ -760,7 +920,7 @@ export const catagories = [
                 "id": "1",
                 "name": "Brown Sesame Seeds",
                 "Category": "Sesame Seeds",
-                "images": "",
+                "images": sesameseed1,
                 "Colour": "Brown",
                 "Application": "Food Products, Oil Extraction",
                 "Foreign Matter": "0.5% Maximum",
@@ -779,8 +939,8 @@ export const catagories = [
             {
                 "id": "2",
                 "name": "Hulled Sesame Seeds",
-                "Category": "Seeds",
-                "images": "",
+                "Category": "Sesame Seeds",
+                "images": sesameseed2,
                 "Colour": "White",
                 "Application": "Food Products, Oil Extraction",
                 "Foreign Matter": "0.5% Maximum",
@@ -799,8 +959,8 @@ export const catagories = [
             {
                 "id": "3",
                 "name": "Black Sesame Seeds",
-                "Category": "Seeds",
-                "images": "",
+                "Category": "Sesame Seeds",
+                "images": sesameseed3,
                 "Colour": "Black",
                 "Foreign Matter": "0.5% Maximum",
                 "Admixture": "1% Max (0.05%)",
@@ -818,8 +978,8 @@ export const catagories = [
             {
                 "id": "4",
                 "name": "Roasted Sesame Seeds",
-                "Category": "Seeds",
-                "images": "",
+                "Category": "Sesame Seeds",
+                "images": sesameseed4,
                 "Colour": "Brown",
                 "Style": "Dry, Roasted",
                 "Self-Life": "6-12 Months",
@@ -844,389 +1004,787 @@ export const catagories = [
         name: 'spices',
         path: '/products/spices',
         catagoriesId: "spices",
-        image: spicesImage, description: "Elevate your culinary creations with our exquisite selection of spices. Sourced from the best regions around the world, our spices are known for their vibrant colors, intense aromas, and rich flavors. Whether you're looking to add a hint of heat or a burst of flavor, our premium spices will transform your dishes into gourmet masterpieces.",
+        image: spicesImage,
+        description: "Elevate your culinary creations with our exquisite selection of spices. Sourced from the best regions around the world, our spices are known for their vibrant colors, intense aromas, and rich flavors. Whether you're looking to add a hint of heat or a burst of flavor, our premium spices will transform your dishes into gourmet masterpieces.",
+        products_detail: [
+            {
+                name: "ground spices",
+                path: '/products/spices/ground-spices',
+                subCatagoriesId: "ground-spices",
+                image: groundspicesImage,
+                description: 'Discover our premium ground spices, meticulously processed to deliver rich and authentic flavors to your kitchen. Our selection includes aromatic cumin, vibrant turmeric, fiery chili powder, and more, each ground to perfection for consistent texture and potency. Enhance your dishes with the deep, robust flavors of our ground spices, ideal for seasoning, marinating, and bringing your culinary creations to life.',
+                products_detail: [
+                    {
+                        "id": "1",
+                        "name": "Cumin Seeds",
+                        "Category": "Spices",
+                        "images": spices1,
+                        "Type": "Organic/Conventional",
+                        "Color": "Light Yellowish",
+                        "Bags Labeling": "Private labeling",
+                        "Shelf Life": "24 Months",
+                        "GMO Status": "GMO-Free",
+                        "Packaging": "10 to 50 kg Jute bag, PP bag",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "Storage Condition": "Cool And Dry",
+                        "Application": "Food Products, Seasonings",
+                        "description": "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIFByZW1pdW0gQ3VtaW4gU2VlZHMKCkFyZSB5b3UgbG9va2luZyBmb3IgYSByZWxpYWJsZSBjdW1pbiBzZWVkcyBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB5b3VyIGlkZWFsIHBhcnRuZXIgZm9yIGJ1aWxkaW5nIHN0cm9uZyB0cmFkZSByZWxhdGlvbnNoaXBzIGZvciBmdXR1cmUgZW5kZWF2b3JzLiBXZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgdGhlIGhpZ2hlc3QgcXVhbGl0eSBjdW1pbiBzZWVkcywgcmVub3duZWQgZm9yIHRoZWlyIGRpc3RpbmN0aXZlIGFyb21hIGFuZCByb2J1c3QgZmxhdm9yLgoKIyMjIEFib3V0IEN1bWluIFNlZWRzCgpDdW1pbiBzZWVkcyBhcmUgYSB2aXRhbCBpbmdyZWRpZW50IGluIG51bWVyb3VzIHNwaWNlIGJsZW5kcywgY2h1dG5leXMsIGNoaWxpLCBhbmQgY3VycnkgcG93ZGVycywgcGFydGljdWxhcmx5IHBvcHVsYXIgaW4gQXNpYW4sIE1pZGRsZSBFYXN0ZXJuLCBhbmQgTGF0aW4gQW1lcmljYW4gY3Vpc2luZXMuIEtub3duIGZvciB0aGVpciB3YXJtIGFuZCBlYXJ0aHkgZmxhdm9yLCBjdW1pbiBzZWVkcyBhZGQgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gYSB3aWRlIHJhbmdlIG9mIGRpc2hlcy4gSW4gSW5kaWEsIGN1bWluIHNlZWRzIGFyZSBjb21tb25seSByZWZlcnJlZCB0byBhcyDigJxKZWVyYeKAnSBhbmQgYXJlIG9mdGVuIHVzZWQgaW4gYm90aCB3aG9sZSBhbmQgcG93ZGVyZWQgZm9ybXMgaW4gY29va2luZy4KCiMjIyBWYXJpZXRpZXMgb2YgQ3VtaW4gU2VlZHMKCi0gKipCbGFjayBDdW1pbiBTZWVkcyoqOiBLbm93biBmb3IgdGhlaXIgdW5pcXVlLCBzbGlnaHRseSBiaXR0ZXIgdGFzdGUgYW5kIGludGVuc2UgYXJvbWEuCi0gKipHcmVlbiBDdW1pbiBTZWVkcyoqOiBWYWx1ZWQgZm9yIHRoZWlyIG1pbGRlciBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3IuCgojIyMgUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNvdXJjZSB0aGUgZmluZXN0IHF1YWxpdHkgY3VtaW4gc2VlZHMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gT3VyIGN1bWluIHNlZWRzIGFyZSByaWNoIGluIHByb3RlaW4gYW5kIG1pbmVyYWxzLiBBZnRlciBzb3VyY2luZywgdGhlIGN1bWluIHNlZWRzIHVuZGVyZ28gbWV0aWN1bG91cyBjbGVhbmluZyB0byBhY2hpZXZlIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4gVGhpcyBlbnN1cmVzIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBjdW1pbiBzZWVkcyBhbmQgY3VtaW4gcG93ZGVyLgoKIyMjIEN1bGluYXJ5IFVzZXMKCkN1bWluIHNlZWRzIGFyZSBpbmNyZWRpYmx5IHZlcnNhdGlsZSBhbmQgY2FuIGJlIHVzZWQgaW4gdmFyaW91cyBmb3JtczoKLSAqKldob2xlIFNlZWRzKio6IFVzZWQgaW4gdGVtcGVyaW5nIGFuZCBzcGljZSBibGVuZHMuCi0gKipQb3dkZXJlZCoqOiBBZGRlZCB0byBzb3Vwcywgc3Rld3MsIGN1cnJpZXMsIGFuZCBtYXJpbmFkZXMgdG8gZW5oYW5jZSBmbGF2b3IuCgojIyMgSGVhbHRoIEJlbmVmaXRzIG9mIEN1bWluIFNlZWRzCgpDdW1pbiBzZWVkcyBhcmUgbm90IG9ubHkgZmxhdm9yZnVsIGJ1dCBhbHNvIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKMS4gKipEaWdlc3RpdmUgQWlkKio6IEN1bWluIHNlZWRzIGNvbnRhaW4gY29tcG91bmRzIHRoYXQgaGVscCBwcm9tb3RlIGRpZ2VzdGlvbiwgbWFraW5nIHRoZW0gaWRlYWwgZm9yIGhlYXZ5IG9yIGRhaWx5IG1lYWxzLgoyLiAqKlJpY2ggaW4gSXJvbioqOiBBIHZpdGFsIHNvdXJjZSBvZiBpcm9uLCBlc3NlbnRpYWwgZm9yIHRoZSBkZXZlbG9wbWVudCBvZiB0aGUgYm9keSBhbmQgYnJhaW4sIHBhcnRpY3VsYXJseSBpbiB5b3VuZyBjaGlsZHJlbi4KMy4gKipCbG9vZCBTdWdhciBDb250cm9sKio6IEJlbmVmaWNpYWwgZm9yIGRpYWJldGljIHBhdGllbnRzLCBoZWxwaW5nIHRvIGNvbnRyb2wgYmxvb2Qgc3VnYXIgbGV2ZWxzLgo0LiAqKldlaWdodCBMb3NzKio6IEN1bWluIHNlZWRzIGNhbiBhaWQgaW4gd2VpZ2h0IGxvc3M7IGNvbnN1bWluZyBmaXZlIGdyYW1zIGRhaWx5IGNhbiBzaWduaWZpY2FudGx5IHJlZHVjZSBib2R5IGZhdC4KCiMjIyBNZWRpY2FsIFVzZXMKCkN1bWluIHNlZWRzIGFuZCBwb3dkZXIgYXJlIHdpZGVseSB1c2VkIGluIHRyYWRpdGlvbmFsIG1lZGljaW5lOgotICoqQXMgYSBIZWFsZXIqKjogVXNlZCByYXcgb3IgZHJpZWQgZm9yIHRoZWlyIGhlYWxpbmcgcHJvcGVydGllcy4KLSAqKkluIFdlaWdodCBMb3NzKio6IEtub3duIGZvciB0aGVpciBlZmZpY2FjeSBpbiBwcm9tb3RpbmcgZmF0IGxvc3MgYW5kIG1hbmFnaW5nIG9iZXNpdHkuCgojIyMgTGFuZ3VhZ2UgVmFyaWFudHMKCi0gKipDdW1pbiBTZWVkcyBpbiBNYWxheWFsYW0qKjog4LSc4LWA4LSw4LSV4LSCCi0gKipDdW1pbiBTZWVkcyBpbiBVcmR1Kio6INiy24zYsduSINqp25Ig2KjbjNisCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKClZhcm5pIEV4cG9ydHMgc2hpcHMgZnJlc2ggcXVhbGl0eSBjdW1pbiBzZWVkcyBhbmQgY3VtaW4gcG93ZGVyIGFjY29yZGluZyB0byBidXllciByZXF1aXJlbWVudHMgd29ybGR3aWRlLiBPdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb24gZW5zdXJlcyB0aGF0IHlvdSByZWNlaXZlIHRoZSBiZXN0IHByb2R1Y3RzIGZvciB5b3VyIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgbmVlZHMuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBjdW1pbiBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIGV4Y2VwdGlvbmFsIHF1YWxpdHkgYW5kIGZsYXZvciBvZiBWYXJuaSBFeHBvcnRz4oCZIGN1bWluIHNlZWRzIHRvZGF5IQ=="
+                    },
+
+                    {
+                        "id": "2",
+                        "name": "Coriander Seeds",
+                        "Category": "Spices",
+                        "images": spices2,
+                        "Type": "Machine Cleaned",
+                        "Moisture": "10% Max",
+                        "Mold": "1% Max",
+                        "Ash": "10% Max",
+                        "Purity": "95-97%",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "Storage Condition": "Cool And Dry",
+                        "Application": "Food Products, Seasonings",
+                        "description": "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgVHJ1c3RlZCBTdXBwbGllciBvZiBQcmVtaXVtIENvcmlhbmRlciBTZWVkcwoKQXJlIHlvdSBsb29raW5nIGZvciBhIHJlbGlhYmxlIGNvcmlhbmRlciBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB5b3VyIGlkZWFsIHBhcnRuZXIgZm9yIGJ1aWxkaW5nIHN0cm9uZyB0cmFkZSByZWxhdGlvbnNoaXBzIGZvciBmdXR1cmUgZW5kZWF2b3JzLiBXZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgdGhlIGhpZ2hlc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMsIGtub3duIGZvciB0aGVpciBkaXN0aW5jdGl2ZSBhcm9tYSBhbmQgcmljaCBmbGF2b3IuCgojIyMgQWJvdXQgQ29yaWFuZGVyCgpDb3JpYW5kZXIgKENvcmlhbmRydW0gc2F0aXZ1bSkgaXMgYSB2ZXJzYXRpbGUgaGVyYiBhbmQgc3BpY2UgdXNlZCBleHRlbnNpdmVseSBpbiB2YXJpb3VzIGN1aXNpbmVzIHdvcmxkd2lkZS4gSW4gZm9vZCBwcmVwYXJhdGlvbiwgdGhlIHRlcm0gImNvcmlhbmRlciIgb2Z0ZW4gcmVmZXJzIHRvIHRoZSBkcmllZCBzZWVkcyBvZiB0aGUgcGxhbnQsIHdoaWxlIHRoZSBmcmVzaCBsZWF2ZXMgYXJlIGNvbW1vbmx5IGtub3duIGFzIGNpbGFudHJvLiBDb3JpYW5kZXIgc2VlZHMgYXJlIGNlbGVicmF0ZWQgZm9yIHRoZWlyIGxlbW9ueSBjaXRydXMgZmxhdm9yLCBhdHRyaWJ1dGVkIHRvIHRlcnBlbmVzIHN1Y2ggYXMgbGluYWxvb2wgYW5kIHBpbmVuZS4gVGhleSBhcmUgZGVzY3JpYmVkIGFzIHdhcm0sIG51dHR5LCBzcGljeSwgYW5kIG9yYW5nZS1mbGF2b3JlZC4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBmaW5lc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gT3VyIGNvcmlhbmRlciBpcyByaWNoIGluIHByb3RlaW4gYW5kIG1pbmVyYWxzLiBBZnRlciBzb3VyY2luZywgdGhlIGNvcmlhbmRlciBzZWVkcyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcgdG8gYWNoaWV2ZSBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMgYW5kIHBvd2Rlci4KCiMjIyBDdWxpbmFyeSBVc2VzCgpDb3JpYW5kZXIgc2VlZHMsIGxlYXZlcywgYW5kIHBvd2RlciBhcmUgaW5jcmVkaWJseSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSB1c2VkIGluIHZhcmlvdXMgZm9ybXM6Ci0gKipXaG9sZSBTZWVkcyoqOiBVc2VkIGluIHBpY2tsaW5nLCBicmluaW5nLCBhbmQgYXMgYSBzcGljZSBpbiB2YXJpb3VzIGRpc2hlcy4KLSAqKkdyb3VuZCBDb3JpYW5kZXIqKjogQWRkZWQgdG8gc291cHMsIHN0ZXdzLCBjdXJyaWVzLCBhbmQgbWFyaW5hZGVzIHRvIGVuaGFuY2UgZmxhdm9yLgotICoqQ2lsYW50cm8qKjogRnJlc2ggY29yaWFuZGVyIGxlYXZlcyBhcmUgdXNlZCBpbiBzYWxhZHMsIHNhbHNhcywgYW5kIGdhcm5pc2hpbmcgZGlzaGVzLgoKIyMjIEhlYWx0aCBCZW5lZml0cyBvZiBDb3JpYW5kZXIgU2VlZHMKCkNvcmlhbmRlciBzZWVkcyBhcmUgbm90IG9ubHkgZmxhdm9yZnVsIGJ1dCBhbHNvIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKMS4gKipDaG9sZXN0ZXJvbCBSZWR1Y3Rpb24qKjogSGVscHMgcmVkdWNlIGNob2xlc3Rlcm9sIGxldmVscywgcHJvdmlkaW5nIHJlbGllZiBpbiBoZWFydCBkaXNlYXNlLgoyLiAqKkRpYWJldGVzIE1hbmFnZW1lbnQqKjogQXNzaXN0cyBpbiByZWR1Y2luZyBibG9vZCBnbHVjb3NlIGxldmVscywgYWlkaW5nIGluIGRpYWJldGVzIHRyZWF0bWVudC4KMy4gKipEaWdlc3RpdmUgSGVhbHRoKio6IEltcHJvdmVzIGRpZ2VzdGlvbiBieSBlbmhhbmNpbmcgdGhlIG1vdmVtZW50IG9mIHRyeXBzaW4sIGEgcGFuY3JlYXRpYyBlbnp5bWUgdGhhdCBicmVha3MgZG93biBwcm90ZWlucyBpbiB0aGUgaW50ZXN0aW5lcy4KNC4gKipBbnhpZXR5IFJlbGllZioqOiBMaW5hbG9vbCwgYSBrZXkgY29tcG91bmQgaW4gY29yaWFuZGVyIHNlZWRzLCBjYW4gZGVjcmVhc2UgYW54aWV0eSBhbmQgcHJvbW90ZSBuZXVyb2xvZ2ljYWwgYW5kIGJyYWluIGhlYWx0aC4KCiMjIyBNZWRpY2FsIFVzZXMKCkNvcmlhbmRlciBzZWVkcyBhbmQgcG93ZGVyIGFyZSB3aWRlbHkgdXNlZCBpbiB0cmFkaXRpb25hbCBtZWRpY2luZToKLSAqKkFzIGEgRGlnZXN0aXZlIEFpZCoqOiBVc2VkIHRvIGltcHJvdmUgZGlnZXN0aW9uIGFuZCByZWxpZXZlIHN0b21hY2ggYWlsbWVudHMuCi0gKipJbiBEaWFiZXRlcyBNYW5hZ2VtZW50Kio6IEhlbHBzIHJlZ3VsYXRlIGJsb29kIHN1Z2FyIGxldmVscy4KCiMjIyBMYW5ndWFnZSBWYXJpYW50cwoKLSAqKkNvcmlhbmRlciBpbiBIaW5kaSoqOiDgpKfgpKjgpL/gpK/gpL4gKERoYW5peWEpCi0gKipDb3JpYW5kZXIgaW4gU3BhbmlzaCoqOiBDaWxhbnRybwotICoqQ29yaWFuZGVyIGluIEZyZW5jaCoqOiBDb3JpYW5kcmUKCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKVmFybmkgRXhwb3J0cyBpcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgY29yaWFuZGVyIHNlZWRzIGZyb20gSW5kaWEsIGVuc3VyaW5nIHRoZSBoaWdoZXN0IHF1YWxpdHkgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbjoKLSAqKkdsb2JhbCBSZWFjaCoqOiBTZXJ2aW5nIG1hcmtldHMgd29ybGR3aWRlIHdpdGggcmVsaWFiaWxpdHkgYW5kIGV4Y2VsbGVuY2UuCi0gKipDdXN0b21pemVkIFNvbHV0aW9ucyoqOiBUYWlsb3JlZCBzb2x1dGlvbnMgdG8gbWVldCB0aGUgc3BlY2lmaWMgcmVxdWlyZW1lbnRzIG9mIG91ciBpbnRlcm5hdGlvbmFsIGNsaWVudGVsZS4KLSAqKkxvZ2lzdGljcyBFeHBlcnRpc2UqKjogRWZmaWNpZW50IGxvZ2lzdGljcyBuZXR3b3JrIHRvIGRlbGl2ZXIgZnJlc2ggY29yaWFuZGVyIHNlZWRzIGFuZCBwb3dkZXIgc2FmZWx5IGFuZCB0aW1lbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBjb3JpYW5kZXIgc2VlZHMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBkZWRpY2F0ZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBjb3JpYW5kZXIgc2VlZHMgdG9kYXkh"
+                    },
+
+                    {
+                        "id": "3",
+                        "name": "Fenugreek Seeds",
+                        "Category": "Spices",
+                        "images": spices3,
+                        "Type": "Machine Clean & Sortex Clean",
+                        "Harvesting Season": "Feb, March",
+                        "Odour And Flavour": "Odour And Taste Are Typical, A Bit Of Celery And Bitter. Free From Foreign Odour And Taste, Such As Mustiness Or Rancidity",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Application": "Food Products, Seasonings",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBTb3VyY2UgZm9yIFByZW1pdW0gRmVudWdyZWVrIFNlZWRzCgojIyMgQWJvdXQgRmVudWdyZWVrCgpGZW51Z3JlZWssIHNjaWVudGlmaWNhbGx5IGtub3duIGFzICoqRm9lbnVtLUdyYWVjdW0qKiAoTGF0aW4gZm9yICJHcmVlayBIYXkiKSwgaXMgYSBzbGVuZGVyIGFubnVhbCBoZXJiIGJlbG9uZ2luZyB0byB0aGUgcGVhIGZhbWlseSAoRmFiYWNlYWUpLiBUaGUgcGxhbnQgYmVhcnMgYSBzdHJvbmcgcmVzZW1ibGFuY2UgdG8gd2lsZCBjbG92ZXIsIHdoaWNoIGlzIHJlZmxlY3RlZCBpbiBpdHMgU3dlZGlzaCBhbmQgR2VybWFuIG5hbWVzOiAiQm9ja2hvcm5za2zDtnZlciIgYW5kICJCb2Nrc2hvcm5rbGVlLCIgcmVzcGVjdGl2ZWx5LCBib3RoIG1lYW5pbmcgIlJhbeKAmXMgSG9ybiBDbG92ZXIuIgoKIyMjIENoYXJhY3RlcmlzdGljcyBvZiBGZW51Z3JlZWsKCkZlbnVncmVlayBzZWVkcyBhcmUgaGFyZCwgeWVsbG93aXNoLWJyb3duLCBhbmQgYW5ndWxhciwgd2l0aCBzb21lIGJlaW5nIG9ibG9uZywgcmhvbWJpYywgb3IgdmlydHVhbGx5IGN1YmljIGluIHNoYXBlLCBlYWNoIHNpZGUgbWVhc3VyaW5nIGFib3V0IDMgbW0gKDEvOOKAsykuIFRoZSBzZWVkcyBhcmUgYXZhaWxhYmxlIGJvdGggd2hvbGUgYW5kIGRyaWVkLCBvciBncm91bmQgaW50byBhIGR1bGwgeWVsbG93IHBvd2RlciBmcm9tIHJvYXN0ZWQgc2VlZHMuIFRoZXkgaGF2ZSBhIHdhcm0sIHBlbmV0cmF0aW5nIGFyb21hIHRoYXQgaW50ZW5zaWZpZXMgd2hlbiByb2FzdGVkLiBGZW51Z3JlZWsgbGVhdmVzIGFyZSBhbHNvIHVzZWQgYXMgaGVyYnMuCgojIyMgQ3VsdGl2YXRpb24gYW5kIFByb2Nlc3NpbmcKClRoZSB3aG9sZSBmZW51Z3JlZWsgcGxhbnQgaXMgdXByb290ZWQgYW5kIGFsbG93ZWQgdG8gZHJ5LiBUaGUgc2VlZHMgYXJlIHRoZW4gdGhyZXNoZWQgb3V0IGFuZCBkcmllZCBzZXBhcmF0ZWx5IGZvciBhIGxvbmdlciBkdXJhdGlvbi4gRmVudWdyZWVrIHByZWZlcnMgZnVsbCBzdW4gYW5kIGZlcnRpbGUsIHdlbGwtZHJhaW5lZCBhbGthbGluZSBzb2lsLiBUaGUgcGxhbnQgaXMgcmVzaXN0YW50IHRvIG1vc3QgaW5mZXN0YXRpb25zLCBzcHJvdXRzIGluIHRocmVlIGRheXMsIGZsb3dlcnMgaW4gZm91ciBtb250aHMsIGFuZCB0aGUgc2VlZHMgYXJlIGhhcnZlc3RlZCBhYm91dCBmaXZlIG1vbnRocyBhZnRlciBzb3dpbmcuCgojIyMgR2xvYmFsIFVzZXMKCkZlbnVncmVlayBzZWVkcyBhbmQgbGVhdmVzIGFyZSBpbnRlZ3JhbCB0byB2YXJpb3VzIGdsb2JhbCBjdWlzaW5lcywgcmFuZ2luZyBmcm9tIHBpY2tsZXMgdG8gbWFwbGUgc3lydXAuIEluIEluZGlhLCBmZW51Z3JlZWsgaXMgYSBzdGFwbGUgc3BpY2UgYW5kIGhlcmIsIG9mdGVuIHVzZWQgaW4gdHJhZGl0aW9uYWwgZGlzaGVzLgoKIyMjIEhlYWx0aCBCZW5lZml0cwoKRmVudWdyZWVrIGlzIHZhbHVlZCBmb3IgaXRzIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKkdhbGFjdGFnb2d1ZSoqOiBXaWRlbHkgdXNlZCBieSBudXJzaW5nIG1vdGhlcnMgdG8gaW5jcmVhc2UgYnJlYXN0IG1pbGsgc3VwcGx5LgotICoqRGlhYmV0ZXMgTWFuYWdlbWVudCoqOiBIZWxwcyBjb250cm9sIFR5cGUgSSBhbmQgVHlwZSBJSSBkaWFiZXRlcy4KLSAqKkNob2xlc3Rlcm9sIFJlZHVjdGlvbioqOiBSZWR1Y2VzIGhpZ2ggc2VydW0gY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqRGlnZXN0aXZlIEFpZCoqOiBLbm93biB0byByZWxpZXZlIGNvbnN0aXBhdGlvbi4KLSAqKk1lbnN0cnVhbCBhbmQgTWVub3BhdXNhbCBSZWxpZWYqKjogQ29udGFpbnMgZGlvc2dlbmluIGFuZCBlc3Ryb2dlbi1saWtlIGlzb2ZsYXZvbmVzLCBtYWtpbmcgaXQgZWZmZWN0aXZlIGluIHByb21vdGluZyBtZW5zdHJ1YXRpb24gYW5kIG1pbmltaXppbmcgbWVub3BhdXNlIHN5bXB0b21zLgoKIyMjIEhvbWUgUmVtZWRpZXMKCkZlbnVncmVlayBzZWVkcyBoYXZlIGJlZW4gdXNlZCBpbiB2YXJpb3VzIGhvbWUgcmVtZWRpZXM6Ci0gKipEaWFiZXRlcyBDb250cm9sKio6IEluY29ycG9yYXRlIGZlbnVncmVlayBzZWVkcyB0byBoZWxwIG1hbmFnZSBkaWFiZXRlcy4KLSAqKkNob2xlc3Rlcm9sIFJlZHVjdGlvbioqOiBSZWd1bGFyIGNvbnN1bXB0aW9uIGhlbHBzIGxvd2VyIGNob2xlc3Rlcm9sIGxldmVscy4KLSAqKkNvbnN0aXBhdGlvbiBSZWxpZWYqKjogQWN0cyBhcyBhIG5hdHVyYWwgbGF4YXRpdmUuCi0gKipNaWxrIFByb2R1Y3Rpb24qKjogRW5oYW5jZXMgbWlsayBzdXBwbHkgaW4gbnVyc2luZyBtb3RoZXJzLgotICoqTWVuc3RydWFsIEhlYWx0aCoqOiBQcm9tb3RlcyBtZW5zdHJ1YXRpb24gYW5kIGFsbGV2aWF0ZXMgbWVub3BhdXNlIHN5bXB0b21zLgoKRmVudWdyZWVrIHNwcm91dHMgY2FuIGJlIGFkZGVkIHRvIHNhbGFkcyBmb3IgYW4gZXh0cmEgbnV0cml0aW9uYWwgYm9vc3QgYW5kIHRvIGhlbHAgbWl0aWdhdGUgaGVhbHRoIGlzc3Vlcy4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBoaWdoZXN0IHF1YWxpdHkgZmVudWdyZWVrIHNlZWRzIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiB3ZXN0ZXJuIEluZGlhIGFuZCB0aGUgSW5kby1HYW5nZXRpYyBwbGFpbnMuIE91ciBmZW51Z3JlZWsgaXMgcmljaCBpbiBwcm90ZWluIGFuZCBtaW5lcmFscy4gQWZ0ZXIgc291cmNpbmcsIHRoZSBzZWVkcyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcgdG8gYWNoaWV2ZSBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBwcm9kdWN0cy4KCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIGZlbnVncmVlayBzZWVkcywgVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyBzdXBlcmlvciBxdWFsaXR5IGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb246Ci0gKipHbG9iYWwgUmVhY2gqKjogU2VydmluZyBtYXJrZXRzIHdvcmxkd2lkZSB3aXRoIHJlbGlhYmlsaXR5IGFuZCBleGNlbGxlbmNlLgotICoqQ3VzdG9taXplZCBTb2x1dGlvbnMqKjogVGFpbG9yZWQgc29sdXRpb25zIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgaW50ZXJuYXRpb25hbCBjbGllbnRlbGUuCi0gKipMb2dpc3RpY3MgRXhwZXJ0aXNlKio6IEVmZmljaWVudCBsb2dpc3RpY3MgbmV0d29yayB0byBkZWxpdmVyIGZyZXNoIGZlbnVncmVlayBzZWVkcyBzYWZlbHkgYW5kIHRpbWVseS4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIGZlbnVncmVlayBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIGV4Y2VwdGlvbmFsIHF1YWxpdHkgYW5kIGJlbmVmaXRzIG9mIFZhcm5pIEV4cG9ydHPigJkgZmVudWdyZWVrIHNlZWRzIHRvZGF5IQ=="
+                    },
+
+                    {
+                        "id": "4",
+                        "name": "Fennel Seeds",
+                        "Category": "Spices",
+                        "images": spices4,
+                        "Botanical Name": "Foeniculum Vulgare",
+                        "Odour And Flavour": "The Odour Is Aromatic and Sweet. Flavour Is Characteristic. No Mustiness Or Rancidity",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Application": "Food Products, Seasonings",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBTb3VyY2UgZm9yIFByZW1pdW0gRmVubmVsIFNlZWRzCgojIyMgQWJvdXQgRmVubmVsIFNlZWRzCgpGZW5uZWwgc2VlZHMgKEZvZW5pY3VsdW0gdnVsZ2FyZSkgYXJlIHNtYWxsLCBncmVlbiB0byBicm93biBzZWVkcyB3aXRoIGEgc3dlZXQsIGxpY29yaWNlLWxpa2UgZmxhdm9yIGFuZCBhIHJlZnJlc2hpbmcgYXJvbWEuIFRoZXkgYXJlIGFuIGVzc2VudGlhbCBpbmdyZWRpZW50IGluIG1hbnkgY3VsaW5hcnkgdHJhZGl0aW9ucyB3b3JsZHdpZGUgYW5kIGFyZSBjZWxlYnJhdGVkIGZvciB0aGVpciB2ZXJzYXRpbGl0eSBhbmQgaGVhbHRoIGJlbmVmaXRzLiAKCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBmaW5lc3QgcXVhbGl0eSBmZW5uZWwgc2VlZHMgZnJvbSB0aGUgbW9zdCBmZXJ0aWxlIHJlZ2lvbnMgb2YgSW5kaWEuIE91ciBmZW5uZWwgc2VlZHMgYXJlIHJpY2ggaW4gZmxhdm9yIGFuZCBudXRyaWVudHMsIG1ldGljdWxvdXNseSBjbGVhbmVkLCBhbmQgcHJvY2Vzc2VkIHRvIGFjaGlldmUgdGhlIGhpZ2hlc3QgcHVyaXR5IHN0YW5kYXJkcy4gT3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBlbnN1cmVzIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgZmVubmVsIHNlZWRzIGZvciB0aGVpciBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIHVzZXMuCgojIyMgQ3VsaW5hcnkgVXNlcwoKRmVubmVsIHNlZWRzIGFyZSB3aWRlbHkgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKkNvb2tpbmcqKjogQ29tbW9ubHkgdXNlZCBpbiBJbmRpYW4gY3Vpc2luZSwgZmVubmVsIHNlZWRzIGFkZCBhIHN3ZWV0IGFuZCBhcm9tYXRpYyBmbGF2b3IgdG8gZGlzaGVzLiBUaGV5IGFyZSBvZnRlbiBpbmNsdWRlZCBpbiBzcGljZSBibGVuZHMsIHBpY2tsZXMsIGFuZCBtYXJpbmFkZXMuCi0gKipHYXJuaXNoaW5nKio6IFNwcmlua2xlIGZlbm5lbCBzZWVkcyBvbiBzYWxhZHMsIHNvdXBzLCBhbmQgc2F1Y2VzIGZvciBhIGJ1cnN0IG9mIGZsYXZvci4KLSAqKkJha2luZyoqOiBBZGQgZmVubmVsIHNlZWRzIHRvIGJyZWFkLCBjYWtlcywgYW5kIHBhc3RyaWVzIGZvciBhIHVuaXF1ZSB0YXN0ZS4KLSAqKkJldmVyYWdlcyoqOiBCcmV3IGZlbm5lbCB0ZWEgYnkgc3RlZXBpbmcgMSB0ZWFzcG9vbiBvZiBzZWVkcyBwZXIgY3VwIG9mIGJvaWxpbmcgd2F0ZXIgZm9yIGEgc29vdGhpbmcgYW5kIGRpZ2VzdGl2ZSBkcmluay4KLSAqKk1vdXRoIEZyZXNoZW5lcnMqKjogQ2hldyBmZW5uZWwgc2VlZHMgYWZ0ZXIgbWVhbHMgdG8gZnJlc2hlbiBicmVhdGggYW5kIGFpZCBkaWdlc3Rpb24uIAoKIyMjIE1lZGljaW5hbCBVc2VzCgpGZW5uZWwgc2VlZHMgaGF2ZSBiZWVuIHVzZWQgaW4gdHJhZGl0aW9uYWwgbWVkaWNpbmUgZm9yIGNlbnR1cmllcyBkdWUgdG8gdGhlaXIgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEFpZCoqOiBGZW5uZWwgc2VlZHMgaGVscCB0cmVhdCBzdG9tYWNoIHBhaW4sIGJsb2F0aW5nLCBhbmQgaW5kaWdlc3Rpb24uIFRoZXkgYXJlIGVmZmVjdGl2ZSBpbiByZWxpZXZpbmcgZ2FzIGFuZCBjaHJvbmljIGNvdWdocy4KLSAqKkJsb29kIFByZXNzdXJlIFJlZ3VsYXRpb24qKjogUmVndWxhciBjb25zdW1wdGlvbiBvZiBmZW5uZWwgc2VlZHMgY2FuIGhlbHAgcmVndWxhdGUgYmxvb2QgcHJlc3N1cmUgbGV2ZWxzLgotICoqQW50aS1pbmZsYW1tYXRvcnkgUHJvcGVydGllcyoqOiBGZW5uZWwgc2VlZHMgaGF2ZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIHRoYXQgY2FuIHJlZHVjZSBhc3RobWEgc3ltcHRvbXMuCi0gKipCbG9vZCBQdXJpZmljYXRpb24qKjogRmVubmVsIHNlZWRzIGhlbHAgcHVyaWZ5IHRoZSBibG9vZCBhbmQgaW1wcm92ZSBvdmVyYWxsIGhlYWx0aC4KLSAqKkV5ZSBIZWFsdGgqKjogUmljaCBpbiBhbnRpb3hpZGFudHMgYW5kIG51dHJpZW50cywgZmVubmVsIHNlZWRzIGNhbiBoZWxwIGltcHJvdmUgZXllc2lnaHQuCi0gKipDYW5jZXIgUHJldmVudGlvbioqOiBUaGUgYW50aW94aWRhbnRzIGluIGZlbm5lbCBzZWVkcyBtYXkgaGVscCBrZWVwIGNhbmNlciBhdCBiYXkuCgojIyMgSG9tZSBSZW1lZGllcwoKRmVubmVsIHNlZWRzIGNhbiBiZSB1c2VkIGluIHZhcmlvdXMgaG9tZSByZW1lZGllczoKLSAqKkZvciBCYWQgQnJlYXRoKio6IENoZXcgYSBjb3VwbGUgb2YgZmVubmVsIHNlZWRzIGFmdGVyIG1lYWxzLgotICoqRm9yIFN0b21hY2ggQ3JhbXBzKio6IEJyZXcgYSB0ZWEgYnkgc3RlZXBpbmcgZmVubmVsIHNlZWRzIGluIGJvaWxpbmcgd2F0ZXIuCi0gKipGb3IgRGlnZXN0aW9uKio6IENvbnN1bWUgZmVubmVsIHNlZWRzIHJhdywgcm9hc3RlZCwgb3IgZmxhdm9yZWQgdG8gYWlkIGRpZ2VzdGlvbiBhbmQgcmVsaWV2ZSBzdG9tYWNoIGlzc3Vlcy4KCiMjIyBIZWFsdGggQmVuZWZpdHMKCkZlbm5lbCBzZWVkcyBvZmZlciBhIHJhbmdlIG9mIGhlYWx0aCBiZW5lZml0czoKLSAqKlJlZ3VsYXRlIEJsb29kIFByZXNzdXJlKio6IEZlbm5lbCBzZWVkcyBjb250YWluIHBvdGFzc2l1bSwgd2hpY2ggaGVscHMgY29udHJvbCBibG9vZCBwcmVzc3VyZS4KLSAqKlJlZHVjZSBXYXRlciBSZXRlbnRpb24qKjogVGhleSBoYXZlIGRpdXJldGljIHByb3BlcnRpZXMgdGhhdCBoZWxwIHJlZHVjZSB3YXRlciByZXRlbnRpb24uCi0gKipSZWxpZXZlIENvbnN0aXBhdGlvbiBhbmQgQmxvYXRpbmcqKjogRmVubmVsIHRlYSBpcyBlZmZlY3RpdmUgaW4gdHJlYXRpbmcgY29uc3RpcGF0aW9uLCBpbmRpZ2VzdGlvbiwgSUJTLCBhbmQgYmxvYXRpbmcuCi0gKipBc3RobWEgUmVsaWVmKio6IFRoZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIG9mIGZlbm5lbCBzZWVkcyBoZWxwIHJlZHVjZSBhc3RobWEgc3ltcHRvbXMuCi0gKipCbG9vZCBQdXJpZmljYXRpb24qKjogRmVubmVsIHNlZWRzIGhlbHAgZGV0b3hpZnkgYW5kIHB1cmlmeSB0aGUgYmxvb2QuCi0gKipJbXByb3ZlIEV5ZXNpZ2h0Kio6IFJlZ3VsYXIgY29uc3VtcHRpb24gb2YgZmVubmVsIHNlZWRzIGNhbiBpbXByb3ZlIHZpc2lvbiBkdWUgdG8gdGhlaXIgaGlnaCBudXRyaWVudCBjb250ZW50LgotICoqQ2FuY2VyIFByZXZlbnRpb24qKjogQW50aW94aWRhbnRzIGluIGZlbm5lbCBzZWVkcyBoZWxwIHByb3RlY3QgYWdhaW5zdCBjYW5jZXIuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBmZW5uZWwgc2VlZHMsIFZhcm5pIEV4cG9ydHMgaXMgY29tbWl0dGVkIHRvIGRlbGl2ZXJpbmcgc3VwZXJpb3IgcXVhbGl0eSBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uOgotICoqR2xvYmFsIFJlYWNoKio6IFNlcnZpbmcgbWFya2V0cyB3b3JsZHdpZGUgd2l0aCByZWxpYWJpbGl0eSBhbmQgZXhjZWxsZW5jZS4KLSAqKkN1c3RvbWl6ZWQgU29sdXRpb25zKio6IFRhaWxvcmVkIHNvbHV0aW9ucyB0byBtZWV0IHRoZSBzcGVjaWZpYyByZXF1aXJlbWVudHMgb2Ygb3VyIGludGVybmF0aW9uYWwgY2xpZW50ZWxlLgotICoqTG9naXN0aWNzIEV4cGVydGlzZSoqOiBFZmZpY2llbnQgbG9naXN0aWNzIG5ldHdvcmsgdG8gZGVsaXZlciBmcmVzaCBmZW5uZWwgc2VlZHMgc2FmZWx5IGFuZCB0aW1lbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBmZW5uZWwgc2VlZHMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBkZWRpY2F0ZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBmZW5uZWwgc2VlZHMgdG9kYXkh"
+                    },
+
+                    {
+                        "id": "5",
+                        "name": "Mustard Seeds",
+                        "Category": "Spices",
+                        "images": spices5,
+                        "Botanical Name": "Brassica Alba L, Brassica Nigra K, Brassica Juncea L",
+                        "Type": "Machine Clean & Sortex Clean",
+                        "Part Used": "Seed",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Size Available": "Bold / Micro",
+                        "Harvesting Season": "February, March",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Application": "Food Products, Seasonings",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "IyMjIFByZW1pdW0gTXVzdGFyZCBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gTXVzdGFyZCBTZWVkcwoKTXVzdGFyZCBzZWVkcyBhcmUgYSBzdGFwbGUgc3BpY2UgcmVub3duZWQgZm9yIHRoZWlyIHB1bmdlbnQgZmxhdm9yIGFuZCBkaXZlcnNlIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4gQXQgVmFybmkgRXhwb3J0cywgd2Ugb2ZmZXIgYSB3aWRlIHJhbmdlIG9mIG11c3RhcmQgc2VlZHMgdGhhdCBhcmUgaW50ZWdyYWwgdG8gSW5kaWFuIGN1aXNpbmUgYW5kIGdsb2JhbCBjdWxpbmFyeSBwcmFjdGljZXMuIFRoZXNlIHNtYWxsLCByb3VuZCBzZWVkcyBjb21lIGluIHZhcmlvdXMgY29sb3JzIHJhbmdpbmcgZnJvbSB5ZWxsb3dpc2gtd2hpdGUgdG8gYmxhY2sgYW5kIGFyZSBoYXJ2ZXN0ZWQgZnJvbSBkaWZmZXJlbnQgbXVzdGFyZCBwbGFudCBzcGVjaWVzLgoKIyMjIFF1YWxpdHkgYW5kIFZhcmlldGllcwoKT3VyIG11c3RhcmQgc2VlZHMgYXJlIGNhcmVmdWxseSBzb3VyY2VkIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiBJbmRpYSwgcGFydGljdWxhcmx5IEd1amFyYXQsIGVuc3VyaW5nIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcy4gVGhlIHNlZWRzIGFyZSBhdmFpbGFibGUgaW4gc2V2ZXJhbCB2YXJpZXRpZXM6CgotICoqQmxhY2sgTXVzdGFyZCBTZWVkcyAoQnJhc3NpY2EgbmlncmEpKio6IEtub3duIGZvciB0aGVpciBpbnRlbnNlIHB1bmdlbmN5LCB0aGVzZSBzZWVkcyBhcmUgcG9wdWxhcmx5IHVzZWQgaW4gSW5kaWFuIGNvb2tpbmcuIFRoZXkgYXJlIG9mdGVuIGNvbWJpbmVkIHdpdGggY3VtaW4gc2VlZHMgYW5kIGZyaWVkIHRvIHJlbGVhc2UgdGhlaXIgYm9sZCBmbGF2b3IgYW5kIGFyb21hLgoKLSAqKkJyb3duIEluZGlhbiBNdXN0YXJkIFNlZWRzIChCcmFzc2ljYSBqdW5jZWEpKio6IFRoZXNlIHNlZWRzIGhhdmUgYSBkYXJrIHllbGxvdyBjb2xvciBhbmQgb2ZmZXIgYSByb2J1c3QsIGFjcmlkIHRhc3RlLiBUaGV5IGFyZSB3aWRlbHkgdXNlZCBpbiBwaWNrbGluZywgc2F1Y2VzLCBhbmQgc3BpY2UgYmxlbmRzLgoKLSAqKldoaXRlIE11c3RhcmQgU2VlZHMgKFNpbmFwaXMgYWxiYSkqKjogRGVzcGl0ZSB0aGVpciBuYW1lLCB0aGVzZSBzZWVkcyBhcmUgeWVsbG93IGFuZCBhcmUgdGhlIG1pbGRlc3QgYW1vbmcgdGhlIG11c3RhcmQgdmFyaWV0aWVzLiBUaGV5IGFyZSB1c2VkIHRvIG1ha2UgdHJhZGl0aW9uYWwgbXVzdGFyZCBwYXN0ZXMgYW5kIHNhdWNlcy4KCiMjIyBDdWxpbmFyeSBVc2VzCgpNdXN0YXJkIHNlZWRzIGFyZSB2ZXJzYXRpbGUgYW5kIGFkZCBhIGRpc3RpbmN0IGZsYXZvciB0byBkaXNoZXM6Ci0gKipTcGljZSBCbGVuZHMqKjogR3JvdW5kIG11c3RhcmQgc2VlZHMgYXJlIGVzc2VudGlhbCBpbiBzcGljZSBtaXhlcywgYWRkaW5nIGRlcHRoIGFuZCBoZWF0IHRvIGN1cnJpZXMsIHN0ZXdzLCBhbmQgbWFyaW5hZGVzLgotICoqQ29uZGltZW50cyoqOiBNdXN0YXJkIHNlZWRzIGFyZSBjcnVzaGVkIGFuZCBtaXhlZCB3aXRoIHdhdGVyLCB2aW5lZ2FyLCBvciBvdGhlciBsaXF1aWRzIHRvIGNyZWF0ZSBtdXN0YXJkIHBhc3RlIG9yIHNhdWNlLCByYW5naW5nIGZyb20gbWlsZCB0byBob3QgdmFyaWV0aWVzLgotICoqUGlja2xpbmcqKjogTXVzdGFyZCBzZWVkcyBhcmUgYSBrZXkgaW5ncmVkaWVudCBpbiBwaWNrbGluZyBzb2x1dGlvbnMsIGVuaGFuY2luZyB0aGUgZmxhdm9yIGFuZCBwcmVzZXJ2aW5nIHRoZSBpbmdyZWRpZW50cy4KCiMjIyBIZWFsdGggQmVuZWZpdHMgYW5kIEhvbWUgUmVtZWRpZXMKCkFwYXJ0IGZyb20gY3VsaW5hcnkgdXNlcywgbXVzdGFyZCBzZWVkcyBvZmZlciB2YXJpb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKlNraW4gQ2FyZSoqOiBZZWxsb3cgbXVzdGFyZCBwYXN0ZSBpcyB1c2VkIHRyYWRpdGlvbmFsbHkgdG8gdHJlYXQgZnJlY2tsZXMgYW5kIGNhbiBiZSBhcHBsaWVkIHRvcGljYWxseSBvdmVybmlnaHQuCi0gKipNdXNjdWxhciBQYWlucyoqOiBNdXN0YXJkIGlzIGEgcnViZWZhY2llbnQgdGhhdCBjYW4gYWxsZXZpYXRlIG11c2N1bGFyIHBhaW5zIHdoZW4gYXBwbGllZCBleHRlcm5hbGx5IHdpdGggY2F1dGlvbi4KLSAqKlBvaXNvbmluZyoqOiBNdXN0YXJkIHNlZWRzIGhhdmUgZW1ldGljIHByb3BlcnRpZXMgYW5kIGNhbiBpbmR1Y2Ugdm9taXRpbmcsIHdoaWNoIGlzIGJlbmVmaWNpYWwgaW4gY2FzZXMgb2YgcG9pc29uaW5nIG9yIGludG94aWNhdGlvbi4KLSAqKkNvbnZ1bHNpb25zKio6IE11c3RhcmQgc2VlZCBiYXRocyBhcmUgdXNlZCBpbiBjaGlsZHJlbidzIGNvbnZ1bHNpb25zIGNhdXNlZCBieSBoaWdoIGZldmVyLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpWYXJuaSBFeHBvcnRzIGlzIGEgbGVhZGluZyBzdXBwbGllciBhbmQgZXhwb3J0ZXIgb2YgbXVzdGFyZCBzZWVkcywgZW5zdXJpbmcgcHJlbWl1bSBxdWFsaXR5IGFuZCB0aW1lbHkgZGVsaXZlcnkgdG8gZ2xvYmFsIG1hcmtldHMuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBtYWtlcyB1cyBhIHByZWZlcnJlZCBjaG9pY2UgZm9yIGN1bGluYXJ5IGJ1c2luZXNzZXMgd29ybGR3aWRlLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gbXVzdGFyZCBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgeW91IHdpdGggdGhlIGZpbmVzdCBxdWFsaXR5IHNwaWNlcyBhbmQgc2VlZHMsIHRhaWxvcmVkIHRvIG1lZXQgeW91ciBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIG5lZWRzLg=="
+                    },
+
+                    {
+                        "id": "6",
+                        "name": "Turmeric (Haldi)",
+                        "Category": "Spices",
+                        "images": spices6,
+                        "Botanical Name": "Curcuma Longa",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Flexibility": "Hard",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "IyMjIFByZW1pdW0gVHVybWVyaWMgKEhhbGRpKSBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gVHVybWVyaWMKClR1cm1lcmljLCBvZnRlbiByZWZlcnJlZCB0byBhcyB0aGUgIlF1ZWVuIG9mIFNwaWNlcywiIGlzIGEgcGxhbnQgYmVsb25naW5nIHRvIHRoZSBnaW5nZXIgZmFtaWx5LiBXaWRlbHkgY3VsdGl2YXRlZCBmb3IgaXRzIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgdXNlcywgdHVybWVyaWMgaGFzIGEgcmljaCBoaXN0b3J5IHNwYW5uaW5nIHRob3VzYW5kcyBvZiB5ZWFycyBpbiBFYXN0IEluZGlhIGFuZCB0aGUgTWlkZGxlIEVhc3QuIFRvZGF5LCBpdCBzdGFuZHMgYXMgb25lIG9mIHRoZSBtb3N0IHBvcHVsYXIgc3BpY2VzIGdsb2JhbGx5LCB2YWx1ZWQgZm9yIGl0cyB2aWJyYW50IGNvbG9yIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuCgojIyMgQ3VsaW5hcnkgYW5kIE1lZGljaW5hbCBVc2VzCgpUdXJtZXJpYyBpcyB0aGUgZHJpZWQgcm9vdCBvZiBDdXJjdW1hIGxvbmdhLCBjaGFyYWN0ZXJpemVkIGJ5IGl0cyB0b3VnaCBicm93biBza2luIGFuZCBicmlnaHQgb3JhbmdlIGZsZXNoLiBJdCBpcyBhIHN0YXBsZSBpbmdyZWRpZW50IGluIGN1cnJ5IHBvd2RlcnMsIGltcGFydGluZyBib3RoIGNvbG9yIGFuZCBhIGRpc3RpbmN0aXZlIGZsYXZvciBwcm9maWxlIHRvIGRpc2hlcy4gQmV5b25kIGl0cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnMsIHR1cm1lcmljIGhvbGRzIGEgc2lnbmlmaWNhbnQgcGxhY2UgaW4gQXl1cnZlZGljIHByYWN0aWNlcyBhbmQgdHJhZGl0aW9uYWwgbWVkaWNpbmU6CgotICoqSGVhbHRoIEJlbmVmaXRzKio6IFR1cm1lcmljIGlzIHJlbm93bmVkIGZvciBpdHMgbWVkaWNpbmFsIHByb3BlcnRpZXMsIGluY2x1ZGluZyBhbnRpLWluZmxhbW1hdG9yeSwgYW50aW94aWRhbnQsIGFuZCBhbnRpbWljcm9iaWFsIGVmZmVjdHMuIEl0IGhlbHBzIGVhc2Ugc3ltcHRvbXMgb2YgYXJ0aHJpdGlzLCBzdXBwb3J0cyBoZWFydCBoZWFsdGgsIGFpZHMgaW4gY2hvbGVzdGVyb2wgcmVkdWN0aW9uLCBhbmQgYm9vc3RzIHRoZSBpbW11bmUgc3lzdGVtLgotICoqU2tpbiBDYXJlKio6IFR1cm1lcmljIGlzIHVzZWQgdG9waWNhbGx5IHRvIGNsZWFuc2Ugd291bmRzLCB0cmVhdCBza2luIHNvcmVzLCBhbmQgcHJvbW90ZSBhIGhlYWx0aHkgZ2xvdy4gSXRzIGFudGlzZXB0aWMgcHJvcGVydGllcyBtYWtlIGl0IGEgdmFsdWFibGUgY29tcG9uZW50IGluIHNraW5jYXJlIHJvdXRpbmVzLgotICoqRGlnZXN0aXZlIEhlYWx0aCoqOiBJdCBpcyBlZmZlY3RpdmUgaW4gdHJlYXRpbmcgZGlnZXN0aXZlIHByb2JsZW1zIHN1Y2ggYXMgdWxjZXJzIGFuZCBkeXNlbnRlcnksIG93aW5nIHRvIGl0cyBzb290aGluZyBhbmQgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcy4KCiMjIyBRdWFsaXR5IGFuZCBQcm9kdWN0aW9uCgpJbmRpYSBpcyB0aGUgbGVhZGluZyBwcm9kdWNlciBvZiB0dXJtZXJpYyBnbG9iYWxseSwga25vd24gZm9yIGl0cyBoaWdoIGN1cmN1bWluIGNvbnRlbnQuIEN1cmN1bWluIGlzIHRoZSBhY3RpdmUgY29tcG91bmQgcmVzcG9uc2libGUgZm9yIG1hbnkgb2YgdHVybWVyaWMncyBoZWFsdGggYmVuZWZpdHMuIFZhcm5pIEV4cG9ydHMgc291cmNlcyBwcmVtaXVtIHR1cm1lcmljIGZyb20gc2VsZWN0IHJlZ2lvbnMgaW4gSW5kaWEsIGVuc3VyaW5nIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcyBmb3Igb3VyIGN1c3RvbWVycyB3b3JsZHdpZGUuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBzcGljZXMsIGluY2x1ZGluZyB0dXJtZXJpYywgVmFybmkgRXhwb3J0cyBtYWludGFpbnMgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyB0byBkZWxpdmVyIHByb2R1Y3RzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcy4gT3VyIHR1cm1lcmljIGlzIHBhY2thZ2VkIHRvIHByZXNlcnZlIGl0cyBmcmVzaG5lc3MgYW5kIHBvdGVuY3ksIG1ha2luZyBpdCBhIHByZWZlcnJlZCBjaG9pY2UgYW1vbmcgY3VsaW5hcnkgcHJvZmVzc2lvbmFscyBhbmQgaGVhbHRoLWNvbnNjaW91cyBjb25zdW1lcnMgZ2xvYmFsbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSB0dXJtZXJpYyAoSGFsZGkpIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgY29tbWl0dGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCB0aGUgZmluZXN0IHF1YWxpdHkgc3BpY2VzIHRoYXQgZW5yaWNoIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBwcm9tb3RlIHdlbGwtYmVpbmcu"
+                    },
+
+                    {
+                        "id": "7",
+                        "name": "Chilli",
+                        "Category": "Spices",
+                        "images": spices7,
+                        "Botanical Name": "Capsicum Frutescens",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Flexibility": "Hard",
+                        "Harvesting Season": "Jan. To Apr.",
+                        "Color": "Red, Length: As Per Grade",
+                        "Origin": "India",
+                        "Application": "Food Products, Seasonings",
+                        "Certification": "FSSAI Certified",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "IyMjIFByZW1pdW0gSW5kaWFuIENoaWxsaSBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gQ2hpbGxpCgpDaGlsbGksIGJlbG9uZ2luZyB0byB0aGUgQ2Fwc2ljdW0gZ2VudXMsIGlzIGEgdmVyc2F0aWxlIGZydWl0IHJlbm93bmVkIGZvciBpdHMgcHVuZ2VudCBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3JzLiBXaGVuIHJpcGVuZWQgYW5kIGRyaWVkLCBpdCB0cmFuc2Zvcm1zIGludG8gcmVkIGNoaWxsaSwgd2hpY2ggaXMgdGhlbiBncm91bmQgdG8gcHJvZHVjZSByZWQgY2hpbGxpIHBvd2RlcuKAlGEgc3RhcGxlIHNwaWNlIGluIGdsb2JhbCBjdWlzaW5lcy4KCiMjIyBMZWFkaW5nIFByb2R1Y2VyIGFuZCBFeHBvcnRlcgoKSW5kaWEgc3RhbmRzIGFzIHRoZSB3b3JsZOKAmXMgbGFyZ2VzdCBwcm9kdWNlciwgY29uc3VtZXIsIGFuZCBleHBvcnRlciBvZiBjaGlsbGkuIFdpdGggc2lnbmlmaWNhbnQgaW52ZXN0bWVudHMgaW4gY29sZCBzdG9yYWdlIGZhY2lsaXRpZXMgYWNyb3NzIGNoaWxsaS1ncm93aW5nIHJlZ2lvbnMsIEluZGlhIGVuc3VyZXMgc3VzdGFpbmVkIHByb2R1Y3Rpb24gYW5kIG1haW50YWlucyBhIGRvbWluYW50IG1hcmtldCBzaGFyZSBpbiB0aGUgZ2xvYmFsIGNoaWxsaSB0cmFkZS4KCiMjIyBWYXJpZXRpZXMgYW5kIFVzZXMKCkluZGlhbiBjaGlsbGllcyBhcmUga25vd24gZm9yIHRoZWlyIGRpdmVyc2UgcmFuZ2Ugb2Ygc3BpY2luZXNzLCBmcm9tIG1pbGQgdG8gaW50ZW5zZWx5IGhvdCwgYW5kIGNvbWUgaW4gc2hhZGVzIHJhbmdpbmcgZnJvbSBkZWVwIHJlZCB0byBsaWdodCByZWQuIFRoZXkgZmluZCBleHRlbnNpdmUgYXBwbGljYXRpb24gaW46Ci0gKipGb29kIEluZHVzdHJ5Kio6IFVzZWQgaW4gZm9vZCBwcmVwYXJhdGlvbiwgY29uZmVjdGlvbmVyeSwgYW5kIHNhdWNlcy4KLSAqKkNvc21ldGljcyBhbmQgUGhhcm1hY2V1dGljYWxzKio6IEV4dHJhY3RzIGFyZSB1c2VkIGluIGNvc21ldGljcyBmb3IgdGhlaXIgY29sb3IgYW5kIGluIHBoYXJtYWNldXRpY2FscyBmb3IgdGhlaXIgbWVkaWNpbmFsIHByb3BlcnRpZXMuCi0gKipJbmR1c3RyaWFsIEFwcGxpY2F0aW9ucyoqOiBJbnRlZ3JhbCBpbiBtYW51ZmFjdHVyaW5nIHBhaW50cywgbGlxdW9yLCBhbmQgc2VsZi1kZWZlbnNlIHByb2R1Y3RzLgoKIyMjIFF1YWxpdHkgYW5kIEhhcnZlc3QKCkNoaWxsaWVzIGFyZSBoYXJ2ZXN0ZWQgYmV0d2VlbiBKYW51YXJ5IGFuZCBBcHJpbCBpbiBJbmRpYSwgZW5zdXJpbmcgb3B0aW1hbCBxdWFsaXR5IGFuZCBmbGF2b3IuIEludGVncmF0ZWQgUGVzdCBNYW5hZ2VtZW50IChJUE0pIHByYWN0aWNlcyBhcmUgZW1wbG95ZWQgdG8gbWluaW1pemUgcGVzdGljaWRlIHVzZSwgcHJvbW90aW5nIHN1c3RhaW5hYmxlIGFuZCBlY28tZnJpZW5kbHkgZmFybWluZyBtZXRob2RzLgoKIyMjIE51dHJpdGlvbmFsIFZhbHVlCgpSZWQgY2hpbGxpZXMgYXJlIHJpY2ggaW4gdml0YW1pbiBDLCBjYXJvdGVuZSAocHJvdml0YW1pbiBBKSwgYW5kIG1vc3QgQiB2aXRhbWlucywgZXNwZWNpYWxseSB2aXRhbWluIEI2LiBUaGV5IGFyZSBhbHNvIGhpZ2ggaW4gcG90YXNzaXVtLCBtYWduZXNpdW0sIGFuZCBpcm9uLCBlbmhhbmNpbmcgdGhlaXIgbnV0cml0aW9uYWwgcHJvZmlsZSBhbmQgaGVhbHRoIGJlbmVmaXRzLgoKIyMjIEhlYWx0aCBCZW5lZml0cwoKLSAqKkFudGktaW5mbGFtbWF0b3J5IFByb3BlcnRpZXMqKjogUmVkIGNoaWxsaWVzIGFpZCBpbiByZWR1Y2luZyBpbmZsYW1tYXRpb24gYW5kIHByb3ZpZGUgbmF0dXJhbCBwYWluIHJlbGllZi4KLSAqKkltbXVuZSBTeXN0ZW0gQm9vc3QqKjogVGhleSBoZWxwIHN0cmVuZ3RoZW4gdGhlIGltbXVuZSBzeXN0ZW0gYW5kIGNsZWFyIGNvbmdlc3Rpb24uCi0gKipDaG9sZXN0ZXJvbCBSZWd1bGF0aW9uKio6IENvbnN1bXB0aW9uIG1heSBhc3Npc3QgaW4gbG93ZXJpbmcgYmxvb2QgY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqTWV0YWJvbGlzbSBhbmQgV2VpZ2h0IExvc3MqKjogQ2hpbGxpIHBlcHBlcnMgYWNjZWxlcmF0ZSBkaWdlc3Rpb24gYW5kIG1ldGFib2xpc20sIGNvbnRyaWJ1dGluZyB0byB3ZWlnaHQgbWFuYWdlbWVudC4KCiMjIyBDb21taXRtZW50IHRvIFF1YWxpdHkKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNwZWNpYWxpemUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgSW5kaWFuIGNoaWxsaWVzIHRoYXQgbWVldCBkaXZlcnNlIGdsb2JhbCBzcGVjaWZpY2F0aW9ucy4gT3VyIGNoaWxsaWVzIGFyZSByZW5vd25lZCBmb3IgdGhlaXIgZXhjZXB0aW9uYWwgZmxhdm9yLCBjb2xvciwgYW5kIG51dHJpdGlvbmFsIGJlbmVmaXRzLCBtYWtpbmcgdGhlbSBhIHByZWZlcnJlZCBjaG9pY2UgYW1vbmcgY2hlZnMsIG1hbnVmYWN0dXJlcnMsIGFuZCBoZWFsdGgtY29uc2Npb3VzIGNvbnN1bWVycyB3b3JsZHdpZGUuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBJbmRpYW4gY2hpbGxpIHByb2R1Y3RzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCBzdXBlcmlvciBzcGljZXMgdGhhdCBlbGV2YXRlIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBwcm9tb3RlIHdlbGwtYmVpbmcuCg=="
+                    },
+
+                    {
+                        "id": "8",
+                        "name": "Chilli Flakes",
+                        "Category": "Spices",
+                        "images": spices8,
+                        "Botanical Name": "Capsicum Frutescens",
+                        "Flake Size": "2 mm to 4 mm",
+                        "Aflatoxin": "5 PPB",
+                        "Moisture": "10% to 12% Max",
+                        "Appearance": "Red colored flakes with seeds",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipWYXJuaSBFeHBvcnRzOiBQcmVtaXVtIFJlZCBDaGlsbGkgRmxha2VzKioKCioqSW50cm9kdWN0aW9uIHRvIFJlZCBDaGlsbGkgRmxha2VzKioKClJlZCBjaGlsbGkgZmxha2VzLCBhbHNvIGtub3duIGFzIHJlZCBwZXBwZXIgZmxha2VzLCBhcmUgdGhlIGNydXNoZWQgZm9ybSBvZiBkcmllZCByZWQgcGVwcGVycyBvciBjaGlsbGllcy4gVGhlc2UgZmxha2VzIGFyZSBjaGVyaXNoZWQgd29ybGR3aWRlIGZvciB0aGVpciBhYmlsaXR5IHRvIGltcGFydCBhIHNwaWN5IGtpY2sgYW5kIHJvYnVzdCBwZXBwZXJ5IGZsYXZvciB0byB2YXJpb3VzIGN1bGluYXJ5IGNyZWF0aW9ucy4gVGhleSBhcmUgYSBwb3B1bGFyIGNob2ljZSBpbiBzYXVjZXMsIHNvdXBzLCBwaWNrbGVzLCBjdXJyaWVzLCBhbmQgbnVtZXJvdXMgb3RoZXIgZGlzaGVzIHdoZXJlIGEgdG91Y2ggb2YgaGVhdCBpcyBkZXNpcmVkLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gZXhwb3J0aW5nIHRoZSBmaW5lc3QgcXVhbGl0eSByZWQgY2hpbGxpIGZsYWtlcyBnbG9iYWxseS4gQmFzZWQgaW4gSW5kaWEsIGtub3duIGZvciBpdHMgcmljaCBjaGlsbGkgY3VsdGl2YXRpb24sIHdlIGVuc3VyZSB0aGF0IG91ciBjaGlsbGkgZmxha2VzIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIG9mIHF1YWxpdHksIGZsYXZvciwgYW5kIHB1cml0eS4gT3VyIHByb2R1Y3RzIGFyZSBlc3BlY2lhbGx5IGZhdm9yZWQgYnkgY3VzdG9tZXJzIGluIHRoZSBVU0EgYW5kIEV1cm9wZSBmb3IgdGhlaXIgY29uc2lzdGVudCBob3RuZXNzLCB2aWJyYW50IGNvbG9yLCBhbmQgZGlzdGluY3RpdmUgZmxhdm9yIHByb2ZpbGVzLgoKKipQcm9kdWN0IFNwZWNpZmljYXRpb25zKioKCi0gKipWYXJpZXR5Kio6IFdlIG9mZmVyIGEgcmFuZ2Ugb2YgcmVkIGNoaWxsaSBmbGFrZXMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBwcmVmZXJlbmNlcyBpbiB0ZXJtcyBvZiBob3RuZXNzIGxldmVscywgY29sb3IgaW50ZW5zaXRpZXMsIGFuZCBmbGF2b3IgcHJvZmlsZXMuCiAgCi0gKipQYWNrYWdpbmcqKjogVHlwaWNhbGx5IHNvdXJjZWQgaW4gMTAgdG8gMjUga2cgYmFncywgd2UgYWxzbyBwcm92aWRlIGN1c3RvbWl6ZWQgcGFja2FnaW5nIG9wdGlvbnMgdG8gbWVldCBzcGVjaWZpYyBjdXN0b21lciByZXF1aXJlbWVudHMgYW5kIGVuc3VyZSBmcmVzaG5lc3MgYW5kIHF1YWxpdHkgZHVyaW5nIHRyYW5zaXQuCgoqKlVzYWdlIGFuZCBBcHBsaWNhdGlvbioqCgpSZWQgY2hpbGxpIGZsYWtlcyBhcmUgaW5jcmVkaWJseSB2ZXJzYXRpbGUgaW4gdGhlIGtpdGNoZW46CiAgCi0gKipFbmhhbmNpbmcgRmxhdm9yKio6IFRoZXkgYWRkIGEgcHVuY2ggb2Ygc3BpY2luZXNzIGFuZCBkZXB0aCB0byBkaXNoZXMgbGlrZSBwaXp6YSwgcGFzdGEsIHN0aXItZnJpZXMsIHNvdXBzLCBhbmQgc2FsYWRzLgogIAotICoqQ29va2luZyBWZXJzYXRpbGl0eSoqOiBUaGV5IGNhbiBiZSBzcHJpbmtsZWQgb3ZlciBmaW5pc2hlZCBkaXNoZXMsIGluY29ycG9yYXRlZCBpbnRvIGNvb2tpbmcgc2F1Y2VzIGFuZCBtYXJpbmFkZXMsIG9yIHVzZWQgYXMgYSBnYXJuaXNoIHRvIGVsZXZhdGUgdGhlIHZpc3VhbCBhcHBlYWwgYW5kIGZsYXZvciBjb21wbGV4aXR5LgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgpPdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGV4dGVuZHMgZnJvbSBzb3VyY2luZyB0aGUgYmVzdCBjaGlsbGllcyB0byBtZXRpY3Vsb3VzIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZy4gV2UgcHJpb3JpdGl6ZSBkZWxpdmVyaW5nIGltcHVyaXR5LWZyZWUsIGZsYXZvcmZ1bCBjaGlsbGkgZmxha2VzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHN0YW5kYXJkcy4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSByZWQgY2hpbGxpIGZsYWtlcywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSBlc3NlbmNlIG9mIGF1dGhlbnRpYyBJbmRpYW4gc3BpY2VzIHRoYXQgZW5oYW5jZSB0aGUgY3VsaW5hcnkgam91cm5leSB3b3JsZHdpZGUuICA="
+                    },
+
+                    {
+                        "id": "9",
+                        "name": "Dry Ginger",
+                        "Category": "Spices",
+                        "images": spices9,
+                        "Botanical Name": "Zingiber officinale",
+                        "Type": "Whole",
+                        "Moisture": "12% Max",
+                        "Appearance": "Brown, Fibrous",
+                        "Odour": "Characteristic, Spicy",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Application": "Food Products, Seasonings, Herbal Medicine",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipWYXJuaSBFeHBvcnRzOiBQcmVtaXVtIERyeSBHaW5nZXIqKgoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdpbmdlcioqCgpEcnkgZ2luZ2VyLCBkZXJpdmVkIGZyb20gZnJlc2ggZ2luZ2VyIHJvb3RzIHRoYXQgaGF2ZSBiZWVuIGRyaWVkIGFuZCBwcm9jZXNzZWQsIGlzIGEgdmVyc2F0aWxlIHNwaWNlIGtub3duIGZvciBpdHMgZGlzdGluY3Qgc3BpY3kgYW5kIGFyb21hdGljIHF1YWxpdGllcy4gV2lkZWx5IHVzZWQgaW4gY3VsaW5hcnkgYXBwbGljYXRpb25zIGFuZCB2YWx1ZWQgZm9yIGl0cyBtZWRpY2luYWwgcHJvcGVydGllcywgZHJ5IGdpbmdlciBhZGRzIGEgd2FybSwgcHVuZ2VudCBmbGF2b3IgdG8gYSB2YXJpZXR5IG9mIGRpc2hlcyBhbmQgYmV2ZXJhZ2VzLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgdGFrZXMgcHJpZGUgaW4gZXhwb3J0aW5nIHRoZSBmaW5lc3QgcXVhbGl0eSBkcnkgZ2luZ2VyIGdsb2JhbGx5LiBTaXR1YXRlZCBpbiBJbmRpYSwgcmVub3duZWQgZm9yIGl0cyByaWNoIGdpbmdlciBjdWx0aXZhdGlvbiwgd2UgZW5zdXJlIG91ciBkcnkgZ2luZ2VyIG1lZXRzIHN0cmluZ2VudCBzdGFuZGFyZHMgZm9yIHF1YWxpdHksIGZsYXZvciwgYW5kIHB1cml0eS4gT3VyIHByb2R1Y3RzIGFyZSBmYXZvcmVkIGJ5IGRpc2Nlcm5pbmcgY3VzdG9tZXJzIHdvcmxkd2lkZSBmb3IgdGhlaXIgY29uc2lzdGVudCBxdWFsaXR5IGFuZCBleGNlcHRpb25hbCBhcm9tYS4KCioqUHJvZHVjdCBTcGVjaWZpY2F0aW9ucyoqCgotICoqVmFyaWV0eSoqOiBXZSBvZmZlciBhIHJhbmdlIG9mIGRyeSBnaW5nZXIgcHJvZHVjdHMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIG5lZWRzLCBlbnN1cmluZyBvcHRpb25zIHRoYXQgdmFyeSBpbiBzaXplLCB0ZXh0dXJlLCBhbmQgZmxhdm9yIGludGVuc2l0eS4KICAKLSAqKlBhY2thZ2luZyoqOiBUeXBpY2FsbHkgc291cmNlZCBpbiBjb252ZW5pZW50IHBhY2thZ2luZyBzaXplcyB0YWlsb3JlZCB0byBjdXN0b21lciBwcmVmZXJlbmNlcywgZW5zdXJpbmcgZnJlc2huZXNzIGFuZCBxdWFsaXR5IHByZXNlcnZhdGlvbiBkdXJpbmcgc2hpcG1lbnQuCgoqKlVzYWdlIGFuZCBBcHBsaWNhdGlvbioqCgpEcnkgZ2luZ2VyIGlzIHJlbm93bmVkIGZvciBpdHMgdmVyc2F0aWxpdHk6CiAgCi0gKipDdWxpbmFyeSBEZWxpZ2h0Kio6IEl0IGVuaGFuY2VzIHRoZSBmbGF2b3IgYW5kIGFyb21hIG9mIHZhcmlvdXMgZGlzaGVzLCBpbmNsdWRpbmcgY3Vycmllcywgc3Rpci1mcmllcywgbWFyaW5hZGVzLCBhbmQgYmFrZWQgZ29vZHMuCiAgCi0gKipNZWRpY2luYWwgQmVuZWZpdHMqKjogS25vd24gZm9yIGl0cyBkaWdlc3RpdmUgYW5kIGFudGktaW5mbGFtbWF0b3J5IHByb3BlcnRpZXMsIGRyeSBnaW5nZXIgaXMgYWxzbyB1c2VkIGluIHRyYWRpdGlvbmFsIHJlbWVkaWVzIGFuZCBoZXJiYWwgdGVhcy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgdXBob2xkIHJpZ29yb3VzIHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyBmcm9tIHNvdXJjaW5nIHRvIHBhY2thZ2luZy4gT3VyIGNvbW1pdG1lbnQgaXMgdG8gZGVsaXZlciBwcmVtaXVtIGRyeSBnaW5nZXIgdGhhdCBleGNlZWRzIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBlbnN1cmluZyBwdXJpdHkgYW5kIGZyZXNobmVzcyBpbiBldmVyeSBiYXRjaC4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBkcnkgZ2luZ2VyIHByb2R1Y3RzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIERpc2NvdmVyIHRoZSBlc3NlbmNlIG9mIGF1dGhlbnRpYyBJbmRpYW4gc3BpY2VzIHRoYXQgZWxldmF0ZSBjdWxpbmFyeSBleHBlcmllbmNlcyB3b3JsZHdpZGUu"
+                    },
+
+                    {
+                        "id": "10",
+                        "name": "Nutmeg",
+                        "Category": "Spices",
+                        "images": spices10,
+                        "Usage": "Conventional",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine Clean",
+                        "Application": "Food Products, Seasonings",
+                        "Certification": "FSSAI Certified",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipWYXJuaSBFeHBvcnRzOiBOdXRtZWcqKgoKKipJbnRyb2R1Y3Rpb24gdG8gTnV0bWVnKioKCk51dG1lZywgc2NpZW50aWZpY2FsbHkga25vd24gYXMgTXlyaXN0aWNhIGZyYWdyYW5zLCBpcyBhIHVuaXF1ZSBzcGljZSBkZXJpdmVkIGZyb20gdGhlIHNlZWQgb2YgYW4gZXZlcmdyZWVuIHRyZWUgbmF0aXZlIHRvIHRoZSBNb2x1Y2NhcyAoU3BpY2UgSXNsYW5kcykgb2YgSW5kb25lc2lhLiBJdCBpcyByZW5vd25lZCBmb3IgaXRzIHdhcm0sIHN3ZWV0LCBhbmQgbnV0dHkgZmxhdm9yLCB3aGljaCBhZGRzIGRlcHRoIHRvIGJvdGggc3dlZXQgYW5kIHNhdm9yeSBkaXNoZXMuIFRoZSBzcGljZSBpcyBoYXJ2ZXN0ZWQgYnkgZHJ5aW5nIHRoZSBzZWVkIGtlcm5lbCBhZnRlciByZW1vdmluZyB0aGUgbWFjZSwgYSByZWQsIGxhY3kgc3Vic3RhbmNlIGNvdmVyaW5nIHRoZSBzZWVkLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgdGFrZXMgcHJpZGUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyB0aGUgaGlnaGVzdCBxdWFsaXR5IG51dG1lZyBmcm9tIHRydXN0ZWQgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgb3VyIG51dG1lZyBwcm9kdWN0cyBtZWV0IHN0cmljdCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgZGVsaXZlciBleGNlcHRpb25hbCBmbGF2b3IgYW5kIGFyb21hIHRvIG91ciBjdXN0b21lcnMgd29ybGR3aWRlLgoKKipQcm9kdWN0IFNwZWNpZmljYXRpb25zKioKCi0gKipWYXJpZXRpZXMqKjogV2Ugb2ZmZXIgd2hvbGUgbnV0bWVnIGFzIHdlbGwgYXMgZ3JvdW5kIG51dG1lZywgY2F0ZXJpbmcgdG8gZGlmZmVyZW50IGN1bGluYXJ5IHByZWZlcmVuY2VzIGFuZCBhcHBsaWNhdGlvbnMuCiAgCi0gKipQYWNrYWdpbmcqKjogT3VyIG51dG1lZyBpcyBjYXJlZnVsbHkgcGFja2VkIHRvIHByZXNlcnZlIGZyZXNobmVzcyBhbmQgcXVhbGl0eSwgYXZhaWxhYmxlIGluIHZhcmlvdXMgcGFja2FnaW5nIHNpemVzIHRvIG1lZXQgY3VzdG9tZXIgcmVxdWlyZW1lbnRzLgoKKipVc2FnZSBhbmQgQXBwbGljYXRpb24qKgoKTnV0bWVnIGlzIGEgdmVyc2F0aWxlIHNwaWNlIHVzZWQgaW4gdmFyaW91cyB3YXlzOgogIAotICoqQ3VsaW5hcnkgVXNlcyoqOiBJdCBpcyBhIHBvcHVsYXIgc3BpY2UgaW4gYmFraW5nLCBwYXJ0aWN1bGFybHkgaW4gY2FrZXMsIGNvb2tpZXMsIHBpZXMsIGFuZCBwYXN0cmllcy4gSXQgYWxzbyBlbmhhbmNlcyB0aGUgZmxhdm9yIG9mIHNhdm9yeSBkaXNoZXMgc3VjaCBhcyBzb3Vwcywgc3Rld3MsIHNhdWNlcywgYW5kIG1lYXQgZGlzaGVzLgogIAotICoqQmV2ZXJhZ2UqKjogTnV0bWVnIGlzIHVzZWQgdG8gZmxhdm9yIGJldmVyYWdlcyBsaWtlIGVnZ25vZywgbXVsbGVkIHdpbmUsIGFuZCBjaGFpIHRlYS4KICAKLSAqKk1lZGljaW5hbCBQcm9wZXJ0aWVzKio6IEluIHRyYWRpdGlvbmFsIG1lZGljaW5lLCBudXRtZWcgaXMgYmVsaWV2ZWQgdG8gaGF2ZSBkaWdlc3RpdmUgYmVuZWZpdHMgYW5kIGlzIHVzZWQgaW4gc21hbGwgcXVhbnRpdGllcyBhcyBhIHJlbWVkeSBmb3IgaW5zb21uaWEgYW5kIGFueGlldHkuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhbmQgc2FmZXR5OgogIAotICoqU3RyaWN0IFN0YW5kYXJkcyoqOiBXZSBhZGhlcmUgdG8gc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyBmcm9tIHNvdXJjaW5nIHRvIHBhY2thZ2luZyB0byBlbnN1cmUgb3VyIG51dG1lZyBtZWV0cyBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHJlZ3VsYXRpb25zLgogIAotICoqRnJlc2huZXNzIEd1YXJhbnRlZWQqKjogT3VyIG51dG1lZyBpcyBzb3VyY2VkIGFuZCBwcm9jZXNzZWQgdG8gcHJlc2VydmUgaXRzIG5hdHVyYWwgZmxhdm9yIGFuZCBhcm9tYSwgcHJvdmlkaW5nIG91ciBjdXN0b21lcnMgd2l0aCBhIHByZW1pdW0gcHJvZHVjdC4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBudXRtZWcgcHJvZHVjdHMsIGNvbnRhY3QgVmFybmkgRXhwb3J0cyB0b2RheS4gRXhwZXJpZW5jZSB0aGUgcmljaG5lc3MgYW5kIHZlcnNhdGlsaXR5IG9mIG51dG1lZyB0aGF0IGVuaGFuY2VzIGN1bGluYXJ5IGNyZWF0aW9ucyB3b3JsZHdpZGUu"
+                    },
+
+                    {
+                        "id": "11",
+                        "name": "Black Pepper",
+                        "Category": "Spices",
+                        "images": spices11,
+                        "Usage": "Conventional",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine Clean",
+                        "Botanical Name": "Piper Nigrum",
+                        "Origin": "India",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipCbGFjayBQZXBwZXIgYnkgVmFybmkgRXhwb3J0cyoqCgoqKkludHJvZHVjdGlvbiB0byBCbGFjayBQZXBwZXIqKgoKQmxhY2sgcGVwcGVyLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBQaXBlciBuaWdydW0sIGlzIGEgZmxvd2VyaW5nIHZpbmUgaW4gdGhlIFBpcGVyYWNlYWUgZmFtaWx5LCBwcml6ZWQgZm9yIGl0cyBkcmllZCBmcnVpdCwga25vd24gYXMgcGVwcGVyY29ybi4gVGhlc2Ugc21hbGwsIHNwaGVyaWNhbCBmcnVpdHMgYXJlIGFib3V0IDUgbWlsbGltZXRlcnMgaW4gZGlhbWV0ZXIgd2hlbiBmdWxseSBtYXR1cmUsIGRhcmsgcmVkIGluIGNvbG9yLCBhbmQgY29udGFpbiBhIHNpbmdsZSBzZWVkLiBCbGFjayBwZXBwZXIgaXMgb25lIG9mIHRoZSBtb3N0IHdpZGVseSB1c2VkIHNwaWNlcyBnbG9iYWxseSwgdmFsdWVkIGZvciBpdHMgcHVuZ2VudCBmbGF2b3IgYW5kIGN1bGluYXJ5IHZlcnNhdGlsaXR5LgoKKipWYXJuaSBFeHBvcnRzJyBDb21taXRtZW50KioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNwZWNpYWxpemUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgYmxhY2sgcGVwcGVyIGZyb20gdGhlIGJlc3QgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGV4cGVydGlzZSBlbnN1cmVzIHRoYXQgd2UgZGVsaXZlciB0b3Atbm90Y2ggYmxhY2sgcGVwcGVyIHByb2R1Y3RzIHRoYXQgbWVldCB0aGUgZGl2ZXJzZSBuZWVkcyBvZiBvdXIgZ2xvYmFsIGNsaWVudGVsZS4KCioqUHJvZHVjdCBEZXRhaWxzKioKCi0gKipWYXJpZXRpZXMqKjogV2Ugb2ZmZXIgdmFyaW91cyBmb3JtcyBvZiBibGFjayBwZXBwZXIsIGluY2x1ZGluZyB3aG9sZSBwZXBwZXJjb3JucyBhbmQgZ3JvdW5kIHBlcHBlciwgY2F0ZXJpbmcgdG8gZGlmZmVyZW50IGN1bGluYXJ5IHByZWZlcmVuY2VzIGFuZCBhcHBsaWNhdGlvbnMuCiAgCi0gKipRdWFsaXR5IEFzc3VyYW5jZSoqOiBPdXIgYmxhY2sgcGVwcGVyIGlzIG1ldGljdWxvdXNseSBzZWxlY3RlZCwgcHJvY2Vzc2VkLCBhbmQgcGFja2VkIHRvIHByZXNlcnZlIGl0cyBuYXR1cmFsIGFyb21hLCBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4KICAKLSAqKlBhY2thZ2luZyoqOiBBdmFpbGFibGUgaW4gY29udmVuaWVudCBwYWNrYWdpbmcgc2l6ZXMgdG8gbWVldCB0aGUgcmVxdWlyZW1lbnRzIG9mIG91ciBjdXN0b21lcnMsIGVuc3VyaW5nIGZyZXNobmVzcyBhbmQgcXVhbGl0eS4KCioqQ3VsaW5hcnkgVXNlcyoqCgpCbGFjayBwZXBwZXIgaXMgYW4gZXNzZW50aWFsIHNwaWNlIGluOgogIAotICoqQ29va2luZyoqOiBVc2VkIGluIG1lYXQgbWFyaW5hZGVzLCBzb3Vwcywgc3Rld3MsIHNhdWNlcywgYW5kIGdyYXZpZXMgdG8gZW5oYW5jZSBmbGF2b3IuCiAgCi0gKipTZWFzb25pbmcqKjogQWRkcyBhIGZpbmFsIHRvdWNoIHRvIGRpc2hlcywgYWRqdXN0aW5nIGFuZCBlbGV2YXRpbmcgdGhlaXIgdGFzdGUgcHJvZmlsZXMuCiAgCi0gKipDb21tZXJjaWFsIEZvb2QgUHJvZHVjdGlvbioqOiBJbnRlZ3JhbCBpbiBmb29kIHByb2Nlc3NpbmcgYW5kIHByZXNlcnZhdGlvbiwgYWRkaW5nIGJvdGggZmxhdm9yIGFuZCBwcmVzZXJ2YXRpdmUgdmFsdWUuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpCZXlvbmQgaXRzIGN1bGluYXJ5IHVzZXMsIGJsYWNrIHBlcHBlciBvZmZlcnMgdmFyaW91cyBoZWFsdGggYmVuZWZpdHM6CiAgCi0gKipBbnRpb3hpZGFudCBQcm9wZXJ0aWVzKio6IENvbnRhaW5zIGFudGlveGlkYW50cyB0aGF0IGhlbHAgZmlnaHQgZnJlZSByYWRpY2FscyBpbiB0aGUgYm9keS4KICAKLSAqKkRpZ2VzdGl2ZSBBaWQqKjogU3VwcG9ydHMgZGlnZXN0aW9uIGFuZCBoZWxwcyBhbGxldmlhdGUgZGlnZXN0aXZlIGlzc3Vlcy4KICAKLSAqKkFudGktaW5mbGFtbWF0b3J5Kio6IFBvc3Nlc3NlcyBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIHRoYXQgbWF5IGhlbHAgcmVkdWNlIGluZmxhbW1hdGlvbi4KICAKLSAqKk90aGVyIEJlbmVmaXRzKio6IFVzZWQgdHJhZGl0aW9uYWxseSBmb3IgaXRzIHBvdGVudGlhbCBiZW5lZml0cyBpbiBpbXByb3ZpbmcgZGVudGFsIGhlYWx0aCBhbmQgc2tpbiBjb25kaXRpb25zLgoKKipDb250YWN0IFVzKioKCkZvciBpbnF1aXJpZXMgb3IgdG8gcGxhY2UgYW4gb3JkZXIgZm9yIG91ciBwcmVtaXVtIGJsYWNrIHBlcHBlciBwcm9kdWN0cywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSByaWNobmVzcyBhbmQgcXVhbGl0eSB0aGF0IG91ciBibGFjayBwZXBwZXIgYnJpbmdzIHRvIGN1bGluYXJ5IGNyZWF0aW9ucyB3b3JsZHdpZGUu"
+                    },
+
+                    {
+                        "id": "12",
+                        "name": "Clove Seeds",
+                        "Category": "Spices",
+                        "images": spices12,
+                        "Usage": "Conventional",
+                        "Color": "Natural Brown",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine & Handpicked",
+                        "Botanical Name": "Eugenia Caryophyllus",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipDbG92ZSBieSBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIENsb3ZlKioKCkNsb3ZlLCBrbm93biBzY2llbnRpZmljYWxseSBhcyBTeXp5Z2l1bSBhcm9tYXRpY3VtLCBpcyBvbmUgb2YgdGhlIG9sZGVzdCBhbmQgbW9zdCB2YWx1YWJsZSBzcGljZXMgaW4gdGhlIHdvcmxkLiBJdCBpcyBkZXJpdmVkIGZyb20gdGhlIGRyaWVkLCB1bm9wZW5lZCBmbG93ZXIgYnVkcyBvZiBhIHNtYWxsIGV2ZXJncmVlbiB0cmVlIG5hdGl2ZSB0byB0aGUgTW9sdWNjYXMgSXNsYW5kcyBvZiBJbmRvbmVzaWEuIEluIEluZGlhLCBjbG92ZXMgYXJlIHByaW1hcmlseSBzb3VyY2VkIGZyb20gTWVyY2FyYSBpbiBLYXJuYXRha2EgYW5kIEtlcmFsYS4gUmVub3duZWQgZm9yIGl0cyBkaXN0aW5jdCBmbGF2b3IgYW5kIG1lZGljaW5hbCBwcm9wZXJ0aWVzLCBjbG92ZXMgaGF2ZSBiZWVuIGNoZXJpc2hlZCBmb3IgY2VudHVyaWVzIGFuZCBhcmUgaW50ZWdyYWwgdG8gdmFyaW91cyBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIGFwcGxpY2F0aW9ucyB3b3JsZHdpZGUuCgoqKlZhcm5pIEV4cG9ydHMnIEV4cGVydGlzZSoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBxdWFsaXR5IGNsb3ZlcyBmcm9tIHRoZSBmaW5lc3QgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGNvbW1pdG1lbnQgaXMgdG8gZGVsaXZlciBjbG92ZXMgdGhhdCBtZWV0IHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgZXhjZWVkIHRoZSBleHBlY3RhdGlvbnMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuCgoqKlByb2R1Y3QgRGV0YWlscyoqCgotICoqVmFyaWV0aWVzKio6IFdlIG9mZmVyIGJvdGggd2hvbGUgY2xvdmVzIGFuZCBncm91bmQgY2xvdmVzLCBlbnN1cmluZyB2ZXJzYXRpbGl0eSBpbiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuCiAgCi0gKipRdWFsaXR5IEFzc3VyYW5jZSoqOiBPdXIgY2xvdmVzIGFyZSBjYXJlZnVsbHkgc2VsZWN0ZWQsIHByb2Nlc3NlZCwgYW5kIHBhY2tlZCB0byBwcmVzZXJ2ZSB0aGVpciByaWNoIGFyb21hLCBmbGF2b3IsIGFuZCBuYXR1cmFsIGdvb2RuZXNzLgogIAotICoqUGFja2FnaW5nKio6IEF2YWlsYWJsZSBpbiB2YXJpb3VzIHBhY2thZ2luZyBvcHRpb25zIHRvIHN1aXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgY3VzdG9tZXJzLCBlbnN1cmluZyBmcmVzaG5lc3MgYW5kIHF1YWxpdHkgcHJlc2VydmF0aW9uLgoKKipDdWxpbmFyeSBhbmQgTWVkaWNpbmFsIFVzZXMqKgoKQ2xvdmUgZmluZHMgZXh0ZW5zaXZlIHVzZSBpbjoKICAKLSAqKkN1bGluYXJ5IERlbGlnaHRzKio6IEFkZHMgZmxhdm9yIGFuZCBhcm9tYSB0byBiYWtlZCBnb29kcywgY2FrZXMsIGNvbmZlY3Rpb25lcnksIGNob2NvbGF0ZSwgcHVkZGluZ3MsIGRlc3NlcnRzLCBzd2VldHMsIHN5cnVwcywgcHJlc2VydmVzLCBhbmQgbW9yZS4KICAKLSAqKkNvb2tpbmcqKjogRXNzZW50aWFsIGluIGZsYXZvcmluZyBjdXJyaWVzLCBncmF2aWVzLCBwaWNrbGVzLCBrZXRjaHVwLCBzYXVjZXMsIGFuZCBzcGljZSBtaXh0dXJlcywgZW5oYW5jaW5nIHRoZSB0YXN0ZSBwcm9maWxlIG9mIGRpc2hlcy4KICAKLSAqKk1lZGljaW5hbCBCZW5lZml0cyoqOiBLbm93biBmb3IgaXRzIHBvd2VyZnVsIGxvY2FsIGFudGlzZXB0aWMgcHJvcGVydGllcyBhbmQgbWlsZCBhbmFlc3RoZXRpYyBhY3Rpb25zLiBJdCBpcyB1c2VkIGluIGJldmVyYWdlcywgbWVkaWNpbmVzLCBjb3NtZXRpY3MsIHBlcmZ1bWVyeSwgYW5kIHRvaWxldHJpZXMuCiAgCi0gKipIZWFsdGggQmVuZWZpdHMqKjogQ29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgaGVscCBwcmV2ZW50IGNlbGwgZGFtYWdlLCBwb3RlbnRpYWxseSByZWR1Y2luZyB0aGUgcmlzayBvZiBjZXJ0YWluIGRpc2Vhc2VzIGxpa2UgY2FuY2VyLiBVc2VkIGluIG9yYWwgY2FyZSBwcm9kdWN0cyBzdWNoIGFzIHRvb3RocGFzdGUgYW5kIG1vdXRod2FzaGVzIGZvciBpdHMgY2xlYW5zaW5nIGFuZCByZWZyZXNoaW5nIHByb3BlcnRpZXMuCgoqKkNvbnRhY3QgVXMqKgoKRm9yIGlucXVpcmllcyBvciB0byBwbGFjZSBhbiBvcmRlciBmb3Igb3VyIHByZW1pdW0gY2xvdmVzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIEV4cGVyaWVuY2UgdGhlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIHZlcnNhdGlsaXR5IHRoYXQgb3VyIGNsb3ZlcyBicmluZyB0byBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhlYWx0aC1lbmhhbmNpbmcgcHJvZHVjdHMgd29ybGR3aWRlLg=="
+                    },
+
+                    {
+                        "id": "13",
+                        "name": "Cardamom",
+                        "Category": "Spices",
+                        "images": spices13,
+                        "Usage": "Conventional",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine & Handpicked",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipDYXJkYW1vbSBieSBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIENhcmRhbW9tKioKClJlZ2FyZGVkIGFzIHRoZSAnUXVlZW4gb2YgU3BpY2VzJywgY2FyZGFtb20gaG9sZHMgYSBwcmVzdGlnaW91cyBwbGFjZSBhbW9uZyBzcGljZXMgZ2xvYmFsbHkuIEl0IGlzIGN1bHRpdmF0ZWQgcHJpbWFyaWx5IGluIEtlcmFsYSwgVGFtaWwgTmFkdSwgYW5kIEthcm5hdGFrYSBpbiBJbmRpYS4gQ2FyZGFtb20gaXMgdGhlIGRyaWVkIGZydWl0IG9mIGEgaGVyYmFjZW91cyBwZXJlbm5pYWwgcGxhbnQgYW5kIHRocml2ZXMgaW4gd2FybSwgaHVtaWQgY2xpbWF0ZXMgd2l0aCBsb2FteSBzb2lsIHJpY2ggaW4gb3JnYW5pYyBtYXR0ZXIuIFRoZSBjdWx0aXZhdGlvbiBhbmQgcHJvY2Vzc2luZyBtZXRob2RzIGNvbnRyaWJ1dGUgdG8gaXRzIHVuaXF1ZSBhcm9tYSwgZmxhdm9yLCBzaXplLCBhbmQgY29sb3IsIG1ha2luZyBJbmRpYW4gY2FyZGFtb20gaGlnaGx5IHByaXplZCBpbiBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIGFwcGxpY2F0aW9ucy4KCioqVmFybmkgRXhwb3J0cycgQ29tbWl0bWVudCoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSB0YWtlIHByaWRlIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBxdWFsaXR5IGNhcmRhbW9tIHRvIG1lZXQgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuIE91ciBjYXJkYW1vbSBzdGFuZHMgb3V0IGZvciBpdHMgZXhjZXB0aW9uYWwgcXVhbGl0eSwgYXJvbWEsIGFuZCBmbGF2b3IgcHJvZmlsZSwgY2F0ZXJpbmcgdG8gdmFyaW91cyBpbmR1c3RyaWVzIGluY2x1ZGluZyBjdWxpbmFyeSwgbWVkaWNpbmFsLCBhbmQgcGVyZnVtZXJ5LgoKKipQcm9kdWN0IERldGFpbHMqKgoKLSAqKlR5cGVzIG9mIENhcmRhbW9tKio6IFdlIG9mZmVyIGJvdGggTGFyZ2UgQ2FyZGFtb20gKE1hbGFiYXIgQ2FyZGFtb20pIGFuZCBTbWFsbCBDYXJkYW1vbSAoQWxsZXBwZXkgR3JlZW4gRXh0cmEgQm9sZCAtIEFHRUIsIEFsbGVwcGV5IEdyZWVuIEJvbGQgLSBBR0IsIGFuZCBBbGxlcHBleSBHcmVlbiBTdXBlcmlvciAtIEFHUykuIEVhY2ggdHlwZSBpcyBjYXJlZnVsbHkgc2VsZWN0ZWQgdG8gZW5zdXJlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcy4KICAKLSAqKkN1bGluYXJ5IFVzZXMqKjogV2lkZWx5IHVzZWQgaW4gc3dlZXRzLCBjb25mZWN0aW9uZXJ5LCBzYXZvcnkgZGlzaGVzLCBiZXZlcmFnZXMsIGFuZCBhcyBhIGZsYXZvciBlbmhhbmNlciBpbiBib3RoIHN3ZWV0IGFuZCBzYWx0eSBmb29kcy4KICAKLSAqKk1lZGljaW5hbCBhbmQgUGVyZnVtZXJ5Kio6IFJlY29nbml6ZWQgZm9yIGl0cyBtZWRpY2luYWwgcHJvcGVydGllcywgY2FyZGFtb20gaXMgdXNlZCBpbiB0cmFkaXRpb25hbCBtZWRpY2luZXMsIGhlcmJhbCByZW1lZGllcywgYW5kIHBlcmZ1bWVzIGZvciBpdHMgYXJvbWF0aWMgYW5kIHRoZXJhcGV1dGljIGJlbmVmaXRzLgogIAotICoqR2xvYmFsIERlbWFuZCoqOiBJbmRpYW4gY2FyZGFtb20sIGtub3duIGZvciBpdHMgZGlzdGluY3RpdmUgYXJvbWEgYW5kIGZsYXZvciwgZW5qb3lzIHNpZ25pZmljYW50IGRlbWFuZCBpbiBpbnRlcm5hdGlvbmFsIG1hcmtldHMsIHBhcnRpY3VsYXJseSBpbiBBc2lhIGFuZCB0aGUgTWlkZGxlIEVhc3QuCgoqKlF1YWxpdHkgQXNzdXJhbmNlIGFuZCBQYWNrYWdpbmcqKgoKLSAqKlF1YWxpdHkgQ29udHJvbCoqOiBPdXIgY2FyZGFtb20gdW5kZXJnb2VzIHJpZ29yb3VzIHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyB0byBtYWludGFpbiBmcmVzaG5lc3MsIGZsYXZvciwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgogIAotICoqUGFja2FnaW5nKio6IEF2YWlsYWJsZSBpbiB2YXJpb3VzIHBhY2thZ2luZyBvcHRpb25zIHRhaWxvcmVkIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgY3VzdG9tZXJzLCBlbnN1cmluZyBvcHRpbWFsIHNoZWxmIGxpZmUgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbi4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBjYXJkYW1vbSBwcm9kdWN0cywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSByaWNobmVzcyBhbmQgdmVyc2F0aWxpdHkgb2Ygb3VyIGNhcmRhbW9tIHRoYXQgYWRkcyB1bm1hdGNoZWQgZmxhdm9yIGFuZCBhcm9tYSB0byB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyBhbmQgcHJvZHVjdHMgd29ybGR3aWRlLg=="
+                    },
+
+                    {
+                        "id": "14",
+                        "name": "Black Cumin Seeds",
+                        "Category": "Spices",
+                        "images": spices14,
+                        "Usage": "Conventional",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine Clean & Sortex Clean",
+                        "Botanical Name": "Nigella Sativa",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipOaWdlbGxhIFNlZWRzIChLYWxvbmppIFNlZWRzKSoqCgoqKk92ZXJ2aWV3KioKCk5pZ2VsbGEgc2VlZHMsIHBvcHVsYXJseSBrbm93biBhcyBLYWxvbmppIHNlZWRzIGluIHRoZSBJbmRpYW4gbWFya2V0LCBhcmUgY2VsZWJyYXRlZCBmb3IgdGhlaXIgZWFydGh5IGFuZCBzbW9reSB0YXN0ZS4gVGhlc2Ugc21hbGwsIG1hdHRlLWJsYWNrIGdyYWlucyB3aXRoIGEgcm91Z2ggc3VyZmFjZSBhbmQgb2lseSB3aGl0ZSBpbnRlcmlvciBhcmUgZGVyaXZlZCBmcm9tIHRoZSBwbGFudCBOaWdlbGxhIHNhdGl2YSwgb2Z0ZW4gcmVmZXJyZWQgdG8gYXMgYmxhY2sgY3VtaW4uIFRoZXkgaGF2ZSBiZWVuIHByaXplZCBmb3IgY2VudHVyaWVzIGZvciBib3RoIHRoZWlyIGN1bGluYXJ5IGFuZCBjdXJhdGl2ZSBwcm9wZXJ0aWVzLCBtYWtpbmcgdGhlbSBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IGluIHZhcmlvdXMgY3Vpc2luZXMgYW5kIHRyYWRpdGlvbmFsIG1lZGljaW5lIHByYWN0aWNlcy4KCioqTWVkaWNpbmFsIFByb3BlcnRpZXMqKgoKUmljaCBpbiBudXRyaWVudHMgYW5kIGJpb2FjdGl2ZSBjb21wb3VuZHMsIG5pZ2VsbGEgc2VlZHMgY29udGFpbiB0aHltb3F1aW5vbmUsIGEgcG90ZW50IGJpb2FjdGl2ZSBrbm93biBmb3IgaXRzIHBvdGVudGlhbCBpbiB0cmVhdGluZyBjb25kaXRpb25zIHN1Y2ggYXMgZXBpbGVwc3ksIGFsbGVyZ2llcywgYW5kIGZvciBib29zdGluZyB0aGUgaW1tdW5lIHN5c3RlbS4gVGhlIG9pbCBleHRyYWN0ZWQgZnJvbSB0aGVzZSBzZWVkcyBoYXMgYmVlbiBleHRlbnNpdmVseSB1c2VkIGluIHRoZSBNaWRkbGUgRWFzdCBhbmQgU291dGggQXNpYSBmb3IgaXRzIHRoZXJhcGV1dGljIGJlbmVmaXRzIGluIGNvc21ldGljcywgaGVyYmFsIHJlbWVkaWVzLCBhbmQgbWVkaWNpbmFsIHByb2R1Y3RzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKTmlnZWxsYSBzZWVkcyBhcmUgYXNzb2NpYXRlZCB3aXRoIGEgd2lkZSByYW5nZSBvZiBoZWFsdGggYmVuZWZpdHM6Ci0gKipDYW5jZXIgUHJldmVudGlvbioqOiBTdHVkaWVzIHN1Z2dlc3QgcG90ZW50aWFsIGJlbmVmaXRzIGluIGNvbWJhdGluZyBjZXJ2aWNhbCBjYW5jZXIgYW5kIG90aGVyIHR5cGVzIG9mIGNhbmNlcm91cyBjZWxscy4KLSAqKkNhcmRpb3Zhc2N1bGFyIEhlYWx0aCoqOiBIZWxwcyBpbiBtYW5hZ2luZyBoaWdoIGJsb29kIHByZXNzdXJlIGFuZCBwcm9tb3RpbmcgaGVhcnQgaGVhbHRoLgotICoqUmVzcGlyYXRvcnkgU3VwcG9ydCoqOiBFZmZlY3RpdmUgaW4gcmVsaWV2aW5nIGFzdGhtYSBzeW1wdG9tcyBhbmQgc29vdGhpbmcgc29yZSB0aHJvYXRzLgotICoqSW1tdW5lIEJvb3N0aW5nKio6IFN0cmVuZ3RoZW5zIHRoZSBpbW11bmUgc3lzdGVtIGFuZCBhaWRzIGluIHBvc3Qtc3VyZ2ljYWwgc2NhciBwcmV2ZW50aW9uIGFuZCByYWRpYXRpb24gZGFtYWdlIGNvbnRyb2wuCgoqKlVzZXMqKgoKLSAqKkN1bGluYXJ5Kio6IFVzZWQgYXMgc3BpY2VzIGluIGNvb2tpbmcsIHBhcnRpY3VsYXJseSBpbiBJbmRpYW4gYW5kIE1pZGRsZSBFYXN0ZXJuIGN1aXNpbmVzLiBUaGV5IGFkZCBkZXB0aCBvZiBmbGF2b3IgdG8gYnJlYWRzLCBwYXN0cmllcywgYW5kIGRlc3NlcnRzIGxpa2UgRW5nbGlzaCBzZWVkIGNha2UuCiAgCi0gKipNZWRpY2luYWwqKjogR3JvdW5kIGludG8gcG93ZGVyIGZvcm0gZm9yIGNyZWF0aW5nIEF5dXJ2ZWRpYyBtZWRpY2luZXMgb3IgdXNlZCB0b3BpY2FsbHkgYW5kIGNvbnN1bWVkIGFzIG9pbCBmb3IgdmFyaW91cyBoZWFsdGggYmVuZWZpdHMuCiAgCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHN1cGVyaW9yIHF1YWxpdHkgbmlnZWxsYSBzZWVkcyAoS2Fsb25qaSkgZnJvbSBvdXIgcHJvZHVjdGlvbiBmYWNpbGl0eS4gT3VyIHByb2R1Y3RzIGFyZSBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IGh5Z2llbmUgY29uZGl0aW9ucyB0byBlbnN1cmUgcHVyaXR5LCBhY2N1cmF0ZSBmb3JtdWxhdGlvbnMsIGFuZCBtYXhpbXVtIGZyZXNobmVzcy4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBuaWdlbGxhIHNlZWRzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIERpc2NvdmVyIHRoZSByaWNoIGFyb21hLCBkaXN0aW5jdGl2ZSBmbGF2b3IsIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMgb2YgbmlnZWxsYSBzZWVkcyB0aGF0IGVuaGFuY2UgYm90aCBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIHdlbGxuZXNzIHByYWN0aWNlcyBnbG9iYWxseS4K"
+                    },
+
+                    {
+                        "id": "15",
+                        "name": "Dill Seeds",
+                        "Category": "Spices",
+                        "images": spices15,
+                        "Usage": "Conventional",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "99%, 99.50%",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "IyMjIERpc2NvdmVyIHRoZSBFc3NlbmNlIG9mIERpbGwgU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzCgpWYXJuaSBFeHBvcnRzIHByb3VkbHkgaW50cm9kdWNlcyBEaWxsIFNlZWRzLCBrbm93biBhcyAiU293YSIgaW4gSGluZGksIHNvdXJjZWQgZnJvbSB0aGUgZmluZXN0IG9yaWdpbnMgdG8gZW5oYW5jZSB5b3VyIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBoZWFsdGggYmVuZWZpdHMuCgojIyMgT3JpZ2luIGFuZCBIaXN0b3J5CgpEaWxsIG9yaWdpbmF0ZWQgYXJvdW5kIHRoZSBNZWRpdGVycmFuZWFuIGFuZCBzb3V0aGVybiBSdXNzaWEuIFpvaGFyeSBhbmQgSG9wZiBub3RlZCBpdHMgd2lkZXNwcmVhZCBwcmVzZW5jZSBpbiB0aGUgTWVkaXRlcnJhbmVhbiBCYXNpbiBhbmQgV2VzdCBBc2lhLiBBcmNoYWVvbG9naWNhbCBldmlkZW5jZSB0cmFjZXMgaXRzIGN1bHRpdmF0aW9uIHRvIGxhdGUgTmVvbGl0aGljIHNldHRsZW1lbnRzIGluIFN3aXR6ZXJsYW5kLCB3aXRoIHJlbW5hbnRzIGZvdW5kIGluIFJvbWFuIHJ1aW5zIGluIEdyZWF0IEJyaXRhaW4uCgojIyMgQ3VsaW5hcnkgRGVsaWdodAoKRGlsbCBzZWVkcyBhcmUgYSBjaGVyaXNoZWQgYW5jaWVudCBJbmRpYW4gc3BpY2UsIHZhbHVlZCBmb3IgdGhlaXIgZmxhdCwgb3ZhbCBzaGFwZSBhbmQgZGVsaWdodGZ1bCBhcm9tYS4gVGhleSBhcmUgdXNlZCB3aG9sZSBvciBjcnVzaGVkLCBlbnJpY2hpbmcgYnJlYWQsIHNvdXBzLCB2ZWdldGFibGUgZGlzaGVzLCBhbmQgcGlja2xlcy4gQWRkaXRpb25hbGx5LCB0aGV5IGVsZXZhdGUgc2FsYWQgZHJlc3NpbmdzIGFuZCBhcmUgZXNzZW50aWFsIGluIGNyZWF0aW5nIGRpbGwgdmluZWdhci4KCiMjIyBOdXRyaXRpb25hbCBQb3dlcmhvdXNlCgpSaWNoIGluIGNhbGNpdW0sIGlyb24sIG1hZ25lc2l1bSwgcG90YXNzaXVtLCB6aW5jLCBhbmQgdml0YW1pbiBBLCBkaWxsIHNlZWRzIGFsc28gYm9hc3QgZXNzZW50aWFsIGFtaW5vIGFjaWRzIGxpa2UgdGhyZW9uaW5lLCBpc29sZXVjaW5lLCBsZXVjaW5lLCBseXNpbmUsIG1ldGhpb25pbmUsIHBoZW55bGFsYW5pbmUsIHZhbGluZSwgYXJnaW5pbmUsIGFuZCBoaXN0aWRpbmUuCgojIyMgSGVhbHRoIEJlbmVmaXRzCgoxLiAqKkRpZ2VzdGl2ZSBBaWQqKjogRGlsbCBzZWVkcyBhcmUgcmVub3duZWQgZm9yIGVhc2luZyBkaWdlc3RpdmUgZGlzY29tZm9ydHMgbGlrZSB1cHNldCBzdG9tYWNoIGFuZCBkaWFycmhlYS4KICAgCjIuICoqV29tZW7igJlzIEhlYWx0aCoqOiBCZW5lZmljaWFsIGZvciBtZW5zdHJ1YWwgcGFpbiBhbmQgbGFjdGF0aW9uLCBkaWxsIHNlZWRzIGFpZCBpbiBtaWxrIHByb2R1Y3Rpb24gZm9yIG51cnNpbmcgbW90aGVycy4KCjMuICoqUmVzcGlyYXRvcnkgU3VwcG9ydCoqOiBEaWxsIHRlYSBvZmZlcnMgcmVsaWVmIGZyb20gY291Z2hzLCBmbHUgc3ltcHRvbXMsIGFuZCBiYWQgYnJlYXRoLCBhY3RpbmcgYXMgYSBuYXR1cmFsIHJlbWVkeS4KCiMjIyBDdWxpbmFyeSBhbmQgQmV5b25kCgpEaWxsJ3MgdmVyc2F0aWxpdHkgZXh0ZW5kcyBiZXlvbmQgY29va2luZzsgaXRzIHNlZWRzIGFuZCBsZWF2ZXMgZW5oYW5jZSBwaWNrbGVzLCBtZWF0LCBmaXNoLCBlZ2cgZGlzaGVzLCBhbmQgYnJlYWQuIERpbGwtaW5mdXNlZCB2aW5lZ2FyIGFuZCBvaWxzIGVucmljaCBwZXJmdW1lcyBhbmQgc29hcHMsIHNob3djYXNpbmcgaXRzIGFyb21hdGljIGVzc2VuY2UuCgojIyMgRW5qb3kgRGlsbCB3aXRoIFZhcm5pIEV4cG9ydHMKClZhcm5pIEV4cG9ydHMgaXMgZGVkaWNhdGVkIHRvIGRlbGl2ZXJpbmcgcHJlbWl1bS1xdWFsaXR5IERpbGwgU2VlZHMgdGhhdCBlbnJpY2ggY3Vpc2luZXMgd29ybGR3aWRlLiBDb250YWN0IHVzIHRvIGV4cGxvcmUgb3VyIG9mZmVyaW5ncyBhbmQgZWxldmF0ZSB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyB3aXRoIHRoZSBlc3NlbmNlIG9mIGRpbGwuIEV4cGVyaWVuY2UgdGhlIHF1YWxpdHkgYW5kIGNvbW1pdG1lbnQgb2YgVmFybmkgRXhwb3J0cyB0b2RheSE="
+                    },
+
+                    {
+                        "id": "16",
+                        "name": "Bay Leaves",
+                        "Category": "Spices",
+                        "images": spices16,
+                        "Part Used": "Leaf",
+                        "Hindi Name": "Tej Patta, Tej Pat, Tejpat, Tejpata",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "99%, 99.50%",
+                        "Botanical Name": "Cinnamomum Tamala",
+                        "Application": "Food Products, Seasonings",
+                        "Packaging": "10 Kg, 15 Kg, 25 Kg",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipFeHBsb3JlIHRoZSBFc3NlbmNlIG9mIEluZGlhbiBCYXkgTGVhZiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKKipPcmlnaW4gYW5kIE5hbWUqKgoKTmF0aXZlIHRvIEFzaWEgTWlub3IsIHRoZSBJbmRpYW4gQmF5IExlYWYgaXMga25vd24gYnkgc2V2ZXJhbCBuYW1lcyBzdWNoIGFzICdTd2VldCBCYXknLCAnQmF5IExhdXJlbCcsICdOb2JsZSBMYXVyZWwnLCBhbmQgJ1RydWUgTGF1cmVsJy4gSXQgc2hhcmVzIGEgZnJhZ3JhbmNlIGFuZCB0YXN0ZSBha2luIHRvIGNpbm5hbW9uIGJhcmsgYnV0IG1pbGRlciwgY2xvc2VseSByZWxhdGVkIHRvIGNhc3NpYS4gVG8gZW5oYW5jZSBmbGF2b3IgYW5kIHJlZHVjZSBiaXR0ZXJuZXNzLCBhIGNhcmVmdWwgZHJ5aW5nIHByb2NlZHVyZSBpcyBlbXBsb3llZCBpbW1lZGlhdGVseSBhZnRlciBtYW51YWwgcGx1Y2tpbmcgYW5kIHNvcnRpbmcsIGVuc3VyaW5nIHRoZSBsZWF2ZXMgcmV0YWluIHRoZWlyIGJyaWdodCBncmVlbiBjb2xvciwgYSBoYWxsbWFyayBvZiBzdXBlcmlvciBxdWFsaXR5LgoKKipBcm9tYXRpYyBQcm9maWxlKioKCkluZGlhbiBCYXkgTGVhZiBib2FzdHMgYSBmcmFncmFuY2UgcmVtaW5pc2NlbnQgb2YgY2lubmFtb24gYmFyaywgYWxiZWl0IGdlbnRsZXIuIEl0cyB0YXN0ZSBwcm9maWxlIGlzIGFsc28gYWtpbiB0byBjYXNzaWEsIHdpdGggdGhlIGJpdHRlcm5lc3Mgc2lnbmlmaWNhbnRseSBkaW1pbmlzaGVkIHRocm91Z2ggbWV0aWN1bG91cyBkcnlpbmcgdGVjaG5pcXVlcy4gVGhlIGxlYXZlcycgYnJpZ2h0IGdyZWVuIGh1ZSBzZXJ2ZXMgYXMgYSB2aXN1YWwgaW5kaWNhdG9yIG9mIHRoZWlyIHByZW1pdW0gcXVhbGl0eSwgbWFraW5nIHRoZW0gaWRlYWwgZm9yIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgYXBwbGljYXRpb25zLgoKKipDdWxpbmFyeSBhbmQgTWVkaWNpbmFsIFVzZXMqKgoKSW5kaWFuIEJheSBMZWFmIGlzIGEgdmVyc2F0aWxlIGhlcmIgdXNlZCB0byBlbmhhbmNlIHRoZSBmbGF2b3Igb2YgdmFyaW91cyBkaXNoZXMsIGltcGFydGluZyBhIG1pbGQsIGFyb21hdGljIGVzc2VuY2UgdG8gc3Rld3MsIHNvdXBzLCBzYXVjZXMsIGFuZCBtYXJpbmFkZXMuIEJleW9uZCBpdHMgY3VsaW5hcnkgYXBwZWFsLCB0aGUgbGVhZiBvZmZlcnMgbWVkaWNpbmFsIGJlbmVmaXRzLCBjb250cmlidXRpbmcgdG8gZGlnZXN0aXZlIGhlYWx0aCBhbmQgb3ZlcmFsbCB3ZWxsbmVzcy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGluIGV2ZXJ5IGJhdGNoIG9mIEluZGlhbiBCYXkgTGVhdmVzIHdlIG9mZmVyLiBPdXIgbGVhdmVzIGFyZSBjYXJlZnVsbHkgc2VsZWN0ZWQsIG1hbnVhbGx5IHBsdWNrZWQsIGFuZCBwcm9tcHRseSBkcmllZCB0byBwcmVzZXJ2ZSB0aGVpciBhcm9tYSwgdGFzdGUsIGFuZCB2aWJyYW50IGdyZWVuIGNvbG9yLiBUaGlzIGVuc3VyZXMgdGhhdCBlYWNoIGxlYWYgcmV0YWlucyBpdHMgZnJlc2huZXNzIGFuZCBwb3RlbmN5LCByZWFkeSB0byBlbnJpY2ggeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhvbGlzdGljIHdlbGwtYmVpbmcuCgoqKkRpc2NvdmVyIEluZGlhbiBCYXkgTGVhZiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyBwcmVtaXVtLXF1YWxpdHkgSW5kaWFuIEJheSBMZWF2ZXMgdGhhdCBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBvZiBmcmVzaG5lc3MgYW5kIGZsYXZvci4gQ29udGFjdCB1cyB0byBleHBsb3JlIG91ciByYW5nZSBvZiBhcm9tYXRpYyBoZXJicyBhbmQgc3BpY2VzLCBhbmQgZXhwZXJpZW5jZSB0aGUgZXNzZW5jZSBvZiBJbmRpYW4gQmF5IExlYWYgaW4geW91ciBraXRjaGVuIGFuZCBiZXlvbmQuIFBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzIGZvciBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBzZXJ2aWNlLg=="
+                    },
+
+                    {
+                        "id": "17",
+                        "name": "Ajwain Seeds",
+                        "Category": "Spices",
+                        "images": spices17,
+                        "Origin": "India",
+                        "Moisture": "10% Max",
+                        "Purity": "99%",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine Cleaned",
+                        "Acid Insoluble Ash": "1.75% Max",
+                        "Certification": "FSSAI Certified",
+                        "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
+                        "Loading": "15 to 30 Tons",
+                        "description": "KipEaXNjb3ZlciBBandhaW4gU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqT3JpZ2luIGFuZCBOYW1lKioKCkFqd2FpbiBzZWVkcywgYWxzbyBrbm93biBhcyBjYXJvbSBzZWVkcyBvciBiaXNob3AncyB3ZWVkLCBvcmlnaW5hdGUgZnJvbSB0aGUgRWFzdGVybiBNZWRpdGVycmFuZWFuIGFuZCBhcmUgY3VsdGl2YXRlZCBhY3Jvc3MgSW5kaWEuIEtub3duIGZvciB0aGVpciBwdW5nZW50IGFyb21hIGFuZCBkaXN0aW5jdCB0YXN0ZSwgYWp3YWluIHNlZWRzIGhhdmUgYmVlbiBpbnRlZ3JhbCB0byBJbmRpYW4gY3VsaW5hcnkgYW5kIG1lZGljaW5hbCBwcmFjdGljZXMgZm9yIGNlbnR1cmllcy4KCioqQXJvbWF0aWMgUHJvZmlsZSoqCgpBandhaW4gc2VlZHMgaGF2ZSBhIHN0cm9uZywgYXJvbWF0aWMgc2NlbnQgcmVtaW5pc2NlbnQgb2YgdGh5bWUsIHdpdGggYSBmbGF2b3IgdGhhdCBjb21iaW5lcyBiaXR0ZXJuZXNzIGFuZCBzbGlnaHQgcGVwcGVyeSB1bmRlcnRvbmVzLiBUaGUgc2VlZHMgYXJlIHNtYWxsIGFuZCBvdmFsLXNoYXBlZCwgd2l0aCByaWRnZXMgdGhhdCBjb250cmlidXRlIHRvIHRoZWlyIHVuaXF1ZSB0ZXh0dXJlIGFuZCBhcHBlYXJhbmNlLgoKKipDdWxpbmFyeSBVc2VzKioKCkluIEluZGlhbiBjdWlzaW5lLCBhandhaW4gc2VlZHMgYXJlIGEgcG9wdWxhciBzcGljZSB1c2VkIHRvIGVuaGFuY2UgdGhlIGZsYXZvciBvZiB2YXJpb3VzIGRpc2hlcy4gVGhleSBhcmUgb2Z0ZW4gYWRkZWQgdG8gYnJlYWQsIHN1Y2ggYXMgcGFyYXRoYXMgYW5kIHB1cmlzLCB0byBpbXBhcnQgYSBkaXN0aW5jdGl2ZSB0YXN0ZSBhbmQgYWlkIGluIGRpZ2VzdGlvbi4gQWRkaXRpb25hbGx5LCB0aGV5IGFyZSB1c2VkIGluIHBpY2tsZXMsIHNuYWNrcywgY3VycmllcywgYW5kIHNwaWNlIGJsZW5kcywgb2ZmZXJpbmcgYSB3YXJtLCBlYXJ0aHkgZmxhdm9yIHRoYXQgY29tcGxlbWVudHMgYm90aCB2ZWdldGFyaWFuIGFuZCBub24tdmVnZXRhcmlhbiBkaXNoZXMuCgoqKk1lZGljaW5hbCBCZW5lZml0cyoqCgpBandhaW4gc2VlZHMgYXJlIHJlbm93bmVkIGZvciB0aGVpciBtZWRpY2luYWwgcHJvcGVydGllcy4gVGhleSBhcmUgdmFsdWVkIGZvciB0aGVpciBhYmlsaXR5IHRvIGFpZCBkaWdlc3Rpb24sIGFsbGV2aWF0ZSBzdG9tYWNoIGRpc2NvbWZvcnRzIHN1Y2ggYXMgZ2FzIGFuZCBibG9hdGluZywgYW5kIGVuaGFuY2UgYXBwZXRpdGUuIFRoZSBzZWVkcyBjb250YWluIGVzc2VudGlhbCBvaWxzIGxpa2UgdGh5bW9sLCB3aGljaCBoYXZlIGFudGltaWNyb2JpYWwgYW5kIGFudGlmdW5nYWwgcHJvcGVydGllcywgbWFraW5nIGFqd2FpbiBhIHBvcHVsYXIgcmVtZWR5IGZvciByZXNwaXJhdG9yeSBpc3N1ZXMgbGlrZSBjb3VnaHMgYW5kIGFzdGhtYS4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIHRoYXQgb3VyIGFqd2FpbiBzZWVkcyBhcmUgc291cmNlZCBmcm9tIHJlcHV0YWJsZSBncm93ZXJzIGFuZCBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcy4gRWFjaCBiYXRjaCBpcyBjYXJlZnVsbHkgaW5zcGVjdGVkIHRvIG1haW50YWluIGZyZXNobmVzcywgYXJvbWEsIGFuZCBmbGF2b3IsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGhpZ2hlc3QgcXVhbGl0eSBhandhaW4gc2VlZHMuCgoqKkV4cGxvcmUgQWp3YWluIFNlZWRzIHdpdGggVmFybmkgRXhwb3J0cyoqCgpQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyB0byBleHBlcmllbmNlIHRoZSBhcm9tYXRpYyBhbmQgZmxhdm9yZnVsIGFqd2FpbiBzZWVkcyB0aGF0IGFkZCBhIGRpc3RpbmN0aXZlIHRvdWNoIHRvIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zLiBDb250YWN0IHVzIHRvIGRpc2NvdmVyIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIHNwaWNlcyBhbmQgaGVyYnMsIGFuZCBob3cgd2UgY2FuIGNhdGVyIHRvIHlvdXIgc291cmNpbmcgbmVlZHMgd2l0aCByZWxpYWJpbGl0eSBhbmQgZXhjZWxsZW5jZS4gVHJ1c3QgVmFybmkgRXhwb3J0cyBmb3IgcHJlbWl1bSBxdWFsaXR5IGFqd2FpbiBzZWVkcyBhbmQgZXhjZXB0aW9uYWwgc2VydmljZS4="
+                    },
+
+                    {
+                        "id": "18",
+                        "name": "Caraway Seeds",
+                        "Category": "Spices",
+                        "images": spices18,
+                        "Moisture": "10% Max",
+                        "Purity": "99%",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine Cleaned",
+                        "Certification": "FSSAI Certified",
+                        "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
+                        "Loading": "15 to 30 Tons",
+                        "description": "KipJbnRyb2R1Y2luZyBDYXJhd2F5IFNlZWRzIHdpdGggVmFybmkgRXhwb3J0cyoqCgoqKk9yaWdpbnMgYW5kIENoYXJhY3RlcmlzdGljcyoqCgpDYXJhd2F5IHNlZWRzLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBDYXJ1bSBjYXJ2aSwgYXJlIG5hdGl2ZSB0byBFdXJvcGUsIFdlc3Rlcm4gQXNpYSwgYW5kIE5vcnRoIEFmcmljYS4gVGhlc2Ugc2VlZHMgaGF2ZSBhIHdhcm0sIGFyb21hdGljIGZsYXZvciB3aXRoIGEgaGludCBvZiBjaXRydXMgYW5kIGFuaXNlLWxpa2UgdW5kZXJ0b25lcy4gVGhleSBhcmUgc21hbGwgYW5kIGNyZXNjZW50LXNoYXBlZCwgZmVhdHVyaW5nIHByb21pbmVudCByaWRnZXMgYWxvbmcgdGhlaXIgc3VyZmFjZS4KCioqQ3VsaW5hcnkgRGVsaWdodHMqKgoKQ2FyYXdheSBzZWVkcyBhcmUgYSB2ZXJzYXRpbGUgc3BpY2UgdXNlZCBpbiBjdWlzaW5lcyB3b3JsZHdpZGUuIEluIEV1cm9wZWFuIGNvb2tpbmcsIHRoZXkgYXJlIGEga2V5IGluZ3JlZGllbnQgaW4gcnllIGJyZWFkLCBpbXBhcnRpbmcgYSBkaXN0aW5jdGl2ZSBmbGF2b3IuIFRoZXkgYWxzbyBlbmhhbmNlIHRoZSB0YXN0ZSBvZiBzYXVlcmtyYXV0LCBjYWJiYWdlIGRpc2hlcywgYW5kIHZhcmlvdXMgY2hlZXNlcy4gSW4gTWlkZGxlIEVhc3Rlcm4gYW5kIEluZGlhbiBjdWlzaW5lcywgY2FyYXdheSBzZWVkcyBhcmUgdXNlZCBpbiBtZWF0IGRpc2hlcywgc3Rld3MsIGFuZCBhcyBhIGZsYXZvcmluZyBhZ2VudCBpbiBzcGljZSBibGVuZHMgbGlrZSBnYXJhbSBtYXNhbGEuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpCZXlvbmQgdGhlaXIgY3VsaW5hcnkgdXNlcywgY2FyYXdheSBzZWVkcyBvZmZlciBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuIFRoZXkgYXJlIHJpY2ggaW4gZXNzZW50aWFsIG9pbHMsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIGluY2x1ZGluZyBmaWJlciwgY2FsY2l1bSwgaXJvbiwgYW5kIG1hZ25lc2l1bS4gQ2FyYXdheSBzZWVkcyBhcmUga25vd24gZm9yIHRoZWlyIGRpZ2VzdGl2ZSBwcm9wZXJ0aWVzLCBhaWRpbmcgaW4gcmVsaWV2aW5nIGJsb2F0aW5nLCBpbmRpZ2VzdGlvbiwgYW5kIGZsYXR1bGVuY2UuIFRoZXkgYWxzbyBwb3NzZXNzIGFudGlveGlkYW50IGFuZCBhbnRpbWljcm9iaWFsIHByb3BlcnRpZXMgdGhhdCBjb250cmlidXRlIHRvIG92ZXJhbGwgd2VsbC1iZWluZy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGluIGV2ZXJ5IGJhdGNoIG9mIGNhcmF3YXkgc2VlZHMgd2Ugc291cmNlIGFuZCBleHBvcnQuIE91ciBzZWVkcyBhcmUgbWV0aWN1bG91c2x5IHNlbGVjdGVkIGZyb20gdHJ1c3RlZCBncm93ZXJzIHRvIGVuc3VyZSBmcmVzaG5lc3MsIGZsYXZvciwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLiBSaWdvcm91cyBxdWFsaXR5IGNvbnRyb2wgbWVhc3VyZXMgYXJlIGVtcGxveWVkIHRocm91Z2hvdXQgdGhlIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZyBzdGFnZXMgdG8gbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBhbmQgZXhjZWVkIGN1c3RvbWVyIGV4cGVjdGF0aW9ucy4KCioqUGFydG5lciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgd29ybGQgb2YgY2FyYXdheSBzZWVkcyB3aXRoIFZhcm5pIEV4cG9ydHMsIHlvdXIgcmVsaWFibGUgcGFydG5lciBpbiBzb3VyY2luZyBwcmVtaXVtIHNwaWNlcyBhbmQgaGVyYnMuIENvbnRhY3QgdXMgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZGl2ZXJzZSByYW5nZSBvZiBwcm9kdWN0cyBhbmQgaG93IHdlIGNhbiBtZWV0IHlvdXIgc3BlY2lmaWMgcmVxdWlyZW1lbnRzIHdpdGggcHJvZmVzc2lvbmFsaXNtIGFuZCBlZmZpY2llbmN5LiBUcnVzdCBWYXJuaSBFeHBvcnRzIGZvciBzdXBlcmlvciBxdWFsaXR5IGNhcmF3YXkgc2VlZHMgYW5kIGV4Y2VwdGlvbmFsIHNlcnZpY2UgaW4gZXZlcnkgc2hpcG1lbnQu"
+                    },
+
+                    {
+                        "id": "19",
+                        "name": "Celery Seeds",
+                        "Category": "Spices",
+                        "images": spices19,
+                        "Moisture": "10% Max",
+                        "Purity": "99%",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine Cleaned",
+                        "Acid Insoluble Ash": "1.75% Max",
+                        "Certification": "FSSAI Certified",
+                        "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
+                        "Loading": "15 to 30 Tons",
+                        "description": "KipJbnRyb2R1Y2luZyBDZWxlcnkgU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqT3JpZ2lucyBhbmQgQ2hhcmFjdGVyaXN0aWNzKioKCkNlbGVyeSBzZWVkcywgZGVyaXZlZCBmcm9tIHRoZSBjZWxlcnkgcGxhbnQgKEFwaXVtIGdyYXZlb2xlbnMpLCBhcmUgc21hbGwgYW5kIGRhcmsgYnJvd24gd2l0aCBhIHN0cm9uZyBhcm9tYSBhbmQgaW50ZW5zZSBmbGF2b3IuIE5hdGl2ZSB0byB0aGUgTWVkaXRlcnJhbmVhbiByZWdpb24gYW5kIHdpZGVseSBjdWx0aXZhdGVkIGdsb2JhbGx5LCBjZWxlcnkgc2VlZHMgYXJlIGtub3duIGZvciB0aGVpciBkaXN0aW5jdCB0YXN0ZSB0aGF0IGNvbWJpbmVzIGVhcnRoaW5lc3Mgd2l0aCBhIGhpbnQgb2YgYml0dGVybmVzcyBhbmQgcGVwcGVyaW5lc3MuCgoqKkN1bGluYXJ5IFVzZXMqKgoKQ2VsZXJ5IHNlZWRzIGFyZSBhIHZlcnNhdGlsZSBzcGljZSB1c2VkIGluIHZhcmlvdXMgY3Vpc2luZXMgYXJvdW5kIHRoZSB3b3JsZC4gVGhleSBhcmUgYSBjb21tb24gaW5ncmVkaWVudCBpbiBwaWNrbGluZyBicmluZXMsIGltcGFydGluZyBhIHJvYnVzdCBmbGF2b3IgdG8gcGlja2xlZCB2ZWdldGFibGVzIGxpa2UgY3VjdW1iZXJzIGFuZCBjYXJyb3RzLiBJbiBjb29raW5nLCBjZWxlcnkgc2VlZHMgYXJlIHVzZWQgdG8gc2Vhc29uIHNvdXBzLCBzdGV3cywgc2F1Y2VzLCBhbmQgc2FsYWQgZHJlc3NpbmdzLCBhZGRpbmcgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gZGlzaGVzLiBUaGV5IGFyZSBhbHNvIHBvcHVsYXIgaW4gc3BpY2UgYmxlbmRzLCBzdWNoIGFzIGN1cnJ5IHBvd2RlcnMgYW5kIHNwaWNlIHJ1YnMgZm9yIG1lYXRzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIHRoZWlyIGN1bGluYXJ5IGFwcGxpY2F0aW9ucywgY2VsZXJ5IHNlZWRzIGFyZSB2YWx1ZWQgZm9yIHRoZWlyIHBvdGVudGlhbCBoZWFsdGggYmVuZWZpdHMuIFRoZXkgY29udGFpbiBlc3NlbnRpYWwgb2lscywgYW50aW94aWRhbnRzLCB2aXRhbWlucywgYW5kIG1pbmVyYWxzIHRoYXQgc3VwcG9ydCBkaWdlc3RpdmUgaGVhbHRoIGFuZCBvdmVyYWxsIHdlbGwtYmVpbmcuIENlbGVyeSBzZWVkcyBhcmUgYmVsaWV2ZWQgdG8gaGF2ZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIGFuZCBtYXkgaGVscCBpbiByZWR1Y2luZyBpbmZsYW1tYXRpb24tcmVsYXRlZCBhaWxtZW50cy4gQWRkaXRpb25hbGx5LCB0aGV5IGFyZSBrbm93biB0byBhaWQgaW4gbG93ZXJpbmcgYmxvb2QgcHJlc3N1cmUgYW5kIGltcHJvdmluZyBjYXJkaW92YXNjdWxhciBoZWFsdGguCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHVwaG9sZCBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMgdG8gZGVsaXZlciBwcmVtaXVtIGNlbGVyeSBzZWVkcyB0byBvdXIgY3VzdG9tZXJzIHdvcmxkd2lkZS4gV2Ugc291cmNlIG91ciBzZWVkcyBmcm9tIHJlcHV0YWJsZSBncm93ZXJzIGFuZCBlbnN1cmUgdGhleSB1bmRlcmdvIHJpZ29yb3VzIHF1YWxpdHkgY2hlY2tzIHRocm91Z2hvdXQgdGhlIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZyBzdGFnZXMuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyB0aGF0IGVhY2ggYmF0Y2ggb2YgY2VsZXJ5IHNlZWRzIG1lZXRzIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgYW5kIHF1YWxpdHkgcmVndWxhdGlvbnMuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkV4cGxvcmUgdGhlIGN1bGluYXJ5IGFuZCBoZWFsdGggYmVuZWZpdHMgb2YgY2VsZXJ5IHNlZWRzIHdpdGggVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gc291cmNpbmcgaGlnaC1xdWFsaXR5IHNwaWNlcyBhbmQgaGVyYnMuIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIGZvciBidWxrIHF1YW50aXRpZXMgb3Igc3BlY2lhbGl6ZWQgYmxlbmRzLCB3ZSBhcmUgZGVkaWNhdGVkIHRvIG1lZXRpbmcgeW91ciBuZWVkcyB3aXRoIHJlbGlhYmlsaXR5IGFuZCBwcm9mZXNzaW9uYWxpc20uIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZGl2ZXJzZSBwcm9kdWN0IG9mZmVyaW5ncyBhbmQgaG93IHdlIGNhbiBhc3Npc3QgeW91IGluIGFjaGlldmluZyB5b3VyIGJ1c2luZXNzIG9iamVjdGl2ZXMuCgoqKlRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIEV4Y2VwdGlvbmFsIFF1YWxpdHkgYW5kIFNlcnZpY2UqKgoKQ291bnQgb24gVmFybmkgRXhwb3J0cyBmb3Igc3VwZXJpb3IgY2VsZXJ5IHNlZWRzIGFuZCB1bnBhcmFsbGVsZWQgc2VydmljZS4gV2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIGZyZXNobmVzcywgZmxhdm9yLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgaW4gZXZlcnkgc2hpcG1lbnQsIGVuc3VyaW5nIHlvdXIgc2F0aXNmYWN0aW9uIGFuZCBzdWNjZXNzIGluIHRoZSBnbG9iYWwgbWFya2V0LiBFeHBlcmllbmNlIHRoZSBkaWZmZXJlbmNlIHdpdGggVmFybmkgRXhwb3J0cyDigJMgeW91ciBnYXRld2F5IHRvIHByZW1pdW0gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu"
+                    },
+
+                    {
+                        "id": "20",
+                        "name": "Cinnamon",
+                        "Category": "Spices",
+                        "images": spices20,
+                        "Length": "8-15 cm",
+                        "Color": "Light Brown",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Machine Cleaned",
+                        "Acid Insoluble Ash": "2% max",
+                        "Certification": "FSSAI Certified",
+                        "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
+                        "Loading": "15 to 30 Tons",
+                        "description": "KipEaXNjb3ZlciBDaW5uYW1vbiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKKipJbnRyb2R1Y3Rpb24gdG8gQ2lubmFtb24qKgoKQ2lubmFtb24sIG9mdGVuIHJlZmVycmVkIHRvIGFzICJUcnVlIENpbm5hbW9uIiBvciBTcmkgTGFua2FuIENpbm5hbW9uLCBpcyB0aGUgZHJpZWQgaW5uZXIgc3RlbSBiYXJrIG9mIENpbm5hbW9tdW0gdmVydW0uIEN1bHRpdmF0ZWQgcHJpbWFyaWx5IGluIFNyaSBMYW5rYSwgdGhlIE1hbGFnYXN5IFJlcHVibGljLCBhbmQgU2V5Y2hlbGxlcywgaXQgb3JpZ2luYXRlcyBmcm9tIHRoZSBjZW50cmFsIGhpbGxzIG9mIFNyaSBMYW5rYSBhbmQgaXMgYWxzbyBncm93biBpbiBzZWxlY3QgbG9jYXRpb25zIGluIEtlcmFsYSwgSW5kaWEuIENpbm5hbW9uIHBsYW50cyBncm93IGFzIGJ1c2hlcyBhbmQgYXJlIHJlYWR5IGZvciBoYXJ2ZXN0aW5nIHdoZW4gdGhleSByZWFjaCBhYm91dCB0d28geWVhcnMgb2YgYWdlLCBzdGFuZGluZyBhcHByb3hpbWF0ZWx5IDIgbWV0ZXJzIHRhbGwgYW5kIDgtMTIgY20gaW4gZGlhbWV0ZXIgYXQgdGhlIGJhc2UuCgoqKkN1bHRpdmF0aW9uIGFuZCBDb25kaXRpb25zKioKCkNpbm5hbW9uIHRocml2ZXMgaW4gdmFyeWluZyBjb25kaXRpb25zIGZyb20gc2VtaS1kcmllZCB0byB3ZXQgem9uZXMsIHdpdGggYW4gaWRlYWwgdGVtcGVyYXR1cmUgcmFuZ2Ugb2YgMjAtMzAgZGVncmVlcyBDZWxzaXVzIGFuZCBhbm51YWwgcmFpbmZhbGwgYmV0d2VlbiAxMjUwIHRvIDI1MDAgbW0uIEl0IGZsb3VyaXNoZXMgYmVzdCBhcyBhIGZvcmVzdCB0cmVlIGF0IGVsZXZhdGlvbnMgb2YgMzAwLTM1MCBtZXRlcnMgYWJvdmUgc2VhIGxldmVsLgoKKipDb21tZXJjaWFsIFByb2R1Y3RzIGFuZCBVc2VzKioKClRoZSBjb21tZXJjaWFsIHByb2R1Y3RzIGRlcml2ZWQgZnJvbSBjaW5uYW1vbiBpbmNsdWRlOgotICoqUXVpbGxzOioqIFNjcmFwZWQgcGVlbCBvZiB0aGUgaW5uZXIgYmFyayBvZiBtYXR1cmUgY2lubmFtb24gc2hvb3RzLCByb2xsZWQgaW50byB0dWJlcyBmaWxsZWQgd2l0aCBzbWFsbGVyIHBpZWNlcywgZHJpZWQgaW4gdGhlIHN1biBhbmQgc2hhZGUuCi0gKipRdWlsbGluZ3M6KiogQnJva2VuIHBpZWNlcyBhbmQgc3BsaXRzIG9mIGNpbm5hbW9uIHF1aWxscy4KLSAqKkZlYXRoZXJpbmdzOioqIEZlYXRoZXItbGlrZSBwaWVjZXMgb2YgaW5uZXIgYmFyaywgY29uc2lzdGluZyBvZiBzaGF2aW5ncyBhbmQgc21hbGwgYmFyayBmcmFnbWVudHMuCi0gKipDaGlwczoqKiBSb3VnaCwgdW5wZWVsYWJsZSBiYXJrcyBzY3JhcGVkIGZyb20gdGhpY2tlciBzdGVtcy4KCioqQ2lubmFtb24gT2lscyoqCgpDaW5uYW1vbiBpcyBhbHNvIHZhbHVlZCBmb3IgaXRzIGVzc2VudGlhbCBvaWxzIG9idGFpbmVkIGZyb20gdGhlIGJhcmsgYW5kIGxlYXZlcyB0aHJvdWdoIGRpc3RpbGxhdGlvbjoKLSAqKkNpbm5hbW9uIEJhcmsgT2lsOioqIEtub3duIGZvciBpdHMgZGVsaWNhdGUgZnJhZ3JhbmNlIGFuZCB3YXJtLCBhZ3JlZWFibGUgdGFzdGUsIHVzZWQgaW4gZmxhdm9yaW5nIGNvbmZlY3Rpb25lcnksIGxpcXVvcnMsIHBoYXJtYWNldXRpY2FscywgYW5kIGNvc21ldGljcy4gSXQgcG9zc2Vzc2VzIGFudGktZnVuZ2FsIHByb3BlcnRpZXMgYW5kIGFpZHMgaW4gZGlnZXN0aW9uLgotICoqQ2lubmFtb24gTGVhZiBPaWw6KiogV2lkZWx5IHVzZWQgaW4gcGVyZnVtZXJ5IGFuZCBjb3NtZXRpY3MsIGNvbnRyaWJ1dGluZyB0byBpdHMgZGlzdGluY3QgYXJvbWEgcHJvZmlsZS4KCioqSGVhbHRoIEJlbmVmaXRzIGFuZCBDdWxpbmFyeSBVc2VzKioKCkNpbm5hbW9uIGlzIGNlbGVicmF0ZWQgbm90IG9ubHkgZm9yIGl0cyBjdWxpbmFyeSB1c2VzIGJ1dCBhbHNvIGZvciBpdHMgaGVhbHRoIGJlbmVmaXRzOgotIEl0IGFpZHMgaW4gZGlnZXN0aW9uLCBwYXJ0aWN1bGFybHkgZm9yIGRpYWJldGljcyBtYW5hZ2luZyBzdWdhci4KLSBJdCBleGhpYml0cyBhc3RyaW5nZW50LCBzdGltdWxhbnQsIGFuZCBjYXJtaW5hdGl2ZSBwcm9wZXJ0aWVzLCBoZWxwaW5nIHRvIGFsbGV2aWF0ZSBuYXVzZWEgYW5kIHZvbWl0aW5nLgoKKipQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBjaW5uYW1vbiBwcm9kdWN0cyB0aGF0IG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMgb2YgcXVhbGl0eSBhbmQgZnJlc2huZXNzLiBXaGV0aGVyIHlvdSBuZWVkIGNpbm5hbW9uIHF1aWxscywgcG93ZGVyLCBvciBlc3NlbnRpYWwgb2lscywgd2UgZW5zdXJlIGVhY2ggYmF0Y2ggaXMgbWV0aWN1bG91c2x5IHByb2Nlc3NlZCBhbmQgcGFja2FnZWQgdG8gcHJlc2VydmUgaXRzIGFyb21hIGFuZCBmbGF2b3IuIFBhcnRuZXIgd2l0aCB1cyB0byBkaXNjb3ZlciB0aGUgZXhjZXB0aW9uYWwgcXVhbGl0aWVzIG9mIGNpbm5hbW9uIGFuZCBleHBsb3JlIGl0cyB2ZXJzYXRpbGUgYXBwbGljYXRpb25zIGluIHZhcmlvdXMgaW5kdXN0cmllcy4KCioqQ29udGFjdCBWYXJuaSBFeHBvcnRzIFRvZGF5KioKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIGNpbm5hbW9uIHByb2R1Y3RzIG9yIHRvIGRpc2N1c3MgeW91ciBzcGVjaWZpYyByZXF1aXJlbWVudHMsIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcmVsaWFibGUgc2VydmljZSBhbmQgc3VwZXJpb3IgcXVhbGl0eSBjaW5uYW1vbiBwcm9kdWN0cyB0aGF0IGVuaGFuY2UgeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhlYWx0aCBpbml0aWF0aXZlcy4gSm9pbiBoYW5kcyB3aXRoIFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu"
+                    },
+
+                    {
+                        "id": "21",
+                        "name": "Mace",
+                        "Category": "Spices",
+                        "images": spices21,
+                        "Color": "Reddish-orange",
+                        "Flavor": "Aromatic, warm, and slightly sweet",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Type": "Whole",
+                        "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
+                        "Loading": "15 to 30 Tons",
+                        "description": "KipFeHBsb3JlIE1hY2Ugd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIE1hY2UqKgoKTWFjZSwgZGVyaXZlZCBmcm9tIHRoZSBhcmlsIG9mIHRoZSBudXRtZWcgc2VlZCwgaXMgYSBwcml6ZWQgc3BpY2Uga25vd24gZm9yIGl0cyB1bmlxdWUgZmxhdm9yIGFuZCBhcm9tYXRpYyBxdWFsaXRpZXMuIEl0IGlzIG9idGFpbmVkIGZyb20gdGhlIE15cmlzdGljYSBmcmFncmFucyB0cmVlLCBuYXRpdmUgdG8gdGhlIHRyb3BpY2FsIHJlZ2lvbnMgb2YgSW5kb25lc2lhIGFuZCBhbHNvIGN1bHRpdmF0ZWQgaW4gb3RoZXIgcGFydHMgb2YgU291dGhlYXN0IEFzaWEuCgoqKkN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0KioKClRoZSBudXRtZWcgdHJlZSBwcm9kdWNlcyBib3RoIG51dG1lZyBhbmQgbWFjZS4gTWFjZSBpcyB0aGUgcmVkZGlzaCBhcmlsIHN1cnJvdW5kaW5nIHRoZSBzZWVkLCB3aGljaCBpcyBoYXJ2ZXN0ZWQgYnkgaGFuZCB3aGVuIG1hdHVyZS4gSXQgdW5kZXJnb2VzIGEgbWV0aWN1bG91cyBwcm9jZXNzIHRvIHNlcGFyYXRlIGl0IGZyb20gdGhlIG51dG1lZyBzZWVkIGFuZCBpcyB0aGVuIGRyaWVkIHRvIHByZXNlcnZlIGl0cyBmbGF2b3IgYW5kIGFyb21hLgoKKipGbGF2b3IgUHJvZmlsZSBhbmQgQ3VsaW5hcnkgVXNlcyoqCgpNYWNlIGhhcyBhIHNsaWdodGx5IHN3ZWV0ZXIgYW5kIG1vcmUgZGVsaWNhdGUgZmxhdm9yIGNvbXBhcmVkIHRvIG51dG1lZywgd2l0aCBoaW50cyBvZiBjaW5uYW1vbiBhbmQgcGVwcGVyLiBJdCBpcyB1c2VkIGFzIGEgc3BpY2UgaW4gdmFyaW91cyBjdWlzaW5lcyB3b3JsZHdpZGUsIGFkZGluZyBkZXB0aCB0byBib3RoIHNhdm9yeSBhbmQgc3dlZXQgZGlzaGVzLiBJbiBjb29raW5nLCBpdCBjb21wbGVtZW50cyBtZWF0cywgc3Rld3MsIGJha2VkIGdvb2RzLCBhbmQgZXZlbiBiZXZlcmFnZXMgbGlrZSBtdWxsZWQgd2luZS4KCioqSGVhbHRoIEJlbmVmaXRzKioKCkJleW9uZCBpdHMgY3VsaW5hcnkgdXNlcywgbWFjZSBvZmZlcnMgc2V2ZXJhbCBoZWFsdGggYmVuZWZpdHM6Ci0gKipEaWdlc3RpdmUgQWlkOioqIE1hY2UgYWlkcyBkaWdlc3Rpb24gYW5kIGlzIG9mdGVuIHVzZWQgdG8gYWxsZXZpYXRlIG5hdXNlYSBhbmQgcHJvbW90ZSBnYXN0cm9pbnRlc3RpbmFsIGhlYWx0aC4KLSAqKkFudGktaW5mbGFtbWF0b3J5IFByb3BlcnRpZXM6KiogSXQgaGFzIG5hdHVyYWwgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcyB0aGF0IG1heSBoZWxwIGluIHJlZHVjaW5nIGpvaW50IHBhaW4gYW5kIGluZmxhbW1hdGlvbi4KLSAqKkFudGlveGlkYW50IEJlbmVmaXRzOioqIE1hY2UgY29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgY29udHJpYnV0ZSB0byBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KCioqQ29tbWVyY2lhbCBVc2VzIGFuZCBQcm9kdWN0cyoqCgpNYWNlIGlzIGNvbW1lcmNpYWxseSBhdmFpbGFibGUgaW4gdmFyaW91cyBmb3JtczoKLSAqKldob2xlIE1hY2U6KiogSW50YWN0IGFyaWxzIGRyaWVkIGNhcmVmdWxseSB0byBwcmVzZXJ2ZSB0aGVpciBzdHJ1Y3R1cmUgYW5kIGFyb21hLgotICoqR3JvdW5kIE1hY2U6KiogUG93ZGVyZWQgbWFjZSB1c2VkIGZvciBjb252ZW5pZW5jZSBpbiBjb29raW5nIGFuZCBiYWtpbmcuCi0gKipNYWNlIE9pbDoqKiBFeHRyYWN0ZWQgZnJvbSBtYWNlLCB1c2VkIGluIHBlcmZ1bWVyeSBhbmQgYXMgYSBmbGF2b3JpbmcgYWdlbnQuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIG1hY2UgcHJvZHVjdHMgdG8gZ2xvYmFsIG1hcmtldHMuIE91ciBtYWNlIGlzIGNhcmVmdWxseSBzZWxlY3RlZCwgcHJvY2Vzc2VkLCBhbmQgcGFja2FnZWQgdG8gZW5zdXJlIG1heGltdW0gZnJlc2huZXNzIGFuZCBxdWFsaXR5LiBXZSBjYXRlciB0byBkaXZlcnNlIGluZHVzdHJpZXMgaW5jbHVkaW5nIGZvb2QsIGJldmVyYWdlLCBwaGFybWFjZXV0aWNhbHMsIGFuZCBjb3NtZXRpY3MuCgoqKkNvbnRhY3QgVmFybmkgRXhwb3J0cyBUb2RheSoqCgpFeHBsb3JlIHRoZSB3b3JsZCBvZiBtYWNlIHdpdGggVmFybmkgRXhwb3J0cy4gV2hldGhlciB5b3UgbmVlZCB3aG9sZSBtYWNlLCBncm91bmQgbWFjZSwgb3IgbWFjZSBvaWwsIHdlIHByb3ZpZGUgZXhjZXB0aW9uYWwgcHJvZHVjdHMgdGhhdCBtZWV0IHlvdXIgc3BlY2lmaWNhdGlvbnMgYW5kIGV4Y2VlZCB5b3VyIGV4cGVjdGF0aW9ucy4gUGFydG5lciB3aXRoIHVzIGZvciByZWxpYWJsZSBzZXJ2aWNlLCBjb21wZXRpdGl2ZSBwcmljaW5nLCBhbmQgc3VwZXJpb3IgcXVhbGl0eSBtYWNlIHNvdXJjZWQgZnJvbSB0cnVzdGVkIHN1cHBsaWVycy4gQ29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMgYW5kIHN0YXJ0IGEgZnJ1aXRmdWwgcGFydG5lcnNoaXAgaW4gdGhlIHNwaWNlIHRyYWRlLg=="
+                    },
+
+
+                    {
+                        "id": "22",
+                        "name": "Star Anise",
+                        "Category": "Spices",
+                        "images": spices22,
+                        "Origin": "India",
+                        "Purity": "100%",
+                        "Moisture": "10.10% Max",
+                        "Type": "Conventional",
+                        "Shelf Life": "1 Year",
+                        "Form": "Whole/Broken",
+                        "Packaging": "15/25/50 kg Jute Bag, PP Bag",
+                        "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                        "description": "KipEaXNjb3ZlciBTdGFyIEFuaXNlIHdpdGggVmFybmkgRXhwb3J0cyoqCgoqKkludHJvZHVjdGlvbiB0byBTdGFyIEFuaXNlKioKClN0YXIgYW5pc2UsIGRlcml2ZWQgZnJvbSB0aGUgZHJpZWQgZnJ1aXQgb2YgdGhlIElsbGljaXVtIHZlcnVtIHBsYW50LCBpcyBhIHJlbm93bmVkIHNwaWNlIHdpdGggc2lnbmlmaWNhbnQgYXBwbGljYXRpb25zIGluIGJvdGggY3VsaW5hcnkgYW5kIHBoYXJtYWNldXRpY2FsIGluZHVzdHJpZXMuCgoqKk9yaWdpbiBhbmQgQ3VsdGl2YXRpb24qKgoKSW5kaWdlbm91cyB0byB0aGUgc291dGhlYXN0ZXJuIHJlZ2lvbnMgb2YgSW5kaWEsIENoaW5hLCBhbmQgVmlldG5hbSwgc3RhciBhbmlzZSBpcyBkaXN0aW5jdGl2ZWx5IGNoYXJhY3Rlcml6ZWQgYnkgaXRzIHN0YXItc2hhcGVkIGZydWl0LiBJdCBzaGFyZXMgc2ltaWxhciBmbGF2b3IgcHJvZmlsZXMgYW5kIHVzZXMgd2l0aCB0cmFkaXRpb25hbCBhbmlzZSAoUGltcGluZWxsYSBhbmlzdW0pLCBkZXNwaXRlIGJlaW5nIGJvdGFuaWNhbGx5IHVucmVsYXRlZC4KCioqQ3VsaW5hcnkgYW5kIEFyb21hdGljIFVzZXMqKgoKU3RhciBhbmlzZSBpcyBwcml6ZWQgZm9yIGl0cyBwb3RlbnQsIHZvbGF0aWxlIGVzc2VudGlhbCBvaWwsIHByZWRvbWluYW50bHkgY29tcG9zZWQgb2YgYW5ldGhvbGUuIFRoaXMgYXJvbWF0aWMgb2lsIGlzIHdpZGVseSBlbXBsb3llZCBpbiBmbGF2b3JpbmcgdmFyaW91cyBjdWxpbmFyeSBkaXNoZXMsIGNvbmZlY3Rpb25lcmllcywgbGlxdWV1cnMsIGFuZCBwZXJmdW1lcywgaW1wYXJ0aW5nIGEgc3dlZXQgYW5kIGxpY29yaWNlLWxpa2UgYXJvbWEuCgoqKlBoYXJtYWNldXRpY2FsIFNpZ25pZmljYW5jZSoqCgpJbiB0aGUgcGhhcm1hY2V1dGljYWwgc2VjdG9yLCBzdGFyIGFuaXNlIGlzIGEgcGl2b3RhbCBzb3VyY2Ugb2Ygc2hpa2ltaWMgYWNpZC4gVGhpcyBjb21wb3VuZCBwbGF5cyBhIGNydWNpYWwgcm9sZSBpbiB0aGUgc3ludGhlc2lzIG9mIG9zZWx0YW1pdmlyIChUYW1pZmx1KSwgYW4gYW50aXZpcmFsIG1lZGljYXRpb24gdXNlZCBpbiB0aGUgdHJlYXRtZW50IG9mIGluZmx1ZW56YSBpbmZlY3Rpb25zLgoKKipQaHlzaWNhbCBDaGFyYWN0ZXJpc3RpY3MqKgoKVGhlIGRyaWVkIGZydWl0IG9mIHN0YXIgYW5pc2UgdHlwaWNhbGx5IG1lYXN1cmVzIGJldHdlZW4gMC4yNSB0byAwLjUgY20gKDAuMSB0byAwLjIgaW5jaGVzKSBpbiBkaWFtZXRlci4gRWFjaCBmcnVpdCBjb25zaXN0cyBvZiBzZXZlcmFsIGNhcnBlbHMgYXJyYW5nZWQgaW4gYSBzdGFyLWxpa2UgcGF0dGVybiBhcm91bmQgYSBjZW50cmFsIGF4aXMuIFRoZXNlIGNhcnBlbHMgYXJlIGhhcmQsIHJvdWdoLXRleHR1cmVkLCBhbmQgcmVkZGlzaC1icm93biBpbiBhcHBlYXJhbmNlLCBlbmNsb3Npbmcgc21vb3RoLCBsdXN0cm91cywgbGlnaHQgYnJvd24gc2VlZHMuCgoqKkhlYWx0aCBCZW5lZml0cyBvZiBTdGFyIEFuaXNlKioKClN0YXIgYW5pc2Ugb2ZmZXJzIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKkltbXVuaXR5IEJvb3N0ZXI6KiogSXQgbWF5IGVuaGFuY2UgaW1tdW5lIGZ1bmN0aW9uLCBoZWxwaW5nIHRoZSBib2R5IGNvbWJhdCBpbmZlY3Rpb25zLgotICoqUmVndWxhdGlvbiBvZiBCbG9vZCBTdWdhcjoqKiBJdCBoYXMgcG90ZW50aWFsIGJlbmVmaXRzIGluIGNvbnRyb2xsaW5nIGJsb29kIHN1Z2FyIGxldmVscy4KLSAqKk1lbnN0cnVhbCBQYWluIFJlbGllZjoqKiBLbm93biBmb3IgaXRzIGFudGlzcGFzbW9kaWMgcHJvcGVydGllcywgc3RhciBhbmlzZSBjYW4gYWxsZXZpYXRlIG1lbnN0cnVhbCBjcmFtcHMgYW5kIGRpc2NvbWZvcnQuCi0gKipQb3RlbnRpYWwgQ2FuY2VyLUZpZ2h0aW5nIFByb3BlcnRpZXM6KiogU3R1ZGllcyBzdWdnZXN0IGl0IG1heSBoYXZlIHByZXZlbnRpdmUgZWZmZWN0cyBhZ2FpbnN0IGNlcnRhaW4gZWFybHktc3RhZ2UgY2FuY2VycyBsaWtlIGJyZWFzdCBhbmQgc2tpbiBjYW5jZXIuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgc3RhciBhbmlzZSB3b3JsZHdpZGUuIFdlIGVuc3VyZSBjb21wZXRpdGl2ZSBwcmljaW5nIGFuZCBzdXBlcmlvciBxdWFsaXR5IHRvIG1lZXQgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuIFdoZXRoZXIgZm9yIGN1bGluYXJ5LCBtZWRpY2luYWwsIG9yIHBoYXJtYWNldXRpY2FsIHVzZSwgd2UgZGVsaXZlciBzdGFyIGFuaXNlIHByb2R1Y3RzIHRoYXQgZXhjZWVkIGV4cGVjdGF0aW9ucy4KCioqQ29udGFjdCBWYXJuaSBFeHBvcnRzIFRvZGF5KioKCkV4cGxvcmUgdGhlIHZlcnNhdGlsaXR5IGFuZCBiZW5lZml0cyBvZiBzdGFyIGFuaXNlIHdpdGggVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBkaXNjb3ZlciBob3cgb3VyIHByZW1pdW0gcHJvZHVjdHMgY2FuIGVuaGFuY2UgeW91ciBidXNpbmVzcy4gUGFydG5lciB3aXRoIHVzIGZvciByZWxpYWJsZSBzdXBwbHksIGV4Y2VwdGlvbmFsIHNlcnZpY2UsIGFuZCB0b3Atbm90Y2ggcXVhbGl0eSBpbiBldmVyeSBzaGlwbWVudC4gVW5sb2NrIHRoZSBwb3RlbnRpYWwgb2Ygc3RhciBhbmlzZSB3aXRoIFZhcm5pIEV4cG9ydHMgYXMgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gdGhlIHNwaWNlIHRyYWRlLg=="
+                    },
+
+                    {
+                        "id": "23",
+                        "name": "Tamarind",
+                        "Category": "Spices",
+                        "images": spices23,
+                        "Appearance": "Brown to Dark brown Fruit",
+                        "Color": "Dark to Dark brown",
+                        "Form": "Whole Fruit",
+                        "Shelf Life": "18 months - 2 Years",
+                        "Storage Condition": "Cool And Dry",
+                        "Packaging": "Cartons, PP Bags, Bulk",
+                        "Loading": "20 to 25 Tons",
+                        "description": "KipJbnRyb2R1Y2luZyBUYW1hcmluZCBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHMqKgoKKipPdmVydmlldyBvZiBUYW1hcmluZCoqCgpUYW1hcmluZCwgdGhlIGZydWl0IG9mIGEgbGFyZ2UgdHJvcGljYWwgdHJlZSwgaXMgYSB2ZXJzYXRpbGUgcHJvZHVjdCB3aXRoIG51bWVyb3VzIGFwcGxpY2F0aW9ucy4gR3Jvd24gaW4gZm9yZXN0cywgb3JjaGFyZHMsIGFuZCBhbG9uZyByb2Fkc2lkZXMgcHJpbWFyaWx5IGluIFNvdXRoIEluZGlhIGFuZCBvdGhlciByZWdpb25zIG9mIEluZGlhLCB0YW1hcmluZCB0cmVlcyB0YWtlIG92ZXIgMTAgeWVhcnMgdG8gbWF0dXJlIGFuZCBzdGFydCB5aWVsZGluZyBmcnVpdHMuIFRoZSBoYXJ2ZXN0aW5nIHNlYXNvbiB0eXBpY2FsbHkgc3BhbnMgZnJvbSBKYW51YXJ5IHRvIEZlYnJ1YXJ5LCBmb2xsb3dpbmcgYmxvb21pbmcgaW4gSnVseS1BdWd1c3QuCgoqKlBoeXNpY2FsIENoYXJhY3RlcmlzdGljcyoqCgpUYW1hcmluZCBmcnVpdHMgYXJlIHNpemVhYmxlLCBtZWFzdXJpbmcgMTAgdG8gMTUgY20gaW4gbGVuZ3RoIGFuZCAxNSB0byAyMCBtbSBpbiB3aWR0aCwgd2l0aCBhIGRpc3RpbmN0aXZlIGN1cnZlZCBzaGFwZS4gRW5jYXNlZCBpbiBhIHByb3RlY3RpdmUgYnJvd24gcG9kLCBlYWNoIGZydWl0IGNvbnRhaW5zIDYgdG8gOCBzZWVkcyBjb3ZlcmVkIGJ5IGEgc3Ryb25nLCBibGFjay1icm93biBodWxsLgoKKipQcm9jZXNzaW5nIGFuZCBVdGlsaXphdGlvbioqCgpUaGUgZXh0cmFjdGlvbiBvZiB0YW1hcmluZCBzZWVkcyBpbnZvbHZlcyBtYW51YWwgcmVtb3ZhbCBmcm9tIHRoZSBmcnVpdCBwb2RzIHVzaW5nIHNoYXJwIGtuaXZlcy4gVGhlc2Ugc2VlZHMsIGtub3duIGZvciB0aGVpciBkdXJhYmlsaXR5LCBhcmUgdGhlbiBjb2xsZWN0ZWQgYnkgdmlsbGFnZXJzIHdobyBzZWxsIHRoZW0gdG8gbG9jYWwgbWVyY2hhbnRzLiBTdG9yZWQgaW4gd2FyZWhvdXNlcywgdGhlc2UgcmF3IHNlZWRzIGFyZSBzdWJzZXF1ZW50bHkgZGlzdHJpYnV0ZWQgdG8gdmFyaW91cyBpbmR1c3RyaWVzLCBub3RhYmx5IHRoZSBjYXR0bGUgZmVlZCBzZWN0b3Igd2l0aGluIEluZGlhLgoKKipNYXJrZXQgUG90ZW50aWFsKioKClZhcm5pIEV4cG9ydHMgYWltcyB0byBleHBvcnQgaGlnaC1xdWFsaXR5IHRhbWFyaW5kIHNlZWRzIHRvIFllbWVuLCBFZ3lwdCwgVHVya2V5LCBKb3JkYW4sIE9tYW4sIFNhdWRpIEFyYWJpYSwgVW5pdGVkIEFyYWIgRW1pcmF0ZXMsIGFuZCBMZWJhbm9uLiBXaXRoIGFuIGFubnVhbCBwcm9kdWN0aW9uIGV4Y2VlZGluZyAxMDAsMDAwIHRvbnMsIHRoZXNlIHNlZWRzIGFyZSBpbnRlZ3JhbCB0byB0aGUgYWdyaWN1bHR1cmFsIGFuZCBpbmR1c3RyaWFsIHNlY3RvcnMgaW4gdGhlc2UgY291bnRyaWVzLgoKKipBcHBsaWNhdGlvbnMgYW5kIFVzZXMqKgoKVGFtYXJpbmQgc2VlZHMgYXJlIHZhbHVlZCBmb3IgdGhlaXI6Ci0gKipDYXR0bGUgRmVlZDoqKiBXaWRlbHkgdXRpbGl6ZWQgaW4gdGhlIGNhdHRsZSBmZWVkIGluZHVzdHJ5IGR1ZSB0byB0aGVpciBudXRyaXRpb25hbCBiZW5lZml0cyBhbmQgaGlnaCBmaWJlciBjb250ZW50LgotICoqSW5kdXN0cmlhbCBBcHBsaWNhdGlvbnM6KiogUG90ZW50aWFsIHVzZXMgaW4gdmFyaW91cyBpbmR1c3RyaWFsIHByb2Nlc3NlcywgaW5jbHVkaW5nIHRoZSBwaGFybWFjZXV0aWNhbCBhbmQgdGV4dGlsZSBpbmR1c3RyaWVzLgotICoqVHJhZGl0aW9uYWwgTWVkaWNpbmU6KiogS25vd24gaW4gdHJhZGl0aW9uYWwgbWVkaWNpbmUgZm9yIGl0cyB0aGVyYXBldXRpYyBwcm9wZXJ0aWVzLCBpbmNsdWRpbmcgYW50aS1pbmZsYW1tYXRvcnkgYW5kIGRpZ2VzdGl2ZSBiZW5lZml0cy4KCioqUGFydG5lciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHN1cGVyaW9yIHF1YWxpdHkgdGFtYXJpbmQgc2VlZHMgdGhhdCBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLiBPdXIgbWV0aWN1bG91cyBzb3VyY2luZyBhbmQgcGFja2FnaW5nIGVuc3VyZSBmcmVzaG5lc3MgYW5kIGR1cmFiaWxpdHkgZHVyaW5nIHRyYW5zaXQuIFdlIGludml0ZSBidXNpbmVzc2VzIGluIFllbWVuLCBFZ3lwdCwgVHVya2V5LCBKb3JkYW4sIE9tYW4sIFNhdWRpIEFyYWJpYSwgVW5pdGVkIEFyYWIgRW1pcmF0ZXMsIGFuZCBMZWJhbm9uIHRvIGNvbGxhYm9yYXRlIHdpdGggdXMgZm9yIHJlbGlhYmxlIHN1cHBseSBhbmQgY29tcGV0aXRpdmUgcHJpY2luZy4KCioqQ29udGFjdCBVcyoqCgpFeHBsb3JlIHRoZSBwb3NzaWJpbGl0aWVzIHdpdGggdGFtYXJpbmQgc2VlZHMgZnJvbSBWYXJuaSBFeHBvcnRzLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMsIGFuZCBsZXQgdXMgYmUgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gdGhlIHN1cHBseSBjaGFpbi4gVG9nZXRoZXIsIHdlIGNhbiBjYXBpdGFsaXplIG9uIHRoZSBwb3RlbnRpYWwgb2YgdGFtYXJpbmQgc2VlZHMgYW5kIGZvc3RlciBtdXR1YWxseSBiZW5lZmljaWFsIHBhcnRuZXJzaGlwcyBhY3Jvc3MgYm9yZGVycy4="
+                    },
+
+                    {
+                        "id": "24",
+                        "name": "Dry Greater Galangal",
+                        "Category": "Spices",
+                        "images": spices24,
+                        "Appearance": "Light brown to dark brown, dried slices or powder",
+                        "Color": "Light brown to dark brown",
+                        "Form": "Slices or Powder",
+                        "Shelf Life": "12-24 months",
+                        "Storage Condition": "Cool and dry",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "KipEcnkgR3JlYXRlciBHYWxhbmdhbCBmcm9tIFZhcm5pIEV4cG9ydHMqKgoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdyZWF0ZXIgR2FsYW5nYWwqKgoKRHJ5IEdyZWF0ZXIgR2FsYW5nYWwsIGEgcm9vdCBuYXRpdmUgdG8gU291dGhlYXN0IEFzaWEsIGlzIHJlbm93bmVkIGZvciBpdHMgZGlzdGluY3Qgc3dlZXQsIHB1bmdlbnQsIGFuZCBjaXRydXN5IGZsYXZvcnMuIFRoaXMgYXJvbWF0aWMgc3BpY2UgaXMgYSBzdGFwbGUgaW4gdmFyaW91cyBBc2lhbiBjdWlzaW5lcywgcHJvbWluZW50bHkgZmVhdHVyZWQgaW4gVGhhaSwgSW5kb25lc2lhbiwgYW5kIE1hbGF5c2lhbiBkaXNoZXMuIEl0cyB2ZXJzYXRpbGUgYXBwbGljYXRpb25zIGluY2x1ZGUgZW5oYW5jaW5nIGN1cnJpZXMsIHNvdXBzLCBzdGlyLWZyaWVzLCBhbmQgdHJhZGl0aW9uYWwgVGhhaSBjdXJyeSBwYXN0ZXMuIEFkZGl0aW9uYWxseSwgaXQgY2FuIGJlIGJyZXdlZCBpbnRvIGEgcmVmcmVzaGluZyB0ZWEuCgoqKkN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0aW5nKioKCkdyZWF0ZXIgR2FsYW5nYWwgaXMgY3VsdGl2YXRlZCBhY3Jvc3MgU291dGhlYXN0IEFzaWEsIHRocml2aW5nIGluIHRyb3BpY2FsIGNsaW1hdGVzLiBUaGUgcm9vdCBpcyBoYXJ2ZXN0ZWQgb25jZSBtYXR1cmVkLCB0aGVuIGNhcmVmdWxseSBkcmllZCB0byBwcmVzZXJ2ZSBpdHMgcm9idXN0IGZsYXZvcnMgYW5kIG1lZGljaW5hbCBwcm9wZXJ0aWVzLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvbmx5IHRoZSBmaW5lc3QgcXVhbGl0eSBHcmVhdGVyIEdhbGFuZ2FsIHJvb3RzIGFyZSBzZWxlY3RlZCBhbmQgcHJvY2Vzc2VkLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIGl0cyBjdWxpbmFyeSB1c2VzLCBEcnkgR3JlYXRlciBHYWxhbmdhbCBvZmZlcnMgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEFpZDoqKiBLbm93biBmb3IgZWFzaW5nIGRpZ2VzdGlvbiBhbmQgcmVkdWNpbmcgZ2FzdHJvaW50ZXN0aW5hbCBkaXNjb21mb3J0LgotICoqQW50aS1pbmZsYW1tYXRvcnkgUHJvcGVydGllczoqKiBDb250YWlucyBjb21wb3VuZHMgdGhhdCBoZWxwIGFsbGV2aWF0ZSBpbmZsYW1tYXRpb24uCi0gKipBbnRpb3hpZGFudCBCZW5lZml0czoqKiBSaWNoIGluIGFudGlveGlkYW50cyB0aGF0IGNvbWJhdCBmcmVlIHJhZGljYWxzIGFuZCBwcm9tb3RlIG92ZXJhbGwgaGVhbHRoLgoKKipNYXJrZXQgUmVhY2gqKgoKVmFybmkgRXhwb3J0cyBzcGVjaWFsaXplcyBpbiBzb3VyY2luZyBhbmQgZXhwb3J0aW5nIHByZW1pdW0gRHJ5IEdyZWF0ZXIgR2FsYW5nYWwgdG8gZGlzY2VybmluZyBtYXJrZXRzIHdvcmxkd2lkZS4gT3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBlbnN1cmVzIHRoYXQgb3VyIHByb2R1Y3RzIG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMsIG1ha2luZyB1cyBhIHRydXN0ZWQgc3VwcGxpZXIgZm9yIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgcHVycG9zZXMgYWxpa2UuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkpvaW4gaGFuZHMgd2l0aCBWYXJuaSBFeHBvcnRzIHRvIGV4cGxvcmUgdGhlIGRpdmVyc2UgY3VsaW5hcnkgYW5kIGhlYWx0aCBiZW5lZml0cyBvZiBEcnkgR3JlYXRlciBHYWxhbmdhbC4gV2hldGhlciB5b3UncmUgaW4gdGhlIGZvb2QgaW5kdXN0cnksIHBoYXJtYWNldXRpY2Fscywgb3Igd2VsbG5lc3Mgc2VjdG9yLCB3ZSBwcm92aWRlIHJlbGlhYmxlIHN1cHBseSBhbmQgY29tcGV0aXRpdmUgcHJpY2luZy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIGhvdyB3ZSBjYW4gbWVldCB5b3VyIHNwZWNpZmljIHJlcXVpcmVtZW50cyBhbmQgZGVsaXZlciBleGNlbGxlbmNlIGluIGV2ZXJ5IHNoaXBtZW50LgoKKipDb250YWN0IFVzKioKCkRpc2NvdmVyIHRoZSBlc3NlbmNlIG9mIERyeSBHcmVhdGVyIEdhbGFuZ2FsIHdpdGggVmFybmkgRXhwb3J0cy4gUmVhY2ggb3V0IHRvIHVzIG5vdyBhbmQgZW1iYXJrIG9uIGEgam91cm5leSBvZiBmbGF2b3IsIGFyb21hLCBhbmQgaGVhbHRoLiBMZXQgdXMgYmUgeW91ciBnYXRld2F5IHRvIHByZW1pdW0gU291dGhlYXN0IEFzaWFuIHNwaWNlcyBhbmQgaW5ncmVkaWVudHMu"
+                    }
+                ],
+            },
+            {
+                name: "whole spices",
+                path: '/products/spices/whole-spices',
+                subCatagoriesId: "whole-spices",
+                image: wholespicesImage,
+                description: 'Explore our range of premium whole spices, sourced from the finest regions to bring you unparalleled flavor and aroma. Each spice is carefully selected to ensure optimal quality and freshness. From robust black peppercorns to fragrant cumin seeds, our whole spices are perfect for enhancing the taste of your culinary creations. Elevate your cooking with the authentic and vibrant flavors of our exceptional whole spices.',
+                products_detail: [
+                    {
+                        "id": "1",
+                        "name": "Cumin Powder",
+                        "Category": "Spices",
+                        "images": spices25,
+                        "Color": "Grayish brown",
+                        "Aroma": "Characteristic, strong",
+                        "Moisture": "12% max",
+                        "Ash": "7% max",
+                        "Shelf Life": "12 months",
+                        "Storage Condition": "Cool and dry",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "IyMjIFByZW1pdW0gQ3VtaW4gUG93ZGVyIGZyb20gVmFybmkgRXhwb3J0cwoKKipJbnRyb2R1Y3Rpb24gdG8gQ3VtaW4gUG93ZGVyKioKCkN1bWluIFBvd2RlciwgZGVyaXZlZCBmcm9tIHRoZSBzZWVkcyBvZiBDdW1pbiAoSmVlcmEpLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBDdW1pbnVtIGN5bWludW0sIGlzIGEgc3RhcGxlIHNwaWNlIGluIHZhcmlvdXMgZ2xvYmFsIGN1aXNpbmVzLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgb3VyIGN1bWluIHBvd2RlciBpcyBzb3VyY2VkIGZyb20gbm9uLWdlbmV0aWNhbGx5IG1vZGlmaWVkIHNlZWRzLCBtYWludGFpbmluZyBpdHMgbmF0dXJhbCBwdXJpdHkgYW5kIGZsYXZvci4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQmVmb3JlIHBhY2thZ2luZywgb3VyIGN1bWluIHBvd2RlciB1bmRlcmdvZXMgcmlnb3JvdXMgaW5zcGVjdGlvbiBwcm9jZXNzZXM6Ci0gKipNYWduZXQgYW5kIE1ldGFsIERldGVjdGlvbjoqKiBUbyBlbGltaW5hdGUgYW55IGZlcnJvdXMgbWV0YWxsaWMgY29udGFtaW5hdGlvbiwgdGhlIHByb2R1Y3QgaXMgcGFzc2VkIHRocm91Z2ggbWFnbmV0cyBhbmQgbWV0YWwgZGV0ZWN0b3JzLgotICoqTWljcm9iaWFsIENvbnRyb2w6KiogVGhlIGN1bWluIHBvd2RlciBpcyB0cmVhdGVkIHRvIGNvbnRyb2wgbWljcm9iaWFsIGxldmVscywgZW5zdXJpbmcgaXQgaXMgc2FmZSBhbmQgaHlnaWVuaWMgZm9yIGNvbnN1bXB0aW9uLgoKKipIaXN0b3JpY2FsIFNpZ25pZmljYW5jZSBhbmQgQ3VsaW5hcnkgVXNlcyoqCgpPcmlnaW5hdGluZyBpbiBFZ3lwdCwgY3VtaW4gaGFzIGJlZW4gaW50ZWdyYWwgdG8gTWlkZGxlIEVhc3Rlcm4gYW5kIEluZGlhbiBjdWlzaW5lcyBmb3IgdGhvdXNhbmRzIG9mIHllYXJzLiBJdHMgZGlzdGluY3RpdmUgZmxhdm9yIGVuaGFuY2VzIGEgdmFyaWV0eSBvZiBkaXNoZXMsIGVzcGVjaWFsbHkgY3Vycmllcy4gV2hldGhlciB5b3UgcHJlZmVyIHdob2xlIGN1bWluIHNlZWRzIHRvIGNydXNoIHdpdGggYSBtb3J0YXIgYW5kIHBlc3RsZSBvciByZWFkeS10by11c2UgZ3JvdW5kIGN1bWluLCB0aGlzIHNwaWNlIGlzIHJlYWRpbHkgYXZhaWxhYmxlIGluIG1vc3Qgc3VwZXJtYXJrZXRzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQ3VtaW4gaXMgbm90IG9ubHkgYSBjdWxpbmFyeSBkZWxpZ2h0IGJ1dCBhbHNvIGJlbGlldmVkIHRvIG9mZmVyIHNldmVyYWwgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEhlYWx0aDoqKiBUcmFkaXRpb25hbGx5IHVzZWQgdG8gYWlkIGRpZ2VzdGlvbi4KLSAqKlBvdGVudGlhbCBNZWRpY2luYWwgUHJvcGVydGllczoqKiBUaG91Z2ggbW9zdCByZXNlYXJjaCBoYXMgYmVlbiBjb25kdWN0ZWQgb24gYW5pbWFscywgY3VtaW4gaXMgYmVsaWV2ZWQgdG8gcG9zc2VzcyBtZWRpY2luYWwgcHJvcGVydGllcyB0aGF0IHdhcnJhbnQgZnVydGhlciBleHBsb3JhdGlvbiBpbiBodW1hbiBzdHVkaWVzLgoKKipQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyoqCgpWYXJuaSBFeHBvcnRzIGlzIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcHJlbWl1bSBjdW1pbiBwb3dkZXIgdGhhdCBtZWV0cyB0aGUgaGlnaGVzdCBzdGFuZGFyZHMgb2YgcXVhbGl0eSBhbmQgc2FmZXR5LiBPdXIgbWV0aWN1bG91cyBzb3VyY2luZyBhbmQgcHJvY2Vzc2luZyBlbnN1cmUgdGhhdCBvdXIgcHJvZHVjdCByZXRhaW5zIGl0cyBhdXRoZW50aWMgZmxhdm9yIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4gV2UgaW52aXRlIHlvdSB0byBwYXJ0bmVyIHdpdGggdXMgdG8gZXhwZXJpZW5jZSB0aGUgZXhjZXB0aW9uYWwgcXVhbGl0eSBvZiBvdXIgY3VtaW4gcG93ZGVyLgoKKipDb250YWN0IFVzKioKCkV4cGxvcmUgdGhlIHJpY2ggYXJvbWEgYW5kIGZsYXZvciBvZiBjdW1pbiBwb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMgYW5kIGRpc2NvdmVyIGhvdyB3ZSBjYW4gc3VwcGx5IHlvdSB3aXRoIHN1cGVyaW9yIHF1YWxpdHkgY3VtaW4gcG93ZGVyIGZvciB5b3VyIGN1bGluYXJ5IGFuZCBoZWFsdGggbmVlZHMuIFRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu"
+                    },
+
+                    {
+                        "id": "2",
+                        "name": "Coriander Powder",
+                        "Category": "Spices",
+                        "images": spices26,
+                        "Botanical Name": "Coriandrum Sativum",
+                        "Usage": "Conventional",
+                        "Flavor": "Aromatic With A Penetrating Flavor",
+                        "Shelf Life": "12 months",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "IyMjIERpc2NvdmVyIFByZW1pdW0gQ29yaWFuZGVyIFBvd2RlciB3aXRoIFZhcm5pIEV4cG9ydHMKCioqSW50cm9kdWN0aW9uIHRvIENvcmlhbmRlciBQb3dkZXIqKgoKQ29yaWFuZGVyIFBvd2RlciwgY29tbW9ubHkga25vd24gYXMgRGhhbml5YSBQb3dkZXIsIGlzIGEgc3RhcGxlIHNwaWNlIGluIEluZGlhbiBjdWlzaW5lLCByZW5vd25lZCBmb3IgaXRzIHVuaXF1ZSB0YXN0ZSBhbmQgYXJvbWEuIE1hbnVmYWN0dXJlZCBieSBncmluZGluZyBoaWdoLXF1YWxpdHkgY29yaWFuZGVyIHNlZWRzLCBvdXIgY29yaWFuZGVyIHBvd2RlciBpcyBlc3NlbnRpYWwgZm9yIGZsYXZvcmluZyBhIHdpZGUgYXJyYXkgb2YgZGlzaGVzLCBmcm9tIHJpY2UgYW5kIHN0dWZmZWQgdmVnZXRhYmxlcyB0byB2YXJpb3VzIG90aGVyIGRlbGljYWNpZXMuCgoqKkN1bGluYXJ5IFVzZXMqKgoKQ29yaWFuZGVyIFBvd2RlciBpcyBleHRlbnNpdmVseSB1c2VkIGluIEluZGlhbiBraXRjaGVucywgYWRkaW5nIGdvb2QgZmxhdm9yIGFuZCBjb2xvciB0byBhbG1vc3QgZXZlcnkgZGlzaC4gSGVyZSBhcmUgc29tZSBvZiBpdHMgcG9wdWxhciB1c2VzOgotICoqRmxhdm9yaW5nIFJpY2U6KiogRW5oYW5jZXMgdGhlIHRhc3RlIG9mIHZhcmlvdXMgcmljZSBkaXNoZXMuCi0gKipTdHVmZmVkIFZlZ2V0YWJsZXM6KiogQWRkcyBkZXB0aCBhbmQgcmljaG5lc3MgdG8gdGhlIGZpbGxpbmcuCi0gKipHZW5lcmFsIENvb2tpbmc6KiogQSB2ZXJzYXRpbGUgc3BpY2UgdXNlZCBpbiBudW1lcm91cyBkaXNoZXMgZm9yIGl0cyBkaXN0aW5jdGl2ZSB0YXN0ZSBhbmQgYXJvbWEuCgoqKlZlcnNhdGlsaXR5IGFuZCBVbmlxdWUgRmxhdm9yKioKCkNvcmlhbmRlciBQb3dkZXIgaXMgYSB2ZXJzYXRpbGUgaW5ncmVkaWVudDoKLSAqKkFzIGEgU3BpY2U6KiogV2lkZWx5IHVzZWQgaW4gZm9vZHMsIGJldmVyYWdlcywgbWFyaW5hZGVzLCBkZXNzZXJ0cywgYW5kIHN3ZWV0IHBhc3RyaWVzLgotICoqSW4gQW1lcmljYW4gQ2lnYXJldHRlczoqKiBVc2VkIGZvciBpdHMgbWlsZCwgZGlzdGluY3RpdmUgdGFzdGUgYW5kIGZyYWdyYW50IHNwaWNlLgoKKipNZWRpY2luYWwgQmVuZWZpdHMqKgoKQmV5b25kIGl0cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnMsIGNvcmlhbmRlciBwb3dkZXIgb2ZmZXJzIHNpZ25pZmljYW50IG1lZGljaW5hbCBiZW5lZml0czoKLSAqKkRpZ2VzdGl2ZSBIZWFsdGg6KiogUHJvdmlkZXMgcmVsaWVmIGZyb20gZGlnZXN0aW9uIHByb2JsZW1zLgotICoqU2tpbiBIZWFsdGg6KiogSGVscHMgdHJlYXQgYWNuZSBhbmQgb3RoZXIgc2tpbiBpc3N1ZXMgd2hlbiBpbmNsdWRlZCBpbiB0aGUgZGlldC4KLSAqKk51dHJpZW50LVJpY2g6KiogUGFja2VkIHdpdGggVml0YW1pbiBBLCBWaXRhbWluIEMsIGZhdHMsIGNhcmJvaHlkcmF0ZXMsIHByb3RlaW5zLCBhbmQgZXNzZW50aWFsIG1pbmVyYWxzLgoKKipBcm9tYSBhbmQgVGFzdGUqKgoKQ29yaWFuZGVyIGlzIGEgbWFqb3IgbXVsdGktdGFza2VyIGluIHRoZSBraXRjaGVuOgotICoqV2hvbGUsIEdyb3VuZCwgUmF3LCBvciBSb2FzdGVkOioqIEl0cyBlYXJ0aHkgZnJlc2ggYXJvbWEgbWFrZXMgaXQgaW5kaXNwZW5zYWJsZS4KLSAqKkRyeS1Ub2FzdGluZzoqKiBFbmhhbmNlcyBpdHMgcm9idXN0IGFyb21hLgotICoqUG93ZGVyIEZvcm06KiogU2VhbWxlc3NseSBpbmNvcnBvcmF0ZXMgZmxhdm9yIGludG8gZGlzaGVzLgoKKipQYWNrYWdpbmcgYW5kIFF1YWxpdHkqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgdW5kZXJzdGFuZCB0aGUgZGl2ZXJzZSBuZWVkcyBvZiBvdXIgY2xpZW50cy4gSGVuY2UsIHdlIG9mZmVyIGNvcmlhbmRlciBwb3dkZXIgaW4gdmFyaW91cyBwYWNrYWdpbmcgb3B0aW9ucyB0byBtZWV0IGluZHVzdHJ5IHJlcXVpcmVtZW50cy4gT3VyIGNvcmlhbmRlciBwb3dkZXI6Ci0gKipVbmlxdWUgQXJvbWE6KiogRGVsaXZlcnMgYSBkaXN0aW5jdGl2ZSwgcmljaCBmbGF2b3IuCi0gKipOdXRyaWVudC1SaWNoOioqIFJpY2ggaW4gZXNzZW50aWFsIHZpdGFtaW5zIGFuZCBtaW5lcmFscy4KCioqV2h5IENob29zZSBWYXJuaSBFeHBvcnRzPyoqCgpXZSBzb3VyY2Ugb3VyIGNvcmlhbmRlciBzZWVkcyBmcm9tIHJlcHV0ZWQgZXhwb3J0ZXJzLCBlbnN1cmluZyB0aGUgaGlnaGVzdCBxdWFsaXR5IHByb2R1Y3QgZm9yIG91ciBjdXN0b21lcnMuIE91ciBjb21taXRtZW50IHRvIHF1YWxpdHkgZ3VhcmFudGVlcyB0aGF0IG91ciBjb3JpYW5kZXIgcG93ZGVyIHJldGFpbnMgaXRzIGZyZXNoIGFyb21hLCBkaXN0aW5jdGl2ZSBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCB2YWx1ZS4KCioqQ29udGFjdCBVcyoqCgpFeHBsb3JlIHRoZSByaWNoIGZsYXZvcnMgYW5kIGhlYWx0aCBiZW5lZml0cyBvZiBjb3JpYW5kZXIgcG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBkaXNjb3ZlciBob3cgd2UgY2FuIHN1cHBseSB5b3Ugd2l0aCBzdXBlcmlvciBxdWFsaXR5IGNvcmlhbmRlciBwb3dkZXIgdGFpbG9yZWQgdG8geW91ciBjdWxpbmFyeSBhbmQgaGVhbHRoIG5lZWRzLiBUcnVzdCBWYXJuaSBFeHBvcnRzIGZvciBleGNlbGxlbmNlIGluIHNwaWNlcyBhbmQgaGVyYnMgZnJvbSBhcm91bmQgdGhlIHdvcmxkLg=="
+                    },
+
+                    {
+                        "id": "3",
+                        "name": "Turmeric Powder",
+                        "Category": "Spices",
+                        "images": spices27,
+                        "Botanical Name": "Curcuma Longa",
+                        "Usage": "Conventional",
+                        "Harvesting Season": "Feb. & Mar.",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "IyMjIERpc2NvdmVyIFR1cm1lcmljOiBUaGUgIlF1ZWVuIG9mIFNwaWNlcyIgd2l0aCBWYXJuaSBFeHBvcnRzCgoqKkludHJvZHVjdGlvbiB0byBUdXJtZXJpYyoqCgpUdXJtZXJpYywgb2Z0ZW4gcmVmZXJyZWQgdG8gYXMgdGhlICJRdWVlbiBvZiBTcGljZXMsIiBpcyBhIHZpYnJhbnQgeWVsbG93IHNwaWNlIGRlcml2ZWQgZnJvbSB0aGUgZHJpZWQgcm9vdCBvZiB0aGUgQ3VyY3VtYSBsb25nYSBwbGFudCwgYSBtZW1iZXIgb2YgdGhlIGdpbmdlciBmYW1pbHkuIFdpZGVseSBjdWx0aXZhdGVkIGluIEluZGlhLCB0dXJtZXJpYyBoYXMgYmVlbiBhIGNvcm5lcnN0b25lIG9mIGJvdGggY3VsaW5hcnkgYW5kIG1lZGljaW5hbCBwcmFjdGljZXMgaW4gRWFzdCBJbmRpYSBhbmQgdGhlIE1pZGRsZSBFYXN0IGZvciB0aG91c2FuZHMgb2YgeWVhcnMuIFRvZGF5LCBpdCBpcyBvbmUgb2YgdGhlIG1vc3QgdXNlZCBzcGljZXMgZ2xvYmFsbHkuCgoqKkN1bGluYXJ5IGFuZCBNZWRpY2luYWwgVXNlcyoqCgpUdXJtZXJpYyBpcyBjZWxlYnJhdGVkIGZvciBpdHMgZXh0ZW5zaXZlIHVzZXM6Ci0gKipDdWxpbmFyeSBVc2VzOioqIEEga2V5IGluZ3JlZGllbnQgaW4gY3VycnkgcG93ZGVyLCB0dXJtZXJpYyBhZGRzIGEgZGlzdGluY3QgZmxhdm9yIGFuZCBjb2xvciB0byBkaXNoZXMuCi0gKipNZWRpY2luYWwgVXNlczoqKiBJbiBBeXVydmVkaWMgcHJhY3RpY2VzLCB0dXJtZXJpYyBpcyB1dGlsaXplZCB0byB0cmVhdCB2YXJpb3VzIGludGVybmFsIGRpc29yZGVycywgc3VjaCBhcyBpbmRpZ2VzdGlvbiwgdGhyb2F0IGluZmVjdGlvbnMsIGNvbW1vbiBjb2xkcywgYW5kIGxpdmVyIGFpbG1lbnRzLiBJdCBpcyBhbHNvIGFwcGxpZWQgdG9waWNhbGx5IHRvIGNsZWFuc2Ugd291bmRzIGFuZCB0cmVhdCBza2luIHNvcmVzLgoKKipOdXRyaXRpb25hbCBQcm9maWxlKioKClR1cm1lcmljIGlzIGFuIGV4Y2VsbGVudCBzb3VyY2Ugb2Y6Ci0gKipGaWJlcioqCi0gKipWaXRhbWluIEI2KioKLSAqKlBvdGFzc2l1bSoqCi0gKipWaXRhbWluIEMqKgotICoqTWFnbmVzaXVtKioKCioqSW5kaWFuIFR1cm1lcmljOiBUaGUgQmVzdCBpbiB0aGUgV29ybGQqKgoKSW5kaWFuIHR1cm1lcmljIGlzIGhpZ2hseSByZWdhcmRlZCBpbiB0aGUgZ2xvYmFsIG1hcmtldCBkdWUgdG8gaXRzIGhpZ2ggY3VyY3VtaW4gY29udGVudCwgd2hpY2ggaXMgdGhlIGFjdGl2ZSBjb21wb3VuZCByZXNwb25zaWJsZSBmb3IgbWFueSBvZiBpdHMgaGVhbHRoIGJlbmVmaXRzLiBJbmRpYSBwcm9kdWNlcyBhYm91dCA4MCUgb2YgdGhlIHdvcmxkJ3MgdHVybWVyaWMgYW5kIGFjY291bnRzIGZvciA2MCUgb2YgZ2xvYmFsIGV4cG9ydHMsIG1ha2luZyBpdCB0aGUgbGFyZ2VzdCBwcm9kdWNlciBhbmQgZXhwb3J0ZXIgb2YgdGhpcyB2YWx1YWJsZSBzcGljZS4KCioqSGVhbHRoIEJlbmVmaXRzIG9mIFR1cm1lcmljKioKCjEuICoqRWFzZXMgQXJ0aHJpdGlzIFN5bXB0b21zOioqIEl0cyBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIGhlbHAgcmVkdWNlIGpvaW50IHBhaW4gYW5kIGluZmxhbW1hdGlvbi4KMi4gKipIZWFydCBIZWFsdGg6KiogUHJvbW90ZXMgY2FyZGlvdmFzY3VsYXIgaGVhbHRoIGJ5IGltcHJvdmluZyBjaXJjdWxhdGlvbiBhbmQgcmVkdWNpbmcgY2hvbGVzdGVyb2wgbGV2ZWxzLgozLiAqKk5hdHVyYWwgRmF0IEJ1cm5lcjoqKiBBaWRzIGluIHdlaWdodCBtYW5hZ2VtZW50Lgo0LiAqKkxvd2VycyBDaG9sZXN0ZXJvbDoqKiBIZWxwcyByZWR1Y2UgYmFkIGNob2xlc3Rlcm9sIGxldmVscyBpbiB0aGUgYm9keS4KNS4gKipQcm90ZWN0cyBBZ2FpbnN0IEZyZWUgUmFkaWNhbCBEYW1hZ2U6KiogSXRzIGFudGlveGlkYW50IHByb3BlcnRpZXMgaGVscCBuZXV0cmFsaXplIGhhcm1mdWwgZnJlZSByYWRpY2Fscy4KNi4gKipBbnRpc2VwdGljIFByb3BlcnRpZXM6KiogQ2FuIGJlIHVzZWQgdG8gY2xlYW5zZSB3b3VuZHMgYW5kIHByZXZlbnQgaW5mZWN0aW9ucy4KNy4gKipCb29zdHMgSW1tdW5lIFN5c3RlbToqKiBFbmhhbmNlcyB0aGUgYm9keSdzIG5hdHVyYWwgZGVmZW5zZSBtZWNoYW5pc21zLgo4LiAqKlBvd2VyZnVsIEFudGlveGlkYW50OioqIFByb3RlY3RzIGNlbGxzIGZyb20gb3hpZGF0aXZlIHN0cmVzcyBhbmQgZGFtYWdlLgo5LiAqKkRpZ2VzdGl2ZSBBaWQ6KiogUmVsaWV2ZXMgZGlnZXN0aXZlIHByb2JsZW1zIGxpa2UgdWxjZXJzIGFuZCBkeXNlbnRlcnkuCjEwLiAqKlNraW4gSGVhbHRoOioqIFJlZ3VsYXIgdXNlIGNhbiBicmluZyBhIG5hdHVyYWwgZ2xvdyB0byB0aGUgc2tpbi4KMTEuICoqU29yZSBUaHJvYXQgUmVsaWVmOioqIEZyZXNoIG9yIGRyaWVkIHR1cm1lcmljIGNhbiBiZSB1c2VkIGluIHNhbGluZSBnYXJnbGVzIHRvIHByZXZlbnQgYW5kIHJlbGlldmUgdGhyb2F0IHNvcmVzLgoKKipXaHkgQ2hvb3NlIFZhcm5pIEV4cG9ydHM/KioKClZhcm5pIEV4cG9ydHMgaXMgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB0aGUgaGlnaGVzdCBxdWFsaXR5IHR1cm1lcmljIHNvdXJjZWQgZnJvbSB0aGUgYmVzdCBmYXJtcyBpbiBJbmRpYS4gT3VyIHR1cm1lcmljIGlzIHByb2Nlc3NlZCBhbmQgcGFja2FnZWQgdG8gcmV0YWluIGl0cyB2aWJyYW50IGNvbG9yLCByb2J1c3QgZmxhdm9yLCBhbmQgcG90ZW50IGhlYWx0aCBiZW5lZml0cy4KCioqQ29udGFjdCBVcyoqCgpFbmhhbmNlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIGFuZCBpbXByb3ZlIHlvdXIgaGVhbHRoIHdpdGggcHJlbWl1bSB0dXJtZXJpYyBmcm9tIFZhcm5pIEV4cG9ydHMuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcHJvZHVjdHMgYW5kIHRvIHBsYWNlIGFuIG9yZGVyLiBFeHBlcmllbmNlIHRoZSBleGNlbGxlbmNlIG9mIFZhcm5pIEV4cG9ydHMsIHlvdXIgdHJ1c3RlZCBwYXJ0bmVyIGZvciBoaWdoLXF1YWxpdHkgc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu"
+                    },
+
+                    {
+                        "id": "4",
+                        "name": "Fenugreek Powder",
+                        "Category": "Spices",
+                        "images": spices28,
+                        "Usage": "Conventional",
+                        "Moisture": "Max 10%",
+                        "Acid Insoluble Ash": "Max 1.5%",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "IyMjIERpc2NvdmVyIEZlbnVncmVlayBQb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzCgoqKkludHJvZHVjdGlvbiB0byBGZW51Z3JlZWsgUG93ZGVyKioKCkZlbnVncmVlayBwb3dkZXIgaXMgYSB2ZXJzYXRpbGUgc3BpY2UgdGhhdCBwbGF5cyBhIGNydWNpYWwgcm9sZSBpbiBJbmRpYW4sIE1pZGRsZSBFYXN0ZXJuLCBhbmQgTWVkaXRlcnJhbmVhbiBjdWlzaW5lcy4gTWFkZSBmcm9tIGdyb3VuZCBmZW51Z3JlZWsgc2VlZHMsIHRoaXMgcG93ZGVyIGhhcyBhIHNsaWdodGx5IHN3ZWV0LCBudXR0eSB0YXN0ZSB3aXRoIGEgbWlsZGx5IHB1bmdlbnQgYXJvbWEsIG1ha2luZyBpdCBhbiBleGNlbGxlbnQgYWRkaXRpb24gdG8gYSB2YXJpZXR5IG9mIGRpc2hlcy4KCioqQ3VsaW5hcnkgVXNlcyoqCgpGZW51Z3JlZWsgcG93ZGVyIGVuaGFuY2VzIHRoZSBmbGF2b3Igb2YgbnVtZXJvdXMgY3VsaW5hcnkgY3JlYXRpb25zOgotICoqQ3VycmllcyBhbmQgU3Rld3M6KiogQWRkcyBkZXB0aCBhbmQgYSBkaXN0aW5jdGl2ZSBmbGF2b3IgdG8gSW5kaWFuIGN1cnJpZXMgYW5kIHN0ZXdzLgotICoqQmFrZWQgR29vZHM6KiogVXNlZCBpbiBtYWtpbmcgYnJlYWRzIGFuZCBvdGhlciBiYWtlZCBnb29kcyBmb3IgYSB1bmlxdWUgdGFzdGUuCi0gKipUZWFzOioqIENhbiBiZSBicmV3ZWQgaW50byBhIGhlYWx0aGZ1bCB0ZWEgd2l0aCBhIHN3ZWV0LCBudXR0eSBmbGF2b3IuCi0gKipTZWFzb25pbmc6KiogU3ByaW5rbGVkIGluIHZhcmlvdXMgc2F2b3J5IGRpc2hlcyB0byBlbnJpY2ggdGhlaXIgdGFzdGUuCgoqKkZsYXZvciBQcm9maWxlKioKCkZlbnVncmVlayBzZWVkcyBhcmUgc21hbGwsIHllbGxvd2lzaC1icm93biwgYW5kIHNsaWdodGx5IGJpdHRlciwgdHJhbnNmb3JtaW5nIGludG8gYSBwb3dkZXIgdGhhdCBjb21iaW5lcyBhIG51dHR5LCBzbGlnaHRseSBzd2VldCBmbGF2b3Igd2l0aCBhIHB1bmdlbnQgYXJvbWEuIFRoaXMgdW5pcXVlIGNvbWJpbmF0aW9uIG1ha2VzIGZlbnVncmVlayBwb3dkZXIgYSBzb3VnaHQtYWZ0ZXIgaW5ncmVkaWVudCBpbiBtYW55IHRyYWRpdGlvbmFsIHJlY2lwZXMuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpGZW51Z3JlZWsgcG93ZGVyIGlzIG5vdCBvbmx5IHZhbHVlZCBmb3IgaXRzIGN1bGluYXJ5IHVzZXMgYnV0IGFsc28gZm9yIGl0cyBudW1lcm91cyBoZWFsdGggYmVuZWZpdHM6Ci0gKipEaWdlc3RpdmUgSGVhbHRoOioqIEFpZHMgaW4gZGlnZXN0aW9uIGFuZCBjYW4gaGVscCBzb290aGUgc3RvbWFjaCBpc3N1ZXMuCi0gKipCbG9vZCBTdWdhciBSZWd1bGF0aW9uOioqIEtub3duIHRvIGhlbHAgcmVndWxhdGUgYmxvb2Qgc3VnYXIgbGV2ZWxzLgotICoqQW50aS1JbmZsYW1tYXRvcnkgUHJvcGVydGllczoqKiBSZWR1Y2VzIGluZmxhbW1hdGlvbiBhbmQgaGVscHMgd2l0aCBjb25kaXRpb25zIGxpa2UgYXJ0aHJpdGlzLgotICoqUmljaCBpbiBOdXRyaWVudHM6KiogUGFja2VkIHdpdGggdml0YW1pbnMgYW5kIG1pbmVyYWxzLCBpbmNsdWRpbmcgaXJvbiwgbWFnbmVzaXVtLCBhbmQgZmliZXIuCgoqKldoeSBDaG9vc2UgVmFybmkgRXhwb3J0cz8qKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIG91ciBmZW51Z3JlZWsgcG93ZGVyIGlzIHNvdXJjZWQgZnJvbSB0aGUgaGlnaGVzdCBxdWFsaXR5IHNlZWRzLCBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbHMgdG8gcmV0YWluIGl0cyBmbGF2b3IgYW5kIG51dHJpdGlvbmFsIHZhbHVlLiBPdXIgY29tbWl0bWVudCB0byBleGNlbGxlbmNlIGd1YXJhbnRlZXMgdGhhdCBvdXIgZmVudWdyZWVrIHBvd2RlciBtZWV0cyBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcywgbWFraW5nIGl0IGEgcGVyZmVjdCBjaG9pY2UgZm9yIGN1bGluYXJ5IGFuZCBoZWFsdGggYXBwbGljYXRpb25zLgoKKipDb250YWN0IFVzKioKCkVuaGFuY2UgeW91ciBkaXNoZXMgYW5kIGJvb3N0IHlvdXIgaGVhbHRoIHdpdGggcHJlbWl1bSBmZW51Z3JlZWsgcG93ZGVyIGZyb20gVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFib3V0IG91ciBwcm9kdWN0cyBhbmQgdG8gcGxhY2UgeW91ciBvcmRlci4gRXhwZXJpZW5jZSB0aGUgcXVhbGl0eSBhbmQgcmVsaWFiaWxpdHkgb2YgVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgZm9yIGhpZ2gtcXVhbGl0eSBzcGljZXMgYW5kIGhlcmJzIGZyb20gYXJvdW5kIHRoZSB3b3JsZC4="
+                    },
+
+                    {
+                        "id": "5",
+                        "name": "Dry Ginger Powder",
+                        "Category": "Spices",
+                        "images": spices29,
+                        "Latin Name": "Zingiber officinale",
+                        "Active Ingredients": "Gingerols",
+                        "Appearance": "Brown Yellow Powder",
+                        "Taste": "Characteristic",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "IyMjIERpc2NvdmVyIERyeSBHaW5nZXIgUG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cwoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdpbmdlciBQb3dkZXIqKgoKRHJ5IEdpbmdlciBQb3dkZXIgaXMgZGVyaXZlZCBmcm9tIHRoZSByaGl6b21lIG9mIHRoZSBaaW5naWJlciBvZmZpY2luYWxlIHBsYW50LCBjb21tb25seSBrbm93biBhcyBnaW5nZXIuIFRoaXMgc3BpY2UgaGFzIGJlZW4gYSBjb3JuZXJzdG9uZSBpbiBBc2lhbiwgSW5kaWFuLCBhbmQgQXJhYmljIGhlcmJhbCB0cmFkaXRpb25zIGZvciB0aG91c2FuZHMgb2YgeWVhcnMuIEtub3duIGZvciBpdHMgbWVkaWNpbmFsIHByb3BlcnRpZXMsIGRyeSBnaW5nZXIgcG93ZGVyIGlzIGFsc28gYSBjaGVyaXNoZWQgY3VsaW5hcnkgaW5ncmVkaWVudCB3b3JsZHdpZGUuCgoqKkhpc3RvcmljYWwgYW5kIE1lZGljaW5hbCBVc2VzKioKCkdpbmdlciBoYXMgYSByaWNoIGhpc3Rvcnkgb2YgbWVkaWNpbmFsIHVzZToKLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogSW4gQ2hpbmEsIGdpbmdlciBoYXMgYmVlbiB1c2VkIGZvciBvdmVyIDIsMDAwIHllYXJzIHRvIGFpZCBkaWdlc3Rpb24gYW5kIHRyZWF0IHN0b21hY2ggdXBzZXQsIGRpYXJyaGVhLCBhbmQgbmF1c2VhLgotICoqQXJ0aHJpdGlzIFJlbGllZjoqKiBUcmFkaXRpb25hbGx5IHVzZWQgdG8gaGVscCB0cmVhdCBhcnRocml0aXMgZHVlIHRvIGl0cyBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzLgotICoqQ29saWMgYW5kIERpYXJyaGVhOioqIEtub3duIGZvciBpdHMgZWZmZWN0aXZlbmVzcyBpbiB0cmVhdGluZyBjb2xpYyBhbmQgZGlhcnJoZWEuCi0gKipIZWFydCBIZWFsdGg6KiogSGlzdG9yaWNhbGx5IHVzZWQgdG8gc3VwcG9ydCBoZWFydCBoZWFsdGggYW5kIHRyZWF0IHJlbGF0ZWQgY29uZGl0aW9ucy4KLSAqKkNvbW1vbiBDb2xkIGFuZCBGbHU6KiogQmVsaWV2ZWQgdG8gaGVscCBhbGxldmlhdGUgc3ltcHRvbXMgb2YgdGhlIGNvbW1vbiBjb2xkLCBmbHUsIGhlYWRhY2hlcywgYW5kIG1lbnN0cnVhbCBwYWluLgoKKipDdWxpbmFyeSBVc2VzKioKCkRyeSBHaW5nZXIgUG93ZGVyIGlzIHZhbHVlZCBub3Qgb25seSBmb3IgaXRzIGhlYWx0aCBiZW5lZml0cyBidXQgYWxzbyBmb3IgaXRzIHZlcnNhdGlsaXR5IGluIHRoZSBraXRjaGVuOgotICoqU3BpY2UgaW4gQ29va2luZzoqKiBBZGRzIGEgd2FybSwgc3BpY3kgZmxhdm9yIHRvIGEgdmFyaWV0eSBvZiBkaXNoZXMsIGluY2x1ZGluZyBjdXJyaWVzLCBzb3VwcywgYW5kIHN0ZXdzLgotICoqQmFraW5nOioqIEVzc2VudGlhbCBpbiBiYWtpbmcsIGl0IGVuaGFuY2VzIHRoZSBmbGF2b3Igb2YgY29va2llcywgY2FrZXMsIGFuZCBnaW5nZXJicmVhZC4KLSAqKkJldmVyYWdlczoqKiBVc2VkIGluIHRlYXMgYW5kIG90aGVyIGJldmVyYWdlcyBmb3IgaXRzIGRpc3RpbmN0aXZlIHRhc3RlIGFuZCBzb290aGluZyBwcm9wZXJ0aWVzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKR2luZ2VyIGNvbnRpbnVlcyB0byBiZSB2YWx1ZWQgZm9yIGl0cyBudW1lcm91cyBoZWFsdGggYmVuZWZpdHM6Ci0gKipEaWdlc3RpdmUgSGVhbHRoOioqIFByb21vdGVzIGRpZ2VzdGlvbiBhbmQgaGVscHMgYWxsZXZpYXRlIGdhc3Ryb2ludGVzdGluYWwgZGlzY29tZm9ydC4KLSAqKkFudGktSW5mbGFtbWF0b3J5IFByb3BlcnRpZXM6KiogUmVkdWNlcyBpbmZsYW1tYXRpb24gYW5kIHBhaW4sIGJlbmVmaWNpYWwgZm9yIGNvbmRpdGlvbnMgbGlrZSBhcnRocml0aXMuCi0gKipJbW11bmUgU3VwcG9ydDoqKiBIZWxwcyBpbiBmaWdodGluZyBjb2xkcyBhbmQgZmx1LWxpa2Ugc3ltcHRvbXMuCi0gKipNZW5zdHJ1YWwgUmVsaWVmOioqIEVhc2VzIG1lbnN0cnVhbCBwYWluIGFuZCBkaXNjb21mb3J0LgoKKipXaHkgQ2hvb3NlIFZhcm5pIEV4cG9ydHM/KioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGFyZSBjb21taXR0ZWQgdG8gcHJvdmlkaW5nIHByZW1pdW0gcXVhbGl0eSBkcnkgZ2luZ2VyIHBvd2RlciBzb3VyY2VkIGZyb20gdGhlIGJlc3QgZ2luZ2VyIHJvb3RzLiBPdXIgcmlnb3JvdXMgcHJvY2Vzc2luZyBhbmQgcXVhbGl0eSBjb250cm9sIGVuc3VyZSB0aGF0IHRoZSBwb3dkZXIgcmV0YWlucyBpdHMgcG90ZW50IGZsYXZvciBhbmQgYmVuZWZpY2lhbCBwcm9wZXJ0aWVzLiAKCioqQ29udGFjdCBVcyoqCgpFbmhhbmNlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIGFuZCBzdXBwb3J0IHlvdXIgaGVhbHRoIHdpdGggaGlnaC1xdWFsaXR5IGRyeSBnaW5nZXIgcG93ZGVyIGZyb20gVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFib3V0IG91ciBwcm9kdWN0cyBhbmQgdG8gcGxhY2UgeW91ciBvcmRlci4gRXhwZXJpZW5jZSB0aGUgZXhjZWxsZW5jZSBvZiBWYXJuaSBFeHBvcnRzLCB5b3VyIHRydXN0ZWQgcGFydG5lciBmb3IgcHJlbWl1bSBzcGljZXMgYW5kIGhlcmJzIGZyb20gYXJvdW5kIHRoZSB3b3JsZC4="
+                    },
+
+                    {
+                        "id": "6",
+                        "name": "Nutmeg Powder",
+                        "Category": "Spices",
+                        "images": spices30,
+                        "Botanical Name": "Myristica fragrans",
+                        "Appearance": "Fine brown powder",
+                        "Aroma": "Aromatic, warm, and slightly sweet",
+                        "Taste": "Sweet and nutty",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "IyMjIE51dG1lZyBQb3dkZXI6IEEgRGVsaWdodGZ1bCBTcGljZSBmcm9tIFZhcm5pIEV4cG9ydHMKCioqSW50cm9kdWN0aW9uIHRvIE51dG1lZyBQb3dkZXIqKgoKTnV0bWVnIHBvd2RlciBpcyBhIHByaXplZCBzcGljZSBvYnRhaW5lZCBmcm9tIHRoZSBzZWVkcyBvZiB0aGUgbnV0bWVnIHRyZWUsIG5hdGl2ZSB0byB0aGUgZXhvdGljIFNwaWNlIElzbGFuZHMgb2YgSW5kb25lc2lhLiBLbm93biBmb3IgaXRzIHdhcm0sIGFyb21hdGljIHF1YWxpdGllcyBhbmQgc3dlZXQsIG51dHR5IGZsYXZvciB3aXRoIGEgaGludCBvZiBjaW5uYW1vbiwgbnV0bWVnIHBvd2RlciBpcyBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IHRoYXQgZW5oYW5jZXMgYm90aCBzd2VldCBhbmQgc2F2b3J5IGRpc2hlcy4KCioqT3JpZ2luIGFuZCBGbGF2b3IgUHJvZmlsZSoqCgotICoqT3JpZ2luOioqIFRoZSBudXRtZWcgdHJlZSwgc2NpZW50aWZpY2FsbHkga25vd24gYXMgTXlyaXN0aWNhIGZyYWdyYW5zLCB0aHJpdmVzIGluIHRoZSB0cm9waWNhbCBjbGltYXRlcyBvZiB0aGUgU3BpY2UgSXNsYW5kcywgYWxzbyBrbm93biBhcyB0aGUgTW9sdWNjYXMgb3IgTWFsdWt1IElzbGFuZHMgaW4gSW5kb25lc2lhLgotICoqRmxhdm9yOioqIE51dG1lZyBwb3dkZXIgb2ZmZXJzIGEgZGVsaWdodGZ1bCBjb21iaW5hdGlvbiBvZiBzd2VldG5lc3MgYW5kIHdhcm10aCwgY29tcGxlbWVudGVkIGJ5IHN1YnRsZSBub3RlcyBvZiBjaW5uYW1vbi4gSXRzIGFyb21hIGlzIHJpY2ggYW5kIGludml0aW5nLCBtYWtpbmcgaXQgYSBwb3B1bGFyIGNob2ljZSBpbiBjdWxpbmFyeSBjcmVhdGlvbnMgd29ybGR3aWRlLgoKKipDdWxpbmFyeSBVc2VzKioKCk51dG1lZyBwb3dkZXIgaXMgY2hlcmlzaGVkIGZvciBpdHMgZGl2ZXJzZSBjdWxpbmFyeSBhcHBsaWNhdGlvbnM6Ci0gKipCYWtpbmc6KiogSXQgaXMgYSBxdWludGVzc2VudGlhbCBpbmdyZWRpZW50IGluIGJha2luZywgZW5oYW5jaW5nIHRoZSBmbGF2b3Igb2YgY2FrZXMsIGNvb2tpZXMsIHBpZXMsIGFuZCBwYXN0cmllcy4KLSAqKkNvb2tpbmc6KiogQWRkcyBkZXB0aCB0byBzYXZvcnkgZGlzaGVzIHN1Y2ggYXMgY3Vycmllcywgc2F1Y2VzLCBzb3VwcywgYW5kIHN0ZXdzLgotICoqQmV2ZXJhZ2VzOioqIFVzZWQgdG8gZmxhdm9yIGJldmVyYWdlcyBsaWtlIGVnZ25vZywgbXVsbGVkIHdpbmUsIGFuZCB2YXJpb3VzIGNvY2t0YWlscy4KLSAqKkRlc3NlcnRzOioqIFNwcmlua2xlZCBvdmVyIGN1c3RhcmRzLCBwdWRkaW5ncywgYW5kIGljZSBjcmVhbSB0byBpbXBhcnQgYSB3YXJtLCBhcm9tYXRpYyB0b3VjaC4KCioqTWVkaWNpbmFsIGFuZCBIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIGl0cyBjdWxpbmFyeSBhcHBlYWwsIG51dG1lZyBwb3dkZXIgaXMgdmFsdWVkIGZvciBpdHMgcG90ZW50aWFsIGhlYWx0aCBiZW5lZml0czoKLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogVHJhZGl0aW9uYWxseSB1c2VkIGluIGhlcmJhbCBtZWRpY2luZSB0byBhbGxldmlhdGUgZGlnZXN0aXZlIGlzc3VlcyBzdWNoIGFzIGJsb2F0aW5nLCBnYXMsIGFuZCBpbmRpZ2VzdGlvbi4KLSAqKkFudGlmdW5nYWwgYW5kIEFudGliYWN0ZXJpYWwgUHJvcGVydGllczoqKiBTdHVkaWVzIHN1Z2dlc3QgbnV0bWVnIG1heSBwb3NzZXNzIHByb3BlcnRpZXMgdGhhdCBpbmhpYml0IHRoZSBncm93dGggb2YgZnVuZ2kgYW5kIGJhY3RlcmlhLCBjb250cmlidXRpbmcgdG8gaXRzIG1lZGljaW5hbCB1c2VzLgotICoqQXJvbWF0aWMgVGhlcmFweToqKiBJdHMgd2FybSBhcm9tYSBpcyBhbHNvIHVzZWQgaW4gYXJvbWF0aGVyYXB5IHRvIGluZHVjZSByZWxheGF0aW9uIGFuZCBhbGxldmlhdGUgc3RyZXNzLgoKKipRdWFsaXR5IEFzc3VyYW5jZSBhdCBWYXJuaSBFeHBvcnRzKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGVuc3VyZSB0aGF0IG91ciBudXRtZWcgcG93ZGVyIG1lZXRzIHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBvZiBxdWFsaXR5IGFuZCBmcmVzaG5lc3MuIFNvdXJjZWQgZGlyZWN0bHkgZnJvbSByZXB1dGFibGUgZ3Jvd2VycyBpbiB0aGUgU3BpY2UgSXNsYW5kcywgb3VyIG51dG1lZyBwb3dkZXIgaXMgbWV0aWN1bG91c2x5IHByb2Nlc3NlZCBhbmQgcGFja2VkIHRvIHByZXNlcnZlIGl0cyByaWNoIGZsYXZvciBhbmQgYmVuZWZpY2lhbCBwcm9wZXJ0aWVzLgoKKipDb250YWN0IFVzKioKCkVuaGFuY2UgeW91ciBjdWxpbmFyeSBkZWxpZ2h0cyBhbmQgZXhwbG9yZSB0aGUgaGVhbHRoIGJlbmVmaXRzIG9mIG51dG1lZyBwb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzLiBDb250YWN0IHVzIHRvZGF5IHRvIHBsYWNlIHlvdXIgb3JkZXIgb3IgaW5xdWlyZSBhYm91dCBvdXIgcmFuZ2Ugb2YgcHJlbWl1bSBzcGljZXMgYW5kIGhlcmJzLiBUcnVzdCBWYXJuaSBFeHBvcnRzIHRvIGRlbGl2ZXIgZXhjZWxsZW5jZSBpbiBldmVyeSBzcGljZSwgZW5zdXJpbmcgc2F0aXNmYWN0aW9uIGFuZCBmbGF2b3IgaW4gZXZlcnkgZGlzaC4="
+                    },
+
+                    {
+                        "id": "7",
+                        "name": "Curry Powder",
+                        "Category": "Spices",
+                        "images": spices31,
+                        "Botanical Name": "Murraya koenigii (L.) Sprengel",
+                        "Usage": "Conventional",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Shelf Life": "12 months",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "IyMjIEN1cnJ5IFBvd2RlcjogQSBWZXJzYXRpbGUgU3BpY2UgQmxlbmQgZnJvbSBWYXJuaSBFeHBvcnRzCgoqKkludHJvZHVjdGlvbiB0byBDdXJyeSBQb3dkZXIqKgoKQ3VycnkgcG93ZGVyIGlzIGEgYmVsb3ZlZCBzcGljZSBibGVuZCBzeW5vbnltb3VzIHdpdGggdGhlIHZpYnJhbnQgZmxhdm9ycyBvZiBBc2lhbiBjdWlzaW5lLiBXaGlsZSBpdHMgZXhhY3QgY29tcG9zaXRpb24gY2FuIHZhcnksIGN1cnJ5IHBvd2RlciB0eXBpY2FsbHkgZmVhdHVyZXMgYSBoYXJtb25pb3VzIG1peCBvZiBzcGljZXMgdGhhdCBsZW5kIGEgZGlzdGluY3RpdmUgYXJvbWEgYW5kIGZsYXZvciB0byBkaXNoZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIG9mZmVyIGEgcHJlbWl1bSBxdWFsaXR5IGN1cnJ5IHBvd2RlciBibGVuZCB0aGF0IGVtYm9kaWVzIHRoZSByaWNoIGN1bGluYXJ5IHRyYWRpdGlvbnMgaXQgcmVwcmVzZW50cy4KCioqT3JpZ2lucyBhbmQgSW5ncmVkaWVudHMqKgoKLSAqKkJsZW5kIENvbXBvc2l0aW9uOioqIE91ciBjdXJyeSBwb3dkZXIgaXMgbWV0aWN1bG91c2x5IGNyYWZ0ZWQgd2l0aCBhIGJhbGFuY2VkIGNvbWJpbmF0aW9uIG9mIGVzc2VudGlhbCBzcGljZXMsIGluY2x1ZGluZyBjdW1pbiwgY29yaWFuZGVyLCBhbmQgdHVybWVyaWMuIFRoZXNlIGZvcm0gdGhlIGJhc2UsIHByb3ZpZGluZyBkZXB0aCBhbmQgZWFydGhpbmVzcy4KLSAqKkFkZGl0aW9uYWwgSW5ncmVkaWVudHM6KiogVG8gZW5oYW5jZSBpdHMgY29tcGxleGl0eSwgd2UgaW5jb3Jwb3JhdGUgcmVkIG9yIGJsYWNrIHBlcHBlciBmb3IgaGVhdCwgbXVzdGFyZCBmb3IgcHVuZ2VuY3ksIGdpbmdlciBmb3Igd2FybXRoLCBjbG92ZSBhbmQgY2FyZGFtb20gZm9yIGFyb21hdGljIGRlcHRoLCBiYXkgbGVhZiBmb3IgaGVyYmFsIG5vdGVzLCBhbmQgZmVudWdyZWVrIGZvciBhIHN1YnRsZSBiaXR0ZXItc3dlZXRuZXNzLgotICoqVmFyaWFudHM6KiogQXZhaWxhYmxlIGluIG1pbGQgYW5kIGhvdCAob2Z0ZW4gcmVmZXJyZWQgdG8gYXMgIk1hZHJhcyIpLCBjYXRlcmluZyB0byBkaWZmZXJlbnQgdGFzdGUgcHJlZmVyZW5jZXMgYW5kIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KCioqVmVyc2F0aWxpdHkgaW4gQ3VsaW5hcnkgQXBwbGljYXRpb25zKioKCkN1cnJ5IHBvd2RlciBmcm9tIFZhcm5pIEV4cG9ydHMgc2VydmVzIGFzIGEgdmVyc2F0aWxlIHNlYXNvbmluZzoKLSAqKlRyYWRpdGlvbmFsIERpc2hlczoqKiBJdCBpcyBlc3NlbnRpYWwgZm9yIHByZXBhcmluZyBjbGFzc2ljIGN1cnJpZXMsIGltcGFydGluZyBhIHJvYnVzdCBmbGF2b3IgYW5kIGdvbGRlbiBodWUgdG8gbWVhdCwgdmVnZXRhYmxlLCBhbmQgbGVudGlsLWJhc2VkIGRpc2hlcy4KLSAqKlNvdXBzIGFuZCBTdGV3czoqKiBBZGRzIGNvbXBsZXhpdHkgdG8gc291cHMgYW5kIHN0ZXdzLCBlbnJpY2hpbmcgYnJvdGggd2l0aCBsYXllcnMgb2Ygc3BpY2UgYW5kIHdhcm10aC4KLSAqKlNhdWNlcyBhbmQgTWFyaW5hZGVzOioqIEVuaGFuY2VzIHNhdWNlcyBhbmQgbWFyaW5hZGVzLCBwcm92aWRpbmcgYSB3ZWxsLXJvdW5kZWQgZmxhdm9yIHByb2ZpbGUgdGhhdCBjb21wbGVtZW50cyBtZWF0cywgc2VhZm9vZCwgYW5kIHZlZ2V0YWJsZXMuCi0gKipDcmVhdGl2ZSBVc2VzOioqIEJleW9uZCB0cmFkaXRpb25hbCBhcHBsaWNhdGlvbnMsIG91ciBjdXJyeSBwb3dkZXIgaW5zcGlyZXMgY3JlYXRpdmUgY3VsaW5hcnkgZXhwbG9yYXRpb25zLiBJdCBjYW4gZWxldmF0ZSBldmVyeWRheSBkaXNoZXMgc3VjaCBhcyBoYW1idXJnZXJzLCBzY3JhbWJsZWQgZWdncywgcm9hc3RlZCB2ZWdldGFibGVzLCBhbmQgZXZlbiBwb3RhdG8gc2FsYWQsIGFkZGluZyBhbiBleG90aWMgdHdpc3QgdG8gZmFtaWxpYXIgZmxhdm9ycy4KCioqUXVhbGl0eSBBc3N1cmFuY2UgYXQgVmFybmkgRXhwb3J0cyoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSB1cGhvbGQgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzOgotICoqU291cmNpbmc6KiogT3VyIGN1cnJ5IHBvd2RlciBibGVuZCBpcyBzb3VyY2VkIGZyb20gcmVwdXRhYmxlIHN1cHBsaWVycyB3aG8gYWRoZXJlIHRvIHN1c3RhaW5hYmxlIHByYWN0aWNlcyBhbmQgZW5zdXJlIHRoZSBmcmVzaG5lc3MgYW5kIGF1dGhlbnRpY2l0eSBvZiBlYWNoIHNwaWNlLgotICoqUHJvY2Vzc2luZzoqKiBFYWNoIGJhdGNoIG9mIGN1cnJ5IHBvd2RlciB1bmRlcmdvZXMgbWV0aWN1bG91cyBwcm9jZXNzaW5nLCBpbmNsdWRpbmcgZ3JpbmRpbmcgYW5kIGJsZW5kaW5nIHVuZGVyIGNvbnRyb2xsZWQgY29uZGl0aW9ucyB0byBwcmVzZXJ2ZSBpdHMgYXJvbWEgYW5kIHBvdGVuY3kuCi0gKipQYWNrYWdpbmc6KiogUGFja2FnZWQgd2l0aCBjYXJlIHRvIG1haW50YWluIGZyZXNobmVzcywgZW5zdXJpbmcgdGhhdCBldmVyeSBzcG9vbmZ1bCBkZWxpdmVycyB0aGUgcGVyZmVjdCBiYWxhbmNlIG9mIGZsYXZvcnMuCgoqKkV4cGxvcmUgdGhlIFdvcmxkIG9mIEN1cnJ5IHdpdGggVmFybmkgRXhwb3J0cyoqCgpXaGV0aGVyIHlvdSdyZSBhIGN1bGluYXJ5IGVudGh1c2lhc3Qgb3IgYSBwcm9mZXNzaW9uYWwgY2hlZiwgVmFybmkgRXhwb3J0cyBpbnZpdGVzIHlvdSB0byBleHBlcmllbmNlIHRoZSByaWNoIGZsYXZvcnMgYW5kIHZlcnNhdGlsaXR5IG9mIG91ciBjdXJyeSBwb3dkZXIuIEVsZXZhdGUgeW91ciBkaXNoZXMgd2l0aCBvdXIgcHJlbWl1bSBzcGljZSBibGVuZCwgY3JhZnRlZCB0byBlbmhhbmNlIHRoZSBhdXRoZW50aWNpdHkgYW5kIGFyb21hIG9mIEFzaWFuLWluc3BpcmVkIGN1aXNpbmUuIENvbnRhY3QgdXMgdG9kYXkgdG8gcGxhY2UgeW91ciBvcmRlciBvciBsZWFybiBtb3JlIGFib3V0IG91ciB3aWRlIHJhbmdlIG9mIHNwaWNlcyBhbmQgaGVyYnMuIFRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gZXZlcnkgYmxlbmQsIGJyaW5naW5nIGN1bGluYXJ5IGRlbGlnaHQgdG8geW91ciBraXRjaGVuLg=="
+                    },
+
+                    {
+                        "id": "8",
+                        "name": "Black Pepper Powder",
+                        "Category": "Spices",
+                        "images": spices32,
+                        "Usage": "Conventional",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Harvesting Season": "Jan., Dec.",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "Certification": "FSSAI Certified",
+                        "description": "IyMjIEJsYWNrIFBlcHBlciBQb3dkZXI6IFRoZSBLaW5nIG9mIFNwaWNlcwoKKipJbnRyb2R1Y3Rpb24qKgoKQmxhY2sgcGVwcGVyIHBvd2Rlciwgb2Z0ZW4gaGFpbGVkIGFzIHRoZSAiS2luZyBvZiBTcGljZXMsIiBpcyByZW5vd25lZCBub3Qgb25seSBmb3IgaXRzIHJvYnVzdCBmbGF2b3IgYnV0IGFsc28gZm9yIGl0cyBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuIE9yaWdpbmF0aW5nIGZyb20gdGhlIHRyb3BpY2FsIGV2ZXJncmVlbiByYWluZm9yZXN0cyBvZiBTb3V0aCBJbmRpYW4gS2VyYWxhLCBibGFjayBwZXBwZXIgaGFzIGJlZW4gcHJpemVkIHNpbmNlIGFuY2llbnQgdGltZXMgZm9yIGl0cyBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIHByb3BlcnRpZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIGJyaW5nIHlvdSBwcmVtaXVtLXF1YWxpdHkgYmxhY2sgcGVwcGVyIHBvd2RlciB0aGF0IGVuaGFuY2VzIHRoZSB0YXN0ZSBhbmQgaGVhbHRoIGJlbmVmaXRzIG9mIHlvdXIgZGlzaGVzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKLSAqKldlaWdodCBMb3NzOioqIEJsYWNrIHBlcHBlciBpcyBrbm93biB0byBib29zdCBtZXRhYm9saXNtIGFuZCBhaWQgaW4gd2VpZ2h0IGxvc3MgZWZmb3J0cy4KLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogSXQgaW1wcm92ZXMgZGlnZXN0aW9uIGJ5IHN0aW11bGF0aW5nIHRoZSBzZWNyZXRpb24gb2YgZGlnZXN0aXZlIGVuenltZXMuCi0gKipDb2xkIGFuZCBDb3VnaCBSZWxpZWY6KiogSGVscHMgcmVsaWV2ZSBzeW1wdG9tcyBvZiBjb2xkIGFuZCBjb3VnaCBkdWUgdG8gaXRzIGV4cGVjdG9yYW50IHByb3BlcnRpZXMuCi0gKipBbnRpLWluZmxhbW1hdG9yeToqKiBFZmZlY3RpdmUgaW4gcmVkdWNpbmcgaW5mbGFtbWF0aW9uLCBiZW5lZml0aW5nIGFydGhyaXRpcyBwYXRpZW50cy4KLSAqKkFudGlveGlkYW50IFByb3BlcnRpZXM6KiogUHJvdGVjdHMgY2VsbHMgZnJvbSBkYW1hZ2UgY2F1c2VkIGJ5IGZyZWUgcmFkaWNhbHMsIHBvdGVudGlhbGx5IHJlZHVjaW5nIHRoZSByaXNrIG9mIGNhbmNlci4KLSAqKlNraW4gQmVuZWZpdHM6KiogSW1wcm92ZXMgc2tpbiBoZWFsdGggYW5kIHByZXZlbnRzIHByZW1hdHVyZSBhZ2luZy4KLSAqKkhlYXJ0IEhlYWx0aDoqKiBTdXBwb3J0cyBoZWFydCBoZWFsdGggYnkgaW1wcm92aW5nIGJsb29kIGNpcmN1bGF0aW9uIGFuZCBsb3dlcmluZyBjaG9sZXN0ZXJvbCBsZXZlbHMuCgoqKkN1bGluYXJ5IFVzZXMqKgoKLSAqKlZlcnNhdGlsZSBBcHBsaWNhdGlvbjoqKiBCbGFjayBwZXBwZXIgcG93ZGVyIGlzIGEgc3RhcGxlIGluIHNhdm9yeSBkaXNoZXMsIHNvdXBzLCBhbmQgc2FsYWRzLCBlbmhhbmNpbmcgZmxhdm9ycyB3aXRoIGl0cyBwdW5nZW50IGFuZCBzcGljeSBub3Rlcy4KLSAqKkhpc3RvcmljYWwgU2lnbmlmaWNhbmNlOioqIEluIGFuY2llbnQgdGltZXMsIGJsYWNrIHBlcHBlciB3YXMgc28gaGlnaGx5IHZhbHVlZCB0aGF0IGl0IHdhcyB1c2VkIGFzIGN1cnJlbmN5IGFuZCB0cmFkZWQgZXh0ZW5zaXZlbHkuCi0gKipUcmFkaXRpb25hbCBNZWRpY2luZToqKiBXaWRlbHkgdXNlZCBpbiB0cmFkaXRpb25hbCBJbmRpYW4gbWVkaWNpbmUgZm9yIGl0cyB0aGVyYXBldXRpYyBiZW5lZml0cywgaW5jbHVkaW5nIHJlbGllZiBmcm9tIHNvcmUgdGhyb2F0IGFuZCBjb25nZXN0aW9uLgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgotICoqQWR2YW5jZWQgUHJvY2Vzc2luZzoqKiBXZSBlbXBsb3kgYWR2YW5jZWQgbWV0aG9kcyBmb3IgZXh0cmFjdGlvbiwgYmxlbmRpbmcsIGFuZCBtaXhpbmcgdG8gZW5zdXJlIHRoZSBoaWdoZXN0IHF1YWxpdHkgb2YgYmxhY2sgcGVwcGVyIHBvd2Rlci4KLSAqKkNlcnRpZmllZCBRdWFsaXR5OioqIE91ciBwcm9kdWN0cyBjb21wbHkgd2l0aCBpbnRlcm5hdGlvbmFsIGhlYWx0aCBhbmQgc2FmZXR5IHN0YW5kYXJkcywgY2VydGlmaWVkIGJ5IG91ciByaWdvcm91cyBxdWFsaXR5IGNvbnRyb2wgZGVwYXJ0bWVudCBiZWZvcmUgcmVhY2hpbmcgdGhlIG1hcmtldC4KLSAqKlBhY2thZ2luZzoqKiBXZSBvZmZlciBjb252ZW5pZW50IGFuZCBoeWdpZW5pYyBwYWNrYWdpbmcgb3B0aW9ucywgZW5zdXJpbmcgZnJlc2huZXNzIGFuZCBwcmVzZXJ2aW5nIHRoZSBwb3RlbmN5IG9mIG91ciBzcGljZXMuCgoqKkV4cGxvcmUgdGhlIFdvcmxkIG9mIEJsYWNrIFBlcHBlciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgdGFrZSBwcmlkZSBpbiBvZmZlcmluZyB0b3AtZ3JhZGUgYmxhY2sgcGVwcGVyIHBvd2RlciB0aGF0IG1lZXRzIHRoZSBkaXZlcnNlIG5lZWRzIG9mIG91ciBnbG9iYWwgY2xpZW50ZWxlLiBXaGV0aGVyIHlvdSdyZSBhIGNoZWYgc2Vla2luZyB0byBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIG9yIGEgY29uc3VtZXIgbG9va2luZyB0byBpbmNvcnBvcmF0ZSBoZWFsdGhmdWwgc3BpY2VzIGludG8geW91ciBkaWV0LCBvdXIgYmxhY2sgcGVwcGVyIHBvd2RlciBwcm9taXNlcyB0byBkZWxpdmVyIGV4Y2VwdGlvbmFsIGZsYXZvciBhbmQgd2VsbG5lc3MgYmVuZWZpdHMuIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZXh0ZW5zaXZlIHJhbmdlIG9mIHNwaWNlcyBhbmQgYmxlbmRzIG9yIHRvIHBsYWNlIHlvdXIgb3JkZXIuIFRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gZXZlcnkgc3BpY2UgYmxlbmQsIGVuaGFuY2luZyB5b3VyIGN1bGluYXJ5IGV4cGVyaWVuY2UgYW5kIHdlbGwtYmVpbmcu"
+                    },
+
+                    {
+                        "id": "9",
+                        "name": "Amchur Powder",
+                        "Category": "Spices",
+                        "images": spices33,
+                        "Botanical Name": "Mangifera indica",
+                        "Appearance": "Light brown to dark brown powder",
+                        "Flavor": "Tart, tangy, and slightly sweet",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "Certification": "FSSAI Certified",
+                        "description": "KipBbWNodXIgUG93ZGVyOiBUaGUgVGFuZ3kgU3BpY2UqKgoKKipJbnRyb2R1Y3Rpb24qKgoKQW1jaHVyIHBvd2RlciwgYWxzbyBrbm93biBhcyBtYW5nbyBwb3dkZXIsIGlzIGEgc3BpY2UgZGVyaXZlZCBmcm9tIGRyaWVkIHVucmlwZSBncmVlbiBtYW5nb2VzLiBUaGlzIHRhbmd5IGFuZCBjaXRydXN5IHBvd2RlciBpcyBhIHN0YXBsZSBpbiBJbmRpYW4gY3Vpc2luZSwgcmVub3duZWQgZm9yIGl0cyBkaXN0aW5jdGl2ZSBmbGF2b3IgYW5kIGN1bGluYXJ5IHZlcnNhdGlsaXR5LiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzb3VyY2UgYW5kIGRlbGl2ZXIgcHJlbWl1bS1xdWFsaXR5IGFtY2h1ciBwb3dkZXIgdGhhdCBlbmhhbmNlcyB0aGUgdGFzdGUgb2YgdmFyaW91cyBkaXNoZXMsIGZyb20gY3VycmllcyB0byBtYXJpbmFkZXMuCgoqKk9yaWdpbiBhbmQgSGFydmVzdGluZyoqCgotICoqRGVyaXZlZCBmcm9tIFVucmlwZSBNYW5nb2VzOioqIEFtY2h1ciBwb3dkZXIgaXMgbWFkZSBieSBkcnlpbmcgdW5yaXBlIGdyZWVuIG1hbmdvZXMgaW4gdGhlIHN1biB1bnRpbCB0aGV5IGFyZSBjb21wbGV0ZWx5IGRlaHlkcmF0ZWQuCi0gKipDdWxpbmFyeSBUcmFkaXRpb246KiogSXQgaGFzIGJlZW4gYSBwYXJ0IG9mIEluZGlhbiBjdWxpbmFyeSB0cmFkaXRpb25zIGZvciBjZW50dXJpZXMsIHByaXplZCBmb3IgaXRzIHNvdXIgYW5kIGZydWl0eSBmbGF2b3IgcHJvZmlsZS4KCioqRmxhdm9yIFByb2ZpbGUgYW5kIEN1bGluYXJ5IFVzZXMqKgoKLSAqKlRhbmd5IGFuZCBDaXRydXN5OioqIEFtY2h1ciBwb3dkZXIgYWRkcyBhIHRhbmd5IGFuZCBzbGlnaHRseSBzb3VyIHRhc3RlIHRvIGRpc2hlcyB3aXRob3V0IGFkZGluZyBtb2lzdHVyZS4KLSAqKlZlcnNhdGlsZSBBcHBsaWNhdGlvbjoqKiBJdCBpcyBjb21tb25seSB1c2VkIGluIGN1cnJpZXMsIG1hcmluYWRlcywgY2h1dG5leXMsIHBpY2tsZXMsIGFuZCBldmVuIGluIHJlZnJlc2hpbmcgYmV2ZXJhZ2VzIGxpa2Ugc2hlcmJldHMuCi0gKipFbmhhbmNlcyBGbGF2b3I6KiogQW1jaHVyIHBvd2RlciBjb21wbGVtZW50cyBib3RoIHZlZ2V0YXJpYW4gYW5kIG5vbi12ZWdldGFyaWFuIGRpc2hlcywgYWRkaW5nIGEgdW5pcXVlIGRpbWVuc2lvbiB0byB0aGUgZmxhdm9yIHByb2ZpbGUuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgotICoqUmljaCBpbiBWaXRhbWluczoqKiBDb250YWlucyBzaWduaWZpY2FudCBhbW91bnRzIG9mIHZpdGFtaW4gQSwgdml0YW1pbiBDLCBhbmQgb3RoZXIgYW50aW94aWRhbnRzLgotICoqQWlkcyBEaWdlc3Rpb246KiogS25vd24gdG8gYWlkIGRpZ2VzdGlvbiBhbmQgaW1wcm92ZSBndXQgaGVhbHRoIGR1ZSB0byBpdHMgbmF0dXJhbCBhY2lkaXR5LgotICoqQW50aS1pbmZsYW1tYXRvcnk6KiogSGFzIG1pbGQgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcywgYmVuZWZpY2lhbCBmb3Igb3ZlcmFsbCBoZWFsdGguCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipQcmVtaXVtIFF1YWxpdHk6KiogV2UgZW5zdXJlIHRoYXQgb3VyIGFtY2h1ciBwb3dkZXIgaXMgbWFkZSBmcm9tIGhpZ2gtcXVhbGl0eSBkcmllZCBtYW5nb2VzLCBmcmVlIGZyb20gYWRkaXRpdmVzIG9yIHByZXNlcnZhdGl2ZXMuCi0gKipTdHJpbmdlbnQgU3RhbmRhcmRzOioqIE91ciBwcm9kdWN0cyBhZGhlcmUgdG8gaW50ZXJuYXRpb25hbCBxdWFsaXR5IGFuZCBzYWZldHkgc3RhbmRhcmRzLCBjZXJ0aWZpZWQgdGhyb3VnaCByaWdvcm91cyB0ZXN0aW5nIGFuZCBxdWFsaXR5IGNvbnRyb2wgcHJvY2Vzc2VzLgotICoqUGFja2FnaW5nOioqIEF2YWlsYWJsZSBpbiBjb252ZW5pZW50IGFuZCBoeWdpZW5pYyBwYWNrYWdpbmcgdG8gcHJlc2VydmUgZnJlc2huZXNzIGFuZCBwb3RlbmN5LgoKKipEaXNjb3ZlciB0aGUgRmxhdm9yIG9mIEFtY2h1ciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc3BlY2lhbGl6ZSBpbiBkZWxpdmVyaW5nIGF1dGhlbnRpYyBhbmQgZmxhdm9yZnVsIHNwaWNlcyBsaWtlIGFtY2h1ciBwb3dkZXIgdG8gZ2xvYmFsIG1hcmtldHMuIFdoZXRoZXIgeW91J3JlIGEgY2hlZiBleHBlcmltZW50aW5nIHdpdGggbmV3IHJlY2lwZXMgb3IgYSBmb29kIGVudGh1c2lhc3QgZXhwbG9yaW5nIEluZGlhbiBjdWlzaW5lLCBvdXIgYW1jaHVyIHBvd2RlciBwcm9taXNlcyB0byBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIHdpdGggaXRzIHRhbmd5IGFuZCByZWZyZXNoaW5nIHRhc3RlLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYWJvdXQgb3VyIGV4dGVuc2l2ZSByYW5nZSBvZiBzcGljZXMgYW5kIGJsZW5kcywgYW5kIGV4cGVyaWVuY2UgdGhlIGVzc2VuY2Ugb2YgYXV0aGVudGljIEluZGlhbiBmbGF2b3JzIHdpdGggVmFybmkgRXhwb3J0cy4="
+                    },
+
+
+                    {
+                        "id": "10",
+                        "name": "Anardana Powder",
+                        "Category": "Spices",
+                        "images": spices34,
+                        "Color": "Brown",
+                        "Shelf Life": "12 months",
+                        "Taste": "Mild sweet and tangy",
+                        "Storage": "To be kept in a cool dry place. After opening, store in an airtight container.",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "Certification": "FSSAI Certified",
+                        "description": "KipBbmFyZGFuYSBQb3dkZXI6IEEgVGFuZ3kgRGVsaWdodCBpbiBJbmRpYW4gQ3Vpc2luZSoqCgoqKkludHJvZHVjdGlvbioqCgpBbmFyZGFuYSBwb3dkZXIgaXMgYSB1bmlxdWUgc3BpY2UgbWl4IGRlcml2ZWQgZnJvbSBkcmllZCBwb21lZ3JhbmF0ZSBzZWVkcywgY2VsZWJyYXRlZCBmb3IgaXRzIHRhbmd5IGFuZCBmcnVpdHkgZmxhdm9yIHByb2ZpbGUuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gb2ZmZXJpbmcgcHJlbWl1bS1xdWFsaXR5IGFuYXJkYW5hIHBvd2RlciB0aGF0IGVuaGFuY2VzIHRoZSB0YXN0ZSBhbmQgYXJvbWEgb2YgdmFyaW91cyBJbmRpYW4gZGlzaGVzLCByZWZsZWN0aW5nIG91ciBjb21taXRtZW50IHRvIGRlbGl2ZXJpbmcgYXV0aGVudGljIGZsYXZvcnMgdG8gZ2xvYmFsIG1hcmtldHMuCgoqKk9yaWdpbiBhbmQgUHJvZHVjdGlvbioqCgotICoqRGVyaXZlZCBmcm9tIFBvbWVncmFuYXRlIFNlZWRzOioqIEFuYXJkYW5hIHBvd2RlciBpcyBtYWRlIGJ5IGRyeWluZyBhbmQgZ3JpbmRpbmcgcG9tZWdyYW5hdGUgc2VlZHMgaW50byBhIGZpbmUgcG93ZGVyLgotICoqVHJhZGl0aW9uYWwgVGVjaG5pcXVlOioqIFRoZSBzZWVkcyBhcmUgY2FyZWZ1bGx5IGRyaWVkIHRvIHByZXNlcnZlIHRoZWlyIHRhbmd5IGVzc2VuY2UsIGVuc3VyaW5nIGEgcmljaCBhbmQgZGlzdGluY3RpdmUgZmxhdm9yLgotICoqQ3VsaW5hcnkgSGVyaXRhZ2U6KiogQW4gaW50ZWdyYWwgcGFydCBvZiBOb3J0aCBJbmRpYW4gY3Vpc2luZSwgYW5hcmRhbmEgcG93ZGVyIGlzIHVzZWQgaW4gY2h1dG5leXMsIHBpY2tsZXMsIGN1cnJpZXMsIGFuZCBhcyBhIGdhcm5pc2ggaW4gdmFyaW91cyBkaXNoZXMuCgoqKkZsYXZvciBQcm9maWxlIGFuZCBDdWxpbmFyeSBVc2VzKioKCi0gKipUYW5neSBhbmQgRnJ1aXR5OioqIEFuYXJkYW5hIHBvd2RlciBpbXBhcnRzIGEgc291ciBhbmQgZnJ1aXR5IHRhc3RlLCBhZGRpbmcgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gZGlzaGVzLgotICoqVmVyc2F0aWxlIEFwcGxpY2F0aW9uOioqIEl0IGlzIGNvbW1vbmx5IHVzZWQgdG8gcHJlcGFyZSBtYXJpbmFkZXMsIHNhdWNlcywgYW5kIGRpcHMsIGVuaGFuY2luZyBib3RoIHZlZ2V0YXJpYW4gYW5kIG5vbi12ZWdldGFyaWFuIHJlY2lwZXMuCi0gKipFbmhhbmNlcyBBcm9tYToqKiBBZGRzIGEgcmVmcmVzaGluZyB0YW5naW5lc3MgdG8gc2FsYWRzLCBzbmFja3MsIGFuZCBkZXNzZXJ0cywgZWxldmF0aW5nIHRoZWlyIG92ZXJhbGwgYXBwZWFsLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKLSAqKlJpY2ggaW4gQW50aW94aWRhbnRzOioqIFBvbWVncmFuYXRlIHNlZWRzIGFyZSBrbm93biBmb3IgdGhlaXIgYW50aW94aWRhbnQgcHJvcGVydGllcywgd2hpY2ggY29udHJpYnV0ZSB0byBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogQW5hcmRhbmEgcG93ZGVyIGFpZHMgZGlnZXN0aW9uIGFuZCBpcyBvZnRlbiB1c2VkIHRvIGFsbGV2aWF0ZSBkaWdlc3RpdmUgZGlzY29tZm9ydHMuCi0gKipOdXRyaWVudC1SaWNoOioqIENvbnRhaW5zIGVzc2VudGlhbCB2aXRhbWlucyBhbmQgbWluZXJhbHMsIHByb21vdGluZyBudXRyaXRpb25hbCBiYWxhbmNlIGluIGN1bGluYXJ5IHByZXBhcmF0aW9ucy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKLSAqKlByZW1pdW0gUXVhbGl0eToqKiBXZSBzb3VyY2UgYW5hcmRhbmEgcG93ZGVyIGZyb20gdHJ1c3RlZCBzdXBwbGllcnMsIGVuc3VyaW5nIGl0IG1lZXRzIHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgcmV0YWlucyBpdHMgbmF0dXJhbCB0YW5neSBmbGF2b3IuCi0gKipIeWdpZW5pYyBQcm9jZXNzaW5nOioqIE91ciBwcm9kdWN0aW9uIHByb2Nlc3NlcyBhZGhlcmUgdG8gaW50ZXJuYXRpb25hbCBoeWdpZW5lIGFuZCBzYWZldHkgcmVndWxhdGlvbnMsIGd1YXJhbnRlZWluZyBhIHNhZmUgYW5kIG51dHJpdGlvdXMgc3BpY2UgcHJvZHVjdC4KLSAqKlBhY2thZ2luZyBFeGNlbGxlbmNlOioqIFBhY2thZ2VkIGluIGFpcnRpZ2h0IGNvbnRhaW5lcnMgdG8gcHJlc2VydmUgZnJlc2huZXNzIGFuZCBmbGF2b3IsIG1haW50YWluaW5nIGl0cyBwb3RlbmN5IGFuZCBhcm9tYS4KCioqRXhwZXJpZW5jZSBBdXRoZW50aWMgSW5kaWFuIEZsYXZvcnMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkV4cGxvcmUgdGhlIGN1bGluYXJ5IHJpY2huZXNzIG9mIEluZGlhbiBjdWlzaW5lIHdpdGggb3VyIHByZW1pdW0gYW5hcmRhbmEgcG93ZGVyIGF0IFZhcm5pIEV4cG9ydHMuIFdoZXRoZXIgeW91J3JlIHByZXBhcmluZyB0cmFkaXRpb25hbCBQdW5qYWJpIGRpc2hlcyBvciBleHBlcmltZW50aW5nIHdpdGggbmV3IGN1bGluYXJ5IGNyZWF0aW9ucywgb3VyIGFuYXJkYW5hIHBvd2RlciBwcm9taXNlcyB0byBkZWxpdmVyIGFuIGF1dGhlbnRpYyB0YXN0ZSBleHBlcmllbmNlLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2NvdmVyIG1vcmUgYWJvdXQgb3VyIGV4dGVuc2l2ZSByYW5nZSBvZiBzcGljZXMgYW5kIGluZ3JlZGllbnRzLCBhbmQgZWxldmF0ZSB5b3VyIGRpc2hlcyB3aXRoIHRoZSB0YW5neSBkZWxpZ2h0IG9mIGFuYXJkYW5hIHBvd2RlciBmcm9tIFZhcm5pIEV4cG9ydHMu"
+                    },
+
+                    {
+                        "id": "11",
+                        "name": "Chilly Powder",
+                        "Category": "Spices",
+                        "images": spices35,
+                        "Botanical Name": "Capsicum Frutescens",
+                        "Harvesting Season": "Jan. To Apr",
+                        "Usage": "Conventional",
+                        "Type": "Machine Clean & Sortex Clean",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "description": "KipDaGlsaSBQb3dkZXI6IEFkZGluZyBTcGljZSBhbmQgSGVhbHRoIHRvIFlvdXIgQ3Vpc2luZSoqCgoqKkludHJvZHVjdGlvbioqCgpDaGlsaSBwb3dkZXIsIGtub3duIGFzIExhbCBNaXJjaCBwb3dkZXIgaW4gSW5kaWEsIGlzIGEgcXVpbnRlc3NlbnRpYWwgc3BpY2UgcmVub3duZWQgZm9yIGl0cyBmaWVyeSBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3IuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gb2ZmZXJpbmcgcHJlbWl1bS1xdWFsaXR5IGNoaWxpIHBvd2RlciwgZ3JvdW5kIGZyb20gdGhlIGZpbmVzdCBxdWFsaXR5IHdob2xlIGNoaWxpZXMsIGVuc3VyaW5nIGEgcm9idXN0IHRhc3RlIGV4cGVyaWVuY2UgaW4gY3VsaW5hcnkgY3JlYXRpb25zIHdvcmxkd2lkZS4KCioqT3JpZ2luIGFuZCBQcm9kdWN0aW9uKioKCi0gKipDYXBzaWN1bSBHZW51czoqKiBDaGlsaSBpcyBhIGZydWl0IGJlbG9uZ2luZyB0byB0aGUgQ2Fwc2ljdW0gZ2VudXMsIGtub3duIGZvciBpdHMgdmFyeWluZyBkZWdyZWVzIG9mIHB1bmdlbmN5IG1lYXN1cmVkIG9uIHRoZSBTY292aWxsZSBzY2FsZS4KLSAqKlByZXBhcmF0aW9uOioqIFJlZCBjaGlsaWVzIGFyZSByaXBlbmVkLCBkcmllZCwgYW5kIG1ldGljdWxvdXNseSBncm91bmQgdG8gcHJvZHVjZSB0aGUgZGlzdGluY3RpdmUgcmVkIGNoaWxpIHBvd2Rlci4KLSAqKkluZGlhJ3MgRG9taW5hbmNlOioqIEluZGlhIGxlYWRzIGdsb2JhbGx5IGFzIHRoZSBsYXJnZXN0IHByb2R1Y2VyLCBjb25zdW1lciwgYW5kIGV4cG9ydGVyIG9mIGNoaWxpLCBzdXBwb3J0ZWQgYnkgc2lnbmlmaWNhbnQgaW52ZXN0bWVudHMgaW4gY29sZCBzdG9yYWdlIGluZnJhc3RydWN0dXJlLgoKKipDdWxpbmFyeSBTaWduaWZpY2FuY2UqKgoKLSAqKkZsYXZvciBhbmQgVmVyc2F0aWxpdHk6KiogQ2hpbGkgcG93ZGVyIGFkZHMgYSBwdW5nZW50IGFuZCBzcGljeSBraWNrIHRvIGRpc2hlcywgZW5oYW5jaW5nIHRoZWlyIGZsYXZvciBwcm9maWxlIGFuZCB2aXN1YWwgYXBwZWFsLgotICoqVXNhZ2U6KiogSW50ZWdyYWwgdG8gYSB3aWRlIGFycmF5IG9mIGN1aXNpbmVzLCBpbmNsdWRpbmcgSW5kaWFuLCBNZXhpY2FuLCBhbmQgVGhhaSwgY2hpbGkgcG93ZGVyIGlzIHVzZWQgaW4gY3Vycmllcywgc3Rld3MsIG1hcmluYWRlcywgYW5kIGFzIGEgc2Vhc29uaW5nIGZvciBzbmFja3MuCi0gKipTY292aWxsZSBTY2FsZToqKiBBdmFpbGFibGUgaW4gdmFyaW91cyBoZWF0IGxldmVscywgY2hpbGkgcG93ZGVyIGNhdGVycyB0byBkaXZlcnNlIHRhc3RlIHByZWZlcmVuY2VzLCBmcm9tIG1pbGQgdG8gaW50ZW5zZWx5IHNwaWN5LgoKKipOdXRyaXRpb25hbCBWYWx1ZSoqCgotICoqUmljaCBpbiBWaXRhbWlucyBhbmQgTWluZXJhbHM6KiogUmVkIGNoaWxpZXMgYXJlIGFidW5kYW50IGluIHZpdGFtaW4gQywgY2Fyb3RlbmUgKHByb3ZpdGFtaW4gQSksIEIgdml0YW1pbnMgKGVzcGVjaWFsbHkgdml0YW1pbiBCNiksIHBvdGFzc2l1bSwgbWFnbmVzaXVtLCBhbmQgaXJvbi4KLSAqKkVuaGFuY2VkIE51dHJpZW50IEFic29ycHRpb246KiogVml0YW1pbiBDIGNvbnRlbnQgYWlkcyBpbiB0aGUgYWJzb3JwdGlvbiBvZiBub24taGVtZSBpcm9uIGZyb20gb3RoZXIgZm9vZHMgaW4gbWVhbHMsIHN1Y2ggYXMgYmVhbnMgYW5kIGdyYWlucy4KCioqSGVhbHRoIEJlbmVmaXRzKioKCi0gKipBbnRpLWluZmxhbW1hdG9yeSBQcm9wZXJ0aWVzOioqIENoaWxpIHBlcHBlcnMgYXJlIGtub3duIGZvciB0aGVpciBhYmlsaXR5IHRvIGNvbWJhdCBpbmZsYW1tYXRpb24sIG9mZmVyaW5nIG5hdHVyYWwgcmVsaWVmIGZyb20gcGFpbiBhbmQgY29uZ2VzdGlvbi4KLSAqKkltbXVuZSBCb29zdDoqKiBIaWdoIGluIHZpdGFtaW4gQywgY2hpbGkgcG93ZGVyIGhlbHBzIGJvbHN0ZXIgdGhlIGltbXVuZSBzeXN0ZW0sIHN1cHBvcnRpbmcgb3ZlcmFsbCBoZWFsdGggYW5kIHdlbGwtYmVpbmcuCi0gKipDaG9sZXN0ZXJvbCBNYW5hZ2VtZW50OioqIFJlZ3VsYXIgY29uc3VtcHRpb24gb2YgY2hpbGkgcG93ZGVyIG1heSBhc3Npc3QgaW4gcmVkdWNpbmcgYmxvb2QgY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqTWV0YWJvbGlzbSBhbmQgV2VpZ2h0IE1hbmFnZW1lbnQ6KiogQ2hpbGkgcGVwcGVycyBzdGltdWxhdGUgZGlnZXN0aW9uIGFuZCBtZXRhYm9saXNtLCBwcm9tb3Rpbmcgd2VpZ2h0IGxvc3MgZWZmb3J0cyBlZmZlY3RpdmVseS4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKLSAqKlByZW1pdW0gUXVhbGl0eToqKiBPdXIgY2hpbGkgcG93ZGVyIGlzIHNvdXJjZWQgZnJvbSB0cnVzdGVkIHN1cHBsaWVycyBhbmQgdW5kZXJnb2VzIHJpZ29yb3VzIHF1YWxpdHkgY2hlY2tzIHRvIGVuc3VyZSBwdXJpdHkgYW5kIHBvdGVuY3kuCi0gKipIeWdpZW5pYyBQcm9jZXNzaW5nOioqIFByb2R1Y2VkIGluIGNvbXBsaWFuY2Ugd2l0aCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBvZiBoeWdpZW5lIGFuZCBzYWZldHksIGd1YXJhbnRlZWluZyBhIHNhZmUgYW5kIG51dHJpdGlvdXMgc3BpY2UgcHJvZHVjdC4KLSAqKlBhY2thZ2luZyBhbmQgRGVsaXZlcnk6KiogUGFja2FnZWQgaW4gYWlydGlnaHQgY29udGFpbmVycyB0byBwcmVzZXJ2ZSBmcmVzaG5lc3MgYW5kIGZsYXZvciwgZW5zdXJpbmcgcHJvbXB0IGRlbGl2ZXJ5IHRvIG1lZXQgbWFya2V0IGRlbWFuZHMuCgoqKkV4cGVyaWVuY2UgQXV0aGVudGljIEZsYXZvciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgYm9sZCB0YXN0ZSBvZiBjaGlsaSBwb3dkZXIgZnJvbSBWYXJuaSBFeHBvcnRzIGFuZCBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIHdpdGggdGhlIHBlcmZlY3QgYmFsYW5jZSBvZiBoZWF0IGFuZCBmbGF2b3IuIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZXh0ZW5zaXZlIHJhbmdlIG9mIHNwaWNlcyBhbmQgaW5ncmVkaWVudHMsIGFuZCBlbWJyYWNlIHRoZSBlc3NlbmNlIG9mIGNoaWxpIHBvd2RlciBpbiB5b3VyIGdsb2JhbCBjdWlzaW5lIG9mZmVyaW5ncy4="
+                    },
+
+                    {
+                        "id": "12",
+                        "name": "Fennel Powder",
+                        "Category": "Spices",
+                        "images": spices36,
+                        "Botanical Name": "Foeniculum vulgare",
+                        "Appearance": "Fine powder",
+                        "Aroma": "Sweet and aromatic",
+                        "Taste": "Sweet and licorice-like",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Storage Condition": "Cool And Dry (20°C)",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "Certification": "FSSAI Certified",
+                        "description": "KipGZW5uZWwgUG93ZGVyOiBOdXRyaXRpb3VzIGFuZCBGbGF2b3JmdWwgQWRkaXRpb24gdG8gWW91ciBLaXRjaGVuKioKCioqSW50cm9kdWN0aW9uKioKCkZlbm5lbCBwb3dkZXIsIGRlcml2ZWQgZnJvbSB0aGUgYXJvbWF0aWMgc2VlZHMgb2YgdGhlIGZlbm5lbCBwbGFudCAoRm9lbmljdWx1bSB2dWxnYXJlKSwgaXMgY2VsZWJyYXRlZCBmb3IgaXRzIHJpY2ggbnV0cml0aW9uYWwgcHJvZmlsZSBhbmQgdmVyc2F0aWxlIGN1bGluYXJ5IHVzZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gb2ZmZXJpbmcgaGlnaC1xdWFsaXR5IGZlbm5lbCBwb3dkZXIgdGhhdCBlbmhhbmNlcyB0aGUgZmxhdm9yIGFuZCBudXRyaXRpb25hbCB2YWx1ZSBvZiBkaXNoZXMgd29ybGR3aWRlLgoKKipOdXRyaXRpb25hbCBCZW5lZml0cyoqCgotICoqUmljaCBpbiBOdXRyaWVudHM6KiogRmVubmVsIHBvd2RlciBpcyBwYWNrZWQgd2l0aCBlc3NlbnRpYWwgbnV0cmllbnRzLCBpbmNsdWRpbmcgZmliZXIsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIG1ha2luZyBpdCBhIHZhbHVhYmxlIGFkZGl0aW9uIHRvIHlvdXIgZGlldC4KLSAqKlZpdGFtaW4gQzoqKiBJdCBpcyBwYXJ0aWN1bGFybHkgbm90ZXdvcnRoeSBmb3IgaXRzIGhpZ2ggdml0YW1pbiBDIGNvbnRlbnQsIHdoaWNoIHN1cHBvcnRzIGltbXVuZSBoZWFsdGggYW5kIG92ZXJhbGwgd2VsbC1iZWluZy4KCioqQ3VsaW5hcnkgVXNlcyoqCgotICoqQ29uZGltZW50IGFuZCBGbGF2b3Jpbmc6KiogRmVubmVsIHBvd2RlciBpcyB3aWRlbHkgdXRpbGl6ZWQgaW4gY29va2luZyBhcyBhIGNvbmRpbWVudCBhbmQgZmxhdm9yaW5nIGFnZW50LCBhZGRpbmcgYSBkaXN0aW5jdGl2ZSBzd2VldCBhbmQgYXJvbWF0aWMgdGFzdGUgdG8gdmFyaW91cyBkaXNoZXMuCi0gKipWZXJzYXRpbGl0eToqKiBJdCBjb21wbGVtZW50cyBib3RoIHN3ZWV0IGFuZCBzYXZvcnkgZGlzaGVzLCBpbmNsdWRpbmcgY3Vycmllcywgc291cHMsIHNhbGFkcywgbWFyaW5hZGVzLCBhbmQgYmFrZWQgZ29vZHMuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgotICoqUG93ZXJmdWwgUGxhbnQgQ29tcG91bmRzOioqIEZlbm5lbCBwb3dkZXIgY29udGFpbnMgcG90ZW50IHBsYW50IGNvbXBvdW5kcyB0aGF0IGNvbnRyaWJ1dGUgdG8gaXRzIGhlYWx0aCBiZW5lZml0cywgc3VjaCBhcyBhbnRpb3hpZGFudCBhbmQgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcy4KLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogVHJhZGl0aW9uYWxseSB1c2VkIHRvIGFpZCBkaWdlc3Rpb24sIGZlbm5lbCBwb3dkZXIgY2FuIGhlbHAgYWxsZXZpYXRlIGJsb2F0aW5nLCBnYXMsIGFuZCBvdGhlciBkaWdlc3RpdmUgZGlzY29tZm9ydHMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipQcmVtaXVtIFF1YWxpdHk6KiogT3VyIGZlbm5lbCBwb3dkZXIgaXMgc291cmNlZCBmcm9tIHJlcHV0YWJsZSBzdXBwbGllcnMgYW5kIHVuZGVyZ29lcyBzdHJpbmdlbnQgcXVhbGl0eSBjb250cm9sIG1lYXN1cmVzIHRvIGVuc3VyZSBwdXJpdHkgYW5kIGZyZXNobmVzcy4KLSAqKkh5Z2llbmljIFByb2Nlc3Npbmc6KiogUHJvZHVjZWQgaW4gYWNjb3JkYW5jZSB3aXRoIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBtYWludGFpbmluZyBoeWdpZW5lIGFuZCBudXRyaXRpb25hbCBpbnRlZ3JpdHkuCi0gKipQYWNrYWdpbmcgYW5kIERlbGl2ZXJ5OioqIFBhY2thZ2VkIHRvIHByZXNlcnZlIGFyb21hIGFuZCBmbGF2b3IsIGVuc3VyaW5nIHRpbWVseSBkZWxpdmVyeSB0byBtZWV0IG1hcmtldCBkZW1hbmRzIHdoaWxlIHJldGFpbmluZyBvcHRpbWFsIHF1YWxpdHkuCgoqKkV4cGVyaWVuY2UgRmVubmVsIFBvd2RlciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRGlzY292ZXIgdGhlIG51dHJpdGlvbmFsIGJlbmVmaXRzIGFuZCBjdWxpbmFyeSB2ZXJzYXRpbGl0eSBvZiBmZW5uZWwgcG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cy4gV2hldGhlciB5b3UgYXJlIGxvb2tpbmcgdG8gZW5yaWNoIHlvdXIgcmVjaXBlcyB3aXRoIGl0cyBhcm9tYXRpYyBmbGF2b3Igb3IgaGFybmVzcyBpdHMgaGVhbHRoLXByb21vdGluZyBwcm9wZXJ0aWVzLCBvdXIgZmVubmVsIHBvd2RlciBwcm9taXNlcyB0byBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIHNwaWNlcyBhbmQgaW5ncmVkaWVudHMgdGhhdCBtZWV0IGdsb2JhbCBxdWFsaXR5IHN0YW5kYXJkcy4="
+                    },
+
+                    {
+                        "id": "13",
+                        "name": "Yellow Mustard Powder",
+                        "Category": "Spices",
+                        "images": spices37,
+                        "Color": "Light Yellow",
+                        "Admixture": "0.5% Max",
+                        "Moisture": "9% max",
+                        "Ash": "5% max",
+                        "Shelf Life": "2 Years if stored properly",
+                        "Storage Condition": "Cool And Dry",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "Certification": "FSSAI Certified",
+                        "description": "KipZZWxsb3cgTXVzdGFyZCBQb3dkZXI6IEVuaGFuY2UgWW91ciBDdWlzaW5lIHdpdGggUXVhbGl0eSBhbmQgRmxhdm9yKioKCioqSW50cm9kdWN0aW9uKioKClllbGxvdyBNdXN0YXJkIHBvd2RlciwgZGVyaXZlZCBmcm9tIHdob2xlIG11c3RhcmQgc2VlZHMsIGlzIGEgc3RhcGxlIHNwaWNlIHJlbm93bmVkIGZvciBpdHMgcm9idXN0IGZsYXZvciBhbmQgdmVyc2F0aWxpdHkgaW4gY3VsaW5hcnkgYXBwbGljYXRpb25zLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSB0YWtlIHByaWRlIGluIGJlaW5nIGEgbGVhZGluZyBleHBvcnRlciBvZiBoaWdoLXF1YWxpdHkgWWVsbG93IE11c3RhcmQgcG93ZGVyIGZyb20gSW5kaWEsIGNhdGVyaW5nIHRvIGdsb2JhbCBtYXJrZXRzIHdpdGggYSBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UuCgoqKkN1bGluYXJ5IFVzZXMqKgoKLSAqKkZsYXZvciBFbmhhbmNlcjoqKiBZZWxsb3cgTXVzdGFyZCBwb3dkZXIgYWRkcyBhIGRpc3RpbmN0aXZlIGhvdCBhbmQgc3Ryb25nIGZsYXZvciB0byBhIHdpZGUgYXJyYXkgb2YgZGlzaGVzLgotICoqVmVyc2F0aWxlIEluZ3JlZGllbnQ6KiogVXNlZCBpbiBzYXVjZXMsIGNoZWVzZSwgZWdnIGRpc2hlcywgcGlja2xlcywgY3VycmllcywgYW5kIHZhcmlvdXMgY29uZGltZW50cyB0byBpbXBhcnQgYSB1bmlxdWUgdGFzdGUuCi0gKipQcmVwYXJhdGlvbjoqKiBNaXggd2l0aCB3YXRlciB0byBjcmVhdGUgYSBwYXN0ZTsgYWxsb3cgMTAgbWludXRlcyBmb3IgdGhlIGZsYXZvciB0byBmdWxseSBkZXZlbG9wIGJlZm9yZSB1c2UuIFRoZSBmbGF2b3IgaW50ZW5zaWZpZXMgdXBvbiBtaXhpbmcsIG9mZmVyaW5nIGEgZGVsaWdodGZ1bCBjb250cmFzdCB0byBkaXNoZXMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipGU1NBSSBDZXJ0aWZpZWQ6KiogT3VyIFllbGxvdyBNdXN0YXJkIHBvd2RlciBtZWV0cyBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMgc2V0IGJ5IHRoZSBGb29kIFNhZmV0eSBhbmQgU3RhbmRhcmRzIEF1dGhvcml0eSBvZiBJbmRpYSAoRlNTQUkpLCBlbnN1cmluZyBzYWZldHkgYW5kIHB1cml0eS4KLSAqKkZyZXNobmVzcyBHdWFyYW50ZWVkOioqIFNvdXJjZWQgZnJvbSBwcmVtaXVtLXF1YWxpdHkgbXVzdGFyZCBzZWVkcywgb3VyIHBvd2RlciByZXRhaW5zIGZyZXNobmVzcywgZW5zdXJpbmcgb3B0aW1hbCBmbGF2b3IgYW5kIGFyb21hLgotICoqSHlnaWVuaWMgUHJvY2Vzc2luZzoqKiBQcm9kdWNlZCB1bmRlciBoeWdpZW5pYyBjb25kaXRpb25zIGFuZCBwYWNrZWQgdG8gcHJlc2VydmUgYXJvbWEgYW5kIHF1YWxpdHksIG1lZXRpbmcgaW50ZXJuYXRpb25hbCBmb29kIHNhZmV0eSBub3Jtcy4KCioqQmVuZWZpdHMqKgoKLSAqKlVuaXF1ZSBGbGF2b3IgUHJvZmlsZToqKiBXaGlsZSBkcnksIFllbGxvdyBNdXN0YXJkIHBvd2RlciBpcyBkZXZvaWQgb2YgYXJvbWE7IHVwb24gbWl4aW5nIHdpdGggd2F0ZXIsIGl0IHJlbGVhc2VzIGEgcHVuZ2VudCwgZGlzdGluY3RpdmUgZmxhdm9yIHRoYXQgZW5oYW5jZXMgY3VsaW5hcnkgY3JlYXRpb25zLgotICoqR2xvYmFsIEV4cG9ydDoqKiBXZSBvZmZlciBjb21wZXRpdGl2ZSBGT0IgcHJpY2VzLCBzdXBlcmlvciBxdWFsaXR5LCBhbmQgcmVsaWFibGUgY3VzdG9tZXIgc3VwcG9ydCwgbWFraW5nIHVzIGEgcHJlZmVycmVkIGNob2ljZSBhbW9uZyBnbG9iYWwgYnV5ZXJzIHNlZWtpbmcgcHJlbWl1bSBZZWxsb3cgTXVzdGFyZCBwb3dkZXIuCgoqKkV4cGVyaWVuY2UgRXhjZWxsZW5jZSB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgcmljaG5lc3Mgb2YgWWVsbG93IE11c3RhcmQgcG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cywgd2hlcmUgcXVhbGl0eSBtZWV0cyBmbGF2b3IuIFdoZXRoZXIgeW91J3JlIGxvb2tpbmcgdG8gZW5yaWNoIHNhdWNlcywgY3Vycmllcywgb3IgcGlja2xlcywgb3VyIG11c3RhcmQgcG93ZGVyIHByb21pc2VzIHRvIGVsZXZhdGUgeW91ciBjdWxpbmFyeSBlbmRlYXZvcnMuIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgcmFuZ2Ugb2Ygc3BpY2VzIGFuZCBpbmdyZWRpZW50cyB0YWlsb3JlZCB0byBtZWV0IGRpdmVyc2UgZ2xvYmFsIHByZWZlcmVuY2VzIGFuZCBzdGFuZGFyZHMu"
+                    },
+
+                    {
+                        "id": "14",
+                        "name": "Five Spices Powder",
+                        "Category": "Spices",
+                        "images": spices38,
+                        "Color": "Brown",
+                        "Flavour and Odour": "Aromatic aniseed-like; agreeable and characteristic",
+                        "Appearance": "A rich golden brown powder with a tendency to form lumps",
+                        "Ash": "7% max",
+                        "Moisture": "12% Max",
+                        "Storage Condition": "Cool And Dry",
+                        "Shelf Life": "1 Year From Production Date",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "Certification": "FSSAI Certified",
+                        "description": "CioqSW50cm9kdWN0aW9uIHRvIEZpdmUtU3BpY2UgUG93ZGVyKioKClZhcm5pIEV4cG9ydHMgcHJvdWRseSBwcmVzZW50cyBhbiBleHF1aXNpdGUgY3VsaW5hcnkgZGVsaWdodDogRml2ZS1TcGljZSBQb3dkZXIsIGFuIGFyb21hdGljIGJsZW5kIHRoYXQgZW5yaWNoZXMgQ2hpbmVzZSBhbmQgdmFyaW91cyBBc2lhbiBjdWlzaW5lcyB3aXRoIGl0cyB1bmlxdWUgYmxlbmQgb2YgZmxhdm9ycy4gVGhpcyByZW5vd25lZCBzcGljZSBtaXh0dXJlIGNvbWJpbmVzIGZpdmUgZXNzZW50aWFsIHNwaWNlcywgZWFjaCBjb250cmlidXRpbmcgZGlzdGluY3QgYXJvbWFzIGFuZCB0YXN0ZXMsIG1ha2luZyBpdCBhIHZlcnNhdGlsZSBhZGRpdGlvbiB0byBhIHZhcmlldHkgb2YgZGlzaGVzLgoKKipJbmdyZWRpZW50cyoqCgpGaXZlLVNwaWNlIFBvd2RlciB0eXBpY2FsbHkgaW5jbHVkZXM6Ci0gKipTdGFyIEFuaXNlOioqIEFkZHMgYSBzd2VldCwgbGljb3JpY2UtbGlrZSBmbGF2b3IgYW5kIGFyb21hLgotICoqQ2xvdmVzOioqIENvbnRyaWJ1dGUgYSB3YXJtLCBwdW5nZW50LCBhbmQgc2xpZ2h0bHkgc3dlZXQgdGFzdGUuCi0gKipDaGluZXNlIENpbm5hbW9uIChDYXNzaWEpOioqIE9mZmVycyBhIHN3ZWV0IGFuZCB3b29keSBmbGF2b3IgcHJvZmlsZS4KLSAqKlNpY2h1YW4gUGVwcGVyY29ybnM6KiogUHJvdmlkZXMgYSBjaXRydXN5LCBwZXBwZXJ5LCBhbmQgc2xpZ2h0bHkgbnVtYmluZyBzZW5zYXRpb24uCi0gKipGZW5uZWwgU2VlZHM6KiogSW1wYXJ0IGEgbWlsZCwgc3dlZXQsIGFuZCBzbGlnaHRseSBsaWNvcmljZS1saWtlIHRhc3RlLgoKKipDdWxpbmFyeSBVc2VzKioKCi0gKipWZXJzYXRpbGUgRmxhdm9yIEVuaGFuY2VyOioqIFVzZWQgZXh0ZW5zaXZlbHkgaW4gQ2hpbmVzZSBjdWlzaW5lIHRvIGZsYXZvciBtZWF0cyBzdWNoIGFzIHBvcmssIGR1Y2ssIGFuZCBjaGlja2VuLgotICoqRGl2ZXJzZSBBcHBsaWNhdGlvbnM6KiogSWRlYWwgZm9yIHNlYXNvbmluZyBzb3Vwcywgc3Rld3MsIGFuZCBzdGlyLWZyaWVzLCBlbnJpY2hpbmcgdGhlbSB3aXRoIGEgY29tcGxleCBibGVuZCBvZiBzd2VldCwgc2F2b3J5LCBhbmQgYXJvbWF0aWMgbm90ZXMuCi0gKipDcmVhdGl2ZSBDb29raW5nOioqIENhbiBiZSB1c2VkIGFzIGEgZHJ5IHJ1YiBvciBtYXJpbmFkZSBmb3IgbWVhdHMsIG9yIGFzIGEgc2Vhc29uaW5nIGZvciB2ZWdldGFibGVzIGFuZCB0b2Z1LCBhZGRpbmcgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gZGlzaGVzLgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgotICoqUHJlbWl1bSBRdWFsaXR5OioqIE91ciBGaXZlLVNwaWNlIFBvd2RlciBpcyBtZXRpY3Vsb3VzbHkgY3JhZnRlZCBmcm9tIHRoZSBmaW5lc3QgaW5ncmVkaWVudHMgdG8gZW5zdXJlIHN1cGVyaW9yIHRhc3RlIGFuZCBhcm9tYS4KLSAqKkh5Z2llbmljYWxseSBQcm9jZXNzZWQ6KiogUHJvZHVjZWQgdW5kZXIgc3RyaWN0IHF1YWxpdHkgc3RhbmRhcmRzLCBhZGhlcmluZyB0byBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHJlZ3VsYXRpb25zLgotICoqUGFja2FnZWQgZm9yIEZyZXNobmVzczoqKiBQYWNrZWQgdG8gcHJlc2VydmUgZnJlc2huZXNzIGFuZCBhcm9tYSwgbWFpbnRhaW5pbmcgdGhlIGludGVncml0eSBvZiB0aGUgc3BpY2UgYmxlbmQuCgoqKkJlbmVmaXRzKioKCi0gKipFbmhhbmNlZCBDdWxpbmFyeSBFeHBlcmllbmNlOioqIEVsZXZhdGVzIGRpc2hlcyB3aXRoIGEgaGFybW9uaW91cyBibGVuZCBvZiBzd2VldCwgc2F2b3J5LCBhbmQgYXJvbWF0aWMgZmxhdm9ycy4KLSAqKkdsb2JhbCBBcHBlYWw6KiogU3VpdGFibGUgZm9yIGJvdGggdHJhZGl0aW9uYWwgYW5kIGNvbnRlbXBvcmFyeSBjdWlzaW5lcywgYXBwZWFsaW5nIHRvIGRpdmVyc2UgcGFsYXRlcyB3b3JsZHdpZGUuCi0gKipDdXN0b21lciBTYXRpc2ZhY3Rpb246KiogV2UgcHJpb3JpdGl6ZSBjdXN0b21lciBzYXRpc2ZhY3Rpb24gYnkgb2ZmZXJpbmcgY29tcGV0aXRpdmUgcHJpY2luZywgcHJlbWl1bSBxdWFsaXR5LCBhbmQgcmVsaWFibGUgc2VydmljZS4KCioqRXhwbG9yZSB0aGUgV29ybGQgb2YgRmxhdm9ycyB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRGlzY292ZXIgdGhlIGVzc2VuY2Ugb2YgRml2ZS1TcGljZSBQb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzLCB3aGVyZSBxdWFsaXR5IG1lZXRzIHRyYWRpdGlvbi4gV2hldGhlciB5b3UncmUgYSBjaGVmIGxvb2tpbmcgdG8gZW5oYW5jZSB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyBvciBhIGRpc3RyaWJ1dG9yIHNlZWtpbmcgcHJlbWl1bSBzcGljZSBibGVuZHMsIG91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyBzYXRpc2ZhY3Rpb24uIENvbnRhY3QgdXMgdG9kYXkgdG8gZXhwbG9yZSBvdXIgZXh0ZW5zaXZlIHJhbmdlIG9mIHNwaWNlcyBhbmQgZXhwZXJpZW5jZSB0aGUgcmljaG5lc3Mgb2YgYXV0aGVudGljIGZsYXZvcnMgY3JhZnRlZCBmb3IgZ2xvYmFsIG1hcmtldHMu"
+                    },
+
+                    {
+                        "id": "15",
+                        "name": "Garam Masala Powder",
+                        "Category": "Spices",
+                        "images": spices39,
+                        "Aromatic": "Spices",
+                        "Appearance": "A rich brown free-flowing powder",
+                        "Moisture": "12% max",
+                        "Ash": "14% max",
+                        "Shelf Life": "12 months",
+                        "Storage Condition": "Cool And Dry",
+                        "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                        "Loading": "15 to 30 Tons",
+                        "Certification": "FSSAI Certified",
+                        "description": "KipJbnRyb2R1Y3Rpb24gdG8gR2FyYW0gTWFzYWxhKioKClZhcm5pIEV4cG9ydHMgcHJvdWRseSBwcmVzZW50cyBHYXJhbSBNYXNhbGEsIGEgcXVpbnRlc3NlbnRpYWwgYmxlbmQgb2YgZ3JvdW5kIHNwaWNlcyBjaGVyaXNoZWQgaW4gSW5kaWFuIGN1aXNpbmUgZm9yIGl0cyByaWNoIGFuZCBhcm9tYXRpYyBmbGF2b3JzLiBUaGlzIHRyYWRpdGlvbmFsIHNwaWNlIG1peCBpcyBtZXRpY3Vsb3VzbHkgY3JhZnRlZCB0byBlbmhhbmNlIGEgd2lkZSBhcnJheSBvZiBkaXNoZXMsIG9mZmVyaW5nIGEgZGVsaWdodGZ1bCBmdXNpb24gb2Ygc3dlZXQsIHNhdm9yeSwgYW5kIHNwaWN5IG5vdGVzLgoKKipJbmdyZWRpZW50cyoqCgpPdXIgR2FyYW0gTWFzYWxhIGJsZW5kIGluY2x1ZGVzOgotICoqQ3VtaW46KiogUHJvdmlkZXMgZWFydGh5IGFuZCBudXR0eSB1bmRlcnRvbmVzLgotICoqQ29yaWFuZGVyOioqIEFkZHMgYSBjaXRydXN5IGFuZCBoZXJiYWwgZmxhdm9yLgotICoqQ2FyZGFtb206KiogT2ZmZXJzIGEgc3dlZXQgYW5kIGZsb3JhbCBhcm9tYS4KLSAqKkNpbm5hbW9uOioqIEltcGFydHMgYSB3YXJtIGFuZCB3b29keSBlc3NlbmNlLgotICoqQ2xvdmVzOioqIENvbnRyaWJ1dGUgYSBzdHJvbmcsIHB1bmdlbnQgZmxhdm9yLgotICoqTnV0bWVnOioqIFByb3ZpZGVzIGEgc3dlZXQgYW5kIG51dHR5IHRhc3RlLgotICoqQmF5IExlYXZlczoqKiBBZGRzIGEgc3VidGxlLCBoZXJiYWwgbm90ZS4KLSAqKkJsYWNrIFBlcHBlcjoqKiBQcm92aWRlcyBhIG1pbGQgaGVhdCBhbmQgc2hhcnBuZXNzLgoKKipDcmFmdGluZyBQcm9jZXNzKioKCi0gKipSb2FzdGluZzoqKiBUaGUgc3BpY2VzIGFyZSBtZXRpY3Vsb3VzbHkgcm9hc3RlZCB0byBpbnRlbnNpZnkgdGhlaXIgZmxhdm9ycyBhbmQgYXJvbWFzLCBlbnN1cmluZyBhIHJvYnVzdCBhbmQgYXJvbWF0aWMgYmxlbmQuCi0gKipHcmluZGluZzoqKiBBZnRlciByb2FzdGluZywgdGhlIHNwaWNlcyBhcmUgZ3JvdW5kIHRvIGEgZmluZSBwb3dkZXIsIHByZXNlcnZpbmcgdGhlaXIgZnJlc2huZXNzIGFuZCBwb3RlbmN5LgoKKipDdWxpbmFyeSBVc2VzKioKCi0gKipWZXJzYXRpbGUgRmxhdm9yIEVuaGFuY2VyOioqIEFkZHMgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gdmFyaW91cyBJbmRpYW4gZGlzaGVzIHN1Y2ggYXMgY3Vycmllcywgc3Rld3MsIGFuZCB2ZWdldGFibGVzLgotICoqRmluaXNoaW5nIFRvdWNoOioqIFR5cGljYWxseSBhZGRlZCB0b3dhcmRzIHRoZSBlbmQgb2YgY29va2luZyB0byBlbmhhbmNlIHRoZSBvdmVyYWxsIGZsYXZvciBwcm9maWxlIG9mIHRoZSBkaXNoLgotICoqTWFyaW5hZGVzIGFuZCBSdWJzOioqIFVzZWQgYXMgYSBtYXJpbmFkZSBvciBkcnkgcnViIGZvciBtZWF0cywgaW5mdXNpbmcgdGhlbSB3aXRoIGEgaGFybW9uaW91cyBibGVuZCBvZiBzcGljZXMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipQcmVtaXVtIFF1YWxpdHk6KiogT3VyIEdhcmFtIE1hc2FsYSBpcyBjcmFmdGVkIGZyb20gdGhlIGZpbmVzdCBzcGljZXMsIHNvdXJjZWQgZm9yIHRoZWlyIHF1YWxpdHkgYW5kIGZsYXZvci4KLSAqKkh5Z2llbmljYWxseSBQcm9jZXNzZWQ6KiogTWFudWZhY3R1cmVkIHVuZGVyIHN0cmljdCBoeWdpZW5lIHN0YW5kYXJkcyB0byBlbnN1cmUgZm9vZCBzYWZldHkgYW5kIHF1YWxpdHkuCi0gKipQYWNrYWdlZCB3aXRoIENhcmU6KiogUGFja2FnZWQgaW4gYWlydGlnaHQgY29udGFpbmVycyB0byBwcmVzZXJ2ZSBmcmVzaG5lc3MgYW5kIGFyb21hLCBtYWludGFpbmluZyB0aGUgaW50ZWdyaXR5IG9mIHRoZSBzcGljZSBibGVuZC4KCioqQmVuZWZpdHMqKgoKLSAqKkF1dGhlbnRpYyBUYXN0ZToqKiBDYXB0dXJlcyB0aGUgYXV0aGVudGljIGZsYXZvcnMgb2YgdHJhZGl0aW9uYWwgSW5kaWFuIGN1aXNpbmUsIG9mZmVyaW5nIGEgZ2VudWluZSBjdWxpbmFyeSBleHBlcmllbmNlLgotICoqRWFzeSB0byBVc2U6KiogQ29udmVuaWVudGx5IGVuaGFuY2VzIGRpc2hlcyB3aXRoIGEgcmVhZHktdG8tdXNlIHNwaWNlIGJsZW5kLCBzYXZpbmcgdGltZSBhbmQgZWZmb3J0IGluIHRoZSBraXRjaGVuLgotICoqQ3VzdG9tZXIgU2F0aXNmYWN0aW9uOioqIENvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHNhdGlzZmFjdGlvbiB0aHJvdWdoIHByZW1pdW0gcXVhbGl0eSwgY29tcGV0aXRpdmUgcHJpY2luZywgYW5kIHJlbGlhYmxlIHNlcnZpY2UuCgoqKkV4cGxvcmUgR2FyYW0gTWFzYWxhIHdpdGggVmFybmkgRXhwb3J0cyoqCgpFbWJhcmsgb24gYSBjdWxpbmFyeSBqb3VybmV5IHdpdGggVmFybmkgRXhwb3J0cycgR2FyYW0gTWFzYWxhLCB3aGVyZSBxdWFsaXR5IG1lZXRzIHRyYWRpdGlvbi4gV2hldGhlciB5b3UncmUgYSBjaGVmIGV4cGxvcmluZyBuZXcgZmxhdm9ycyBvciBhIGRpc3RyaWJ1dG9yIHNlZWtpbmcgcHJlbWl1bSBzcGljZSBibGVuZHMsIG91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyBzdXBlcmlvciB0YXN0ZSBhbmQgc2F0aXNmYWN0aW9uLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2NvdmVyIG91ciByYW5nZSBvZiBzcGljZXMgYW5kIGVsZXZhdGUgeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgd2l0aCBhdXRoZW50aWMgSW5kaWFuIGZsYXZvcnMu"
+                    }
+                ]
+            }],
+    },
+    {
+        name: "Roasted Gram",
+        path: "/products/roasted-gram",
+        catagoriesId: "roasted-gram",
+        image: roastedGramImage,
+        description: 'Our roasted gram is carefully selected and roasted to perfection, offering a delightful crunch and rich, nutty flavor. This wholesome snack is packed with protein and essential nutrients, making it an excellent choice for healthy snacking. Enjoy the delicious taste and nutritional benefits of our premium-quality roasted gram, perfect for on-the-go munching or adding a crunchy twist to your recipes.',
         products_detail: [
             {
                 "id": "1",
-                "name": "Cumin Seeds",
-                "Category": "Spices",
-                "Type": "Organic/Conventional",
-                "Color": "Light Yellowish",
-                "Bags Labeling": "Private labeling",
-                "Shelf Life": "24 Months",
-                "GMO Status": "GMO-Free",
-                "Packaging": "10 to 50 kg Jute bag, PP bag",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
+                "name": "Roasted Gram With Skin",
+                "Category": "Pulses",
+                "images": roastedGram1,
+                "Usage": "Conventional",
+                "Shelf Life": "1 Year From Production Date",
+                "Quality": "With Skin",
+                "Botanical Name": "Cicer Arietinum",
                 "Storage Condition": "Cool And Dry",
-                "Application": "Food Products, Seasonings",
-                "description": "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIFByZW1pdW0gQ3VtaW4gU2VlZHMKCkFyZSB5b3UgbG9va2luZyBmb3IgYSByZWxpYWJsZSBjdW1pbiBzZWVkcyBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB5b3VyIGlkZWFsIHBhcnRuZXIgZm9yIGJ1aWxkaW5nIHN0cm9uZyB0cmFkZSByZWxhdGlvbnNoaXBzIGZvciBmdXR1cmUgZW5kZWF2b3JzLiBXZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgdGhlIGhpZ2hlc3QgcXVhbGl0eSBjdW1pbiBzZWVkcywgcmVub3duZWQgZm9yIHRoZWlyIGRpc3RpbmN0aXZlIGFyb21hIGFuZCByb2J1c3QgZmxhdm9yLgoKIyMjIEFib3V0IEN1bWluIFNlZWRzCgpDdW1pbiBzZWVkcyBhcmUgYSB2aXRhbCBpbmdyZWRpZW50IGluIG51bWVyb3VzIHNwaWNlIGJsZW5kcywgY2h1dG5leXMsIGNoaWxpLCBhbmQgY3VycnkgcG93ZGVycywgcGFydGljdWxhcmx5IHBvcHVsYXIgaW4gQXNpYW4sIE1pZGRsZSBFYXN0ZXJuLCBhbmQgTGF0aW4gQW1lcmljYW4gY3Vpc2luZXMuIEtub3duIGZvciB0aGVpciB3YXJtIGFuZCBlYXJ0aHkgZmxhdm9yLCBjdW1pbiBzZWVkcyBhZGQgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gYSB3aWRlIHJhbmdlIG9mIGRpc2hlcy4gSW4gSW5kaWEsIGN1bWluIHNlZWRzIGFyZSBjb21tb25seSByZWZlcnJlZCB0byBhcyDigJxKZWVyYeKAnSBhbmQgYXJlIG9mdGVuIHVzZWQgaW4gYm90aCB3aG9sZSBhbmQgcG93ZGVyZWQgZm9ybXMgaW4gY29va2luZy4KCiMjIyBWYXJpZXRpZXMgb2YgQ3VtaW4gU2VlZHMKCi0gKipCbGFjayBDdW1pbiBTZWVkcyoqOiBLbm93biBmb3IgdGhlaXIgdW5pcXVlLCBzbGlnaHRseSBiaXR0ZXIgdGFzdGUgYW5kIGludGVuc2UgYXJvbWEuCi0gKipHcmVlbiBDdW1pbiBTZWVkcyoqOiBWYWx1ZWQgZm9yIHRoZWlyIG1pbGRlciBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3IuCgojIyMgUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNvdXJjZSB0aGUgZmluZXN0IHF1YWxpdHkgY3VtaW4gc2VlZHMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gT3VyIGN1bWluIHNlZWRzIGFyZSByaWNoIGluIHByb3RlaW4gYW5kIG1pbmVyYWxzLiBBZnRlciBzb3VyY2luZywgdGhlIGN1bWluIHNlZWRzIHVuZGVyZ28gbWV0aWN1bG91cyBjbGVhbmluZyB0byBhY2hpZXZlIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4gVGhpcyBlbnN1cmVzIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBjdW1pbiBzZWVkcyBhbmQgY3VtaW4gcG93ZGVyLgoKIyMjIEN1bGluYXJ5IFVzZXMKCkN1bWluIHNlZWRzIGFyZSBpbmNyZWRpYmx5IHZlcnNhdGlsZSBhbmQgY2FuIGJlIHVzZWQgaW4gdmFyaW91cyBmb3JtczoKLSAqKldob2xlIFNlZWRzKio6IFVzZWQgaW4gdGVtcGVyaW5nIGFuZCBzcGljZSBibGVuZHMuCi0gKipQb3dkZXJlZCoqOiBBZGRlZCB0byBzb3Vwcywgc3Rld3MsIGN1cnJpZXMsIGFuZCBtYXJpbmFkZXMgdG8gZW5oYW5jZSBmbGF2b3IuCgojIyMgSGVhbHRoIEJlbmVmaXRzIG9mIEN1bWluIFNlZWRzCgpDdW1pbiBzZWVkcyBhcmUgbm90IG9ubHkgZmxhdm9yZnVsIGJ1dCBhbHNvIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKMS4gKipEaWdlc3RpdmUgQWlkKio6IEN1bWluIHNlZWRzIGNvbnRhaW4gY29tcG91bmRzIHRoYXQgaGVscCBwcm9tb3RlIGRpZ2VzdGlvbiwgbWFraW5nIHRoZW0gaWRlYWwgZm9yIGhlYXZ5IG9yIGRhaWx5IG1lYWxzLgoyLiAqKlJpY2ggaW4gSXJvbioqOiBBIHZpdGFsIHNvdXJjZSBvZiBpcm9uLCBlc3NlbnRpYWwgZm9yIHRoZSBkZXZlbG9wbWVudCBvZiB0aGUgYm9keSBhbmQgYnJhaW4sIHBhcnRpY3VsYXJseSBpbiB5b3VuZyBjaGlsZHJlbi4KMy4gKipCbG9vZCBTdWdhciBDb250cm9sKio6IEJlbmVmaWNpYWwgZm9yIGRpYWJldGljIHBhdGllbnRzLCBoZWxwaW5nIHRvIGNvbnRyb2wgYmxvb2Qgc3VnYXIgbGV2ZWxzLgo0LiAqKldlaWdodCBMb3NzKio6IEN1bWluIHNlZWRzIGNhbiBhaWQgaW4gd2VpZ2h0IGxvc3M7IGNvbnN1bWluZyBmaXZlIGdyYW1zIGRhaWx5IGNhbiBzaWduaWZpY2FudGx5IHJlZHVjZSBib2R5IGZhdC4KCiMjIyBNZWRpY2FsIFVzZXMKCkN1bWluIHNlZWRzIGFuZCBwb3dkZXIgYXJlIHdpZGVseSB1c2VkIGluIHRyYWRpdGlvbmFsIG1lZGljaW5lOgotICoqQXMgYSBIZWFsZXIqKjogVXNlZCByYXcgb3IgZHJpZWQgZm9yIHRoZWlyIGhlYWxpbmcgcHJvcGVydGllcy4KLSAqKkluIFdlaWdodCBMb3NzKio6IEtub3duIGZvciB0aGVpciBlZmZpY2FjeSBpbiBwcm9tb3RpbmcgZmF0IGxvc3MgYW5kIG1hbmFnaW5nIG9iZXNpdHkuCgojIyMgTGFuZ3VhZ2UgVmFyaWFudHMKCi0gKipDdW1pbiBTZWVkcyBpbiBNYWxheWFsYW0qKjog4LSc4LWA4LSw4LSV4LSCCi0gKipDdW1pbiBTZWVkcyBpbiBVcmR1Kio6INiy24zYsduSINqp25Ig2KjbjNisCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKClZhcm5pIEV4cG9ydHMgc2hpcHMgZnJlc2ggcXVhbGl0eSBjdW1pbiBzZWVkcyBhbmQgY3VtaW4gcG93ZGVyIGFjY29yZGluZyB0byBidXllciByZXF1aXJlbWVudHMgd29ybGR3aWRlLiBPdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb24gZW5zdXJlcyB0aGF0IHlvdSByZWNlaXZlIHRoZSBiZXN0IHByb2R1Y3RzIGZvciB5b3VyIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgbmVlZHMuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBjdW1pbiBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIGV4Y2VwdGlvbmFsIHF1YWxpdHkgYW5kIGZsYXZvciBvZiBWYXJuaSBFeHBvcnRz4oCZIGN1bWluIHNlZWRzIHRvZGF5IQ=="
+                "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                "Loading": "15 to 30 Tons",
+                "description": "KipSb2FzdGVkIEdyYW0gd2l0aCBTa2luOiBBIE51dHJpdGlvdXMgYW5kIERlbGljaW91cyBTbmFjayoqCgoqKkludHJvZHVjdGlvbioqCgpWYXJuaSBFeHBvcnRzIGlzIHByb3VkIHRvIG9mZmVyIFJvYXN0ZWQgR3JhbSB3aXRoIFNraW4sIGEgcG9wdWxhciBhbmQgaGVhbHRoeSBzbmFjayBtYWRlIGZyb20gcm9hc3RlZCBjaGlja3BlYXMuIFRoaXMgY3J1bmNoeSBhbmQgZmxhdm9yZnVsIHNuYWNrIGlzIGVuam95ZWQgYWNyb3NzIEluZGlhLCBCYW5nbGFkZXNoLCBhbmQgb3RoZXIgU291dGggQXNpYW4gY291bnRyaWVzLCBvZnRlbiBzcGljZWQgd2l0aCBhIGJsZW5kIG9mIGN1bWluLCBjb3JpYW5kZXIsIGNoaWxpIHBvd2RlciwgYW5kIHR1cm1lcmljLiBJdCBpcyB0eXBpY2FsbHkgc2VydmVkIHdpdGggeW9ndXJ0IG9yIGNodXRuZXksIG1ha2luZyBpdCBhIHZlcnNhdGlsZSBhbmQgbnV0cml0aW91cyBhZGRpdGlvbiB0byBhbnkgZGlldC4KCioqRmxhdm9yIGFuZCBQcmVwYXJhdGlvbioqCgotICoqTnV0dHkgRmxhdm9yOioqIFJvYXN0ZWQgZ3JhbSB3aXRoIHNraW4gYm9hc3RzIGEgcmljaCwgbnV0dHkgZmxhdm9yIHRoYXQgaXMgYm90aCBzYXRpc2Z5aW5nIGFuZCB3aG9sZXNvbWUuCi0gKipTcGljZXM6KiogQ29tbW9ubHkgc2Vhc29uZWQgd2l0aCBzcGljZXMgc3VjaCBhcyBjdW1pbiwgY29yaWFuZGVyLCBjaGlsaSBwb3dkZXIsIGFuZCB0dXJtZXJpYyB0byBlbmhhbmNlIGl0cyB0YXN0ZS4KLSAqKkNydW5jaHkgVGV4dHVyZToqKiBDaGlja3BlYXMgYXJlIHJvYXN0ZWQgdW50aWwgdGhleSBhY2hpZXZlIGEgcGVyZmVjdCBicm93biBjb2xvciBhbmQgY3J1bmNoeSB0ZXh0dXJlLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKUm9hc3RlZCBncmFtIHdpdGggc2tpbiBpcyBub3Qgb25seSBkZWxpY2lvdXMgYnV0IGFsc28gcGFja2VkIHdpdGggaGVhbHRoIGJlbmVmaXRzOgotICoqRmF0LUZyZWUgYW5kIFNvZGl1bS1GcmVlOioqIE5hdHVyYWxseSBmcmVlIG9mIGZhdHMsIHNhdHVyYXRlZCBmYXRzLCBhbmQgc29kaXVtLgotICoqSGVhcnQgSGVhbHRoOioqIEhlbHBzIGxvd2VyIHRoZSByaXNrIG9mIGhlYXJ0IGRpc2Vhc2UgYW5kIG1heSByZWR1Y2UgdGhlIHJpc2sgb2YgY29sb24gY2FuY2VyLgotICoqQmxvb2QgU3VnYXIgQ29udHJvbDoqKiBMb3cgZ2x5Y2VtaWMgaW5kZXggbWFrZXMgaXQgc3VpdGFibGUgZm9yIGRpYWJldGljcywgYXMgdGhlIGNhcmJvaHlkcmF0ZXMgdGFrZSBsb25nZXIgdG8gZGlnZXN0LgotICoqSGlnaCBpbiBEaWV0YXJ5IEZpYmVyOioqIENvbnRhaW5zIDYgZ3JhbXMgb2YgZGlldGFyeSBmaWJlciwgd2hpY2ggYWlkcyBpbiBkaWdlc3Rpb24sIHByZXZlbnRzIGNvbnN0aXBhdGlvbiwgYW5kIHN1cHBvcnRzIGhlYXJ0IGhlYWx0aC4KLSAqKlJpY2ggaW4gTnV0cmllbnRzOioqIEEgZ29vZCBzb3VyY2Ugb2YgY2FsY2l1bSwgcG90YXNzaXVtLCBtYW5nYW5lc2UsIGZvbGF0ZSwgcHJvdGVpbiwgZGlldGFyeSBmaWJlciwgY29wcGVyLCBwaG9zcGhvcnVzLCBhbmQgaXJvbi4KCioqQ29tbW9uIFVzZXMqKgoKUm9hc3RlZCBncmFtIHdpdGggc2tpbiBpcyB2ZXJzYXRpbGUgYW5kIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKk1pZC1NZWFsIFNuYWNrOioqIFBlcmZlY3QgYXMgYSBwcm90ZWluLXJpY2ggc25hY2sgYmV0d2VlbiBtZWFscy4KLSAqKkNoYWF0cyBhbmQgQmhlbHM6KiogQWRkcyBjcnVuY2ggYW5kIGZsYXZvciB0byB0cmFkaXRpb25hbCBJbmRpYW4gc3RyZWV0IGZvb2RzIGxpa2UgY2hhYXRzIGFuZCBiaGVscy4KLSAqKlRhbmd5IENoYWF0OioqIENvbWJpbmUgd2l0aCBvbmlvbnMsIHRvbWF0b2VzLCBzYWx0LCBhbmQgbGVtb24ganVpY2UgdG8gY3JlYXRlIGEgcmVmcmVzaGluZyBhbmQgdGFuZ3kgY2hhYXQuCgoqKk51dHJpdGlvbmFsIEVsZW1lbnRzKioKCkNoaWNrcGVhcywgdGhlIG1haW4gaW5ncmVkaWVudCBpbiByb2FzdGVkIGdyYW0sIGFyZSBwYWNrZWQgd2l0aCBlc3NlbnRpYWwgbnV0cmllbnRzOgotICoqVml0YW1pbnM6KiogSW5jbHVkZXMgdml0YW1pbnMgQSwgQjEsIEIyLCBCMywgQywgRCwgRSwgSywgZm9sYXRlLCBhbmQgcGFudG90aGVuaWMgYWNpZC4KLSAqKk1pbmVyYWxzOioqIENvbnRhaW5zIGNhbGNpdW0sIGlyb24sIG1vbHliZGVudW0sIHBvdGFzc2l1bSwgbWFuZ2FuZXNlLCBjb3BwZXIsIGFuZCB6aW5jLgotICoqT3RoZXIgTnV0cmllbnRzOioqIEhpZ2ggaW4gZGlldGFyeSBmaWJlcnMsIGNhcmJvaHlkcmF0ZXMsIHByb3RlaW5zLCBhbmQgbW9pc3R1cmUuCgoqKkV4cGVyaWVuY2UgUXVhbGl0eSB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIHRoYXQgb3VyIHJvYXN0ZWQgZ3JhbSB3aXRoIHNraW4gaXMgb2YgdGhlIGhpZ2hlc3QgcXVhbGl0eSwgZGVsaXZlcmluZyBib3RoIHRhc3RlIGFuZCBudXRyaXRpb24uIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIGZvciBhIGhlYWx0aHkgc25hY2sgb3IgYW4gaW5ncmVkaWVudCB0byBlbmhhbmNlIHlvdXIgZGlzaGVzLCBvdXIgcm9hc3RlZCBncmFtIHdpdGggc2tpbiBpcyBhIHBlcmZlY3QgY2hvaWNlLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2NvdmVyIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIG51dHJpdGlvdXMgc25hY2tzIGFuZCB0byBwbGFjZSB5b3VyIG9yZGVyLiBFbmpveSB0aGUgYmVuZWZpdHMgb2YgYSBoZWFsdGh5IGxpZmVzdHlsZSB3aXRoIFZhcm5pIEV4cG9ydHMh"
             },
+
 
             {
                 "id": "2",
-                "name": "Coriander Seeds",
-                "Category": "Spices",
-                "Type": "Machine Cleaned",
-                "Moisture": "10% Max",
-                "Mold": "1% Max",
-                "Ash": "10% Max",
-                "Purity": "95-97%",
+                "name": "Roasted Gram Whole Without Skin",
+                "Category": "Pulses",
+                "images": roastedGram2,
+                "Usage": "Conventional",
+                "Shelf Life": "1 Year From Production Date",
+                "Quality": "With Skin, Without Skin, Split",
+                "Botanical Name": "Cicer Arietinum",
                 "Packaging": "1 to 50 kg Jute Bag, PP Bag",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "Storage Condition": "Cool And Dry",
-                "Application": "Food Products, Seasonings",
-                "description": "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgVHJ1c3RlZCBTdXBwbGllciBvZiBQcmVtaXVtIENvcmlhbmRlciBTZWVkcwoKQXJlIHlvdSBsb29raW5nIGZvciBhIHJlbGlhYmxlIGNvcmlhbmRlciBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB5b3VyIGlkZWFsIHBhcnRuZXIgZm9yIGJ1aWxkaW5nIHN0cm9uZyB0cmFkZSByZWxhdGlvbnNoaXBzIGZvciBmdXR1cmUgZW5kZWF2b3JzLiBXZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgdGhlIGhpZ2hlc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMsIGtub3duIGZvciB0aGVpciBkaXN0aW5jdGl2ZSBhcm9tYSBhbmQgcmljaCBmbGF2b3IuCgojIyMgQWJvdXQgQ29yaWFuZGVyCgpDb3JpYW5kZXIgKENvcmlhbmRydW0gc2F0aXZ1bSkgaXMgYSB2ZXJzYXRpbGUgaGVyYiBhbmQgc3BpY2UgdXNlZCBleHRlbnNpdmVseSBpbiB2YXJpb3VzIGN1aXNpbmVzIHdvcmxkd2lkZS4gSW4gZm9vZCBwcmVwYXJhdGlvbiwgdGhlIHRlcm0gImNvcmlhbmRlciIgb2Z0ZW4gcmVmZXJzIHRvIHRoZSBkcmllZCBzZWVkcyBvZiB0aGUgcGxhbnQsIHdoaWxlIHRoZSBmcmVzaCBsZWF2ZXMgYXJlIGNvbW1vbmx5IGtub3duIGFzIGNpbGFudHJvLiBDb3JpYW5kZXIgc2VlZHMgYXJlIGNlbGVicmF0ZWQgZm9yIHRoZWlyIGxlbW9ueSBjaXRydXMgZmxhdm9yLCBhdHRyaWJ1dGVkIHRvIHRlcnBlbmVzIHN1Y2ggYXMgbGluYWxvb2wgYW5kIHBpbmVuZS4gVGhleSBhcmUgZGVzY3JpYmVkIGFzIHdhcm0sIG51dHR5LCBzcGljeSwgYW5kIG9yYW5nZS1mbGF2b3JlZC4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBmaW5lc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gT3VyIGNvcmlhbmRlciBpcyByaWNoIGluIHByb3RlaW4gYW5kIG1pbmVyYWxzLiBBZnRlciBzb3VyY2luZywgdGhlIGNvcmlhbmRlciBzZWVkcyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcgdG8gYWNoaWV2ZSBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMgYW5kIHBvd2Rlci4KCiMjIyBDdWxpbmFyeSBVc2VzCgpDb3JpYW5kZXIgc2VlZHMsIGxlYXZlcywgYW5kIHBvd2RlciBhcmUgaW5jcmVkaWJseSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSB1c2VkIGluIHZhcmlvdXMgZm9ybXM6Ci0gKipXaG9sZSBTZWVkcyoqOiBVc2VkIGluIHBpY2tsaW5nLCBicmluaW5nLCBhbmQgYXMgYSBzcGljZSBpbiB2YXJpb3VzIGRpc2hlcy4KLSAqKkdyb3VuZCBDb3JpYW5kZXIqKjogQWRkZWQgdG8gc291cHMsIHN0ZXdzLCBjdXJyaWVzLCBhbmQgbWFyaW5hZGVzIHRvIGVuaGFuY2UgZmxhdm9yLgotICoqQ2lsYW50cm8qKjogRnJlc2ggY29yaWFuZGVyIGxlYXZlcyBhcmUgdXNlZCBpbiBzYWxhZHMsIHNhbHNhcywgYW5kIGdhcm5pc2hpbmcgZGlzaGVzLgoKIyMjIEhlYWx0aCBCZW5lZml0cyBvZiBDb3JpYW5kZXIgU2VlZHMKCkNvcmlhbmRlciBzZWVkcyBhcmUgbm90IG9ubHkgZmxhdm9yZnVsIGJ1dCBhbHNvIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKMS4gKipDaG9sZXN0ZXJvbCBSZWR1Y3Rpb24qKjogSGVscHMgcmVkdWNlIGNob2xlc3Rlcm9sIGxldmVscywgcHJvdmlkaW5nIHJlbGllZiBpbiBoZWFydCBkaXNlYXNlLgoyLiAqKkRpYWJldGVzIE1hbmFnZW1lbnQqKjogQXNzaXN0cyBpbiByZWR1Y2luZyBibG9vZCBnbHVjb3NlIGxldmVscywgYWlkaW5nIGluIGRpYWJldGVzIHRyZWF0bWVudC4KMy4gKipEaWdlc3RpdmUgSGVhbHRoKio6IEltcHJvdmVzIGRpZ2VzdGlvbiBieSBlbmhhbmNpbmcgdGhlIG1vdmVtZW50IG9mIHRyeXBzaW4sIGEgcGFuY3JlYXRpYyBlbnp5bWUgdGhhdCBicmVha3MgZG93biBwcm90ZWlucyBpbiB0aGUgaW50ZXN0aW5lcy4KNC4gKipBbnhpZXR5IFJlbGllZioqOiBMaW5hbG9vbCwgYSBrZXkgY29tcG91bmQgaW4gY29yaWFuZGVyIHNlZWRzLCBjYW4gZGVjcmVhc2UgYW54aWV0eSBhbmQgcHJvbW90ZSBuZXVyb2xvZ2ljYWwgYW5kIGJyYWluIGhlYWx0aC4KCiMjIyBNZWRpY2FsIFVzZXMKCkNvcmlhbmRlciBzZWVkcyBhbmQgcG93ZGVyIGFyZSB3aWRlbHkgdXNlZCBpbiB0cmFkaXRpb25hbCBtZWRpY2luZToKLSAqKkFzIGEgRGlnZXN0aXZlIEFpZCoqOiBVc2VkIHRvIGltcHJvdmUgZGlnZXN0aW9uIGFuZCByZWxpZXZlIHN0b21hY2ggYWlsbWVudHMuCi0gKipJbiBEaWFiZXRlcyBNYW5hZ2VtZW50Kio6IEhlbHBzIHJlZ3VsYXRlIGJsb29kIHN1Z2FyIGxldmVscy4KCiMjIyBMYW5ndWFnZSBWYXJpYW50cwoKLSAqKkNvcmlhbmRlciBpbiBIaW5kaSoqOiDgpKfgpKjgpL/gpK/gpL4gKERoYW5peWEpCi0gKipDb3JpYW5kZXIgaW4gU3BhbmlzaCoqOiBDaWxhbnRybwotICoqQ29yaWFuZGVyIGluIEZyZW5jaCoqOiBDb3JpYW5kcmUKCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKVmFybmkgRXhwb3J0cyBpcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgY29yaWFuZGVyIHNlZWRzIGZyb20gSW5kaWEsIGVuc3VyaW5nIHRoZSBoaWdoZXN0IHF1YWxpdHkgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbjoKLSAqKkdsb2JhbCBSZWFjaCoqOiBTZXJ2aW5nIG1hcmtldHMgd29ybGR3aWRlIHdpdGggcmVsaWFiaWxpdHkgYW5kIGV4Y2VsbGVuY2UuCi0gKipDdXN0b21pemVkIFNvbHV0aW9ucyoqOiBUYWlsb3JlZCBzb2x1dGlvbnMgdG8gbWVldCB0aGUgc3BlY2lmaWMgcmVxdWlyZW1lbnRzIG9mIG91ciBpbnRlcm5hdGlvbmFsIGNsaWVudGVsZS4KLSAqKkxvZ2lzdGljcyBFeHBlcnRpc2UqKjogRWZmaWNpZW50IGxvZ2lzdGljcyBuZXR3b3JrIHRvIGRlbGl2ZXIgZnJlc2ggY29yaWFuZGVyIHNlZWRzIGFuZCBwb3dkZXIgc2FmZWx5IGFuZCB0aW1lbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBjb3JpYW5kZXIgc2VlZHMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBkZWRpY2F0ZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBjb3JpYW5kZXIgc2VlZHMgdG9kYXkh"
+                "Loading": "15 to 30 Tons",
+                "Certification": "FSSAI Certified",
+                "description": "KipSb2FzdGVkIEdyYW0gV2hvbGUgV2l0aG91dCBTa2luOiBBIE51dHJpdGlvdXMgYW5kIFZlcnNhdGlsZSBTbmFjayoqCgoqKkludHJvZHVjdGlvbioqCgpSb2FzdGVkIEdyYW0gV2hvbGUgV2l0aG91dCBTa2luLCBrbm93biBhcyBDaGFuYSBvciBDaGFuYW0gaW4gSW5kaWEsIGlzIGEgcG9wdWxhciBsZWd1bWUgdGhhdCBoYXMgYmVlbiByb2FzdGVkIGFuZCBoYWQgaXRzIG91dGVyIGh1c2sgcmVtb3ZlZC4gVGhpcyBudXR0eSBhbmQgY3J1bmNoeSBzbmFjayBpcyBub3Qgb25seSBkZWxpY2lvdXMgYnV0IGFsc28gcGFja2VkIHdpdGggbnV0cmllbnRzLCBtYWtpbmcgaXQgYSBmYXZvcml0ZSBpbiBJbmRpYW4gaG91c2Vob2xkcyBhbmQgYmV5b25kLiBJdCBpcyBjb21tb25seSBlbmpveWVkIGFzIGEgc25hY2sgYW5kIHVzZWQgaW4gc291cHMsIHNhbGFkcywgY3VycmllcywgYW5kIG90aGVyIGRpc2hlcy4KCioqSGVhbHRoIEJlbmVmaXRzKioKCi0gKipGYXQtRnJlZSBhbmQgU29kaXVtLUZyZWU6KiogTmF0dXJhbGx5IGZyZWUgb2YgZmF0cywgc2F0dXJhdGVkIGZhdHMsIGFuZCBzb2RpdW0sIG1ha2luZyBpdCBhIGhlYXJ0LWhlYWx0aHkgc25hY2sgb3B0aW9uLgotICoqSGVhcnQgSGVhbHRoOioqIEhlbHBzIGxvd2VyIHRoZSByaXNrIG9mIGhlYXJ0IGRpc2Vhc2UgYW5kIG1heSByZWR1Y2UgdGhlIHJpc2sgb2YgY29sb24gY2FuY2VyLgotICoqQmxvb2QgU3VnYXIgQ29udHJvbDoqKiBUaGUgbG93IGdseWNlbWljIGluZGV4IChHSSkgb2Ygcm9hc3RlZCBjaGFuYSBoZWxwcyBrZWVwIGJsb29kIHN1Z2FyIGxldmVscyBzdGFibGUsIG1ha2luZyBpdCBzdWl0YWJsZSBmb3IgZGlhYmV0aWNzLgotICoqSGlnaCBpbiBEaWV0YXJ5IEZpYmVyOioqIENvbnRhaW5zIDYgZ3JhbXMgb2YgZGlldGFyeSBmaWJlciwgd2hpY2ggYWlkcyBpbiBkaWdlc3Rpb24sIHByZXZlbnRzIGNvbnN0aXBhdGlvbiwgYW5kIHN1cHBvcnRzIGhlYXJ0IGhlYWx0aC4KLSAqKlJpY2ggaW4gTnV0cmllbnRzOioqIEEgZ29vZCBzb3VyY2Ugb2YgY2FsY2l1bSwgcG90YXNzaXVtLCBtYW5nYW5lc2UsIGZvbGF0ZSwgcHJvdGVpbiwgZGlldGFyeSBmaWJlciwgY29wcGVyLCBwaG9zcGhvcnVzLCBhbmQgaXJvbi4KCioqQ29tbW9uIFVzZXMqKgoKUm9hc3RlZCBHcmFtIFdob2xlIFdpdGhvdXQgU2tpbiBpcyB2ZXJzYXRpbGUgYW5kIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKlByb3RlaW4tUmljaCBTbmFjazoqKiBDb25zdW1lZCBhcyBhIGhlYWx0aHkgbWlkLW1lYWwgc25hY2sgdGhhdCBpcyBoaWdoIGluIHByb3RlaW4uCi0gKipDaGFhdHMgYW5kIEJoZWxzOioqIEFkZHMgY3J1bmNoIGFuZCBmbGF2b3IgdG8gdHJhZGl0aW9uYWwgSW5kaWFuIHN0cmVldCBmb29kcyBsaWtlIGNoYWF0cyBhbmQgYmhlbHMuCi0gKipUYW5neSBDaGFhdDoqKiBDb21iaW5lIHdpdGggb25pb25zLCB0b21hdG9lcywgc2FsdCwgYW5kIGxlbW9uIGp1aWNlIHRvIGNyZWF0ZSBhIHJlZnJlc2hpbmcgYW5kIHRhbmd5IGNoYWF0LgoKKipOdXRyaXRpb25hbCBFbGVtZW50cyoqCgpDaGlja3BlYXMsIHRoZSBtYWluIGluZ3JlZGllbnQgaW4gcm9hc3RlZCBncmFtLCBhcmUgcGFja2VkIHdpdGggZXNzZW50aWFsIG51dHJpZW50czoKLSAqKlZpdGFtaW5zOioqIEluY2x1ZGVzIHZpdGFtaW5zIEEsIEIxLCBCMiwgQjMsIEMsIEQsIEUsIEssIGZvbGF0ZSwgYW5kIHBhbnRvdGhlbmljIGFjaWQuCi0gKipNaW5lcmFsczoqKiBDb250YWlucyBjYWxjaXVtLCBpcm9uLCBtb2x5YmRlbnVtLCBwb3Rhc3NpdW0sIG1hbmdhbmVzZSwgY29wcGVyLCBhbmQgemluYy4KLSAqKk90aGVyIE51dHJpZW50czoqKiBIaWdoIGluIGRpZXRhcnkgZmliZXJzLCBjYXJib2h5ZHJhdGVzLCBwcm90ZWlucywgYW5kIG1vaXN0dXJlLgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgUm9hc3RlZCBHcmFtIFdob2xlIFdpdGhvdXQgU2tpbiBpcyBvZiB0aGUgaGlnaGVzdCBxdWFsaXR5OgotICoqUHJlbWl1bSBRdWFsaXR5OioqIFNvdXJjZWQgZnJvbSB0cnVzdGVkIHN1cHBsaWVycyBhbmQgcHJvY2Vzc2VkIHVuZGVyIHN0cmluZ2VudCBxdWFsaXR5IGNvbnRyb2xzIHRvIHJldGFpbiBpdHMgbnV0cml0aW9uYWwgdmFsdWUgYW5kIGZsYXZvci4KLSAqKkh5Z2llbmljIFByb2Nlc3Npbmc6KiogUHJvZHVjZWQgaW4gY29tcGxpYW5jZSB3aXRoIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBlbnN1cmluZyBhIHNhZmUgYW5kIG51dHJpdGlvdXMgcHJvZHVjdC4KLSAqKlBhY2thZ2luZzoqKiBQYWNrYWdlZCB0byBwcmVzZXJ2ZSBmcmVzaG5lc3MgYW5kIGNydW5jaGluZXNzLCBlbnN1cmluZyBhIGRlbGlnaHRmdWwgc25hY2sgZXhwZXJpZW5jZS4KCioqRXhwZXJpZW5jZSBRdWFsaXR5IHdpdGggVmFybmkgRXhwb3J0cyoqCgpEaXNjb3ZlciB0aGUgd2hvbGVzb21lIGdvb2RuZXNzIG9mIFJvYXN0ZWQgR3JhbSBXaG9sZSBXaXRob3V0IFNraW4gd2l0aCBWYXJuaSBFeHBvcnRzLiBXaGV0aGVyIHlvdSdyZSBsb29raW5nIGZvciBhIGhlYWx0aHkgc25hY2sgb3IgYW4gaW5ncmVkaWVudCB0byBlbmhhbmNlIHlvdXIgZGlzaGVzLCBvdXIgcm9hc3RlZCBncmFtIGlzIHRoZSBwZXJmZWN0IGNob2ljZS4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFib3V0IG91ciByYW5nZSBvZiBudXRyaXRpb3VzIHByb2R1Y3RzIGFuZCB0byBwbGFjZSB5b3VyIG9yZGVyLiBFbmpveSB0aGUgYmVuZWZpdHMgb2YgYSBoZWFsdGh5IGxpZmVzdHlsZSB3aXRoIFZhcm5pIEV4cG9ydHMh"
             },
 
             {
                 "id": "3",
-                "name": "Fenugreek Seeds",
-                "Category": "Spices",
-                "Type": "Machine Clean & Sortex Clean",
-                "Harvesting Season": "Feb, March",
-                "Odour And Flavour": "Odour And Taste Are Typical, A Bit Of Celery And Bitter. Free From Foreign Odour And Taste, Such As Mustiness Or Rancidity",
+                "name": "Roasted Gram Split Without Skin",
+                "Category": "Pulses",
+                "images": roastedGram3,
+                "Usage": "Conventional",
+                "Harvest": "Mar / Apr",
                 "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Application": "Food Products, Seasonings",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBTb3VyY2UgZm9yIFByZW1pdW0gRmVudWdyZWVrIFNlZWRzCgojIyMgQWJvdXQgRmVudWdyZWVrCgpGZW51Z3JlZWssIHNjaWVudGlmaWNhbGx5IGtub3duIGFzICoqRm9lbnVtLUdyYWVjdW0qKiAoTGF0aW4gZm9yICJHcmVlayBIYXkiKSwgaXMgYSBzbGVuZGVyIGFubnVhbCBoZXJiIGJlbG9uZ2luZyB0byB0aGUgcGVhIGZhbWlseSAoRmFiYWNlYWUpLiBUaGUgcGxhbnQgYmVhcnMgYSBzdHJvbmcgcmVzZW1ibGFuY2UgdG8gd2lsZCBjbG92ZXIsIHdoaWNoIGlzIHJlZmxlY3RlZCBpbiBpdHMgU3dlZGlzaCBhbmQgR2VybWFuIG5hbWVzOiAiQm9ja2hvcm5za2zDtnZlciIgYW5kICJCb2Nrc2hvcm5rbGVlLCIgcmVzcGVjdGl2ZWx5LCBib3RoIG1lYW5pbmcgIlJhbeKAmXMgSG9ybiBDbG92ZXIuIgoKIyMjIENoYXJhY3RlcmlzdGljcyBvZiBGZW51Z3JlZWsKCkZlbnVncmVlayBzZWVkcyBhcmUgaGFyZCwgeWVsbG93aXNoLWJyb3duLCBhbmQgYW5ndWxhciwgd2l0aCBzb21lIGJlaW5nIG9ibG9uZywgcmhvbWJpYywgb3IgdmlydHVhbGx5IGN1YmljIGluIHNoYXBlLCBlYWNoIHNpZGUgbWVhc3VyaW5nIGFib3V0IDMgbW0gKDEvOOKAsykuIFRoZSBzZWVkcyBhcmUgYXZhaWxhYmxlIGJvdGggd2hvbGUgYW5kIGRyaWVkLCBvciBncm91bmQgaW50byBhIGR1bGwgeWVsbG93IHBvd2RlciBmcm9tIHJvYXN0ZWQgc2VlZHMuIFRoZXkgaGF2ZSBhIHdhcm0sIHBlbmV0cmF0aW5nIGFyb21hIHRoYXQgaW50ZW5zaWZpZXMgd2hlbiByb2FzdGVkLiBGZW51Z3JlZWsgbGVhdmVzIGFyZSBhbHNvIHVzZWQgYXMgaGVyYnMuCgojIyMgQ3VsdGl2YXRpb24gYW5kIFByb2Nlc3NpbmcKClRoZSB3aG9sZSBmZW51Z3JlZWsgcGxhbnQgaXMgdXByb290ZWQgYW5kIGFsbG93ZWQgdG8gZHJ5LiBUaGUgc2VlZHMgYXJlIHRoZW4gdGhyZXNoZWQgb3V0IGFuZCBkcmllZCBzZXBhcmF0ZWx5IGZvciBhIGxvbmdlciBkdXJhdGlvbi4gRmVudWdyZWVrIHByZWZlcnMgZnVsbCBzdW4gYW5kIGZlcnRpbGUsIHdlbGwtZHJhaW5lZCBhbGthbGluZSBzb2lsLiBUaGUgcGxhbnQgaXMgcmVzaXN0YW50IHRvIG1vc3QgaW5mZXN0YXRpb25zLCBzcHJvdXRzIGluIHRocmVlIGRheXMsIGZsb3dlcnMgaW4gZm91ciBtb250aHMsIGFuZCB0aGUgc2VlZHMgYXJlIGhhcnZlc3RlZCBhYm91dCBmaXZlIG1vbnRocyBhZnRlciBzb3dpbmcuCgojIyMgR2xvYmFsIFVzZXMKCkZlbnVncmVlayBzZWVkcyBhbmQgbGVhdmVzIGFyZSBpbnRlZ3JhbCB0byB2YXJpb3VzIGdsb2JhbCBjdWlzaW5lcywgcmFuZ2luZyBmcm9tIHBpY2tsZXMgdG8gbWFwbGUgc3lydXAuIEluIEluZGlhLCBmZW51Z3JlZWsgaXMgYSBzdGFwbGUgc3BpY2UgYW5kIGhlcmIsIG9mdGVuIHVzZWQgaW4gdHJhZGl0aW9uYWwgZGlzaGVzLgoKIyMjIEhlYWx0aCBCZW5lZml0cwoKRmVudWdyZWVrIGlzIHZhbHVlZCBmb3IgaXRzIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKkdhbGFjdGFnb2d1ZSoqOiBXaWRlbHkgdXNlZCBieSBudXJzaW5nIG1vdGhlcnMgdG8gaW5jcmVhc2UgYnJlYXN0IG1pbGsgc3VwcGx5LgotICoqRGlhYmV0ZXMgTWFuYWdlbWVudCoqOiBIZWxwcyBjb250cm9sIFR5cGUgSSBhbmQgVHlwZSBJSSBkaWFiZXRlcy4KLSAqKkNob2xlc3Rlcm9sIFJlZHVjdGlvbioqOiBSZWR1Y2VzIGhpZ2ggc2VydW0gY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqRGlnZXN0aXZlIEFpZCoqOiBLbm93biB0byByZWxpZXZlIGNvbnN0aXBhdGlvbi4KLSAqKk1lbnN0cnVhbCBhbmQgTWVub3BhdXNhbCBSZWxpZWYqKjogQ29udGFpbnMgZGlvc2dlbmluIGFuZCBlc3Ryb2dlbi1saWtlIGlzb2ZsYXZvbmVzLCBtYWtpbmcgaXQgZWZmZWN0aXZlIGluIHByb21vdGluZyBtZW5zdHJ1YXRpb24gYW5kIG1pbmltaXppbmcgbWVub3BhdXNlIHN5bXB0b21zLgoKIyMjIEhvbWUgUmVtZWRpZXMKCkZlbnVncmVlayBzZWVkcyBoYXZlIGJlZW4gdXNlZCBpbiB2YXJpb3VzIGhvbWUgcmVtZWRpZXM6Ci0gKipEaWFiZXRlcyBDb250cm9sKio6IEluY29ycG9yYXRlIGZlbnVncmVlayBzZWVkcyB0byBoZWxwIG1hbmFnZSBkaWFiZXRlcy4KLSAqKkNob2xlc3Rlcm9sIFJlZHVjdGlvbioqOiBSZWd1bGFyIGNvbnN1bXB0aW9uIGhlbHBzIGxvd2VyIGNob2xlc3Rlcm9sIGxldmVscy4KLSAqKkNvbnN0aXBhdGlvbiBSZWxpZWYqKjogQWN0cyBhcyBhIG5hdHVyYWwgbGF4YXRpdmUuCi0gKipNaWxrIFByb2R1Y3Rpb24qKjogRW5oYW5jZXMgbWlsayBzdXBwbHkgaW4gbnVyc2luZyBtb3RoZXJzLgotICoqTWVuc3RydWFsIEhlYWx0aCoqOiBQcm9tb3RlcyBtZW5zdHJ1YXRpb24gYW5kIGFsbGV2aWF0ZXMgbWVub3BhdXNlIHN5bXB0b21zLgoKRmVudWdyZWVrIHNwcm91dHMgY2FuIGJlIGFkZGVkIHRvIHNhbGFkcyBmb3IgYW4gZXh0cmEgbnV0cml0aW9uYWwgYm9vc3QgYW5kIHRvIGhlbHAgbWl0aWdhdGUgaGVhbHRoIGlzc3Vlcy4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBoaWdoZXN0IHF1YWxpdHkgZmVudWdyZWVrIHNlZWRzIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiB3ZXN0ZXJuIEluZGlhIGFuZCB0aGUgSW5kby1HYW5nZXRpYyBwbGFpbnMuIE91ciBmZW51Z3JlZWsgaXMgcmljaCBpbiBwcm90ZWluIGFuZCBtaW5lcmFscy4gQWZ0ZXIgc291cmNpbmcsIHRoZSBzZWVkcyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcgdG8gYWNoaWV2ZSBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBwcm9kdWN0cy4KCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIGZlbnVncmVlayBzZWVkcywgVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyBzdXBlcmlvciBxdWFsaXR5IGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb246Ci0gKipHbG9iYWwgUmVhY2gqKjogU2VydmluZyBtYXJrZXRzIHdvcmxkd2lkZSB3aXRoIHJlbGlhYmlsaXR5IGFuZCBleGNlbGxlbmNlLgotICoqQ3VzdG9taXplZCBTb2x1dGlvbnMqKjogVGFpbG9yZWQgc29sdXRpb25zIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgaW50ZXJuYXRpb25hbCBjbGllbnRlbGUuCi0gKipMb2dpc3RpY3MgRXhwZXJ0aXNlKio6IEVmZmljaWVudCBsb2dpc3RpY3MgbmV0d29yayB0byBkZWxpdmVyIGZyZXNoIGZlbnVncmVlayBzZWVkcyBzYWZlbHkgYW5kIHRpbWVseS4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIGZlbnVncmVlayBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIGV4Y2VwdGlvbmFsIHF1YWxpdHkgYW5kIGJlbmVmaXRzIG9mIFZhcm5pIEV4cG9ydHPigJkgZmVudWdyZWVrIHNlZWRzIHRvZGF5IQ=="
+                "Quality": "With Skin, Without Skin, Split",
+                "Botanical Name": "Cicer Arietinum",
+                "Storage Condition": "Cool And Dry",
+                "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                "Loading": "15 to 30 Tons",
+                "Certification": "FSSAI Certified",
+                "description": "KipSb2FzdGVkIEdyYW0gU3BsaXQgV2l0aG91dCBTa2luOiBBIE51dHJpdGlvdXMgUHVsc2UgZm9yIEluZGlhbiBDdWlzaW5lKioKCioqSW50cm9kdWN0aW9uKioKClJvYXN0ZWQgZ3JhbSBzcGxpdCB3aXRob3V0IHNraW4gaXMgYSB2ZXJzYXRpbGUgbGVndW1lIGNvbW1vbmx5IHVzZWQgaW4gSW5kaWFuIGN1aXNpbmUsIHByaXplZCBmb3IgaXRzIG51dHR5IGZsYXZvciBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMuIFRoaXMgcHVsc2UgaXMgb2J0YWluZWQgYnkgc3BsaXR0aW5nIGFuZCByZW1vdmluZyB0aGUgc2tpbiBvZiBjaGlja3BlYXMsIG1ha2luZyBpdCBhIHBvcHVsYXIgaW5ncmVkaWVudCBpbiBkaXNoZXMgbGlrZSBkYWwgYW5kIGN1cnJpZXMuIEl0IHNlcnZlcyBhcyBhIHJpY2ggc291cmNlIG9mIGZpYmVyLCBwcm90ZWluLCB2aXRhbWlucywgYW5kIG1pbmVyYWxzLCBvZmZlcmluZyBib3RoIGZsYXZvciBhbmQgaGVhbHRoIGJlbmVmaXRzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKLSAqKkZhdC1GcmVlIGFuZCBTb2RpdW0tRnJlZToqKiBOYXR1cmFsbHkgZnJlZSBvZiBmYXRzLCBzYXR1cmF0ZWQgZmF0cywgYW5kIHNvZGl1bSwgbWFraW5nIGl0IGlkZWFsIGZvciBoZWFydCBoZWFsdGguCi0gKipDYXJkaW92YXNjdWxhciBIZWFsdGg6KiogSGVscHMgbG93ZXIgdGhlIHJpc2sgb2YgaGVhcnQgZGlzZWFzZSBhbmQgbWF5IHJlZHVjZSB0aGUgcmlzayBvZiBjb2xvbiBjYW5jZXIuCi0gKipCbG9vZCBTdWdhciBSZWd1bGF0aW9uOioqIExvdyBnbHljZW1pYyBpbmRleCAoR0kpIGhlbHBzIG1haW50YWluIHN0YWJsZSBibG9vZCBzdWdhciBsZXZlbHMsIHN1aXRhYmxlIGZvciBkaWFiZXRpY3MuCi0gKipSaWNoIGluIERpZXRhcnkgRmliZXI6KiogQ29udGFpbnMgNiBncmFtcyBvZiBkaWV0YXJ5IGZpYmVyIHBlciBzZXJ2aW5nLCBwcm9tb3RpbmcgZGlnZXN0aW9uIGFuZCByZWR1Y2luZyB0aGUgcmlzayBvZiBoZWFydCBkaXNlYXNlLgotICoqTnV0cmllbnQtUmljaDoqKiBFeGNlbGxlbnQgc291cmNlIG9mIGNhbGNpdW0sIHBvdGFzc2l1bSwgbWFuZ2FuZXNlLCBmb2xhdGUsIHByb3RlaW4sIGRpZXRhcnkgZmliZXIsIGNvcHBlciwgcGhvc3Bob3JvdXMsIGFuZCBpcm9uLgoKKipDb21tb24gVXNlcyoqCgpSb2FzdGVkIGdyYW0gc3BsaXQgd2l0aG91dCBza2luIGlzIHdpZGVseSB1c2VkIGluIHZhcmlvdXMgY3VsaW5hcnkgYXBwbGljYXRpb25zOgotICoqUHJvdGVpbi1SaWNoIFNuYWNrOioqIElkZWFsIGFzIGEgcHJvdGVpbi1yaWNoIG1pZC1tZWFsIHNuYWNrLCBwcm92aWRpbmcgc3VzdGFpbmVkIGVuZXJneS4KLSAqKkluZ3JlZGllbnQgaW4gQ2hhYXRzIGFuZCBCaGVsczoqKiBBZGRzIGNydW5jaCBhbmQgZmxhdm9yIHRvIHBvcHVsYXIgSW5kaWFuIHN0cmVldCBmb29kcyBsaWtlIGNoYWF0cyBhbmQgYmhlbHMuCi0gKipUYW5neSBDaGFhdDoqKiBFbmhhbmNlcyBzYWxhZHMgYW5kIHNuYWNrcyB3aGVuIGNvbWJpbmVkIHdpdGggb25pb25zLCB0b21hdG9lcywgc2FsdCwgYW5kIGxlbW9uIGp1aWNlLgoKKipOdXRyaXRpb25hbCBFbGVtZW50cyoqCgpDaGlja3BlYXMsIHRoZSBtYWluIGluZ3JlZGllbnQgaW4gcm9hc3RlZCBncmFtIHNwbGl0IHdpdGhvdXQgc2tpbiwgYXJlIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHM6Ci0gKipWaXRhbWluczoqKiBJbmNsdWRlcyB2aXRhbWlucyBBLCBCMSwgQjIsIEIzLCBDLCBELCBFLCBLLCBmb2xhdGUsIGFuZCBwYW50b3RoZW5pYyBhY2lkLgotICoqTWluZXJhbHM6KiogQ29udGFpbnMgY2FsY2l1bSwgaXJvbiwgbW9seWJkZW51bSwgcG90YXNzaXVtLCBtYW5nYW5lc2UsIGNvcHBlciwgemluYywgYW5kIG1vcmUuCi0gKipPdGhlciBOdXRyaWVudHM6KiogSGlnaCBpbiBkaWV0YXJ5IGZpYmVycywgY2FyYm9oeWRyYXRlcywgcHJvdGVpbnMsIGFuZCBtb2lzdHVyZSwgZXNzZW50aWFsIGZvciBvdmVyYWxsIGhlYWx0aC4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGFuZCBzYWZldHkgaW4gb3VyIHByb2R1Y3RzOgotICoqUHJlbWl1bSBRdWFsaXR5OioqIFNvdXJjZWQgZnJvbSByZWxpYWJsZSBzdXBwbGllcnMgYW5kIHByb2Nlc3NlZCB1bmRlciBzdHJpY3QgaHlnaWVuZSBzdGFuZGFyZHMgdG8gcmV0YWluIGZyZXNobmVzcyBhbmQgbnV0cml0aW9uYWwgdmFsdWUuCi0gKipQYWNrYWdpbmc6KiogUGFja2FnZWQgdG8gcHJlc2VydmUgY3J1bmNoaW5lc3MgYW5kIGZsYXZvciwgZW5zdXJpbmcgYSBkZWxpZ2h0ZnVsIGN1bGluYXJ5IGV4cGVyaWVuY2UuCi0gKipIZWFsdGggYW5kIFNhZmV0eToqKiBDb21wbGlhbnQgd2l0aCBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHN0YW5kYXJkcywgcHJvdmlkaW5nIHNhZmUgYW5kIG51dHJpdGlvdXMgcHJvZHVjdHMuCgoqKkV4cGVyaWVuY2UgUXVhbGl0eSB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgd2hvbGVzb21lIGdvb2RuZXNzIG9mIHJvYXN0ZWQgZ3JhbSBzcGxpdCB3aXRob3V0IHNraW4gd2l0aCBWYXJuaSBFeHBvcnRzLiBXaGV0aGVyIHlvdSdyZSBsb29raW5nIHRvIGVuaGFuY2UgeW91ciBtZWFscyB3aXRoIG51dHJpdGlvdXMgcHVsc2VzIG9yIHNlZWtpbmcgYSBoZWFsdGh5IHNuYWNrIG9wdGlvbiwgb3VyIHByb2R1Y3RzIGFyZSBkZXNpZ25lZCB0byBtZWV0IHlvdXIgY3VsaW5hcnkgbmVlZHMuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcmFuZ2Ugb2YgbnV0cml0aW91cyBwcm9kdWN0cyBhbmQgcGxhY2UgeW91ciBvcmRlci4gRWxldmF0ZSB5b3VyIGRpc2hlcyB3aXRoIHRoZSBnb29kbmVzcyBvZiByb2FzdGVkIGdyYW0gc3BsaXQgd2l0aG91dCBza2luIGZyb20gVmFybmkgRXhwb3J0cyE="
+            }
+
+        ]
+    },
+    {
+        name: "Others Products",
+        path: "/products/other-products",
+        catagoriesId: "other-products",
+        image: othersImage,
+        description: 'Enjoy our premium products: protein-rich soya chunks for a meaty texture in dishes, crunchy and flavorful fryums perfect for snacking, light and nutritious poha for a quick breakfast, and deliciously nutty roasted gram. Each product offers exceptional taste and quality, ensuring a delightful and healthy experience.',
+        products_detail: [
+            {
+                "id": "1",
+                "name": "Soya Chunks",
+                "Category": "Pulses",
+                "images": otherProducts1,
+                "Shelf Life": "6 months when kept in a cool and dry place",
+                "Moisture": "18%",
+                "Storage Condition": "Cool And Dry",
+                "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                "Loading": "15 to 30 Tons",
+                "Certification": "FSSAI Certified",
+                "description": "KipTb3lhIENodW5rczogQSBOdXRyaXRpb3VzIEFkZGl0aW9uIHRvIFlvdXIgRGlldCoqCgoqKkludHJvZHVjdGlvbioqCgpTb3lhIGNodW5rcywgYWxzbyBrbm93biBhcyBzb3lhd2FkaSwgYXJlIGEgdmVyc2F0aWxlIHZlZ2V0YXJpYW4gcHJvdGVpbiBvcHRpb24gbWFkZSBmcm9tIGRlZmF0dGVkIHNveSBmbG91ci4gVGhleSBhcmUgcG9wdWxhciBpbiB2YXJpb3VzIGN1aXNpbmVzIGZvciB0aGVpciBoaWdoIHByb3RlaW4gY29udGVudCBhbmQgYWJpbGl0eSB0byBhYnNvcmIgZmxhdm9ycy4gSW4gTWFoYXJhc2h0cmlhbiBjdWlzaW5lLCBzb3lhd2FkaSBpcyBhIHRyYWRpdGlvbmFsIGRpc2ggZW5qb3llZCBmb3IgaXRzIHNwaWN5IGFuZCB0YW5neSBjdXJyeSBwcmVwYXJhdGlvbiwgb2Z0ZW4gc2VydmVkIHdpdGggY2hhcGF0aXMgb3Igc3RlYW1lZCByaWNlLiBIZXJl4oCZcyBhIGNsb3NlciBsb29rIGF0IHRoaXMgbnV0cml0aW91cyBpbmdyZWRpZW50IGFuZCBob3cgaXQncyBwcmVwYXJlZC4KCioqSW5ncmVkaWVudHMgYW5kIFByZXBhcmF0aW9uKioKClNveWEgY2h1bmtzIGFyZSBwcmVwYXJlZCB1c2luZyBhIGJsZW5kIG9mIHNwaWNlcyB0byBjcmVhdGUgYSBmbGF2b3JmdWwgY3Vycnk6Ci0gKipTcGljZXM6KiogVHlwaWNhbGx5IGluY2x1ZGVzIGNoaWxpIHBvd2RlciwgY29yaWFuZGVyIHBvd2RlciwgY3VtaW4gcG93ZGVyLCBhbmQgdHVybWVyaWMsIGFkZGluZyBkZXB0aCBhbmQgYXJvbWEgdG8gdGhlIGRpc2guCi0gKipDb29raW5nIFByb2Nlc3M6KiogVGhlIHNveWJlYW5zIGFyZSBzaW1tZXJlZCBpbiBhIHRoaWNrIGdyYXZ5IG1hZGUgZnJvbSBvbmlvbnMsIGdhcmxpYywgYW5kIHRvbWF0b2VzIHVudGlsIHRlbmRlciBhbmQgaW5mdXNlZCB3aXRoIHRoZSBzcGljZXMuCi0gKipHYXJuaXNoZXM6KiogRmluaXNoZWQgd2l0aCBmcmVzaCBjb3JpYW5kZXIgbGVhdmVzIGFuZCBncmF0ZWQgY29jb251dCwgZW5oYW5jaW5nIGJvdGggdGhlIGZsYXZvciBhbmQgdmlzdWFsIGFwcGVhbCBvZiB0aGUgZGlzaC4KCioqSGVhbHRoIEJlbmVmaXRzKioKClNveWEgY2h1bmtzIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0cywgbWFraW5nIHRoZW0gYSBwb3B1bGFyIGNob2ljZSBmb3IgaGVhbHRoLWNvbnNjaW91cyBjb25zdW1lcnM6Ci0gKipIaWdoIFByb3RlaW4gQ29udGVudDoqKiBSaWNoIGluIHBsYW50LWJhc2VkIHByb3RlaW4sIGlkZWFsIGZvciB2ZWdldGFyaWFucyBhbmQgdGhvc2UgbG9va2luZyB0byByZWR1Y2UgbWVhdCBjb25zdW1wdGlvbi4KLSAqKkxvdyBpbiBGYXQ6KiogTmF0dXJhbGx5IGxvdyBpbiBzYXR1cmF0ZWQgZmF0cywgcHJvbW90aW5nIGhlYXJ0IGhlYWx0aCBhbmQgYWlkaW5nIGluIHdlaWdodCBtYW5hZ2VtZW50LgotICoqUmljaCBpbiBGaWJlcjoqKiBDb250YWlucyBkaWV0YXJ5IGZpYmVyIHRoYXQgc3VwcG9ydHMgZGlnZXN0aW9uIGFuZCBoZWxwcyByZWd1bGF0ZSBibG9vZCBzdWdhciBsZXZlbHMuCi0gKipFc3NlbnRpYWwgTnV0cmllbnRzOioqIFByb3ZpZGVzIGVzc2VudGlhbCB2aXRhbWlucyBhbmQgbWluZXJhbHMsIGluY2x1ZGluZyBpcm9uLCBjYWxjaXVtLCBhbmQgQiB2aXRhbWlucywgbmVjZXNzYXJ5IGZvciBvdmVyYWxsIHdlbGwtYmVpbmcuCgoqKlZlcnNhdGlsZSBVc2UgaW4gQ29va2luZyoqCgpTb3lhIGNodW5rcyBjYW4gYmUgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKkN1cnJpZXM6KiogSW5jb3Jwb3JhdGUgaW50byBzcGljeSBjdXJyaWVzIGxpa2Ugc295YXdhZGksIGFic29yYmluZyB0aGUgZmxhdm9ycyBvZiB0aGUgc2F1Y2UgZm9yIGEgc2F0aXNmeWluZyBtZWFsLgotICoqU3Rpci1GcmllczoqKiBBZGQgdG8gc3Rpci1mcmllcyB3aXRoIHZlZ2V0YWJsZXMgZm9yIGEgbnV0cml0aW91cyBhbmQgcHJvdGVpbi1wYWNrZWQgZGlzaC4KLSAqKkJpcnlhbmkgYW5kIFB1bGFvOioqIEVuaGFuY2UgcmljZSBkaXNoZXMgYnkgYWRkaW5nIHByZS1zb2FrZWQgc295YSBjaHVua3MgZHVyaW5nIGNvb2tpbmcgZm9yIGFkZGVkIHRleHR1cmUgYW5kIGZsYXZvci4KLSAqKlNuYWNrczoqKiBVc2UgaW4gc25hY2tzIGxpa2Uga2ViYWJzIG9yIGN1dGxldHMgZm9yIGEgcHJvdGVpbi1yaWNoIGFwcGV0aXplciBvcHRpb24uCgoqKlF1YWxpdHkgYW5kIFNhZmV0eSoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgc295YSBjaHVua3MgbWVldCBoaWdoLXF1YWxpdHkgc3RhbmRhcmRzOgotICoqU291cmNlZCBmcm9tIFRydXN0ZWQgU3VwcGxpZXJzOioqIFByb2N1cmVkIGZyb20gcmVsaWFibGUgc291cmNlcyB0byBtYWludGFpbiBmcmVzaG5lc3MgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgotICoqUHJvY2Vzc2VkIHdpdGggQ2FyZToqKiBIYW5kbGVkIGFuZCBwcm9jZXNzZWQgdW5kZXIgc3RyaWN0IGh5Z2llbmUgcHJhY3RpY2VzIHRvIGVuc3VyZSBmb29kIHNhZmV0eS4KLSAqKlBhY2thZ2VkIGZvciBGcmVzaG5lc3M6KiogUGFja2FnZWQgdG8gcmV0YWluIHRleHR1cmUgYW5kIGZsYXZvciwgcHJlc2VydmluZyB0aGUgcXVhbGl0eSBvZiB0aGUgcHJvZHVjdC4KCioqRXhwZXJpZW5jZSBRdWFsaXR5IHdpdGggVmFybmkgRXhwb3J0cyoqCgpFeHBsb3JlIHRoZSBudXRyaXRpb25hbCBiZW5lZml0cyBhbmQgY3VsaW5hcnkgdmVyc2F0aWxpdHkgb2Ygc295YSBjaHVua3Mgd2l0aCBWYXJuaSBFeHBvcnRzLiBXaGV0aGVyIHlvdeKAmXJlIHByZXBhcmluZyB0cmFkaXRpb25hbCBNYWhhcmFzaHRyaWFuIGRpc2hlcyBsaWtlIHNveWF3YWRpIG9yIGV4cGVyaW1lbnRpbmcgd2l0aCBnbG9iYWwgcmVjaXBlcywgb3VyIHNveWEgY2h1bmtzIHByb21pc2UgdG8gZWxldmF0ZSB5b3VyIGNvb2tpbmcgZXhwZXJpZW5jZS4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjb3ZlciBtb3JlIGFib3V0IG91ciByYW5nZSBvZiBudXRyaXRpb3VzIHByb2R1Y3RzIGFuZCBwbGFjZSB5b3VyIG9yZGVyLiBFbWJyYWNlIGEgaGVhbHRoaWVyIGxpZmVzdHlsZSB3aXRoIHRoZSBnb29kbmVzcyBvZiBzb3lhIGNodW5rcyBmcm9tIFZhcm5pIEV4cG9ydHMhCgo="
+            },
+
+            {
+                "id": "2",
+                "name": "Fryums",
+                "Category": "Snacks",
+                "images": otherProducts2,
+                "Shelf Life": "6 months when kept in a cool and dry place",
+                "Ingredient Type": "Vegetarian",
+                "Package Information": "Pouch",
+                "Storage Condition": "Cool And Dry",
+                "Packaging": "1 to 50 kg Pouch",
+                "Loading": "15 to 30 Tons",
+                "Certification": "FSSAI Certified",
+                "description": "KipGcnl1bXM6IEEgQ3Jpc3B5IERlbGlnaHQgZnJvbSBJbmRpYSoqCgoqKkludHJvZHVjdGlvbioqCgpGcnl1bXMsIGFsc28ga25vd24gYXMgZmFyLWZhciBvciBib2JieSwgYXJlIGEgcG9wdWxhciBJbmRpYW4gc25hY2sgbWFkZSBwcmltYXJpbHkgZnJvbSBwb3RhdG8gc3RhcmNoIGFuZCB0aW50ZWQgc2Fnby4gVGhlc2UgY3Jpc3B5IGRlbGlnaHRzIHB1ZmYgdXAgaW5zdGFudGx5IHdoZW4gZGVlcC1mcmllZCwgbWFraW5nIHRoZW0gYSBmYXZvcml0ZSBzbmFjayBhY3Jvc3MgSW5kaWEuIFRoZXkgYXJlIGVuam95ZWQgZWl0aGVyIG9uIHRoZWlyIG93biBhcyBhIHNuYWNrIG9yIHNlcnZlZCBhbG9uZ3NpZGUgbWVhbHMsIHNpbWlsYXIgdG8gcGFwYWR1bXMuCgoqKkluZ3JlZGllbnRzKioKCkZyeXVtcyBhcmUgdHlwaWNhbGx5IG1hZGUgZnJvbSBhIGJsZW5kIG9mIGluZ3JlZGllbnRzIHRvIGFjaGlldmUgdGhlaXIgdW5pcXVlIHRleHR1cmUgYW5kIGZsYXZvcjoKLSAqKlBvdGF0byBTdGFyY2g6KiogUHJvdmlkZXMgdGhlIGJhc2UgZm9yIHRoZSBmcnl1bXMsIGNvbnRyaWJ1dGluZyB0byB0aGVpciBjcmlzcGluZXNzIHdoZW4gZnJpZWQuCi0gKipUaW50ZWQgU2FnbzoqKiBBZGRzIHRleHR1cmUgYW5kIGhlbHBzIGluIHRoZSBwdWZmaW5nIHByb2Nlc3Mgd2hlbiBleHBvc2VkIHRvIGhlYXQuCi0gKipPdGhlciBJbmdyZWRpZW50czoqKiBNYXkgaW5jbHVkZSB0YXBpb2NhIGFuZCB3aGVhdCBmbG91ciB0byBlbmhhbmNlIHRoZSBjb25zaXN0ZW5jeSBhbmQgdGFzdGUuCgoqKlByZXBhcmF0aW9uIGFuZCBDb29raW5nKioKClRoZSBwcmVwYXJhdGlvbiBvZiBmcnl1bXMgaW52b2x2ZXMgYSBmZXcga2V5IHN0ZXBzOgotICoqRm9ybWF0aW9uOioqIFRoZSBkb3VnaCBpcyBwcmVwYXJlZCB1c2luZyBwb3RhdG8gc3RhcmNoLCBzYWdvLCBhbmQgb3RoZXIgaW5ncmVkaWVudHMuIEl0J3MgdGhlbiBzaGFwZWQgaW50byBzbWFsbCwgdGhpbiBkaXNjcyBvciBzdGlja3MuCi0gKipEcnlpbmc6KiogVGhlIHNoYXBlZCBmcnl1bXMgYXJlIGFsbG93ZWQgdG8gZHJ5IHRob3JvdWdobHkgdG8gcmVtb3ZlIG1vaXN0dXJlLCBlbnN1cmluZyB0aGV5IHB1ZmYgdXAgcHJvcGVybHkgd2hlbiBmcmllZC4KLSAqKkZyeWluZzoqKiBXaGVuIGRyb3BwZWQgaW50byBob3Qgb2lsLCBmcnl1bXMgcmFwaWRseSBwdWZmIHVwLCBmb3JtaW5nIGxpZ2h0LCBjcmlzcHkgc25hY2tzIHJlYWR5IHRvIGJlIGVuam95ZWQuCgoqKkN1bGluYXJ5IFVzZXMqKgoKRnJ5dW1zIGFyZSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKlNuYWNrOioqIFRoZXkgYXJlIGNvbW1vbmx5IGVhdGVuIGFzIGEgc3RhbmRhbG9uZSBzbmFjaywgb2Z0ZW4gc2Vhc29uZWQgd2l0aCBzYWx0IG9yIHNwaWNlcy4KLSAqKkFjY29tcGFuaW1lbnQ6KiogTGlrZSBwYXBhZHVtcywgZnJ5dW1zIGFyZSBzZXJ2ZWQgYWxvbmdzaWRlIG1lYWxzIHRvIGFkZCBhIGNydW5jaHkgZWxlbWVudC4KLSAqKkNyZWF0aXZlIFVzZXM6KiogVGhleSBjYW4gYmUgdXNlZCBjcmVhdGl2ZWx5IGluIGRpc2hlcyBsaWtlIGNoYWF0cyBvciBhcyB0b3BwaW5ncyBmb3Igc2FsYWRzIHRvIGFkZCB0ZXh0dXJlIGFuZCBmbGF2b3IuCgoqKlBvcHVsYXIgVmFyaWV0aWVzKioKCkZyeXVtcyBjb21lIGluIGEgdmFyaWV0eSBvZiBzaGFwZXMgYW5kIHNpemVzLCBvZmZlcmluZyBhIHJhbmdlIG9mIHRleHR1cmVzIGFuZCBjcnVuY2hpbmVzcy4gU29tZSBjb21tb24gc2hhcGVzIGluY2x1ZGUgZGlzY3MsIHN0aWNrcywgYW5kIGV2ZW4gaW50cmljYXRlIGRlc2lnbnMgdGhhdCBleHBhbmQgd2hlbiBmcmllZC4KCioqUXVhbGl0eSBhbmQgU2FmZXR5KioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhbmQgc2FmZXR5IGluIG91ciBmcnl1bXM6Ci0gKipIaWdoLVF1YWxpdHkgSW5ncmVkaWVudHM6KiogV2Ugc291cmNlIHRoZSBmaW5lc3QgcG90YXRvIHN0YXJjaCwgc2FnbywgYW5kIG90aGVyIGNvbXBvbmVudHMgdG8gZW5zdXJlIHN1cGVyaW9yIHRhc3RlIGFuZCB0ZXh0dXJlLgotICoqSHlnaWVuaWMgUHJvY2Vzc2luZzoqKiBPdXIgZnJ5dW1zIGFyZSBwcm9jZXNzZWQgdW5kZXIgc3RyaWN0IGh5Z2llbmUgc3RhbmRhcmRzIHRvIG1haW50YWluIGZyZXNobmVzcyBhbmQgZm9vZCBzYWZldHkuCi0gKipQYWNrYWdlZCBmb3IgRnJlc2huZXNzOioqIFBhY2thZ2VkIHRvIHJldGFpbiBjcmlzcGluZXNzIGFuZCBmbGF2b3IsIGVuc3VyaW5nIG91ciBjdXN0b21lcnMgcmVjZWl2ZSB0aGUgYmVzdCBxdWFsaXR5IHByb2R1Y3QuCgoqKkRpc2NvdmVyIEZyeXVtcyB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgY3Jpc3B5IGdvb2RuZXNzIG9mIGZyeXVtcyB3aXRoIFZhcm5pIEV4cG9ydHMuIFdoZXRoZXIgeW91J3JlIGxvb2tpbmcgdG8gZW5qb3kgdGhlbSBhcyBhIHNuYWNrIG9yIGluY29ycG9yYXRlIHRoZW0gaW50byB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucywgb3VyIGZyeXVtcyBwcm9taXNlIHRvIGRlbGlnaHQgeW91ciB0YXN0ZSBidWRzLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIHNuYWNrcyBhbmQgcGxhY2UgeW91ciBvcmRlci4gRW1icmFjZSB0aGUgYXV0aGVudGljIGZsYXZvcnMgb2YgSW5kaWEgd2l0aCBWYXJuaSBFeHBvcnRzJyBwcmVtaXVtIGZyeXVtcyEKCg=="
+            },
+
+            {
+                "id": "3",
+                "name": "Poha Thin",
+                "Category": "Snacks",
+                "images": otherProducts3,
+                "Shelf Life": "3 months when kept in a cool and dry place",
+                "Ingredient Type": "Vegetarian",
+                "Package Information": "Pouch",
+                "Storage Condition": "Cool And Dry",
+                "Packaging": "1 to 50 kg Pouch",
+                "Loading": "15 to 30 Tons",
+                "Certification": "FSSAI Certified",
+                "description": "KipQb2hhIFRoaW46IEEgVHJhZGl0aW9uYWwgSW5kaWFuIEJyZWFrZmFzdCBEZWxpZ2h0KioKCioqSW50cm9kdWN0aW9uKioKClBvaGEgVGhpbiwgYWxzbyBrbm93biBzaW1wbHkgYXMgUG9oYSwgaXMgYSBiZWxvdmVkIHRyYWRpdGlvbmFsIEluZGlhbiBkaXNoIG1hZGUgZnJvbSBmbGF0dGVuZWQgcmljZS4gSXQgaXMgYSBwb3B1bGFyIGJyZWFrZmFzdCBjaG9pY2UgYWNyb3NzIEluZGlhIGFuZCBpcyBjaGVyaXNoZWQgZm9yIGl0cyBzaW1wbGljaXR5LCBsaWdodG5lc3MsIGFuZCB2ZXJzYXRpbGl0eS4gUG9oYSBjYW4gYmUgZW5qb3llZCB3aXRoIGEgdmFyaWV0eSBvZiBzYXZvcnkgYWNjb21wYW5pbWVudHMgYW5kIGlzIG9mdGVuIHNlcnZlZCB3aXRoIHRlYSBvciBjb2ZmZWUuCgoqKkluZ3JlZGllbnRzKioKClRoZSBtYWluIGluZ3JlZGllbnRzIHVzZWQgaW4gcHJlcGFyaW5nIFBvaGEgVGhpbiBpbmNsdWRlOgotICoqRmxhdHRlbmVkIFJpY2UgKFBvaGEpOioqIFRoaXMgaXMgdGhlIHByaW1hcnkgaW5ncmVkaWVudCwgbWFkZSBmcm9tIHJpY2UgdGhhdCBoYXMgYmVlbiBwYXJib2lsZWQsIGZsYXR0ZW5lZCwgYW5kIGRyaWVkIHRvIGZvcm0gdGhpbiBmbGFrZXMuCi0gKipPaWw6KiogVXNlZCBmb3IgY29va2luZyB0aGUgZGlzaC4KLSAqKk9uaW9uczoqKiBBZGRzIGZsYXZvciBhbmQgdGV4dHVyZS4KLSAqKlBvdGF0b2VzOioqIE9mdGVuIGRpY2VkIGFuZCBjb29rZWQgYWxvbmcgd2l0aCB0aGUgUG9oYS4KLSAqKlNwaWNlczoqKiBTdWNoIGFzIGN1bWluIHNlZWRzLCBtdXN0YXJkIHNlZWRzLCB0dXJtZXJpYywgYW5kIGN1cnJ5IGxlYXZlcywgd2hpY2ggaW1wYXJ0IGFyb21hdGljIGZsYXZvcnMgdG8gdGhlIGRpc2guCi0gKipPcHRpb25hbCBJbmdyZWRpZW50czoqKiBEZXBlbmRpbmcgb24gcmVnaW9uYWwgdmFyaWF0aW9ucyBhbmQgcGVyc29uYWwgcHJlZmVyZW5jZXMsIG90aGVyIGluZ3JlZGllbnRzIGxpa2UgcGVhbnV0cywgY29yaWFuZGVyIGxlYXZlcywgbGVtb24ganVpY2UsIGFuZCBncmF0ZWQgY29jb251dCBtYXkgYWxzbyBiZSBhZGRlZC4KCioqUHJlcGFyYXRpb24qKgoKVGhlIHByZXBhcmF0aW9uIG9mIFBvaGEgaW52b2x2ZXMgYSBmZXcgc2ltcGxlIHN0ZXBzOgoxLiAqKldhc2hpbmcgYW5kIFNvYWtpbmc6KiogVGhlIGZsYXR0ZW5lZCByaWNlIChQb2hhKSBpcyBnZW50bHkgd2FzaGVkIHRvIHJlbW92ZSBhbnkgaW1wdXJpdGllcyBhbmQgdGhlbiBzb2FrZWQgYnJpZWZseSBpbiB3YXRlciB0byBzb2Z0ZW4uIEl0IGlzIGNydWNpYWwgbm90IHRvIHNvYWsgaXQgZm9yIHRvbyBsb25nIHRvIGF2b2lkIG1ha2luZyBpdCBtdXNoeS4KMi4gKipEcmFpbmluZzoqKiBBZnRlciBzb2FraW5nLCB0aGUgUG9oYSBpcyBkcmFpbmVkIHRob3JvdWdobHkgdG8gcmVtb3ZlIGV4Y2VzcyB3YXRlci4KMy4gKipDb29raW5nOioqIEluIGEgcGFuLCBvaWwgaXMgaGVhdGVkIGFuZCBtdXN0YXJkIHNlZWRzIGFuZCBjdW1pbiBzZWVkcyBhcmUgdHlwaWNhbGx5IHNwbHV0dGVyZWQgdG8gcmVsZWFzZSB0aGVpciBmbGF2b3JzLiBDaG9wcGVkIG9uaW9ucywgZGljZWQgcG90YXRvZXMsIGFuZCBvdGhlciBzcGljZXMgYXJlIHRoZW4gYWRkZWQgYW5kIHNhdXTDqWVkIHVudGlsIHRoZSBwb3RhdG9lcyBhcmUgY29va2VkIHRocm91Z2guCjQuICoqQWRkaW5nIFBvaGE6KiogVGhlIGRyYWluZWQgUG9oYSBpcyBhZGRlZCB0byB0aGUgcGFuIGFuZCBtaXhlZCBnZW50bHkgd2l0aCB0aGUgc3BpY2VzIGFuZCB2ZWdldGFibGVzLiBJdCBpcyBjb29rZWQgZm9yIGEgZmV3IG1pbnV0ZXMgdW50aWwgaGVhdGVkIHRocm91Z2ggYW5kIHdlbGwgY29tYmluZWQuCjUuICoqRmluYWwgVG91Y2hlczoqKiBGcmVzaCBpbmdyZWRpZW50cyBsaWtlIGNob3BwZWQgY29yaWFuZGVyIGxlYXZlcywgcm9hc3RlZCBwZWFudXRzLCBhbmQgYSBkYXNoIG9mIGxlbW9uIGp1aWNlIG1heSBiZSBhZGRlZCBhdCB0aGUgZW5kIGZvciBhZGRlZCBmbGF2b3IgYW5kIHRleHR1cmUuCgoqKkN1bGluYXJ5IFVzZXMqKgoKUG9oYSBUaGluIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKkJyZWFrZmFzdCBEaXNoOioqIEl0IGlzIGNvbW1vbmx5IHNlcnZlZCBhcyBhIGxpZ2h0IGFuZCBudXRyaXRpb3VzIGJyZWFrZmFzdCBkaXNoLgotICoqU25hY2s6KiogUG9oYSBhbHNvIG1ha2VzIGZvciBhIHNhdGlzZnlpbmcgc25hY2ssIGVzcGVjaWFsbHkgd2hlbiBwYWlyZWQgd2l0aCBhIGhvdCBiZXZlcmFnZSBsaWtlIHRlYSBvciBjb2ZmZWUuCi0gKipNYWluIENvdXJzZToqKiBEZXBlbmRpbmcgb24gdGhlIGFjY29tcGFuaW1lbnRzIGFuZCBzaWRlIGRpc2hlcywgUG9oYSBjYW4gYWxzbyBiZSBlbmpveWVkIGFzIGEgbWFpbiBjb3Vyc2UgbWVhbC4KCioqSGVhbHRoIEJlbmVmaXRzKioKClBvaGEgVGhpbiBvZmZlcnMgc2V2ZXJhbCBoZWFsdGggYmVuZWZpdHM6Ci0gKipOdXRyaWVudC1SaWNoOioqIEl0IGlzIHJpY2ggaW4gY2FyYm9oeWRyYXRlcywgdml0YW1pbnMsIGFuZCBtaW5lcmFscywgbWFraW5nIGl0IGEgbnV0cml0aW91cyBicmVha2Zhc3Qgb3B0aW9uLgotICoqTGlnaHQgYW5kIEVhc2lseSBEaWdlc3RpYmxlOioqIFRoZSBmbGF0dGVuZWQgcmljZSBpcyBsaWdodCBvbiB0aGUgc3RvbWFjaCBhbmQgZWFzeSB0byBkaWdlc3QsIHN1aXRhYmxlIGZvciBtb3JuaW5nIGNvbnN1bXB0aW9uLgotICoqVmVyc2F0aWxlOioqIEl0IGNhbiBiZSBjdXN0b21pemVkIHdpdGggdmFyaW91cyBpbmdyZWRpZW50cyB0byBzdWl0IGluZGl2aWR1YWwgdGFzdGVzIGFuZCBkaWV0YXJ5IHByZWZlcmVuY2VzLgoKKipFbmpveSBQb2hhIFRoaW4gd2l0aCBWYXJuaSBFeHBvcnRzKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGJyaW5nIHlvdSB0aGUgZmluZXN0IHF1YWxpdHkgUG9oYSBUaGluLCBwZXJmZWN0IGZvciBwcmVwYXJpbmcgdHJhZGl0aW9uYWwgSW5kaWFuIGJyZWFrZmFzdHMgb3Igc25hY2tzLiBPdXIgUG9oYSBUaGluIGlzIGNhcmVmdWxseSBzb3VyY2VkIGFuZCBwcm9jZXNzZWQgdG8gZW5zdXJlIGZyZXNobmVzcyBhbmQgYXV0aGVudGljaXR5LiBDb250YWN0IHVzIHRvZGF5IHRvIGV4cGxvcmUgb3VyIHJhbmdlIG9mIHByb2R1Y3RzIGFuZCBleHBlcmllbmNlIHRoZSB0cnVlIGZsYXZvcnMgb2YgSW5kaWEgd2l0aCBWYXJuaSBFeHBvcnRzIQoK"
             },
 
             {
                 "id": "4",
-                "name": "Fennel Seeds",
-                "Category": "Spices",
-                "Botanical Name": "Foeniculum Vulgare",
-                "Odour And Flavour": "The Odour Is Aromatic and Sweet. Flavour Is Characteristic. No Mustiness Or Rancidity",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Application": "Food Products, Seasonings",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBTb3VyY2UgZm9yIFByZW1pdW0gRmVubmVsIFNlZWRzCgojIyMgQWJvdXQgRmVubmVsIFNlZWRzCgpGZW5uZWwgc2VlZHMgKEZvZW5pY3VsdW0gdnVsZ2FyZSkgYXJlIHNtYWxsLCBncmVlbiB0byBicm93biBzZWVkcyB3aXRoIGEgc3dlZXQsIGxpY29yaWNlLWxpa2UgZmxhdm9yIGFuZCBhIHJlZnJlc2hpbmcgYXJvbWEuIFRoZXkgYXJlIGFuIGVzc2VudGlhbCBpbmdyZWRpZW50IGluIG1hbnkgY3VsaW5hcnkgdHJhZGl0aW9ucyB3b3JsZHdpZGUgYW5kIGFyZSBjZWxlYnJhdGVkIGZvciB0aGVpciB2ZXJzYXRpbGl0eSBhbmQgaGVhbHRoIGJlbmVmaXRzLiAKCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBmaW5lc3QgcXVhbGl0eSBmZW5uZWwgc2VlZHMgZnJvbSB0aGUgbW9zdCBmZXJ0aWxlIHJlZ2lvbnMgb2YgSW5kaWEuIE91ciBmZW5uZWwgc2VlZHMgYXJlIHJpY2ggaW4gZmxhdm9yIGFuZCBudXRyaWVudHMsIG1ldGljdWxvdXNseSBjbGVhbmVkLCBhbmQgcHJvY2Vzc2VkIHRvIGFjaGlldmUgdGhlIGhpZ2hlc3QgcHVyaXR5IHN0YW5kYXJkcy4gT3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBlbnN1cmVzIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgZmVubmVsIHNlZWRzIGZvciB0aGVpciBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIHVzZXMuCgojIyMgQ3VsaW5hcnkgVXNlcwoKRmVubmVsIHNlZWRzIGFyZSB3aWRlbHkgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKkNvb2tpbmcqKjogQ29tbW9ubHkgdXNlZCBpbiBJbmRpYW4gY3Vpc2luZSwgZmVubmVsIHNlZWRzIGFkZCBhIHN3ZWV0IGFuZCBhcm9tYXRpYyBmbGF2b3IgdG8gZGlzaGVzLiBUaGV5IGFyZSBvZnRlbiBpbmNsdWRlZCBpbiBzcGljZSBibGVuZHMsIHBpY2tsZXMsIGFuZCBtYXJpbmFkZXMuCi0gKipHYXJuaXNoaW5nKio6IFNwcmlua2xlIGZlbm5lbCBzZWVkcyBvbiBzYWxhZHMsIHNvdXBzLCBhbmQgc2F1Y2VzIGZvciBhIGJ1cnN0IG9mIGZsYXZvci4KLSAqKkJha2luZyoqOiBBZGQgZmVubmVsIHNlZWRzIHRvIGJyZWFkLCBjYWtlcywgYW5kIHBhc3RyaWVzIGZvciBhIHVuaXF1ZSB0YXN0ZS4KLSAqKkJldmVyYWdlcyoqOiBCcmV3IGZlbm5lbCB0ZWEgYnkgc3RlZXBpbmcgMSB0ZWFzcG9vbiBvZiBzZWVkcyBwZXIgY3VwIG9mIGJvaWxpbmcgd2F0ZXIgZm9yIGEgc29vdGhpbmcgYW5kIGRpZ2VzdGl2ZSBkcmluay4KLSAqKk1vdXRoIEZyZXNoZW5lcnMqKjogQ2hldyBmZW5uZWwgc2VlZHMgYWZ0ZXIgbWVhbHMgdG8gZnJlc2hlbiBicmVhdGggYW5kIGFpZCBkaWdlc3Rpb24uIAoKIyMjIE1lZGljaW5hbCBVc2VzCgpGZW5uZWwgc2VlZHMgaGF2ZSBiZWVuIHVzZWQgaW4gdHJhZGl0aW9uYWwgbWVkaWNpbmUgZm9yIGNlbnR1cmllcyBkdWUgdG8gdGhlaXIgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEFpZCoqOiBGZW5uZWwgc2VlZHMgaGVscCB0cmVhdCBzdG9tYWNoIHBhaW4sIGJsb2F0aW5nLCBhbmQgaW5kaWdlc3Rpb24uIFRoZXkgYXJlIGVmZmVjdGl2ZSBpbiByZWxpZXZpbmcgZ2FzIGFuZCBjaHJvbmljIGNvdWdocy4KLSAqKkJsb29kIFByZXNzdXJlIFJlZ3VsYXRpb24qKjogUmVndWxhciBjb25zdW1wdGlvbiBvZiBmZW5uZWwgc2VlZHMgY2FuIGhlbHAgcmVndWxhdGUgYmxvb2QgcHJlc3N1cmUgbGV2ZWxzLgotICoqQW50aS1pbmZsYW1tYXRvcnkgUHJvcGVydGllcyoqOiBGZW5uZWwgc2VlZHMgaGF2ZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIHRoYXQgY2FuIHJlZHVjZSBhc3RobWEgc3ltcHRvbXMuCi0gKipCbG9vZCBQdXJpZmljYXRpb24qKjogRmVubmVsIHNlZWRzIGhlbHAgcHVyaWZ5IHRoZSBibG9vZCBhbmQgaW1wcm92ZSBvdmVyYWxsIGhlYWx0aC4KLSAqKkV5ZSBIZWFsdGgqKjogUmljaCBpbiBhbnRpb3hpZGFudHMgYW5kIG51dHJpZW50cywgZmVubmVsIHNlZWRzIGNhbiBoZWxwIGltcHJvdmUgZXllc2lnaHQuCi0gKipDYW5jZXIgUHJldmVudGlvbioqOiBUaGUgYW50aW94aWRhbnRzIGluIGZlbm5lbCBzZWVkcyBtYXkgaGVscCBrZWVwIGNhbmNlciBhdCBiYXkuCgojIyMgSG9tZSBSZW1lZGllcwoKRmVubmVsIHNlZWRzIGNhbiBiZSB1c2VkIGluIHZhcmlvdXMgaG9tZSByZW1lZGllczoKLSAqKkZvciBCYWQgQnJlYXRoKio6IENoZXcgYSBjb3VwbGUgb2YgZmVubmVsIHNlZWRzIGFmdGVyIG1lYWxzLgotICoqRm9yIFN0b21hY2ggQ3JhbXBzKio6IEJyZXcgYSB0ZWEgYnkgc3RlZXBpbmcgZmVubmVsIHNlZWRzIGluIGJvaWxpbmcgd2F0ZXIuCi0gKipGb3IgRGlnZXN0aW9uKio6IENvbnN1bWUgZmVubmVsIHNlZWRzIHJhdywgcm9hc3RlZCwgb3IgZmxhdm9yZWQgdG8gYWlkIGRpZ2VzdGlvbiBhbmQgcmVsaWV2ZSBzdG9tYWNoIGlzc3Vlcy4KCiMjIyBIZWFsdGggQmVuZWZpdHMKCkZlbm5lbCBzZWVkcyBvZmZlciBhIHJhbmdlIG9mIGhlYWx0aCBiZW5lZml0czoKLSAqKlJlZ3VsYXRlIEJsb29kIFByZXNzdXJlKio6IEZlbm5lbCBzZWVkcyBjb250YWluIHBvdGFzc2l1bSwgd2hpY2ggaGVscHMgY29udHJvbCBibG9vZCBwcmVzc3VyZS4KLSAqKlJlZHVjZSBXYXRlciBSZXRlbnRpb24qKjogVGhleSBoYXZlIGRpdXJldGljIHByb3BlcnRpZXMgdGhhdCBoZWxwIHJlZHVjZSB3YXRlciByZXRlbnRpb24uCi0gKipSZWxpZXZlIENvbnN0aXBhdGlvbiBhbmQgQmxvYXRpbmcqKjogRmVubmVsIHRlYSBpcyBlZmZlY3RpdmUgaW4gdHJlYXRpbmcgY29uc3RpcGF0aW9uLCBpbmRpZ2VzdGlvbiwgSUJTLCBhbmQgYmxvYXRpbmcuCi0gKipBc3RobWEgUmVsaWVmKio6IFRoZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIG9mIGZlbm5lbCBzZWVkcyBoZWxwIHJlZHVjZSBhc3RobWEgc3ltcHRvbXMuCi0gKipCbG9vZCBQdXJpZmljYXRpb24qKjogRmVubmVsIHNlZWRzIGhlbHAgZGV0b3hpZnkgYW5kIHB1cmlmeSB0aGUgYmxvb2QuCi0gKipJbXByb3ZlIEV5ZXNpZ2h0Kio6IFJlZ3VsYXIgY29uc3VtcHRpb24gb2YgZmVubmVsIHNlZWRzIGNhbiBpbXByb3ZlIHZpc2lvbiBkdWUgdG8gdGhlaXIgaGlnaCBudXRyaWVudCBjb250ZW50LgotICoqQ2FuY2VyIFByZXZlbnRpb24qKjogQW50aW94aWRhbnRzIGluIGZlbm5lbCBzZWVkcyBoZWxwIHByb3RlY3QgYWdhaW5zdCBjYW5jZXIuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBmZW5uZWwgc2VlZHMsIFZhcm5pIEV4cG9ydHMgaXMgY29tbWl0dGVkIHRvIGRlbGl2ZXJpbmcgc3VwZXJpb3IgcXVhbGl0eSBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uOgotICoqR2xvYmFsIFJlYWNoKio6IFNlcnZpbmcgbWFya2V0cyB3b3JsZHdpZGUgd2l0aCByZWxpYWJpbGl0eSBhbmQgZXhjZWxsZW5jZS4KLSAqKkN1c3RvbWl6ZWQgU29sdXRpb25zKio6IFRhaWxvcmVkIHNvbHV0aW9ucyB0byBtZWV0IHRoZSBzcGVjaWZpYyByZXF1aXJlbWVudHMgb2Ygb3VyIGludGVybmF0aW9uYWwgY2xpZW50ZWxlLgotICoqTG9naXN0aWNzIEV4cGVydGlzZSoqOiBFZmZpY2llbnQgbG9naXN0aWNzIG5ldHdvcmsgdG8gZGVsaXZlciBmcmVzaCBmZW5uZWwgc2VlZHMgc2FmZWx5IGFuZCB0aW1lbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBmZW5uZWwgc2VlZHMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBkZWRpY2F0ZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBmZW5uZWwgc2VlZHMgdG9kYXkh"
-            },
-
-            {
-                "id": "5",
-                "name": "Mustard Seeds",
-                "Category": "Spices",
-                "Botanical Name": "Brassica Alba L, Brassica Nigra K, Brassica Juncea L",
-                "Type": "Machine Clean & Sortex Clean",
-                "Part Used": "Seed",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Size Available": "Bold / Micro",
-                "Harvesting Season": "February, March",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Application": "Food Products, Seasonings",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "IyMjIFByZW1pdW0gTXVzdGFyZCBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gTXVzdGFyZCBTZWVkcwoKTXVzdGFyZCBzZWVkcyBhcmUgYSBzdGFwbGUgc3BpY2UgcmVub3duZWQgZm9yIHRoZWlyIHB1bmdlbnQgZmxhdm9yIGFuZCBkaXZlcnNlIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4gQXQgVmFybmkgRXhwb3J0cywgd2Ugb2ZmZXIgYSB3aWRlIHJhbmdlIG9mIG11c3RhcmQgc2VlZHMgdGhhdCBhcmUgaW50ZWdyYWwgdG8gSW5kaWFuIGN1aXNpbmUgYW5kIGdsb2JhbCBjdWxpbmFyeSBwcmFjdGljZXMuIFRoZXNlIHNtYWxsLCByb3VuZCBzZWVkcyBjb21lIGluIHZhcmlvdXMgY29sb3JzIHJhbmdpbmcgZnJvbSB5ZWxsb3dpc2gtd2hpdGUgdG8gYmxhY2sgYW5kIGFyZSBoYXJ2ZXN0ZWQgZnJvbSBkaWZmZXJlbnQgbXVzdGFyZCBwbGFudCBzcGVjaWVzLgoKIyMjIFF1YWxpdHkgYW5kIFZhcmlldGllcwoKT3VyIG11c3RhcmQgc2VlZHMgYXJlIGNhcmVmdWxseSBzb3VyY2VkIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiBJbmRpYSwgcGFydGljdWxhcmx5IEd1amFyYXQsIGVuc3VyaW5nIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcy4gVGhlIHNlZWRzIGFyZSBhdmFpbGFibGUgaW4gc2V2ZXJhbCB2YXJpZXRpZXM6CgotICoqQmxhY2sgTXVzdGFyZCBTZWVkcyAoQnJhc3NpY2EgbmlncmEpKio6IEtub3duIGZvciB0aGVpciBpbnRlbnNlIHB1bmdlbmN5LCB0aGVzZSBzZWVkcyBhcmUgcG9wdWxhcmx5IHVzZWQgaW4gSW5kaWFuIGNvb2tpbmcuIFRoZXkgYXJlIG9mdGVuIGNvbWJpbmVkIHdpdGggY3VtaW4gc2VlZHMgYW5kIGZyaWVkIHRvIHJlbGVhc2UgdGhlaXIgYm9sZCBmbGF2b3IgYW5kIGFyb21hLgoKLSAqKkJyb3duIEluZGlhbiBNdXN0YXJkIFNlZWRzIChCcmFzc2ljYSBqdW5jZWEpKio6IFRoZXNlIHNlZWRzIGhhdmUgYSBkYXJrIHllbGxvdyBjb2xvciBhbmQgb2ZmZXIgYSByb2J1c3QsIGFjcmlkIHRhc3RlLiBUaGV5IGFyZSB3aWRlbHkgdXNlZCBpbiBwaWNrbGluZywgc2F1Y2VzLCBhbmQgc3BpY2UgYmxlbmRzLgoKLSAqKldoaXRlIE11c3RhcmQgU2VlZHMgKFNpbmFwaXMgYWxiYSkqKjogRGVzcGl0ZSB0aGVpciBuYW1lLCB0aGVzZSBzZWVkcyBhcmUgeWVsbG93IGFuZCBhcmUgdGhlIG1pbGRlc3QgYW1vbmcgdGhlIG11c3RhcmQgdmFyaWV0aWVzLiBUaGV5IGFyZSB1c2VkIHRvIG1ha2UgdHJhZGl0aW9uYWwgbXVzdGFyZCBwYXN0ZXMgYW5kIHNhdWNlcy4KCiMjIyBDdWxpbmFyeSBVc2VzCgpNdXN0YXJkIHNlZWRzIGFyZSB2ZXJzYXRpbGUgYW5kIGFkZCBhIGRpc3RpbmN0IGZsYXZvciB0byBkaXNoZXM6Ci0gKipTcGljZSBCbGVuZHMqKjogR3JvdW5kIG11c3RhcmQgc2VlZHMgYXJlIGVzc2VudGlhbCBpbiBzcGljZSBtaXhlcywgYWRkaW5nIGRlcHRoIGFuZCBoZWF0IHRvIGN1cnJpZXMsIHN0ZXdzLCBhbmQgbWFyaW5hZGVzLgotICoqQ29uZGltZW50cyoqOiBNdXN0YXJkIHNlZWRzIGFyZSBjcnVzaGVkIGFuZCBtaXhlZCB3aXRoIHdhdGVyLCB2aW5lZ2FyLCBvciBvdGhlciBsaXF1aWRzIHRvIGNyZWF0ZSBtdXN0YXJkIHBhc3RlIG9yIHNhdWNlLCByYW5naW5nIGZyb20gbWlsZCB0byBob3QgdmFyaWV0aWVzLgotICoqUGlja2xpbmcqKjogTXVzdGFyZCBzZWVkcyBhcmUgYSBrZXkgaW5ncmVkaWVudCBpbiBwaWNrbGluZyBzb2x1dGlvbnMsIGVuaGFuY2luZyB0aGUgZmxhdm9yIGFuZCBwcmVzZXJ2aW5nIHRoZSBpbmdyZWRpZW50cy4KCiMjIyBIZWFsdGggQmVuZWZpdHMgYW5kIEhvbWUgUmVtZWRpZXMKCkFwYXJ0IGZyb20gY3VsaW5hcnkgdXNlcywgbXVzdGFyZCBzZWVkcyBvZmZlciB2YXJpb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKlNraW4gQ2FyZSoqOiBZZWxsb3cgbXVzdGFyZCBwYXN0ZSBpcyB1c2VkIHRyYWRpdGlvbmFsbHkgdG8gdHJlYXQgZnJlY2tsZXMgYW5kIGNhbiBiZSBhcHBsaWVkIHRvcGljYWxseSBvdmVybmlnaHQuCi0gKipNdXNjdWxhciBQYWlucyoqOiBNdXN0YXJkIGlzIGEgcnViZWZhY2llbnQgdGhhdCBjYW4gYWxsZXZpYXRlIG11c2N1bGFyIHBhaW5zIHdoZW4gYXBwbGllZCBleHRlcm5hbGx5IHdpdGggY2F1dGlvbi4KLSAqKlBvaXNvbmluZyoqOiBNdXN0YXJkIHNlZWRzIGhhdmUgZW1ldGljIHByb3BlcnRpZXMgYW5kIGNhbiBpbmR1Y2Ugdm9taXRpbmcsIHdoaWNoIGlzIGJlbmVmaWNpYWwgaW4gY2FzZXMgb2YgcG9pc29uaW5nIG9yIGludG94aWNhdGlvbi4KLSAqKkNvbnZ1bHNpb25zKio6IE11c3RhcmQgc2VlZCBiYXRocyBhcmUgdXNlZCBpbiBjaGlsZHJlbidzIGNvbnZ1bHNpb25zIGNhdXNlZCBieSBoaWdoIGZldmVyLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpWYXJuaSBFeHBvcnRzIGlzIGEgbGVhZGluZyBzdXBwbGllciBhbmQgZXhwb3J0ZXIgb2YgbXVzdGFyZCBzZWVkcywgZW5zdXJpbmcgcHJlbWl1bSBxdWFsaXR5IGFuZCB0aW1lbHkgZGVsaXZlcnkgdG8gZ2xvYmFsIG1hcmtldHMuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBtYWtlcyB1cyBhIHByZWZlcnJlZCBjaG9pY2UgZm9yIGN1bGluYXJ5IGJ1c2luZXNzZXMgd29ybGR3aWRlLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gbXVzdGFyZCBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgeW91IHdpdGggdGhlIGZpbmVzdCBxdWFsaXR5IHNwaWNlcyBhbmQgc2VlZHMsIHRhaWxvcmVkIHRvIG1lZXQgeW91ciBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIG5lZWRzLg=="
-            },
-
-            {
-                "id": "6",
-                "name": "Turmeric (Haldi)",
-                "Category": "Spices",
-                "Botanical Name": "Curcuma Longa",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Flexibility": "Hard",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "IyMjIFByZW1pdW0gVHVybWVyaWMgKEhhbGRpKSBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gVHVybWVyaWMKClR1cm1lcmljLCBvZnRlbiByZWZlcnJlZCB0byBhcyB0aGUgIlF1ZWVuIG9mIFNwaWNlcywiIGlzIGEgcGxhbnQgYmVsb25naW5nIHRvIHRoZSBnaW5nZXIgZmFtaWx5LiBXaWRlbHkgY3VsdGl2YXRlZCBmb3IgaXRzIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgdXNlcywgdHVybWVyaWMgaGFzIGEgcmljaCBoaXN0b3J5IHNwYW5uaW5nIHRob3VzYW5kcyBvZiB5ZWFycyBpbiBFYXN0IEluZGlhIGFuZCB0aGUgTWlkZGxlIEVhc3QuIFRvZGF5LCBpdCBzdGFuZHMgYXMgb25lIG9mIHRoZSBtb3N0IHBvcHVsYXIgc3BpY2VzIGdsb2JhbGx5LCB2YWx1ZWQgZm9yIGl0cyB2aWJyYW50IGNvbG9yIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuCgojIyMgQ3VsaW5hcnkgYW5kIE1lZGljaW5hbCBVc2VzCgpUdXJtZXJpYyBpcyB0aGUgZHJpZWQgcm9vdCBvZiBDdXJjdW1hIGxvbmdhLCBjaGFyYWN0ZXJpemVkIGJ5IGl0cyB0b3VnaCBicm93biBza2luIGFuZCBicmlnaHQgb3JhbmdlIGZsZXNoLiBJdCBpcyBhIHN0YXBsZSBpbmdyZWRpZW50IGluIGN1cnJ5IHBvd2RlcnMsIGltcGFydGluZyBib3RoIGNvbG9yIGFuZCBhIGRpc3RpbmN0aXZlIGZsYXZvciBwcm9maWxlIHRvIGRpc2hlcy4gQmV5b25kIGl0cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnMsIHR1cm1lcmljIGhvbGRzIGEgc2lnbmlmaWNhbnQgcGxhY2UgaW4gQXl1cnZlZGljIHByYWN0aWNlcyBhbmQgdHJhZGl0aW9uYWwgbWVkaWNpbmU6CgotICoqSGVhbHRoIEJlbmVmaXRzKio6IFR1cm1lcmljIGlzIHJlbm93bmVkIGZvciBpdHMgbWVkaWNpbmFsIHByb3BlcnRpZXMsIGluY2x1ZGluZyBhbnRpLWluZmxhbW1hdG9yeSwgYW50aW94aWRhbnQsIGFuZCBhbnRpbWljcm9iaWFsIGVmZmVjdHMuIEl0IGhlbHBzIGVhc2Ugc3ltcHRvbXMgb2YgYXJ0aHJpdGlzLCBzdXBwb3J0cyBoZWFydCBoZWFsdGgsIGFpZHMgaW4gY2hvbGVzdGVyb2wgcmVkdWN0aW9uLCBhbmQgYm9vc3RzIHRoZSBpbW11bmUgc3lzdGVtLgotICoqU2tpbiBDYXJlKio6IFR1cm1lcmljIGlzIHVzZWQgdG9waWNhbGx5IHRvIGNsZWFuc2Ugd291bmRzLCB0cmVhdCBza2luIHNvcmVzLCBhbmQgcHJvbW90ZSBhIGhlYWx0aHkgZ2xvdy4gSXRzIGFudGlzZXB0aWMgcHJvcGVydGllcyBtYWtlIGl0IGEgdmFsdWFibGUgY29tcG9uZW50IGluIHNraW5jYXJlIHJvdXRpbmVzLgotICoqRGlnZXN0aXZlIEhlYWx0aCoqOiBJdCBpcyBlZmZlY3RpdmUgaW4gdHJlYXRpbmcgZGlnZXN0aXZlIHByb2JsZW1zIHN1Y2ggYXMgdWxjZXJzIGFuZCBkeXNlbnRlcnksIG93aW5nIHRvIGl0cyBzb290aGluZyBhbmQgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcy4KCiMjIyBRdWFsaXR5IGFuZCBQcm9kdWN0aW9uCgpJbmRpYSBpcyB0aGUgbGVhZGluZyBwcm9kdWNlciBvZiB0dXJtZXJpYyBnbG9iYWxseSwga25vd24gZm9yIGl0cyBoaWdoIGN1cmN1bWluIGNvbnRlbnQuIEN1cmN1bWluIGlzIHRoZSBhY3RpdmUgY29tcG91bmQgcmVzcG9uc2libGUgZm9yIG1hbnkgb2YgdHVybWVyaWMncyBoZWFsdGggYmVuZWZpdHMuIFZhcm5pIEV4cG9ydHMgc291cmNlcyBwcmVtaXVtIHR1cm1lcmljIGZyb20gc2VsZWN0IHJlZ2lvbnMgaW4gSW5kaWEsIGVuc3VyaW5nIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcyBmb3Igb3VyIGN1c3RvbWVycyB3b3JsZHdpZGUuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBzcGljZXMsIGluY2x1ZGluZyB0dXJtZXJpYywgVmFybmkgRXhwb3J0cyBtYWludGFpbnMgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyB0byBkZWxpdmVyIHByb2R1Y3RzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcy4gT3VyIHR1cm1lcmljIGlzIHBhY2thZ2VkIHRvIHByZXNlcnZlIGl0cyBmcmVzaG5lc3MgYW5kIHBvdGVuY3ksIG1ha2luZyBpdCBhIHByZWZlcnJlZCBjaG9pY2UgYW1vbmcgY3VsaW5hcnkgcHJvZmVzc2lvbmFscyBhbmQgaGVhbHRoLWNvbnNjaW91cyBjb25zdW1lcnMgZ2xvYmFsbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSB0dXJtZXJpYyAoSGFsZGkpIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgY29tbWl0dGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCB0aGUgZmluZXN0IHF1YWxpdHkgc3BpY2VzIHRoYXQgZW5yaWNoIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBwcm9tb3RlIHdlbGwtYmVpbmcu"
-            },
-
-            {
-                "id": "7",
-                "name": "Chilli",
-                "Category": "Spices",
-                "Botanical Name": "Capsicum Frutescens",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Flexibility": "Hard",
-                "Harvesting Season": "Jan. To Apr.",
-                "Color": "Red, Length: As Per Grade",
-                "Origin": "India",
-                "Application": "Food Products, Seasonings",
-                "Certification": "FSSAI Certified",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "IyMjIFByZW1pdW0gSW5kaWFuIENoaWxsaSBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gQ2hpbGxpCgpDaGlsbGksIGJlbG9uZ2luZyB0byB0aGUgQ2Fwc2ljdW0gZ2VudXMsIGlzIGEgdmVyc2F0aWxlIGZydWl0IHJlbm93bmVkIGZvciBpdHMgcHVuZ2VudCBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3JzLiBXaGVuIHJpcGVuZWQgYW5kIGRyaWVkLCBpdCB0cmFuc2Zvcm1zIGludG8gcmVkIGNoaWxsaSwgd2hpY2ggaXMgdGhlbiBncm91bmQgdG8gcHJvZHVjZSByZWQgY2hpbGxpIHBvd2RlcuKAlGEgc3RhcGxlIHNwaWNlIGluIGdsb2JhbCBjdWlzaW5lcy4KCiMjIyBMZWFkaW5nIFByb2R1Y2VyIGFuZCBFeHBvcnRlcgoKSW5kaWEgc3RhbmRzIGFzIHRoZSB3b3JsZOKAmXMgbGFyZ2VzdCBwcm9kdWNlciwgY29uc3VtZXIsIGFuZCBleHBvcnRlciBvZiBjaGlsbGkuIFdpdGggc2lnbmlmaWNhbnQgaW52ZXN0bWVudHMgaW4gY29sZCBzdG9yYWdlIGZhY2lsaXRpZXMgYWNyb3NzIGNoaWxsaS1ncm93aW5nIHJlZ2lvbnMsIEluZGlhIGVuc3VyZXMgc3VzdGFpbmVkIHByb2R1Y3Rpb24gYW5kIG1haW50YWlucyBhIGRvbWluYW50IG1hcmtldCBzaGFyZSBpbiB0aGUgZ2xvYmFsIGNoaWxsaSB0cmFkZS4KCiMjIyBWYXJpZXRpZXMgYW5kIFVzZXMKCkluZGlhbiBjaGlsbGllcyBhcmUga25vd24gZm9yIHRoZWlyIGRpdmVyc2UgcmFuZ2Ugb2Ygc3BpY2luZXNzLCBmcm9tIG1pbGQgdG8gaW50ZW5zZWx5IGhvdCwgYW5kIGNvbWUgaW4gc2hhZGVzIHJhbmdpbmcgZnJvbSBkZWVwIHJlZCB0byBsaWdodCByZWQuIFRoZXkgZmluZCBleHRlbnNpdmUgYXBwbGljYXRpb24gaW46Ci0gKipGb29kIEluZHVzdHJ5Kio6IFVzZWQgaW4gZm9vZCBwcmVwYXJhdGlvbiwgY29uZmVjdGlvbmVyeSwgYW5kIHNhdWNlcy4KLSAqKkNvc21ldGljcyBhbmQgUGhhcm1hY2V1dGljYWxzKio6IEV4dHJhY3RzIGFyZSB1c2VkIGluIGNvc21ldGljcyBmb3IgdGhlaXIgY29sb3IgYW5kIGluIHBoYXJtYWNldXRpY2FscyBmb3IgdGhlaXIgbWVkaWNpbmFsIHByb3BlcnRpZXMuCi0gKipJbmR1c3RyaWFsIEFwcGxpY2F0aW9ucyoqOiBJbnRlZ3JhbCBpbiBtYW51ZmFjdHVyaW5nIHBhaW50cywgbGlxdW9yLCBhbmQgc2VsZi1kZWZlbnNlIHByb2R1Y3RzLgoKIyMjIFF1YWxpdHkgYW5kIEhhcnZlc3QKCkNoaWxsaWVzIGFyZSBoYXJ2ZXN0ZWQgYmV0d2VlbiBKYW51YXJ5IGFuZCBBcHJpbCBpbiBJbmRpYSwgZW5zdXJpbmcgb3B0aW1hbCBxdWFsaXR5IGFuZCBmbGF2b3IuIEludGVncmF0ZWQgUGVzdCBNYW5hZ2VtZW50IChJUE0pIHByYWN0aWNlcyBhcmUgZW1wbG95ZWQgdG8gbWluaW1pemUgcGVzdGljaWRlIHVzZSwgcHJvbW90aW5nIHN1c3RhaW5hYmxlIGFuZCBlY28tZnJpZW5kbHkgZmFybWluZyBtZXRob2RzLgoKIyMjIE51dHJpdGlvbmFsIFZhbHVlCgpSZWQgY2hpbGxpZXMgYXJlIHJpY2ggaW4gdml0YW1pbiBDLCBjYXJvdGVuZSAocHJvdml0YW1pbiBBKSwgYW5kIG1vc3QgQiB2aXRhbWlucywgZXNwZWNpYWxseSB2aXRhbWluIEI2LiBUaGV5IGFyZSBhbHNvIGhpZ2ggaW4gcG90YXNzaXVtLCBtYWduZXNpdW0sIGFuZCBpcm9uLCBlbmhhbmNpbmcgdGhlaXIgbnV0cml0aW9uYWwgcHJvZmlsZSBhbmQgaGVhbHRoIGJlbmVmaXRzLgoKIyMjIEhlYWx0aCBCZW5lZml0cwoKLSAqKkFudGktaW5mbGFtbWF0b3J5IFByb3BlcnRpZXMqKjogUmVkIGNoaWxsaWVzIGFpZCBpbiByZWR1Y2luZyBpbmZsYW1tYXRpb24gYW5kIHByb3ZpZGUgbmF0dXJhbCBwYWluIHJlbGllZi4KLSAqKkltbXVuZSBTeXN0ZW0gQm9vc3QqKjogVGhleSBoZWxwIHN0cmVuZ3RoZW4gdGhlIGltbXVuZSBzeXN0ZW0gYW5kIGNsZWFyIGNvbmdlc3Rpb24uCi0gKipDaG9sZXN0ZXJvbCBSZWd1bGF0aW9uKio6IENvbnN1bXB0aW9uIG1heSBhc3Npc3QgaW4gbG93ZXJpbmcgYmxvb2QgY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqTWV0YWJvbGlzbSBhbmQgV2VpZ2h0IExvc3MqKjogQ2hpbGxpIHBlcHBlcnMgYWNjZWxlcmF0ZSBkaWdlc3Rpb24gYW5kIG1ldGFib2xpc20sIGNvbnRyaWJ1dGluZyB0byB3ZWlnaHQgbWFuYWdlbWVudC4KCiMjIyBDb21taXRtZW50IHRvIFF1YWxpdHkKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNwZWNpYWxpemUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgSW5kaWFuIGNoaWxsaWVzIHRoYXQgbWVldCBkaXZlcnNlIGdsb2JhbCBzcGVjaWZpY2F0aW9ucy4gT3VyIGNoaWxsaWVzIGFyZSByZW5vd25lZCBmb3IgdGhlaXIgZXhjZXB0aW9uYWwgZmxhdm9yLCBjb2xvciwgYW5kIG51dHJpdGlvbmFsIGJlbmVmaXRzLCBtYWtpbmcgdGhlbSBhIHByZWZlcnJlZCBjaG9pY2UgYW1vbmcgY2hlZnMsIG1hbnVmYWN0dXJlcnMsIGFuZCBoZWFsdGgtY29uc2Npb3VzIGNvbnN1bWVycyB3b3JsZHdpZGUuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBJbmRpYW4gY2hpbGxpIHByb2R1Y3RzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCBzdXBlcmlvciBzcGljZXMgdGhhdCBlbGV2YXRlIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBwcm9tb3RlIHdlbGwtYmVpbmcuCg=="
-            },
-
-            {
-                "id": "8",
-                "name": "Chilli Flakes",
-                "Category": "Spices",
-                "Botanical Name": "Capsicum Frutescens",
-                "Flake Size": "2 mm to 4 mm",
-                "Aflatoxin": "5 PPB",
-                "Moisture": "10% to 12% Max",
-                "Appearance": "Red colored flakes with seeds",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipWYXJuaSBFeHBvcnRzOiBQcmVtaXVtIFJlZCBDaGlsbGkgRmxha2VzKioKCioqSW50cm9kdWN0aW9uIHRvIFJlZCBDaGlsbGkgRmxha2VzKioKClJlZCBjaGlsbGkgZmxha2VzLCBhbHNvIGtub3duIGFzIHJlZCBwZXBwZXIgZmxha2VzLCBhcmUgdGhlIGNydXNoZWQgZm9ybSBvZiBkcmllZCByZWQgcGVwcGVycyBvciBjaGlsbGllcy4gVGhlc2UgZmxha2VzIGFyZSBjaGVyaXNoZWQgd29ybGR3aWRlIGZvciB0aGVpciBhYmlsaXR5IHRvIGltcGFydCBhIHNwaWN5IGtpY2sgYW5kIHJvYnVzdCBwZXBwZXJ5IGZsYXZvciB0byB2YXJpb3VzIGN1bGluYXJ5IGNyZWF0aW9ucy4gVGhleSBhcmUgYSBwb3B1bGFyIGNob2ljZSBpbiBzYXVjZXMsIHNvdXBzLCBwaWNrbGVzLCBjdXJyaWVzLCBhbmQgbnVtZXJvdXMgb3RoZXIgZGlzaGVzIHdoZXJlIGEgdG91Y2ggb2YgaGVhdCBpcyBkZXNpcmVkLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gZXhwb3J0aW5nIHRoZSBmaW5lc3QgcXVhbGl0eSByZWQgY2hpbGxpIGZsYWtlcyBnbG9iYWxseS4gQmFzZWQgaW4gSW5kaWEsIGtub3duIGZvciBpdHMgcmljaCBjaGlsbGkgY3VsdGl2YXRpb24sIHdlIGVuc3VyZSB0aGF0IG91ciBjaGlsbGkgZmxha2VzIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIG9mIHF1YWxpdHksIGZsYXZvciwgYW5kIHB1cml0eS4gT3VyIHByb2R1Y3RzIGFyZSBlc3BlY2lhbGx5IGZhdm9yZWQgYnkgY3VzdG9tZXJzIGluIHRoZSBVU0EgYW5kIEV1cm9wZSBmb3IgdGhlaXIgY29uc2lzdGVudCBob3RuZXNzLCB2aWJyYW50IGNvbG9yLCBhbmQgZGlzdGluY3RpdmUgZmxhdm9yIHByb2ZpbGVzLgoKKipQcm9kdWN0IFNwZWNpZmljYXRpb25zKioKCi0gKipWYXJpZXR5Kio6IFdlIG9mZmVyIGEgcmFuZ2Ugb2YgcmVkIGNoaWxsaSBmbGFrZXMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBwcmVmZXJlbmNlcyBpbiB0ZXJtcyBvZiBob3RuZXNzIGxldmVscywgY29sb3IgaW50ZW5zaXRpZXMsIGFuZCBmbGF2b3IgcHJvZmlsZXMuCiAgCi0gKipQYWNrYWdpbmcqKjogVHlwaWNhbGx5IHNvdXJjZWQgaW4gMTAgdG8gMjUga2cgYmFncywgd2UgYWxzbyBwcm92aWRlIGN1c3RvbWl6ZWQgcGFja2FnaW5nIG9wdGlvbnMgdG8gbWVldCBzcGVjaWZpYyBjdXN0b21lciByZXF1aXJlbWVudHMgYW5kIGVuc3VyZSBmcmVzaG5lc3MgYW5kIHF1YWxpdHkgZHVyaW5nIHRyYW5zaXQuCgoqKlVzYWdlIGFuZCBBcHBsaWNhdGlvbioqCgpSZWQgY2hpbGxpIGZsYWtlcyBhcmUgaW5jcmVkaWJseSB2ZXJzYXRpbGUgaW4gdGhlIGtpdGNoZW46CiAgCi0gKipFbmhhbmNpbmcgRmxhdm9yKio6IFRoZXkgYWRkIGEgcHVuY2ggb2Ygc3BpY2luZXNzIGFuZCBkZXB0aCB0byBkaXNoZXMgbGlrZSBwaXp6YSwgcGFzdGEsIHN0aXItZnJpZXMsIHNvdXBzLCBhbmQgc2FsYWRzLgogIAotICoqQ29va2luZyBWZXJzYXRpbGl0eSoqOiBUaGV5IGNhbiBiZSBzcHJpbmtsZWQgb3ZlciBmaW5pc2hlZCBkaXNoZXMsIGluY29ycG9yYXRlZCBpbnRvIGNvb2tpbmcgc2F1Y2VzIGFuZCBtYXJpbmFkZXMsIG9yIHVzZWQgYXMgYSBnYXJuaXNoIHRvIGVsZXZhdGUgdGhlIHZpc3VhbCBhcHBlYWwgYW5kIGZsYXZvciBjb21wbGV4aXR5LgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgpPdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGV4dGVuZHMgZnJvbSBzb3VyY2luZyB0aGUgYmVzdCBjaGlsbGllcyB0byBtZXRpY3Vsb3VzIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZy4gV2UgcHJpb3JpdGl6ZSBkZWxpdmVyaW5nIGltcHVyaXR5LWZyZWUsIGZsYXZvcmZ1bCBjaGlsbGkgZmxha2VzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHN0YW5kYXJkcy4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSByZWQgY2hpbGxpIGZsYWtlcywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSBlc3NlbmNlIG9mIGF1dGhlbnRpYyBJbmRpYW4gc3BpY2VzIHRoYXQgZW5oYW5jZSB0aGUgY3VsaW5hcnkgam91cm5leSB3b3JsZHdpZGUuICA="
-            },
-
-            {
-                "id": "9",
-                "name": "Dry Ginger",
-                "Category": "Spices",
-                "Botanical Name": "Zingiber officinale",
-                "Type": "Whole",
-                "Moisture": "12% Max",
-                "Appearance": "Brown, Fibrous",
-                "Odour": "Characteristic, Spicy",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Application": "Food Products, Seasonings, Herbal Medicine",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipWYXJuaSBFeHBvcnRzOiBQcmVtaXVtIERyeSBHaW5nZXIqKgoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdpbmdlcioqCgpEcnkgZ2luZ2VyLCBkZXJpdmVkIGZyb20gZnJlc2ggZ2luZ2VyIHJvb3RzIHRoYXQgaGF2ZSBiZWVuIGRyaWVkIGFuZCBwcm9jZXNzZWQsIGlzIGEgdmVyc2F0aWxlIHNwaWNlIGtub3duIGZvciBpdHMgZGlzdGluY3Qgc3BpY3kgYW5kIGFyb21hdGljIHF1YWxpdGllcy4gV2lkZWx5IHVzZWQgaW4gY3VsaW5hcnkgYXBwbGljYXRpb25zIGFuZCB2YWx1ZWQgZm9yIGl0cyBtZWRpY2luYWwgcHJvcGVydGllcywgZHJ5IGdpbmdlciBhZGRzIGEgd2FybSwgcHVuZ2VudCBmbGF2b3IgdG8gYSB2YXJpZXR5IG9mIGRpc2hlcyBhbmQgYmV2ZXJhZ2VzLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgdGFrZXMgcHJpZGUgaW4gZXhwb3J0aW5nIHRoZSBmaW5lc3QgcXVhbGl0eSBkcnkgZ2luZ2VyIGdsb2JhbGx5LiBTaXR1YXRlZCBpbiBJbmRpYSwgcmVub3duZWQgZm9yIGl0cyByaWNoIGdpbmdlciBjdWx0aXZhdGlvbiwgd2UgZW5zdXJlIG91ciBkcnkgZ2luZ2VyIG1lZXRzIHN0cmluZ2VudCBzdGFuZGFyZHMgZm9yIHF1YWxpdHksIGZsYXZvciwgYW5kIHB1cml0eS4gT3VyIHByb2R1Y3RzIGFyZSBmYXZvcmVkIGJ5IGRpc2Nlcm5pbmcgY3VzdG9tZXJzIHdvcmxkd2lkZSBmb3IgdGhlaXIgY29uc2lzdGVudCBxdWFsaXR5IGFuZCBleGNlcHRpb25hbCBhcm9tYS4KCioqUHJvZHVjdCBTcGVjaWZpY2F0aW9ucyoqCgotICoqVmFyaWV0eSoqOiBXZSBvZmZlciBhIHJhbmdlIG9mIGRyeSBnaW5nZXIgcHJvZHVjdHMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIG5lZWRzLCBlbnN1cmluZyBvcHRpb25zIHRoYXQgdmFyeSBpbiBzaXplLCB0ZXh0dXJlLCBhbmQgZmxhdm9yIGludGVuc2l0eS4KICAKLSAqKlBhY2thZ2luZyoqOiBUeXBpY2FsbHkgc291cmNlZCBpbiBjb252ZW5pZW50IHBhY2thZ2luZyBzaXplcyB0YWlsb3JlZCB0byBjdXN0b21lciBwcmVmZXJlbmNlcywgZW5zdXJpbmcgZnJlc2huZXNzIGFuZCBxdWFsaXR5IHByZXNlcnZhdGlvbiBkdXJpbmcgc2hpcG1lbnQuCgoqKlVzYWdlIGFuZCBBcHBsaWNhdGlvbioqCgpEcnkgZ2luZ2VyIGlzIHJlbm93bmVkIGZvciBpdHMgdmVyc2F0aWxpdHk6CiAgCi0gKipDdWxpbmFyeSBEZWxpZ2h0Kio6IEl0IGVuaGFuY2VzIHRoZSBmbGF2b3IgYW5kIGFyb21hIG9mIHZhcmlvdXMgZGlzaGVzLCBpbmNsdWRpbmcgY3Vycmllcywgc3Rpci1mcmllcywgbWFyaW5hZGVzLCBhbmQgYmFrZWQgZ29vZHMuCiAgCi0gKipNZWRpY2luYWwgQmVuZWZpdHMqKjogS25vd24gZm9yIGl0cyBkaWdlc3RpdmUgYW5kIGFudGktaW5mbGFtbWF0b3J5IHByb3BlcnRpZXMsIGRyeSBnaW5nZXIgaXMgYWxzbyB1c2VkIGluIHRyYWRpdGlvbmFsIHJlbWVkaWVzIGFuZCBoZXJiYWwgdGVhcy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgdXBob2xkIHJpZ29yb3VzIHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyBmcm9tIHNvdXJjaW5nIHRvIHBhY2thZ2luZy4gT3VyIGNvbW1pdG1lbnQgaXMgdG8gZGVsaXZlciBwcmVtaXVtIGRyeSBnaW5nZXIgdGhhdCBleGNlZWRzIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBlbnN1cmluZyBwdXJpdHkgYW5kIGZyZXNobmVzcyBpbiBldmVyeSBiYXRjaC4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBkcnkgZ2luZ2VyIHByb2R1Y3RzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIERpc2NvdmVyIHRoZSBlc3NlbmNlIG9mIGF1dGhlbnRpYyBJbmRpYW4gc3BpY2VzIHRoYXQgZWxldmF0ZSBjdWxpbmFyeSBleHBlcmllbmNlcyB3b3JsZHdpZGUu"
-            },
-
-            {
-                "id": "10",
-                "name": "Nutmeg",
-                "Category": "Spices",
-                "Usage": "Conventional",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine Clean",
-                "Application": "Food Products, Seasonings",
-                "Certification": "FSSAI Certified",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipWYXJuaSBFeHBvcnRzOiBOdXRtZWcqKgoKKipJbnRyb2R1Y3Rpb24gdG8gTnV0bWVnKioKCk51dG1lZywgc2NpZW50aWZpY2FsbHkga25vd24gYXMgTXlyaXN0aWNhIGZyYWdyYW5zLCBpcyBhIHVuaXF1ZSBzcGljZSBkZXJpdmVkIGZyb20gdGhlIHNlZWQgb2YgYW4gZXZlcmdyZWVuIHRyZWUgbmF0aXZlIHRvIHRoZSBNb2x1Y2NhcyAoU3BpY2UgSXNsYW5kcykgb2YgSW5kb25lc2lhLiBJdCBpcyByZW5vd25lZCBmb3IgaXRzIHdhcm0sIHN3ZWV0LCBhbmQgbnV0dHkgZmxhdm9yLCB3aGljaCBhZGRzIGRlcHRoIHRvIGJvdGggc3dlZXQgYW5kIHNhdm9yeSBkaXNoZXMuIFRoZSBzcGljZSBpcyBoYXJ2ZXN0ZWQgYnkgZHJ5aW5nIHRoZSBzZWVkIGtlcm5lbCBhZnRlciByZW1vdmluZyB0aGUgbWFjZSwgYSByZWQsIGxhY3kgc3Vic3RhbmNlIGNvdmVyaW5nIHRoZSBzZWVkLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgdGFrZXMgcHJpZGUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyB0aGUgaGlnaGVzdCBxdWFsaXR5IG51dG1lZyBmcm9tIHRydXN0ZWQgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgb3VyIG51dG1lZyBwcm9kdWN0cyBtZWV0IHN0cmljdCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgZGVsaXZlciBleGNlcHRpb25hbCBmbGF2b3IgYW5kIGFyb21hIHRvIG91ciBjdXN0b21lcnMgd29ybGR3aWRlLgoKKipQcm9kdWN0IFNwZWNpZmljYXRpb25zKioKCi0gKipWYXJpZXRpZXMqKjogV2Ugb2ZmZXIgd2hvbGUgbnV0bWVnIGFzIHdlbGwgYXMgZ3JvdW5kIG51dG1lZywgY2F0ZXJpbmcgdG8gZGlmZmVyZW50IGN1bGluYXJ5IHByZWZlcmVuY2VzIGFuZCBhcHBsaWNhdGlvbnMuCiAgCi0gKipQYWNrYWdpbmcqKjogT3VyIG51dG1lZyBpcyBjYXJlZnVsbHkgcGFja2VkIHRvIHByZXNlcnZlIGZyZXNobmVzcyBhbmQgcXVhbGl0eSwgYXZhaWxhYmxlIGluIHZhcmlvdXMgcGFja2FnaW5nIHNpemVzIHRvIG1lZXQgY3VzdG9tZXIgcmVxdWlyZW1lbnRzLgoKKipVc2FnZSBhbmQgQXBwbGljYXRpb24qKgoKTnV0bWVnIGlzIGEgdmVyc2F0aWxlIHNwaWNlIHVzZWQgaW4gdmFyaW91cyB3YXlzOgogIAotICoqQ3VsaW5hcnkgVXNlcyoqOiBJdCBpcyBhIHBvcHVsYXIgc3BpY2UgaW4gYmFraW5nLCBwYXJ0aWN1bGFybHkgaW4gY2FrZXMsIGNvb2tpZXMsIHBpZXMsIGFuZCBwYXN0cmllcy4gSXQgYWxzbyBlbmhhbmNlcyB0aGUgZmxhdm9yIG9mIHNhdm9yeSBkaXNoZXMgc3VjaCBhcyBzb3Vwcywgc3Rld3MsIHNhdWNlcywgYW5kIG1lYXQgZGlzaGVzLgogIAotICoqQmV2ZXJhZ2UqKjogTnV0bWVnIGlzIHVzZWQgdG8gZmxhdm9yIGJldmVyYWdlcyBsaWtlIGVnZ25vZywgbXVsbGVkIHdpbmUsIGFuZCBjaGFpIHRlYS4KICAKLSAqKk1lZGljaW5hbCBQcm9wZXJ0aWVzKio6IEluIHRyYWRpdGlvbmFsIG1lZGljaW5lLCBudXRtZWcgaXMgYmVsaWV2ZWQgdG8gaGF2ZSBkaWdlc3RpdmUgYmVuZWZpdHMgYW5kIGlzIHVzZWQgaW4gc21hbGwgcXVhbnRpdGllcyBhcyBhIHJlbWVkeSBmb3IgaW5zb21uaWEgYW5kIGFueGlldHkuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhbmQgc2FmZXR5OgogIAotICoqU3RyaWN0IFN0YW5kYXJkcyoqOiBXZSBhZGhlcmUgdG8gc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyBmcm9tIHNvdXJjaW5nIHRvIHBhY2thZ2luZyB0byBlbnN1cmUgb3VyIG51dG1lZyBtZWV0cyBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHJlZ3VsYXRpb25zLgogIAotICoqRnJlc2huZXNzIEd1YXJhbnRlZWQqKjogT3VyIG51dG1lZyBpcyBzb3VyY2VkIGFuZCBwcm9jZXNzZWQgdG8gcHJlc2VydmUgaXRzIG5hdHVyYWwgZmxhdm9yIGFuZCBhcm9tYSwgcHJvdmlkaW5nIG91ciBjdXN0b21lcnMgd2l0aCBhIHByZW1pdW0gcHJvZHVjdC4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBudXRtZWcgcHJvZHVjdHMsIGNvbnRhY3QgVmFybmkgRXhwb3J0cyB0b2RheS4gRXhwZXJpZW5jZSB0aGUgcmljaG5lc3MgYW5kIHZlcnNhdGlsaXR5IG9mIG51dG1lZyB0aGF0IGVuaGFuY2VzIGN1bGluYXJ5IGNyZWF0aW9ucyB3b3JsZHdpZGUu"
-            },
-
-            {
-                "id": "11",
-                "name": "Black Pepper",
-                "Category": "Spices",
-                "Usage": "Conventional",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine Clean",
-                "Botanical Name": "Piper Nigrum",
-                "Origin": "India",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipCbGFjayBQZXBwZXIgYnkgVmFybmkgRXhwb3J0cyoqCgoqKkludHJvZHVjdGlvbiB0byBCbGFjayBQZXBwZXIqKgoKQmxhY2sgcGVwcGVyLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBQaXBlciBuaWdydW0sIGlzIGEgZmxvd2VyaW5nIHZpbmUgaW4gdGhlIFBpcGVyYWNlYWUgZmFtaWx5LCBwcml6ZWQgZm9yIGl0cyBkcmllZCBmcnVpdCwga25vd24gYXMgcGVwcGVyY29ybi4gVGhlc2Ugc21hbGwsIHNwaGVyaWNhbCBmcnVpdHMgYXJlIGFib3V0IDUgbWlsbGltZXRlcnMgaW4gZGlhbWV0ZXIgd2hlbiBmdWxseSBtYXR1cmUsIGRhcmsgcmVkIGluIGNvbG9yLCBhbmQgY29udGFpbiBhIHNpbmdsZSBzZWVkLiBCbGFjayBwZXBwZXIgaXMgb25lIG9mIHRoZSBtb3N0IHdpZGVseSB1c2VkIHNwaWNlcyBnbG9iYWxseSwgdmFsdWVkIGZvciBpdHMgcHVuZ2VudCBmbGF2b3IgYW5kIGN1bGluYXJ5IHZlcnNhdGlsaXR5LgoKKipWYXJuaSBFeHBvcnRzJyBDb21taXRtZW50KioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNwZWNpYWxpemUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgYmxhY2sgcGVwcGVyIGZyb20gdGhlIGJlc3QgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGV4cGVydGlzZSBlbnN1cmVzIHRoYXQgd2UgZGVsaXZlciB0b3Atbm90Y2ggYmxhY2sgcGVwcGVyIHByb2R1Y3RzIHRoYXQgbWVldCB0aGUgZGl2ZXJzZSBuZWVkcyBvZiBvdXIgZ2xvYmFsIGNsaWVudGVsZS4KCioqUHJvZHVjdCBEZXRhaWxzKioKCi0gKipWYXJpZXRpZXMqKjogV2Ugb2ZmZXIgdmFyaW91cyBmb3JtcyBvZiBibGFjayBwZXBwZXIsIGluY2x1ZGluZyB3aG9sZSBwZXBwZXJjb3JucyBhbmQgZ3JvdW5kIHBlcHBlciwgY2F0ZXJpbmcgdG8gZGlmZmVyZW50IGN1bGluYXJ5IHByZWZlcmVuY2VzIGFuZCBhcHBsaWNhdGlvbnMuCiAgCi0gKipRdWFsaXR5IEFzc3VyYW5jZSoqOiBPdXIgYmxhY2sgcGVwcGVyIGlzIG1ldGljdWxvdXNseSBzZWxlY3RlZCwgcHJvY2Vzc2VkLCBhbmQgcGFja2VkIHRvIHByZXNlcnZlIGl0cyBuYXR1cmFsIGFyb21hLCBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4KICAKLSAqKlBhY2thZ2luZyoqOiBBdmFpbGFibGUgaW4gY29udmVuaWVudCBwYWNrYWdpbmcgc2l6ZXMgdG8gbWVldCB0aGUgcmVxdWlyZW1lbnRzIG9mIG91ciBjdXN0b21lcnMsIGVuc3VyaW5nIGZyZXNobmVzcyBhbmQgcXVhbGl0eS4KCioqQ3VsaW5hcnkgVXNlcyoqCgpCbGFjayBwZXBwZXIgaXMgYW4gZXNzZW50aWFsIHNwaWNlIGluOgogIAotICoqQ29va2luZyoqOiBVc2VkIGluIG1lYXQgbWFyaW5hZGVzLCBzb3Vwcywgc3Rld3MsIHNhdWNlcywgYW5kIGdyYXZpZXMgdG8gZW5oYW5jZSBmbGF2b3IuCiAgCi0gKipTZWFzb25pbmcqKjogQWRkcyBhIGZpbmFsIHRvdWNoIHRvIGRpc2hlcywgYWRqdXN0aW5nIGFuZCBlbGV2YXRpbmcgdGhlaXIgdGFzdGUgcHJvZmlsZXMuCiAgCi0gKipDb21tZXJjaWFsIEZvb2QgUHJvZHVjdGlvbioqOiBJbnRlZ3JhbCBpbiBmb29kIHByb2Nlc3NpbmcgYW5kIHByZXNlcnZhdGlvbiwgYWRkaW5nIGJvdGggZmxhdm9yIGFuZCBwcmVzZXJ2YXRpdmUgdmFsdWUuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpCZXlvbmQgaXRzIGN1bGluYXJ5IHVzZXMsIGJsYWNrIHBlcHBlciBvZmZlcnMgdmFyaW91cyBoZWFsdGggYmVuZWZpdHM6CiAgCi0gKipBbnRpb3hpZGFudCBQcm9wZXJ0aWVzKio6IENvbnRhaW5zIGFudGlveGlkYW50cyB0aGF0IGhlbHAgZmlnaHQgZnJlZSByYWRpY2FscyBpbiB0aGUgYm9keS4KICAKLSAqKkRpZ2VzdGl2ZSBBaWQqKjogU3VwcG9ydHMgZGlnZXN0aW9uIGFuZCBoZWxwcyBhbGxldmlhdGUgZGlnZXN0aXZlIGlzc3Vlcy4KICAKLSAqKkFudGktaW5mbGFtbWF0b3J5Kio6IFBvc3Nlc3NlcyBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIHRoYXQgbWF5IGhlbHAgcmVkdWNlIGluZmxhbW1hdGlvbi4KICAKLSAqKk90aGVyIEJlbmVmaXRzKio6IFVzZWQgdHJhZGl0aW9uYWxseSBmb3IgaXRzIHBvdGVudGlhbCBiZW5lZml0cyBpbiBpbXByb3ZpbmcgZGVudGFsIGhlYWx0aCBhbmQgc2tpbiBjb25kaXRpb25zLgoKKipDb250YWN0IFVzKioKCkZvciBpbnF1aXJpZXMgb3IgdG8gcGxhY2UgYW4gb3JkZXIgZm9yIG91ciBwcmVtaXVtIGJsYWNrIHBlcHBlciBwcm9kdWN0cywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSByaWNobmVzcyBhbmQgcXVhbGl0eSB0aGF0IG91ciBibGFjayBwZXBwZXIgYnJpbmdzIHRvIGN1bGluYXJ5IGNyZWF0aW9ucyB3b3JsZHdpZGUu"
-            },
-
-            {
-                "id": "12",
-                "name": "Clove Seeds",
-                "Category": "Spices",
-                "Usage": "Conventional",
-                "Color": "Natural Brown",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine & Handpicked",
-                "Botanical Name": "Eugenia Caryophyllus",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipDbG92ZSBieSBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIENsb3ZlKioKCkNsb3ZlLCBrbm93biBzY2llbnRpZmljYWxseSBhcyBTeXp5Z2l1bSBhcm9tYXRpY3VtLCBpcyBvbmUgb2YgdGhlIG9sZGVzdCBhbmQgbW9zdCB2YWx1YWJsZSBzcGljZXMgaW4gdGhlIHdvcmxkLiBJdCBpcyBkZXJpdmVkIGZyb20gdGhlIGRyaWVkLCB1bm9wZW5lZCBmbG93ZXIgYnVkcyBvZiBhIHNtYWxsIGV2ZXJncmVlbiB0cmVlIG5hdGl2ZSB0byB0aGUgTW9sdWNjYXMgSXNsYW5kcyBvZiBJbmRvbmVzaWEuIEluIEluZGlhLCBjbG92ZXMgYXJlIHByaW1hcmlseSBzb3VyY2VkIGZyb20gTWVyY2FyYSBpbiBLYXJuYXRha2EgYW5kIEtlcmFsYS4gUmVub3duZWQgZm9yIGl0cyBkaXN0aW5jdCBmbGF2b3IgYW5kIG1lZGljaW5hbCBwcm9wZXJ0aWVzLCBjbG92ZXMgaGF2ZSBiZWVuIGNoZXJpc2hlZCBmb3IgY2VudHVyaWVzIGFuZCBhcmUgaW50ZWdyYWwgdG8gdmFyaW91cyBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIGFwcGxpY2F0aW9ucyB3b3JsZHdpZGUuCgoqKlZhcm5pIEV4cG9ydHMnIEV4cGVydGlzZSoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBxdWFsaXR5IGNsb3ZlcyBmcm9tIHRoZSBmaW5lc3QgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGNvbW1pdG1lbnQgaXMgdG8gZGVsaXZlciBjbG92ZXMgdGhhdCBtZWV0IHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgZXhjZWVkIHRoZSBleHBlY3RhdGlvbnMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuCgoqKlByb2R1Y3QgRGV0YWlscyoqCgotICoqVmFyaWV0aWVzKio6IFdlIG9mZmVyIGJvdGggd2hvbGUgY2xvdmVzIGFuZCBncm91bmQgY2xvdmVzLCBlbnN1cmluZyB2ZXJzYXRpbGl0eSBpbiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuCiAgCi0gKipRdWFsaXR5IEFzc3VyYW5jZSoqOiBPdXIgY2xvdmVzIGFyZSBjYXJlZnVsbHkgc2VsZWN0ZWQsIHByb2Nlc3NlZCwgYW5kIHBhY2tlZCB0byBwcmVzZXJ2ZSB0aGVpciByaWNoIGFyb21hLCBmbGF2b3IsIGFuZCBuYXR1cmFsIGdvb2RuZXNzLgogIAotICoqUGFja2FnaW5nKio6IEF2YWlsYWJsZSBpbiB2YXJpb3VzIHBhY2thZ2luZyBvcHRpb25zIHRvIHN1aXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgY3VzdG9tZXJzLCBlbnN1cmluZyBmcmVzaG5lc3MgYW5kIHF1YWxpdHkgcHJlc2VydmF0aW9uLgoKKipDdWxpbmFyeSBhbmQgTWVkaWNpbmFsIFVzZXMqKgoKQ2xvdmUgZmluZHMgZXh0ZW5zaXZlIHVzZSBpbjoKICAKLSAqKkN1bGluYXJ5IERlbGlnaHRzKio6IEFkZHMgZmxhdm9yIGFuZCBhcm9tYSB0byBiYWtlZCBnb29kcywgY2FrZXMsIGNvbmZlY3Rpb25lcnksIGNob2NvbGF0ZSwgcHVkZGluZ3MsIGRlc3NlcnRzLCBzd2VldHMsIHN5cnVwcywgcHJlc2VydmVzLCBhbmQgbW9yZS4KICAKLSAqKkNvb2tpbmcqKjogRXNzZW50aWFsIGluIGZsYXZvcmluZyBjdXJyaWVzLCBncmF2aWVzLCBwaWNrbGVzLCBrZXRjaHVwLCBzYXVjZXMsIGFuZCBzcGljZSBtaXh0dXJlcywgZW5oYW5jaW5nIHRoZSB0YXN0ZSBwcm9maWxlIG9mIGRpc2hlcy4KICAKLSAqKk1lZGljaW5hbCBCZW5lZml0cyoqOiBLbm93biBmb3IgaXRzIHBvd2VyZnVsIGxvY2FsIGFudGlzZXB0aWMgcHJvcGVydGllcyBhbmQgbWlsZCBhbmFlc3RoZXRpYyBhY3Rpb25zLiBJdCBpcyB1c2VkIGluIGJldmVyYWdlcywgbWVkaWNpbmVzLCBjb3NtZXRpY3MsIHBlcmZ1bWVyeSwgYW5kIHRvaWxldHJpZXMuCiAgCi0gKipIZWFsdGggQmVuZWZpdHMqKjogQ29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgaGVscCBwcmV2ZW50IGNlbGwgZGFtYWdlLCBwb3RlbnRpYWxseSByZWR1Y2luZyB0aGUgcmlzayBvZiBjZXJ0YWluIGRpc2Vhc2VzIGxpa2UgY2FuY2VyLiBVc2VkIGluIG9yYWwgY2FyZSBwcm9kdWN0cyBzdWNoIGFzIHRvb3RocGFzdGUgYW5kIG1vdXRod2FzaGVzIGZvciBpdHMgY2xlYW5zaW5nIGFuZCByZWZyZXNoaW5nIHByb3BlcnRpZXMuCgoqKkNvbnRhY3QgVXMqKgoKRm9yIGlucXVpcmllcyBvciB0byBwbGFjZSBhbiBvcmRlciBmb3Igb3VyIHByZW1pdW0gY2xvdmVzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIEV4cGVyaWVuY2UgdGhlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIHZlcnNhdGlsaXR5IHRoYXQgb3VyIGNsb3ZlcyBicmluZyB0byBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhlYWx0aC1lbmhhbmNpbmcgcHJvZHVjdHMgd29ybGR3aWRlLg=="
-            },
-
-            {
-                "id": "13",
-                "name": "Cardamom",
-                "Category": "Spices",
-                "Usage": "Conventional",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine & Handpicked",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipDYXJkYW1vbSBieSBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIENhcmRhbW9tKioKClJlZ2FyZGVkIGFzIHRoZSAnUXVlZW4gb2YgU3BpY2VzJywgY2FyZGFtb20gaG9sZHMgYSBwcmVzdGlnaW91cyBwbGFjZSBhbW9uZyBzcGljZXMgZ2xvYmFsbHkuIEl0IGlzIGN1bHRpdmF0ZWQgcHJpbWFyaWx5IGluIEtlcmFsYSwgVGFtaWwgTmFkdSwgYW5kIEthcm5hdGFrYSBpbiBJbmRpYS4gQ2FyZGFtb20gaXMgdGhlIGRyaWVkIGZydWl0IG9mIGEgaGVyYmFjZW91cyBwZXJlbm5pYWwgcGxhbnQgYW5kIHRocml2ZXMgaW4gd2FybSwgaHVtaWQgY2xpbWF0ZXMgd2l0aCBsb2FteSBzb2lsIHJpY2ggaW4gb3JnYW5pYyBtYXR0ZXIuIFRoZSBjdWx0aXZhdGlvbiBhbmQgcHJvY2Vzc2luZyBtZXRob2RzIGNvbnRyaWJ1dGUgdG8gaXRzIHVuaXF1ZSBhcm9tYSwgZmxhdm9yLCBzaXplLCBhbmQgY29sb3IsIG1ha2luZyBJbmRpYW4gY2FyZGFtb20gaGlnaGx5IHByaXplZCBpbiBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIGFwcGxpY2F0aW9ucy4KCioqVmFybmkgRXhwb3J0cycgQ29tbWl0bWVudCoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSB0YWtlIHByaWRlIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBxdWFsaXR5IGNhcmRhbW9tIHRvIG1lZXQgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuIE91ciBjYXJkYW1vbSBzdGFuZHMgb3V0IGZvciBpdHMgZXhjZXB0aW9uYWwgcXVhbGl0eSwgYXJvbWEsIGFuZCBmbGF2b3IgcHJvZmlsZSwgY2F0ZXJpbmcgdG8gdmFyaW91cyBpbmR1c3RyaWVzIGluY2x1ZGluZyBjdWxpbmFyeSwgbWVkaWNpbmFsLCBhbmQgcGVyZnVtZXJ5LgoKKipQcm9kdWN0IERldGFpbHMqKgoKLSAqKlR5cGVzIG9mIENhcmRhbW9tKio6IFdlIG9mZmVyIGJvdGggTGFyZ2UgQ2FyZGFtb20gKE1hbGFiYXIgQ2FyZGFtb20pIGFuZCBTbWFsbCBDYXJkYW1vbSAoQWxsZXBwZXkgR3JlZW4gRXh0cmEgQm9sZCAtIEFHRUIsIEFsbGVwcGV5IEdyZWVuIEJvbGQgLSBBR0IsIGFuZCBBbGxlcHBleSBHcmVlbiBTdXBlcmlvciAtIEFHUykuIEVhY2ggdHlwZSBpcyBjYXJlZnVsbHkgc2VsZWN0ZWQgdG8gZW5zdXJlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcy4KICAKLSAqKkN1bGluYXJ5IFVzZXMqKjogV2lkZWx5IHVzZWQgaW4gc3dlZXRzLCBjb25mZWN0aW9uZXJ5LCBzYXZvcnkgZGlzaGVzLCBiZXZlcmFnZXMsIGFuZCBhcyBhIGZsYXZvciBlbmhhbmNlciBpbiBib3RoIHN3ZWV0IGFuZCBzYWx0eSBmb29kcy4KICAKLSAqKk1lZGljaW5hbCBhbmQgUGVyZnVtZXJ5Kio6IFJlY29nbml6ZWQgZm9yIGl0cyBtZWRpY2luYWwgcHJvcGVydGllcywgY2FyZGFtb20gaXMgdXNlZCBpbiB0cmFkaXRpb25hbCBtZWRpY2luZXMsIGhlcmJhbCByZW1lZGllcywgYW5kIHBlcmZ1bWVzIGZvciBpdHMgYXJvbWF0aWMgYW5kIHRoZXJhcGV1dGljIGJlbmVmaXRzLgogIAotICoqR2xvYmFsIERlbWFuZCoqOiBJbmRpYW4gY2FyZGFtb20sIGtub3duIGZvciBpdHMgZGlzdGluY3RpdmUgYXJvbWEgYW5kIGZsYXZvciwgZW5qb3lzIHNpZ25pZmljYW50IGRlbWFuZCBpbiBpbnRlcm5hdGlvbmFsIG1hcmtldHMsIHBhcnRpY3VsYXJseSBpbiBBc2lhIGFuZCB0aGUgTWlkZGxlIEVhc3QuCgoqKlF1YWxpdHkgQXNzdXJhbmNlIGFuZCBQYWNrYWdpbmcqKgoKLSAqKlF1YWxpdHkgQ29udHJvbCoqOiBPdXIgY2FyZGFtb20gdW5kZXJnb2VzIHJpZ29yb3VzIHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyB0byBtYWludGFpbiBmcmVzaG5lc3MsIGZsYXZvciwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgogIAotICoqUGFja2FnaW5nKio6IEF2YWlsYWJsZSBpbiB2YXJpb3VzIHBhY2thZ2luZyBvcHRpb25zIHRhaWxvcmVkIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgY3VzdG9tZXJzLCBlbnN1cmluZyBvcHRpbWFsIHNoZWxmIGxpZmUgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbi4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBjYXJkYW1vbSBwcm9kdWN0cywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSByaWNobmVzcyBhbmQgdmVyc2F0aWxpdHkgb2Ygb3VyIGNhcmRhbW9tIHRoYXQgYWRkcyB1bm1hdGNoZWQgZmxhdm9yIGFuZCBhcm9tYSB0byB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyBhbmQgcHJvZHVjdHMgd29ybGR3aWRlLg=="
-            },
-
-            {
-                "id": "14",
-                "name": "Black Cumin Seeds",
-                "Category": "Spices",
-                "Usage": "Conventional",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine Clean & Sortex Clean",
-                "Botanical Name": "Nigella Sativa",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipOaWdlbGxhIFNlZWRzIChLYWxvbmppIFNlZWRzKSoqCgoqKk92ZXJ2aWV3KioKCk5pZ2VsbGEgc2VlZHMsIHBvcHVsYXJseSBrbm93biBhcyBLYWxvbmppIHNlZWRzIGluIHRoZSBJbmRpYW4gbWFya2V0LCBhcmUgY2VsZWJyYXRlZCBmb3IgdGhlaXIgZWFydGh5IGFuZCBzbW9reSB0YXN0ZS4gVGhlc2Ugc21hbGwsIG1hdHRlLWJsYWNrIGdyYWlucyB3aXRoIGEgcm91Z2ggc3VyZmFjZSBhbmQgb2lseSB3aGl0ZSBpbnRlcmlvciBhcmUgZGVyaXZlZCBmcm9tIHRoZSBwbGFudCBOaWdlbGxhIHNhdGl2YSwgb2Z0ZW4gcmVmZXJyZWQgdG8gYXMgYmxhY2sgY3VtaW4uIFRoZXkgaGF2ZSBiZWVuIHByaXplZCBmb3IgY2VudHVyaWVzIGZvciBib3RoIHRoZWlyIGN1bGluYXJ5IGFuZCBjdXJhdGl2ZSBwcm9wZXJ0aWVzLCBtYWtpbmcgdGhlbSBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IGluIHZhcmlvdXMgY3Vpc2luZXMgYW5kIHRyYWRpdGlvbmFsIG1lZGljaW5lIHByYWN0aWNlcy4KCioqTWVkaWNpbmFsIFByb3BlcnRpZXMqKgoKUmljaCBpbiBudXRyaWVudHMgYW5kIGJpb2FjdGl2ZSBjb21wb3VuZHMsIG5pZ2VsbGEgc2VlZHMgY29udGFpbiB0aHltb3F1aW5vbmUsIGEgcG90ZW50IGJpb2FjdGl2ZSBrbm93biBmb3IgaXRzIHBvdGVudGlhbCBpbiB0cmVhdGluZyBjb25kaXRpb25zIHN1Y2ggYXMgZXBpbGVwc3ksIGFsbGVyZ2llcywgYW5kIGZvciBib29zdGluZyB0aGUgaW1tdW5lIHN5c3RlbS4gVGhlIG9pbCBleHRyYWN0ZWQgZnJvbSB0aGVzZSBzZWVkcyBoYXMgYmVlbiBleHRlbnNpdmVseSB1c2VkIGluIHRoZSBNaWRkbGUgRWFzdCBhbmQgU291dGggQXNpYSBmb3IgaXRzIHRoZXJhcGV1dGljIGJlbmVmaXRzIGluIGNvc21ldGljcywgaGVyYmFsIHJlbWVkaWVzLCBhbmQgbWVkaWNpbmFsIHByb2R1Y3RzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKTmlnZWxsYSBzZWVkcyBhcmUgYXNzb2NpYXRlZCB3aXRoIGEgd2lkZSByYW5nZSBvZiBoZWFsdGggYmVuZWZpdHM6Ci0gKipDYW5jZXIgUHJldmVudGlvbioqOiBTdHVkaWVzIHN1Z2dlc3QgcG90ZW50aWFsIGJlbmVmaXRzIGluIGNvbWJhdGluZyBjZXJ2aWNhbCBjYW5jZXIgYW5kIG90aGVyIHR5cGVzIG9mIGNhbmNlcm91cyBjZWxscy4KLSAqKkNhcmRpb3Zhc2N1bGFyIEhlYWx0aCoqOiBIZWxwcyBpbiBtYW5hZ2luZyBoaWdoIGJsb29kIHByZXNzdXJlIGFuZCBwcm9tb3RpbmcgaGVhcnQgaGVhbHRoLgotICoqUmVzcGlyYXRvcnkgU3VwcG9ydCoqOiBFZmZlY3RpdmUgaW4gcmVsaWV2aW5nIGFzdGhtYSBzeW1wdG9tcyBhbmQgc29vdGhpbmcgc29yZSB0aHJvYXRzLgotICoqSW1tdW5lIEJvb3N0aW5nKio6IFN0cmVuZ3RoZW5zIHRoZSBpbW11bmUgc3lzdGVtIGFuZCBhaWRzIGluIHBvc3Qtc3VyZ2ljYWwgc2NhciBwcmV2ZW50aW9uIGFuZCByYWRpYXRpb24gZGFtYWdlIGNvbnRyb2wuCgoqKlVzZXMqKgoKLSAqKkN1bGluYXJ5Kio6IFVzZWQgYXMgc3BpY2VzIGluIGNvb2tpbmcsIHBhcnRpY3VsYXJseSBpbiBJbmRpYW4gYW5kIE1pZGRsZSBFYXN0ZXJuIGN1aXNpbmVzLiBUaGV5IGFkZCBkZXB0aCBvZiBmbGF2b3IgdG8gYnJlYWRzLCBwYXN0cmllcywgYW5kIGRlc3NlcnRzIGxpa2UgRW5nbGlzaCBzZWVkIGNha2UuCiAgCi0gKipNZWRpY2luYWwqKjogR3JvdW5kIGludG8gcG93ZGVyIGZvcm0gZm9yIGNyZWF0aW5nIEF5dXJ2ZWRpYyBtZWRpY2luZXMgb3IgdXNlZCB0b3BpY2FsbHkgYW5kIGNvbnN1bWVkIGFzIG9pbCBmb3IgdmFyaW91cyBoZWFsdGggYmVuZWZpdHMuCiAgCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHN1cGVyaW9yIHF1YWxpdHkgbmlnZWxsYSBzZWVkcyAoS2Fsb25qaSkgZnJvbSBvdXIgcHJvZHVjdGlvbiBmYWNpbGl0eS4gT3VyIHByb2R1Y3RzIGFyZSBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IGh5Z2llbmUgY29uZGl0aW9ucyB0byBlbnN1cmUgcHVyaXR5LCBhY2N1cmF0ZSBmb3JtdWxhdGlvbnMsIGFuZCBtYXhpbXVtIGZyZXNobmVzcy4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBuaWdlbGxhIHNlZWRzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIERpc2NvdmVyIHRoZSByaWNoIGFyb21hLCBkaXN0aW5jdGl2ZSBmbGF2b3IsIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMgb2YgbmlnZWxsYSBzZWVkcyB0aGF0IGVuaGFuY2UgYm90aCBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIHdlbGxuZXNzIHByYWN0aWNlcyBnbG9iYWxseS4K"
-            },
-
-            {
-                "id": "15",
-                "name": "Dill Seeds",
-                "Category": "Spices",
-                "Usage": "Conventional",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "99%, 99.50%",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "IyMjIERpc2NvdmVyIHRoZSBFc3NlbmNlIG9mIERpbGwgU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzCgpWYXJuaSBFeHBvcnRzIHByb3VkbHkgaW50cm9kdWNlcyBEaWxsIFNlZWRzLCBrbm93biBhcyAiU293YSIgaW4gSGluZGksIHNvdXJjZWQgZnJvbSB0aGUgZmluZXN0IG9yaWdpbnMgdG8gZW5oYW5jZSB5b3VyIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBoZWFsdGggYmVuZWZpdHMuCgojIyMgT3JpZ2luIGFuZCBIaXN0b3J5CgpEaWxsIG9yaWdpbmF0ZWQgYXJvdW5kIHRoZSBNZWRpdGVycmFuZWFuIGFuZCBzb3V0aGVybiBSdXNzaWEuIFpvaGFyeSBhbmQgSG9wZiBub3RlZCBpdHMgd2lkZXNwcmVhZCBwcmVzZW5jZSBpbiB0aGUgTWVkaXRlcnJhbmVhbiBCYXNpbiBhbmQgV2VzdCBBc2lhLiBBcmNoYWVvbG9naWNhbCBldmlkZW5jZSB0cmFjZXMgaXRzIGN1bHRpdmF0aW9uIHRvIGxhdGUgTmVvbGl0aGljIHNldHRsZW1lbnRzIGluIFN3aXR6ZXJsYW5kLCB3aXRoIHJlbW5hbnRzIGZvdW5kIGluIFJvbWFuIHJ1aW5zIGluIEdyZWF0IEJyaXRhaW4uCgojIyMgQ3VsaW5hcnkgRGVsaWdodAoKRGlsbCBzZWVkcyBhcmUgYSBjaGVyaXNoZWQgYW5jaWVudCBJbmRpYW4gc3BpY2UsIHZhbHVlZCBmb3IgdGhlaXIgZmxhdCwgb3ZhbCBzaGFwZSBhbmQgZGVsaWdodGZ1bCBhcm9tYS4gVGhleSBhcmUgdXNlZCB3aG9sZSBvciBjcnVzaGVkLCBlbnJpY2hpbmcgYnJlYWQsIHNvdXBzLCB2ZWdldGFibGUgZGlzaGVzLCBhbmQgcGlja2xlcy4gQWRkaXRpb25hbGx5LCB0aGV5IGVsZXZhdGUgc2FsYWQgZHJlc3NpbmdzIGFuZCBhcmUgZXNzZW50aWFsIGluIGNyZWF0aW5nIGRpbGwgdmluZWdhci4KCiMjIyBOdXRyaXRpb25hbCBQb3dlcmhvdXNlCgpSaWNoIGluIGNhbGNpdW0sIGlyb24sIG1hZ25lc2l1bSwgcG90YXNzaXVtLCB6aW5jLCBhbmQgdml0YW1pbiBBLCBkaWxsIHNlZWRzIGFsc28gYm9hc3QgZXNzZW50aWFsIGFtaW5vIGFjaWRzIGxpa2UgdGhyZW9uaW5lLCBpc29sZXVjaW5lLCBsZXVjaW5lLCBseXNpbmUsIG1ldGhpb25pbmUsIHBoZW55bGFsYW5pbmUsIHZhbGluZSwgYXJnaW5pbmUsIGFuZCBoaXN0aWRpbmUuCgojIyMgSGVhbHRoIEJlbmVmaXRzCgoxLiAqKkRpZ2VzdGl2ZSBBaWQqKjogRGlsbCBzZWVkcyBhcmUgcmVub3duZWQgZm9yIGVhc2luZyBkaWdlc3RpdmUgZGlzY29tZm9ydHMgbGlrZSB1cHNldCBzdG9tYWNoIGFuZCBkaWFycmhlYS4KICAgCjIuICoqV29tZW7igJlzIEhlYWx0aCoqOiBCZW5lZmljaWFsIGZvciBtZW5zdHJ1YWwgcGFpbiBhbmQgbGFjdGF0aW9uLCBkaWxsIHNlZWRzIGFpZCBpbiBtaWxrIHByb2R1Y3Rpb24gZm9yIG51cnNpbmcgbW90aGVycy4KCjMuICoqUmVzcGlyYXRvcnkgU3VwcG9ydCoqOiBEaWxsIHRlYSBvZmZlcnMgcmVsaWVmIGZyb20gY291Z2hzLCBmbHUgc3ltcHRvbXMsIGFuZCBiYWQgYnJlYXRoLCBhY3RpbmcgYXMgYSBuYXR1cmFsIHJlbWVkeS4KCiMjIyBDdWxpbmFyeSBhbmQgQmV5b25kCgpEaWxsJ3MgdmVyc2F0aWxpdHkgZXh0ZW5kcyBiZXlvbmQgY29va2luZzsgaXRzIHNlZWRzIGFuZCBsZWF2ZXMgZW5oYW5jZSBwaWNrbGVzLCBtZWF0LCBmaXNoLCBlZ2cgZGlzaGVzLCBhbmQgYnJlYWQuIERpbGwtaW5mdXNlZCB2aW5lZ2FyIGFuZCBvaWxzIGVucmljaCBwZXJmdW1lcyBhbmQgc29hcHMsIHNob3djYXNpbmcgaXRzIGFyb21hdGljIGVzc2VuY2UuCgojIyMgRW5qb3kgRGlsbCB3aXRoIFZhcm5pIEV4cG9ydHMKClZhcm5pIEV4cG9ydHMgaXMgZGVkaWNhdGVkIHRvIGRlbGl2ZXJpbmcgcHJlbWl1bS1xdWFsaXR5IERpbGwgU2VlZHMgdGhhdCBlbnJpY2ggY3Vpc2luZXMgd29ybGR3aWRlLiBDb250YWN0IHVzIHRvIGV4cGxvcmUgb3VyIG9mZmVyaW5ncyBhbmQgZWxldmF0ZSB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyB3aXRoIHRoZSBlc3NlbmNlIG9mIGRpbGwuIEV4cGVyaWVuY2UgdGhlIHF1YWxpdHkgYW5kIGNvbW1pdG1lbnQgb2YgVmFybmkgRXhwb3J0cyB0b2RheSE="
-            },
-
-            {
-                "id": "16",
-                "name": "Bay Leaves",
-                "Category": "Spices",
-                "Part Used": "Leaf",
-                "Hindi Name": "Tej Patta, Tej Pat, Tejpat, Tejpata",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "99%, 99.50%",
-                "Botanical Name": "Cinnamomum Tamala",
-                "Application": "Food Products, Seasonings",
-                "Packaging": "10 Kg, 15 Kg, 25 Kg",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipFeHBsb3JlIHRoZSBFc3NlbmNlIG9mIEluZGlhbiBCYXkgTGVhZiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKKipPcmlnaW4gYW5kIE5hbWUqKgoKTmF0aXZlIHRvIEFzaWEgTWlub3IsIHRoZSBJbmRpYW4gQmF5IExlYWYgaXMga25vd24gYnkgc2V2ZXJhbCBuYW1lcyBzdWNoIGFzICdTd2VldCBCYXknLCAnQmF5IExhdXJlbCcsICdOb2JsZSBMYXVyZWwnLCBhbmQgJ1RydWUgTGF1cmVsJy4gSXQgc2hhcmVzIGEgZnJhZ3JhbmNlIGFuZCB0YXN0ZSBha2luIHRvIGNpbm5hbW9uIGJhcmsgYnV0IG1pbGRlciwgY2xvc2VseSByZWxhdGVkIHRvIGNhc3NpYS4gVG8gZW5oYW5jZSBmbGF2b3IgYW5kIHJlZHVjZSBiaXR0ZXJuZXNzLCBhIGNhcmVmdWwgZHJ5aW5nIHByb2NlZHVyZSBpcyBlbXBsb3llZCBpbW1lZGlhdGVseSBhZnRlciBtYW51YWwgcGx1Y2tpbmcgYW5kIHNvcnRpbmcsIGVuc3VyaW5nIHRoZSBsZWF2ZXMgcmV0YWluIHRoZWlyIGJyaWdodCBncmVlbiBjb2xvciwgYSBoYWxsbWFyayBvZiBzdXBlcmlvciBxdWFsaXR5LgoKKipBcm9tYXRpYyBQcm9maWxlKioKCkluZGlhbiBCYXkgTGVhZiBib2FzdHMgYSBmcmFncmFuY2UgcmVtaW5pc2NlbnQgb2YgY2lubmFtb24gYmFyaywgYWxiZWl0IGdlbnRsZXIuIEl0cyB0YXN0ZSBwcm9maWxlIGlzIGFsc28gYWtpbiB0byBjYXNzaWEsIHdpdGggdGhlIGJpdHRlcm5lc3Mgc2lnbmlmaWNhbnRseSBkaW1pbmlzaGVkIHRocm91Z2ggbWV0aWN1bG91cyBkcnlpbmcgdGVjaG5pcXVlcy4gVGhlIGxlYXZlcycgYnJpZ2h0IGdyZWVuIGh1ZSBzZXJ2ZXMgYXMgYSB2aXN1YWwgaW5kaWNhdG9yIG9mIHRoZWlyIHByZW1pdW0gcXVhbGl0eSwgbWFraW5nIHRoZW0gaWRlYWwgZm9yIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgYXBwbGljYXRpb25zLgoKKipDdWxpbmFyeSBhbmQgTWVkaWNpbmFsIFVzZXMqKgoKSW5kaWFuIEJheSBMZWFmIGlzIGEgdmVyc2F0aWxlIGhlcmIgdXNlZCB0byBlbmhhbmNlIHRoZSBmbGF2b3Igb2YgdmFyaW91cyBkaXNoZXMsIGltcGFydGluZyBhIG1pbGQsIGFyb21hdGljIGVzc2VuY2UgdG8gc3Rld3MsIHNvdXBzLCBzYXVjZXMsIGFuZCBtYXJpbmFkZXMuIEJleW9uZCBpdHMgY3VsaW5hcnkgYXBwZWFsLCB0aGUgbGVhZiBvZmZlcnMgbWVkaWNpbmFsIGJlbmVmaXRzLCBjb250cmlidXRpbmcgdG8gZGlnZXN0aXZlIGhlYWx0aCBhbmQgb3ZlcmFsbCB3ZWxsbmVzcy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGluIGV2ZXJ5IGJhdGNoIG9mIEluZGlhbiBCYXkgTGVhdmVzIHdlIG9mZmVyLiBPdXIgbGVhdmVzIGFyZSBjYXJlZnVsbHkgc2VsZWN0ZWQsIG1hbnVhbGx5IHBsdWNrZWQsIGFuZCBwcm9tcHRseSBkcmllZCB0byBwcmVzZXJ2ZSB0aGVpciBhcm9tYSwgdGFzdGUsIGFuZCB2aWJyYW50IGdyZWVuIGNvbG9yLiBUaGlzIGVuc3VyZXMgdGhhdCBlYWNoIGxlYWYgcmV0YWlucyBpdHMgZnJlc2huZXNzIGFuZCBwb3RlbmN5LCByZWFkeSB0byBlbnJpY2ggeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhvbGlzdGljIHdlbGwtYmVpbmcuCgoqKkRpc2NvdmVyIEluZGlhbiBCYXkgTGVhZiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyBwcmVtaXVtLXF1YWxpdHkgSW5kaWFuIEJheSBMZWF2ZXMgdGhhdCBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBvZiBmcmVzaG5lc3MgYW5kIGZsYXZvci4gQ29udGFjdCB1cyB0byBleHBsb3JlIG91ciByYW5nZSBvZiBhcm9tYXRpYyBoZXJicyBhbmQgc3BpY2VzLCBhbmQgZXhwZXJpZW5jZSB0aGUgZXNzZW5jZSBvZiBJbmRpYW4gQmF5IExlYWYgaW4geW91ciBraXRjaGVuIGFuZCBiZXlvbmQuIFBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzIGZvciBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBzZXJ2aWNlLg=="
-            },
-
-            {
-                "id": "17",
-                "name": "Ajwain Seeds",
-                "Category": "Spices",
-                "images": "",
-                "Origin": "India",
-                "Moisture": "10% Max",
-                "Purity": "99%",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine Cleaned",
-                "Acid Insoluble Ash": "1.75% Max",
-                "Certification": "FSSAI Certified",
-                "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
-                "Loading": "15 to 30 Tons",
-                "description": "KipEaXNjb3ZlciBBandhaW4gU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqT3JpZ2luIGFuZCBOYW1lKioKCkFqd2FpbiBzZWVkcywgYWxzbyBrbm93biBhcyBjYXJvbSBzZWVkcyBvciBiaXNob3AncyB3ZWVkLCBvcmlnaW5hdGUgZnJvbSB0aGUgRWFzdGVybiBNZWRpdGVycmFuZWFuIGFuZCBhcmUgY3VsdGl2YXRlZCBhY3Jvc3MgSW5kaWEuIEtub3duIGZvciB0aGVpciBwdW5nZW50IGFyb21hIGFuZCBkaXN0aW5jdCB0YXN0ZSwgYWp3YWluIHNlZWRzIGhhdmUgYmVlbiBpbnRlZ3JhbCB0byBJbmRpYW4gY3VsaW5hcnkgYW5kIG1lZGljaW5hbCBwcmFjdGljZXMgZm9yIGNlbnR1cmllcy4KCioqQXJvbWF0aWMgUHJvZmlsZSoqCgpBandhaW4gc2VlZHMgaGF2ZSBhIHN0cm9uZywgYXJvbWF0aWMgc2NlbnQgcmVtaW5pc2NlbnQgb2YgdGh5bWUsIHdpdGggYSBmbGF2b3IgdGhhdCBjb21iaW5lcyBiaXR0ZXJuZXNzIGFuZCBzbGlnaHQgcGVwcGVyeSB1bmRlcnRvbmVzLiBUaGUgc2VlZHMgYXJlIHNtYWxsIGFuZCBvdmFsLXNoYXBlZCwgd2l0aCByaWRnZXMgdGhhdCBjb250cmlidXRlIHRvIHRoZWlyIHVuaXF1ZSB0ZXh0dXJlIGFuZCBhcHBlYXJhbmNlLgoKKipDdWxpbmFyeSBVc2VzKioKCkluIEluZGlhbiBjdWlzaW5lLCBhandhaW4gc2VlZHMgYXJlIGEgcG9wdWxhciBzcGljZSB1c2VkIHRvIGVuaGFuY2UgdGhlIGZsYXZvciBvZiB2YXJpb3VzIGRpc2hlcy4gVGhleSBhcmUgb2Z0ZW4gYWRkZWQgdG8gYnJlYWQsIHN1Y2ggYXMgcGFyYXRoYXMgYW5kIHB1cmlzLCB0byBpbXBhcnQgYSBkaXN0aW5jdGl2ZSB0YXN0ZSBhbmQgYWlkIGluIGRpZ2VzdGlvbi4gQWRkaXRpb25hbGx5LCB0aGV5IGFyZSB1c2VkIGluIHBpY2tsZXMsIHNuYWNrcywgY3VycmllcywgYW5kIHNwaWNlIGJsZW5kcywgb2ZmZXJpbmcgYSB3YXJtLCBlYXJ0aHkgZmxhdm9yIHRoYXQgY29tcGxlbWVudHMgYm90aCB2ZWdldGFyaWFuIGFuZCBub24tdmVnZXRhcmlhbiBkaXNoZXMuCgoqKk1lZGljaW5hbCBCZW5lZml0cyoqCgpBandhaW4gc2VlZHMgYXJlIHJlbm93bmVkIGZvciB0aGVpciBtZWRpY2luYWwgcHJvcGVydGllcy4gVGhleSBhcmUgdmFsdWVkIGZvciB0aGVpciBhYmlsaXR5IHRvIGFpZCBkaWdlc3Rpb24sIGFsbGV2aWF0ZSBzdG9tYWNoIGRpc2NvbWZvcnRzIHN1Y2ggYXMgZ2FzIGFuZCBibG9hdGluZywgYW5kIGVuaGFuY2UgYXBwZXRpdGUuIFRoZSBzZWVkcyBjb250YWluIGVzc2VudGlhbCBvaWxzIGxpa2UgdGh5bW9sLCB3aGljaCBoYXZlIGFudGltaWNyb2JpYWwgYW5kIGFudGlmdW5nYWwgcHJvcGVydGllcywgbWFraW5nIGFqd2FpbiBhIHBvcHVsYXIgcmVtZWR5IGZvciByZXNwaXJhdG9yeSBpc3N1ZXMgbGlrZSBjb3VnaHMgYW5kIGFzdGhtYS4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIHRoYXQgb3VyIGFqd2FpbiBzZWVkcyBhcmUgc291cmNlZCBmcm9tIHJlcHV0YWJsZSBncm93ZXJzIGFuZCBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcy4gRWFjaCBiYXRjaCBpcyBjYXJlZnVsbHkgaW5zcGVjdGVkIHRvIG1haW50YWluIGZyZXNobmVzcywgYXJvbWEsIGFuZCBmbGF2b3IsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGhpZ2hlc3QgcXVhbGl0eSBhandhaW4gc2VlZHMuCgoqKkV4cGxvcmUgQWp3YWluIFNlZWRzIHdpdGggVmFybmkgRXhwb3J0cyoqCgpQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyB0byBleHBlcmllbmNlIHRoZSBhcm9tYXRpYyBhbmQgZmxhdm9yZnVsIGFqd2FpbiBzZWVkcyB0aGF0IGFkZCBhIGRpc3RpbmN0aXZlIHRvdWNoIHRvIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zLiBDb250YWN0IHVzIHRvIGRpc2NvdmVyIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIHNwaWNlcyBhbmQgaGVyYnMsIGFuZCBob3cgd2UgY2FuIGNhdGVyIHRvIHlvdXIgc291cmNpbmcgbmVlZHMgd2l0aCByZWxpYWJpbGl0eSBhbmQgZXhjZWxsZW5jZS4gVHJ1c3QgVmFybmkgRXhwb3J0cyBmb3IgcHJlbWl1bSBxdWFsaXR5IGFqd2FpbiBzZWVkcyBhbmQgZXhjZXB0aW9uYWwgc2VydmljZS4="
-            },
-
-            {
-                "id": "18",
-                "name": "Caraway Seeds",
-                "Category": "Spices",
-                "images": "",
-                "Moisture": "10% Max",
-                "Purity": "99%",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine Cleaned",
-                "Certification": "FSSAI Certified",
-                "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
-                "Loading": "15 to 30 Tons",
-                "description": "KipJbnRyb2R1Y2luZyBDYXJhd2F5IFNlZWRzIHdpdGggVmFybmkgRXhwb3J0cyoqCgoqKk9yaWdpbnMgYW5kIENoYXJhY3RlcmlzdGljcyoqCgpDYXJhd2F5IHNlZWRzLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBDYXJ1bSBjYXJ2aSwgYXJlIG5hdGl2ZSB0byBFdXJvcGUsIFdlc3Rlcm4gQXNpYSwgYW5kIE5vcnRoIEFmcmljYS4gVGhlc2Ugc2VlZHMgaGF2ZSBhIHdhcm0sIGFyb21hdGljIGZsYXZvciB3aXRoIGEgaGludCBvZiBjaXRydXMgYW5kIGFuaXNlLWxpa2UgdW5kZXJ0b25lcy4gVGhleSBhcmUgc21hbGwgYW5kIGNyZXNjZW50LXNoYXBlZCwgZmVhdHVyaW5nIHByb21pbmVudCByaWRnZXMgYWxvbmcgdGhlaXIgc3VyZmFjZS4KCioqQ3VsaW5hcnkgRGVsaWdodHMqKgoKQ2FyYXdheSBzZWVkcyBhcmUgYSB2ZXJzYXRpbGUgc3BpY2UgdXNlZCBpbiBjdWlzaW5lcyB3b3JsZHdpZGUuIEluIEV1cm9wZWFuIGNvb2tpbmcsIHRoZXkgYXJlIGEga2V5IGluZ3JlZGllbnQgaW4gcnllIGJyZWFkLCBpbXBhcnRpbmcgYSBkaXN0aW5jdGl2ZSBmbGF2b3IuIFRoZXkgYWxzbyBlbmhhbmNlIHRoZSB0YXN0ZSBvZiBzYXVlcmtyYXV0LCBjYWJiYWdlIGRpc2hlcywgYW5kIHZhcmlvdXMgY2hlZXNlcy4gSW4gTWlkZGxlIEVhc3Rlcm4gYW5kIEluZGlhbiBjdWlzaW5lcywgY2FyYXdheSBzZWVkcyBhcmUgdXNlZCBpbiBtZWF0IGRpc2hlcywgc3Rld3MsIGFuZCBhcyBhIGZsYXZvcmluZyBhZ2VudCBpbiBzcGljZSBibGVuZHMgbGlrZSBnYXJhbSBtYXNhbGEuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpCZXlvbmQgdGhlaXIgY3VsaW5hcnkgdXNlcywgY2FyYXdheSBzZWVkcyBvZmZlciBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuIFRoZXkgYXJlIHJpY2ggaW4gZXNzZW50aWFsIG9pbHMsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIGluY2x1ZGluZyBmaWJlciwgY2FsY2l1bSwgaXJvbiwgYW5kIG1hZ25lc2l1bS4gQ2FyYXdheSBzZWVkcyBhcmUga25vd24gZm9yIHRoZWlyIGRpZ2VzdGl2ZSBwcm9wZXJ0aWVzLCBhaWRpbmcgaW4gcmVsaWV2aW5nIGJsb2F0aW5nLCBpbmRpZ2VzdGlvbiwgYW5kIGZsYXR1bGVuY2UuIFRoZXkgYWxzbyBwb3NzZXNzIGFudGlveGlkYW50IGFuZCBhbnRpbWljcm9iaWFsIHByb3BlcnRpZXMgdGhhdCBjb250cmlidXRlIHRvIG92ZXJhbGwgd2VsbC1iZWluZy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGluIGV2ZXJ5IGJhdGNoIG9mIGNhcmF3YXkgc2VlZHMgd2Ugc291cmNlIGFuZCBleHBvcnQuIE91ciBzZWVkcyBhcmUgbWV0aWN1bG91c2x5IHNlbGVjdGVkIGZyb20gdHJ1c3RlZCBncm93ZXJzIHRvIGVuc3VyZSBmcmVzaG5lc3MsIGZsYXZvciwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLiBSaWdvcm91cyBxdWFsaXR5IGNvbnRyb2wgbWVhc3VyZXMgYXJlIGVtcGxveWVkIHRocm91Z2hvdXQgdGhlIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZyBzdGFnZXMgdG8gbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBhbmQgZXhjZWVkIGN1c3RvbWVyIGV4cGVjdGF0aW9ucy4KCioqUGFydG5lciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgd29ybGQgb2YgY2FyYXdheSBzZWVkcyB3aXRoIFZhcm5pIEV4cG9ydHMsIHlvdXIgcmVsaWFibGUgcGFydG5lciBpbiBzb3VyY2luZyBwcmVtaXVtIHNwaWNlcyBhbmQgaGVyYnMuIENvbnRhY3QgdXMgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZGl2ZXJzZSByYW5nZSBvZiBwcm9kdWN0cyBhbmQgaG93IHdlIGNhbiBtZWV0IHlvdXIgc3BlY2lmaWMgcmVxdWlyZW1lbnRzIHdpdGggcHJvZmVzc2lvbmFsaXNtIGFuZCBlZmZpY2llbmN5LiBUcnVzdCBWYXJuaSBFeHBvcnRzIGZvciBzdXBlcmlvciBxdWFsaXR5IGNhcmF3YXkgc2VlZHMgYW5kIGV4Y2VwdGlvbmFsIHNlcnZpY2UgaW4gZXZlcnkgc2hpcG1lbnQu"
-            },
-
-            {
-                "id": "19",
-                "name": "Celery Seeds",
-                "Category": "Spices",
-                "images": "",
-                "Moisture": "10% Max",
-                "Purity": "99%",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine Cleaned",
-                "Acid Insoluble Ash": "1.75% Max",
-                "Certification": "FSSAI Certified",
-                "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
-                "Loading": "15 to 30 Tons",
-                "description": "KipJbnRyb2R1Y2luZyBDZWxlcnkgU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqT3JpZ2lucyBhbmQgQ2hhcmFjdGVyaXN0aWNzKioKCkNlbGVyeSBzZWVkcywgZGVyaXZlZCBmcm9tIHRoZSBjZWxlcnkgcGxhbnQgKEFwaXVtIGdyYXZlb2xlbnMpLCBhcmUgc21hbGwgYW5kIGRhcmsgYnJvd24gd2l0aCBhIHN0cm9uZyBhcm9tYSBhbmQgaW50ZW5zZSBmbGF2b3IuIE5hdGl2ZSB0byB0aGUgTWVkaXRlcnJhbmVhbiByZWdpb24gYW5kIHdpZGVseSBjdWx0aXZhdGVkIGdsb2JhbGx5LCBjZWxlcnkgc2VlZHMgYXJlIGtub3duIGZvciB0aGVpciBkaXN0aW5jdCB0YXN0ZSB0aGF0IGNvbWJpbmVzIGVhcnRoaW5lc3Mgd2l0aCBhIGhpbnQgb2YgYml0dGVybmVzcyBhbmQgcGVwcGVyaW5lc3MuCgoqKkN1bGluYXJ5IFVzZXMqKgoKQ2VsZXJ5IHNlZWRzIGFyZSBhIHZlcnNhdGlsZSBzcGljZSB1c2VkIGluIHZhcmlvdXMgY3Vpc2luZXMgYXJvdW5kIHRoZSB3b3JsZC4gVGhleSBhcmUgYSBjb21tb24gaW5ncmVkaWVudCBpbiBwaWNrbGluZyBicmluZXMsIGltcGFydGluZyBhIHJvYnVzdCBmbGF2b3IgdG8gcGlja2xlZCB2ZWdldGFibGVzIGxpa2UgY3VjdW1iZXJzIGFuZCBjYXJyb3RzLiBJbiBjb29raW5nLCBjZWxlcnkgc2VlZHMgYXJlIHVzZWQgdG8gc2Vhc29uIHNvdXBzLCBzdGV3cywgc2F1Y2VzLCBhbmQgc2FsYWQgZHJlc3NpbmdzLCBhZGRpbmcgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gZGlzaGVzLiBUaGV5IGFyZSBhbHNvIHBvcHVsYXIgaW4gc3BpY2UgYmxlbmRzLCBzdWNoIGFzIGN1cnJ5IHBvd2RlcnMgYW5kIHNwaWNlIHJ1YnMgZm9yIG1lYXRzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIHRoZWlyIGN1bGluYXJ5IGFwcGxpY2F0aW9ucywgY2VsZXJ5IHNlZWRzIGFyZSB2YWx1ZWQgZm9yIHRoZWlyIHBvdGVudGlhbCBoZWFsdGggYmVuZWZpdHMuIFRoZXkgY29udGFpbiBlc3NlbnRpYWwgb2lscywgYW50aW94aWRhbnRzLCB2aXRhbWlucywgYW5kIG1pbmVyYWxzIHRoYXQgc3VwcG9ydCBkaWdlc3RpdmUgaGVhbHRoIGFuZCBvdmVyYWxsIHdlbGwtYmVpbmcuIENlbGVyeSBzZWVkcyBhcmUgYmVsaWV2ZWQgdG8gaGF2ZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIGFuZCBtYXkgaGVscCBpbiByZWR1Y2luZyBpbmZsYW1tYXRpb24tcmVsYXRlZCBhaWxtZW50cy4gQWRkaXRpb25hbGx5LCB0aGV5IGFyZSBrbm93biB0byBhaWQgaW4gbG93ZXJpbmcgYmxvb2QgcHJlc3N1cmUgYW5kIGltcHJvdmluZyBjYXJkaW92YXNjdWxhciBoZWFsdGguCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHVwaG9sZCBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMgdG8gZGVsaXZlciBwcmVtaXVtIGNlbGVyeSBzZWVkcyB0byBvdXIgY3VzdG9tZXJzIHdvcmxkd2lkZS4gV2Ugc291cmNlIG91ciBzZWVkcyBmcm9tIHJlcHV0YWJsZSBncm93ZXJzIGFuZCBlbnN1cmUgdGhleSB1bmRlcmdvIHJpZ29yb3VzIHF1YWxpdHkgY2hlY2tzIHRocm91Z2hvdXQgdGhlIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZyBzdGFnZXMuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyB0aGF0IGVhY2ggYmF0Y2ggb2YgY2VsZXJ5IHNlZWRzIG1lZXRzIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgYW5kIHF1YWxpdHkgcmVndWxhdGlvbnMuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkV4cGxvcmUgdGhlIGN1bGluYXJ5IGFuZCBoZWFsdGggYmVuZWZpdHMgb2YgY2VsZXJ5IHNlZWRzIHdpdGggVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gc291cmNpbmcgaGlnaC1xdWFsaXR5IHNwaWNlcyBhbmQgaGVyYnMuIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIGZvciBidWxrIHF1YW50aXRpZXMgb3Igc3BlY2lhbGl6ZWQgYmxlbmRzLCB3ZSBhcmUgZGVkaWNhdGVkIHRvIG1lZXRpbmcgeW91ciBuZWVkcyB3aXRoIHJlbGlhYmlsaXR5IGFuZCBwcm9mZXNzaW9uYWxpc20uIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZGl2ZXJzZSBwcm9kdWN0IG9mZmVyaW5ncyBhbmQgaG93IHdlIGNhbiBhc3Npc3QgeW91IGluIGFjaGlldmluZyB5b3VyIGJ1c2luZXNzIG9iamVjdGl2ZXMuCgoqKlRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIEV4Y2VwdGlvbmFsIFF1YWxpdHkgYW5kIFNlcnZpY2UqKgoKQ291bnQgb24gVmFybmkgRXhwb3J0cyBmb3Igc3VwZXJpb3IgY2VsZXJ5IHNlZWRzIGFuZCB1bnBhcmFsbGVsZWQgc2VydmljZS4gV2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIGZyZXNobmVzcywgZmxhdm9yLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgaW4gZXZlcnkgc2hpcG1lbnQsIGVuc3VyaW5nIHlvdXIgc2F0aXNmYWN0aW9uIGFuZCBzdWNjZXNzIGluIHRoZSBnbG9iYWwgbWFya2V0LiBFeHBlcmllbmNlIHRoZSBkaWZmZXJlbmNlIHdpdGggVmFybmkgRXhwb3J0cyDigJMgeW91ciBnYXRld2F5IHRvIHByZW1pdW0gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu"
-            },
-
-            {
-                "id": "20",
-                "name": "Cinnamon",
-                "Category": "Spices",
-                "images": "",
-                "Length": "8-15 cm",
-                "Color": "Light Brown",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Machine Cleaned",
-                "Acid Insoluble Ash": "2% max",
-                "Certification": "FSSAI Certified",
-                "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
-                "Loading": "15 to 30 Tons",
-                "description": "KipEaXNjb3ZlciBDaW5uYW1vbiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKKipJbnRyb2R1Y3Rpb24gdG8gQ2lubmFtb24qKgoKQ2lubmFtb24sIG9mdGVuIHJlZmVycmVkIHRvIGFzICJUcnVlIENpbm5hbW9uIiBvciBTcmkgTGFua2FuIENpbm5hbW9uLCBpcyB0aGUgZHJpZWQgaW5uZXIgc3RlbSBiYXJrIG9mIENpbm5hbW9tdW0gdmVydW0uIEN1bHRpdmF0ZWQgcHJpbWFyaWx5IGluIFNyaSBMYW5rYSwgdGhlIE1hbGFnYXN5IFJlcHVibGljLCBhbmQgU2V5Y2hlbGxlcywgaXQgb3JpZ2luYXRlcyBmcm9tIHRoZSBjZW50cmFsIGhpbGxzIG9mIFNyaSBMYW5rYSBhbmQgaXMgYWxzbyBncm93biBpbiBzZWxlY3QgbG9jYXRpb25zIGluIEtlcmFsYSwgSW5kaWEuIENpbm5hbW9uIHBsYW50cyBncm93IGFzIGJ1c2hlcyBhbmQgYXJlIHJlYWR5IGZvciBoYXJ2ZXN0aW5nIHdoZW4gdGhleSByZWFjaCBhYm91dCB0d28geWVhcnMgb2YgYWdlLCBzdGFuZGluZyBhcHByb3hpbWF0ZWx5IDIgbWV0ZXJzIHRhbGwgYW5kIDgtMTIgY20gaW4gZGlhbWV0ZXIgYXQgdGhlIGJhc2UuCgoqKkN1bHRpdmF0aW9uIGFuZCBDb25kaXRpb25zKioKCkNpbm5hbW9uIHRocml2ZXMgaW4gdmFyeWluZyBjb25kaXRpb25zIGZyb20gc2VtaS1kcmllZCB0byB3ZXQgem9uZXMsIHdpdGggYW4gaWRlYWwgdGVtcGVyYXR1cmUgcmFuZ2Ugb2YgMjAtMzAgZGVncmVlcyBDZWxzaXVzIGFuZCBhbm51YWwgcmFpbmZhbGwgYmV0d2VlbiAxMjUwIHRvIDI1MDAgbW0uIEl0IGZsb3VyaXNoZXMgYmVzdCBhcyBhIGZvcmVzdCB0cmVlIGF0IGVsZXZhdGlvbnMgb2YgMzAwLTM1MCBtZXRlcnMgYWJvdmUgc2VhIGxldmVsLgoKKipDb21tZXJjaWFsIFByb2R1Y3RzIGFuZCBVc2VzKioKClRoZSBjb21tZXJjaWFsIHByb2R1Y3RzIGRlcml2ZWQgZnJvbSBjaW5uYW1vbiBpbmNsdWRlOgotICoqUXVpbGxzOioqIFNjcmFwZWQgcGVlbCBvZiB0aGUgaW5uZXIgYmFyayBvZiBtYXR1cmUgY2lubmFtb24gc2hvb3RzLCByb2xsZWQgaW50byB0dWJlcyBmaWxsZWQgd2l0aCBzbWFsbGVyIHBpZWNlcywgZHJpZWQgaW4gdGhlIHN1biBhbmQgc2hhZGUuCi0gKipRdWlsbGluZ3M6KiogQnJva2VuIHBpZWNlcyBhbmQgc3BsaXRzIG9mIGNpbm5hbW9uIHF1aWxscy4KLSAqKkZlYXRoZXJpbmdzOioqIEZlYXRoZXItbGlrZSBwaWVjZXMgb2YgaW5uZXIgYmFyaywgY29uc2lzdGluZyBvZiBzaGF2aW5ncyBhbmQgc21hbGwgYmFyayBmcmFnbWVudHMuCi0gKipDaGlwczoqKiBSb3VnaCwgdW5wZWVsYWJsZSBiYXJrcyBzY3JhcGVkIGZyb20gdGhpY2tlciBzdGVtcy4KCioqQ2lubmFtb24gT2lscyoqCgpDaW5uYW1vbiBpcyBhbHNvIHZhbHVlZCBmb3IgaXRzIGVzc2VudGlhbCBvaWxzIG9idGFpbmVkIGZyb20gdGhlIGJhcmsgYW5kIGxlYXZlcyB0aHJvdWdoIGRpc3RpbGxhdGlvbjoKLSAqKkNpbm5hbW9uIEJhcmsgT2lsOioqIEtub3duIGZvciBpdHMgZGVsaWNhdGUgZnJhZ3JhbmNlIGFuZCB3YXJtLCBhZ3JlZWFibGUgdGFzdGUsIHVzZWQgaW4gZmxhdm9yaW5nIGNvbmZlY3Rpb25lcnksIGxpcXVvcnMsIHBoYXJtYWNldXRpY2FscywgYW5kIGNvc21ldGljcy4gSXQgcG9zc2Vzc2VzIGFudGktZnVuZ2FsIHByb3BlcnRpZXMgYW5kIGFpZHMgaW4gZGlnZXN0aW9uLgotICoqQ2lubmFtb24gTGVhZiBPaWw6KiogV2lkZWx5IHVzZWQgaW4gcGVyZnVtZXJ5IGFuZCBjb3NtZXRpY3MsIGNvbnRyaWJ1dGluZyB0byBpdHMgZGlzdGluY3QgYXJvbWEgcHJvZmlsZS4KCioqSGVhbHRoIEJlbmVmaXRzIGFuZCBDdWxpbmFyeSBVc2VzKioKCkNpbm5hbW9uIGlzIGNlbGVicmF0ZWQgbm90IG9ubHkgZm9yIGl0cyBjdWxpbmFyeSB1c2VzIGJ1dCBhbHNvIGZvciBpdHMgaGVhbHRoIGJlbmVmaXRzOgotIEl0IGFpZHMgaW4gZGlnZXN0aW9uLCBwYXJ0aWN1bGFybHkgZm9yIGRpYWJldGljcyBtYW5hZ2luZyBzdWdhci4KLSBJdCBleGhpYml0cyBhc3RyaW5nZW50LCBzdGltdWxhbnQsIGFuZCBjYXJtaW5hdGl2ZSBwcm9wZXJ0aWVzLCBoZWxwaW5nIHRvIGFsbGV2aWF0ZSBuYXVzZWEgYW5kIHZvbWl0aW5nLgoKKipQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBjaW5uYW1vbiBwcm9kdWN0cyB0aGF0IG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMgb2YgcXVhbGl0eSBhbmQgZnJlc2huZXNzLiBXaGV0aGVyIHlvdSBuZWVkIGNpbm5hbW9uIHF1aWxscywgcG93ZGVyLCBvciBlc3NlbnRpYWwgb2lscywgd2UgZW5zdXJlIGVhY2ggYmF0Y2ggaXMgbWV0aWN1bG91c2x5IHByb2Nlc3NlZCBhbmQgcGFja2FnZWQgdG8gcHJlc2VydmUgaXRzIGFyb21hIGFuZCBmbGF2b3IuIFBhcnRuZXIgd2l0aCB1cyB0byBkaXNjb3ZlciB0aGUgZXhjZXB0aW9uYWwgcXVhbGl0aWVzIG9mIGNpbm5hbW9uIGFuZCBleHBsb3JlIGl0cyB2ZXJzYXRpbGUgYXBwbGljYXRpb25zIGluIHZhcmlvdXMgaW5kdXN0cmllcy4KCioqQ29udGFjdCBWYXJuaSBFeHBvcnRzIFRvZGF5KioKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIGNpbm5hbW9uIHByb2R1Y3RzIG9yIHRvIGRpc2N1c3MgeW91ciBzcGVjaWZpYyByZXF1aXJlbWVudHMsIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcmVsaWFibGUgc2VydmljZSBhbmQgc3VwZXJpb3IgcXVhbGl0eSBjaW5uYW1vbiBwcm9kdWN0cyB0aGF0IGVuaGFuY2UgeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhlYWx0aCBpbml0aWF0aXZlcy4gSm9pbiBoYW5kcyB3aXRoIFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu"
-            },
-
-            {
-                "id": "21",
-                "name": "Mace",
-                "Category": "Spices",
-                "images": "",
-                "Color": "Reddish-orange",
-                "Flavor": "Aromatic, warm, and slightly sweet",
-                "Shelf Life": "1 Year From Production Date",
-                "Storage Condition": "Cool And Dry (20°C)",
-                "Type": "Whole",
-                "Packaging": "1 to 50 kg, PP Bags, Jute Bags",
-                "Loading": "15 to 30 Tons",
-                "description": "KipFeHBsb3JlIE1hY2Ugd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIE1hY2UqKgoKTWFjZSwgZGVyaXZlZCBmcm9tIHRoZSBhcmlsIG9mIHRoZSBudXRtZWcgc2VlZCwgaXMgYSBwcml6ZWQgc3BpY2Uga25vd24gZm9yIGl0cyB1bmlxdWUgZmxhdm9yIGFuZCBhcm9tYXRpYyBxdWFsaXRpZXMuIEl0IGlzIG9idGFpbmVkIGZyb20gdGhlIE15cmlzdGljYSBmcmFncmFucyB0cmVlLCBuYXRpdmUgdG8gdGhlIHRyb3BpY2FsIHJlZ2lvbnMgb2YgSW5kb25lc2lhIGFuZCBhbHNvIGN1bHRpdmF0ZWQgaW4gb3RoZXIgcGFydHMgb2YgU291dGhlYXN0IEFzaWEuCgoqKkN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0KioKClRoZSBudXRtZWcgdHJlZSBwcm9kdWNlcyBib3RoIG51dG1lZyBhbmQgbWFjZS4gTWFjZSBpcyB0aGUgcmVkZGlzaCBhcmlsIHN1cnJvdW5kaW5nIHRoZSBzZWVkLCB3aGljaCBpcyBoYXJ2ZXN0ZWQgYnkgaGFuZCB3aGVuIG1hdHVyZS4gSXQgdW5kZXJnb2VzIGEgbWV0aWN1bG91cyBwcm9jZXNzIHRvIHNlcGFyYXRlIGl0IGZyb20gdGhlIG51dG1lZyBzZWVkIGFuZCBpcyB0aGVuIGRyaWVkIHRvIHByZXNlcnZlIGl0cyBmbGF2b3IgYW5kIGFyb21hLgoKKipGbGF2b3IgUHJvZmlsZSBhbmQgQ3VsaW5hcnkgVXNlcyoqCgpNYWNlIGhhcyBhIHNsaWdodGx5IHN3ZWV0ZXIgYW5kIG1vcmUgZGVsaWNhdGUgZmxhdm9yIGNvbXBhcmVkIHRvIG51dG1lZywgd2l0aCBoaW50cyBvZiBjaW5uYW1vbiBhbmQgcGVwcGVyLiBJdCBpcyB1c2VkIGFzIGEgc3BpY2UgaW4gdmFyaW91cyBjdWlzaW5lcyB3b3JsZHdpZGUsIGFkZGluZyBkZXB0aCB0byBib3RoIHNhdm9yeSBhbmQgc3dlZXQgZGlzaGVzLiBJbiBjb29raW5nLCBpdCBjb21wbGVtZW50cyBtZWF0cywgc3Rld3MsIGJha2VkIGdvb2RzLCBhbmQgZXZlbiBiZXZlcmFnZXMgbGlrZSBtdWxsZWQgd2luZS4KCioqSGVhbHRoIEJlbmVmaXRzKioKCkJleW9uZCBpdHMgY3VsaW5hcnkgdXNlcywgbWFjZSBvZmZlcnMgc2V2ZXJhbCBoZWFsdGggYmVuZWZpdHM6Ci0gKipEaWdlc3RpdmUgQWlkOioqIE1hY2UgYWlkcyBkaWdlc3Rpb24gYW5kIGlzIG9mdGVuIHVzZWQgdG8gYWxsZXZpYXRlIG5hdXNlYSBhbmQgcHJvbW90ZSBnYXN0cm9pbnRlc3RpbmFsIGhlYWx0aC4KLSAqKkFudGktaW5mbGFtbWF0b3J5IFByb3BlcnRpZXM6KiogSXQgaGFzIG5hdHVyYWwgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcyB0aGF0IG1heSBoZWxwIGluIHJlZHVjaW5nIGpvaW50IHBhaW4gYW5kIGluZmxhbW1hdGlvbi4KLSAqKkFudGlveGlkYW50IEJlbmVmaXRzOioqIE1hY2UgY29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgY29udHJpYnV0ZSB0byBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KCioqQ29tbWVyY2lhbCBVc2VzIGFuZCBQcm9kdWN0cyoqCgpNYWNlIGlzIGNvbW1lcmNpYWxseSBhdmFpbGFibGUgaW4gdmFyaW91cyBmb3JtczoKLSAqKldob2xlIE1hY2U6KiogSW50YWN0IGFyaWxzIGRyaWVkIGNhcmVmdWxseSB0byBwcmVzZXJ2ZSB0aGVpciBzdHJ1Y3R1cmUgYW5kIGFyb21hLgotICoqR3JvdW5kIE1hY2U6KiogUG93ZGVyZWQgbWFjZSB1c2VkIGZvciBjb252ZW5pZW5jZSBpbiBjb29raW5nIGFuZCBiYWtpbmcuCi0gKipNYWNlIE9pbDoqKiBFeHRyYWN0ZWQgZnJvbSBtYWNlLCB1c2VkIGluIHBlcmZ1bWVyeSBhbmQgYXMgYSBmbGF2b3JpbmcgYWdlbnQuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIG1hY2UgcHJvZHVjdHMgdG8gZ2xvYmFsIG1hcmtldHMuIE91ciBtYWNlIGlzIGNhcmVmdWxseSBzZWxlY3RlZCwgcHJvY2Vzc2VkLCBhbmQgcGFja2FnZWQgdG8gZW5zdXJlIG1heGltdW0gZnJlc2huZXNzIGFuZCBxdWFsaXR5LiBXZSBjYXRlciB0byBkaXZlcnNlIGluZHVzdHJpZXMgaW5jbHVkaW5nIGZvb2QsIGJldmVyYWdlLCBwaGFybWFjZXV0aWNhbHMsIGFuZCBjb3NtZXRpY3MuCgoqKkNvbnRhY3QgVmFybmkgRXhwb3J0cyBUb2RheSoqCgpFeHBsb3JlIHRoZSB3b3JsZCBvZiBtYWNlIHdpdGggVmFybmkgRXhwb3J0cy4gV2hldGhlciB5b3UgbmVlZCB3aG9sZSBtYWNlLCBncm91bmQgbWFjZSwgb3IgbWFjZSBvaWwsIHdlIHByb3ZpZGUgZXhjZXB0aW9uYWwgcHJvZHVjdHMgdGhhdCBtZWV0IHlvdXIgc3BlY2lmaWNhdGlvbnMgYW5kIGV4Y2VlZCB5b3VyIGV4cGVjdGF0aW9ucy4gUGFydG5lciB3aXRoIHVzIGZvciByZWxpYWJsZSBzZXJ2aWNlLCBjb21wZXRpdGl2ZSBwcmljaW5nLCBhbmQgc3VwZXJpb3IgcXVhbGl0eSBtYWNlIHNvdXJjZWQgZnJvbSB0cnVzdGVkIHN1cHBsaWVycy4gQ29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMgYW5kIHN0YXJ0IGEgZnJ1aXRmdWwgcGFydG5lcnNoaXAgaW4gdGhlIHNwaWNlIHRyYWRlLg=="
-            },
-
-
-            {
-                "id": "22",
-                "name": "Star Anise",
-                "Category": "Spices",
-                "images": "",
-                "Origin": "India",
-                "Purity": "100%",
-                "Moisture": "10.10% Max",
-                "Type": "Conventional",
-                "Shelf Life": "1 Year",
-                "Form": "Whole/Broken",
-                "Packaging": "15/25/50 kg Jute Bag, PP Bag",
-                "Loading": "20’ FCL- 16 MT & 40’ FCL- 27MT",
-                "description": "KipEaXNjb3ZlciBTdGFyIEFuaXNlIHdpdGggVmFybmkgRXhwb3J0cyoqCgoqKkludHJvZHVjdGlvbiB0byBTdGFyIEFuaXNlKioKClN0YXIgYW5pc2UsIGRlcml2ZWQgZnJvbSB0aGUgZHJpZWQgZnJ1aXQgb2YgdGhlIElsbGljaXVtIHZlcnVtIHBsYW50LCBpcyBhIHJlbm93bmVkIHNwaWNlIHdpdGggc2lnbmlmaWNhbnQgYXBwbGljYXRpb25zIGluIGJvdGggY3VsaW5hcnkgYW5kIHBoYXJtYWNldXRpY2FsIGluZHVzdHJpZXMuCgoqKk9yaWdpbiBhbmQgQ3VsdGl2YXRpb24qKgoKSW5kaWdlbm91cyB0byB0aGUgc291dGhlYXN0ZXJuIHJlZ2lvbnMgb2YgSW5kaWEsIENoaW5hLCBhbmQgVmlldG5hbSwgc3RhciBhbmlzZSBpcyBkaXN0aW5jdGl2ZWx5IGNoYXJhY3Rlcml6ZWQgYnkgaXRzIHN0YXItc2hhcGVkIGZydWl0LiBJdCBzaGFyZXMgc2ltaWxhciBmbGF2b3IgcHJvZmlsZXMgYW5kIHVzZXMgd2l0aCB0cmFkaXRpb25hbCBhbmlzZSAoUGltcGluZWxsYSBhbmlzdW0pLCBkZXNwaXRlIGJlaW5nIGJvdGFuaWNhbGx5IHVucmVsYXRlZC4KCioqQ3VsaW5hcnkgYW5kIEFyb21hdGljIFVzZXMqKgoKU3RhciBhbmlzZSBpcyBwcml6ZWQgZm9yIGl0cyBwb3RlbnQsIHZvbGF0aWxlIGVzc2VudGlhbCBvaWwsIHByZWRvbWluYW50bHkgY29tcG9zZWQgb2YgYW5ldGhvbGUuIFRoaXMgYXJvbWF0aWMgb2lsIGlzIHdpZGVseSBlbXBsb3llZCBpbiBmbGF2b3JpbmcgdmFyaW91cyBjdWxpbmFyeSBkaXNoZXMsIGNvbmZlY3Rpb25lcmllcywgbGlxdWV1cnMsIGFuZCBwZXJmdW1lcywgaW1wYXJ0aW5nIGEgc3dlZXQgYW5kIGxpY29yaWNlLWxpa2UgYXJvbWEuCgoqKlBoYXJtYWNldXRpY2FsIFNpZ25pZmljYW5jZSoqCgpJbiB0aGUgcGhhcm1hY2V1dGljYWwgc2VjdG9yLCBzdGFyIGFuaXNlIGlzIGEgcGl2b3RhbCBzb3VyY2Ugb2Ygc2hpa2ltaWMgYWNpZC4gVGhpcyBjb21wb3VuZCBwbGF5cyBhIGNydWNpYWwgcm9sZSBpbiB0aGUgc3ludGhlc2lzIG9mIG9zZWx0YW1pdmlyIChUYW1pZmx1KSwgYW4gYW50aXZpcmFsIG1lZGljYXRpb24gdXNlZCBpbiB0aGUgdHJlYXRtZW50IG9mIGluZmx1ZW56YSBpbmZlY3Rpb25zLgoKKipQaHlzaWNhbCBDaGFyYWN0ZXJpc3RpY3MqKgoKVGhlIGRyaWVkIGZydWl0IG9mIHN0YXIgYW5pc2UgdHlwaWNhbGx5IG1lYXN1cmVzIGJldHdlZW4gMC4yNSB0byAwLjUgY20gKDAuMSB0byAwLjIgaW5jaGVzKSBpbiBkaWFtZXRlci4gRWFjaCBmcnVpdCBjb25zaXN0cyBvZiBzZXZlcmFsIGNhcnBlbHMgYXJyYW5nZWQgaW4gYSBzdGFyLWxpa2UgcGF0dGVybiBhcm91bmQgYSBjZW50cmFsIGF4aXMuIFRoZXNlIGNhcnBlbHMgYXJlIGhhcmQsIHJvdWdoLXRleHR1cmVkLCBhbmQgcmVkZGlzaC1icm93biBpbiBhcHBlYXJhbmNlLCBlbmNsb3Npbmcgc21vb3RoLCBsdXN0cm91cywgbGlnaHQgYnJvd24gc2VlZHMuCgoqKkhlYWx0aCBCZW5lZml0cyBvZiBTdGFyIEFuaXNlKioKClN0YXIgYW5pc2Ugb2ZmZXJzIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKkltbXVuaXR5IEJvb3N0ZXI6KiogSXQgbWF5IGVuaGFuY2UgaW1tdW5lIGZ1bmN0aW9uLCBoZWxwaW5nIHRoZSBib2R5IGNvbWJhdCBpbmZlY3Rpb25zLgotICoqUmVndWxhdGlvbiBvZiBCbG9vZCBTdWdhcjoqKiBJdCBoYXMgcG90ZW50aWFsIGJlbmVmaXRzIGluIGNvbnRyb2xsaW5nIGJsb29kIHN1Z2FyIGxldmVscy4KLSAqKk1lbnN0cnVhbCBQYWluIFJlbGllZjoqKiBLbm93biBmb3IgaXRzIGFudGlzcGFzbW9kaWMgcHJvcGVydGllcywgc3RhciBhbmlzZSBjYW4gYWxsZXZpYXRlIG1lbnN0cnVhbCBjcmFtcHMgYW5kIGRpc2NvbWZvcnQuCi0gKipQb3RlbnRpYWwgQ2FuY2VyLUZpZ2h0aW5nIFByb3BlcnRpZXM6KiogU3R1ZGllcyBzdWdnZXN0IGl0IG1heSBoYXZlIHByZXZlbnRpdmUgZWZmZWN0cyBhZ2FpbnN0IGNlcnRhaW4gZWFybHktc3RhZ2UgY2FuY2VycyBsaWtlIGJyZWFzdCBhbmQgc2tpbiBjYW5jZXIuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgc3RhciBhbmlzZSB3b3JsZHdpZGUuIFdlIGVuc3VyZSBjb21wZXRpdGl2ZSBwcmljaW5nIGFuZCBzdXBlcmlvciBxdWFsaXR5IHRvIG1lZXQgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuIFdoZXRoZXIgZm9yIGN1bGluYXJ5LCBtZWRpY2luYWwsIG9yIHBoYXJtYWNldXRpY2FsIHVzZSwgd2UgZGVsaXZlciBzdGFyIGFuaXNlIHByb2R1Y3RzIHRoYXQgZXhjZWVkIGV4cGVjdGF0aW9ucy4KCioqQ29udGFjdCBWYXJuaSBFeHBvcnRzIFRvZGF5KioKCkV4cGxvcmUgdGhlIHZlcnNhdGlsaXR5IGFuZCBiZW5lZml0cyBvZiBzdGFyIGFuaXNlIHdpdGggVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBkaXNjb3ZlciBob3cgb3VyIHByZW1pdW0gcHJvZHVjdHMgY2FuIGVuaGFuY2UgeW91ciBidXNpbmVzcy4gUGFydG5lciB3aXRoIHVzIGZvciByZWxpYWJsZSBzdXBwbHksIGV4Y2VwdGlvbmFsIHNlcnZpY2UsIGFuZCB0b3Atbm90Y2ggcXVhbGl0eSBpbiBldmVyeSBzaGlwbWVudC4gVW5sb2NrIHRoZSBwb3RlbnRpYWwgb2Ygc3RhciBhbmlzZSB3aXRoIFZhcm5pIEV4cG9ydHMgYXMgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gdGhlIHNwaWNlIHRyYWRlLg=="
-            },
-
-            {
-                "id": "23",
-                "name": "Tamarind",
-                "Category": "Spices",
-                "images": "",
-                "Appearance": "Brown to Dark brown Fruit",
-                "Color": "Dark to Dark brown",
-                "Form": "Whole Fruit",
-                "Shelf Life": "18 months - 2 Years",
+                "name": "Poha Thick",
+                "Category": "Snacks",
+                "images": otherProducts4,
+                "Shelf Life": "3 months when kept in a cool and dry place",
+                "Ingredient Type": "Vegetarian",
+                "Package Information": "Pouch",
                 "Storage Condition": "Cool And Dry",
-                "Packaging": "Cartons, PP Bags, Bulk",
-                "Loading": "20 to 25 Tons",
-                "description": "KipJbnRyb2R1Y2luZyBUYW1hcmluZCBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHMqKgoKKipPdmVydmlldyBvZiBUYW1hcmluZCoqCgpUYW1hcmluZCwgdGhlIGZydWl0IG9mIGEgbGFyZ2UgdHJvcGljYWwgdHJlZSwgaXMgYSB2ZXJzYXRpbGUgcHJvZHVjdCB3aXRoIG51bWVyb3VzIGFwcGxpY2F0aW9ucy4gR3Jvd24gaW4gZm9yZXN0cywgb3JjaGFyZHMsIGFuZCBhbG9uZyByb2Fkc2lkZXMgcHJpbWFyaWx5IGluIFNvdXRoIEluZGlhIGFuZCBvdGhlciByZWdpb25zIG9mIEluZGlhLCB0YW1hcmluZCB0cmVlcyB0YWtlIG92ZXIgMTAgeWVhcnMgdG8gbWF0dXJlIGFuZCBzdGFydCB5aWVsZGluZyBmcnVpdHMuIFRoZSBoYXJ2ZXN0aW5nIHNlYXNvbiB0eXBpY2FsbHkgc3BhbnMgZnJvbSBKYW51YXJ5IHRvIEZlYnJ1YXJ5LCBmb2xsb3dpbmcgYmxvb21pbmcgaW4gSnVseS1BdWd1c3QuCgoqKlBoeXNpY2FsIENoYXJhY3RlcmlzdGljcyoqCgpUYW1hcmluZCBmcnVpdHMgYXJlIHNpemVhYmxlLCBtZWFzdXJpbmcgMTAgdG8gMTUgY20gaW4gbGVuZ3RoIGFuZCAxNSB0byAyMCBtbSBpbiB3aWR0aCwgd2l0aCBhIGRpc3RpbmN0aXZlIGN1cnZlZCBzaGFwZS4gRW5jYXNlZCBpbiBhIHByb3RlY3RpdmUgYnJvd24gcG9kLCBlYWNoIGZydWl0IGNvbnRhaW5zIDYgdG8gOCBzZWVkcyBjb3ZlcmVkIGJ5IGEgc3Ryb25nLCBibGFjay1icm93biBodWxsLgoKKipQcm9jZXNzaW5nIGFuZCBVdGlsaXphdGlvbioqCgpUaGUgZXh0cmFjdGlvbiBvZiB0YW1hcmluZCBzZWVkcyBpbnZvbHZlcyBtYW51YWwgcmVtb3ZhbCBmcm9tIHRoZSBmcnVpdCBwb2RzIHVzaW5nIHNoYXJwIGtuaXZlcy4gVGhlc2Ugc2VlZHMsIGtub3duIGZvciB0aGVpciBkdXJhYmlsaXR5LCBhcmUgdGhlbiBjb2xsZWN0ZWQgYnkgdmlsbGFnZXJzIHdobyBzZWxsIHRoZW0gdG8gbG9jYWwgbWVyY2hhbnRzLiBTdG9yZWQgaW4gd2FyZWhvdXNlcywgdGhlc2UgcmF3IHNlZWRzIGFyZSBzdWJzZXF1ZW50bHkgZGlzdHJpYnV0ZWQgdG8gdmFyaW91cyBpbmR1c3RyaWVzLCBub3RhYmx5IHRoZSBjYXR0bGUgZmVlZCBzZWN0b3Igd2l0aGluIEluZGlhLgoKKipNYXJrZXQgUG90ZW50aWFsKioKClZhcm5pIEV4cG9ydHMgYWltcyB0byBleHBvcnQgaGlnaC1xdWFsaXR5IHRhbWFyaW5kIHNlZWRzIHRvIFllbWVuLCBFZ3lwdCwgVHVya2V5LCBKb3JkYW4sIE9tYW4sIFNhdWRpIEFyYWJpYSwgVW5pdGVkIEFyYWIgRW1pcmF0ZXMsIGFuZCBMZWJhbm9uLiBXaXRoIGFuIGFubnVhbCBwcm9kdWN0aW9uIGV4Y2VlZGluZyAxMDAsMDAwIHRvbnMsIHRoZXNlIHNlZWRzIGFyZSBpbnRlZ3JhbCB0byB0aGUgYWdyaWN1bHR1cmFsIGFuZCBpbmR1c3RyaWFsIHNlY3RvcnMgaW4gdGhlc2UgY291bnRyaWVzLgoKKipBcHBsaWNhdGlvbnMgYW5kIFVzZXMqKgoKVGFtYXJpbmQgc2VlZHMgYXJlIHZhbHVlZCBmb3IgdGhlaXI6Ci0gKipDYXR0bGUgRmVlZDoqKiBXaWRlbHkgdXRpbGl6ZWQgaW4gdGhlIGNhdHRsZSBmZWVkIGluZHVzdHJ5IGR1ZSB0byB0aGVpciBudXRyaXRpb25hbCBiZW5lZml0cyBhbmQgaGlnaCBmaWJlciBjb250ZW50LgotICoqSW5kdXN0cmlhbCBBcHBsaWNhdGlvbnM6KiogUG90ZW50aWFsIHVzZXMgaW4gdmFyaW91cyBpbmR1c3RyaWFsIHByb2Nlc3NlcywgaW5jbHVkaW5nIHRoZSBwaGFybWFjZXV0aWNhbCBhbmQgdGV4dGlsZSBpbmR1c3RyaWVzLgotICoqVHJhZGl0aW9uYWwgTWVkaWNpbmU6KiogS25vd24gaW4gdHJhZGl0aW9uYWwgbWVkaWNpbmUgZm9yIGl0cyB0aGVyYXBldXRpYyBwcm9wZXJ0aWVzLCBpbmNsdWRpbmcgYW50aS1pbmZsYW1tYXRvcnkgYW5kIGRpZ2VzdGl2ZSBiZW5lZml0cy4KCioqUGFydG5lciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHN1cGVyaW9yIHF1YWxpdHkgdGFtYXJpbmQgc2VlZHMgdGhhdCBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLiBPdXIgbWV0aWN1bG91cyBzb3VyY2luZyBhbmQgcGFja2FnaW5nIGVuc3VyZSBmcmVzaG5lc3MgYW5kIGR1cmFiaWxpdHkgZHVyaW5nIHRyYW5zaXQuIFdlIGludml0ZSBidXNpbmVzc2VzIGluIFllbWVuLCBFZ3lwdCwgVHVya2V5LCBKb3JkYW4sIE9tYW4sIFNhdWRpIEFyYWJpYSwgVW5pdGVkIEFyYWIgRW1pcmF0ZXMsIGFuZCBMZWJhbm9uIHRvIGNvbGxhYm9yYXRlIHdpdGggdXMgZm9yIHJlbGlhYmxlIHN1cHBseSBhbmQgY29tcGV0aXRpdmUgcHJpY2luZy4KCioqQ29udGFjdCBVcyoqCgpFeHBsb3JlIHRoZSBwb3NzaWJpbGl0aWVzIHdpdGggdGFtYXJpbmQgc2VlZHMgZnJvbSBWYXJuaSBFeHBvcnRzLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMsIGFuZCBsZXQgdXMgYmUgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gdGhlIHN1cHBseSBjaGFpbi4gVG9nZXRoZXIsIHdlIGNhbiBjYXBpdGFsaXplIG9uIHRoZSBwb3RlbnRpYWwgb2YgdGFtYXJpbmQgc2VlZHMgYW5kIGZvc3RlciBtdXR1YWxseSBiZW5lZmljaWFsIHBhcnRuZXJzaGlwcyBhY3Jvc3MgYm9yZGVycy4="
-            },
-
-            {
-                "id": "24",
-                "name": "Dry Greater Galangal",
-                "Category": "Spices",
-                "images": "",
-                "Appearance": "Light brown to dark brown, dried slices or powder",
-                "Color": "Light brown to dark brown",
-                "Form": "Slices or Powder",
-                "Shelf Life": "12-24 months",
-                "Storage Condition": "Cool and dry",
-                "Packaging": "1 to 50 kg Jute Bag, PP Bag",
+                "Packaging": "1 to 50 kg Pouch",
                 "Loading": "15 to 30 Tons",
-                "description": "KipEcnkgR3JlYXRlciBHYWxhbmdhbCBmcm9tIFZhcm5pIEV4cG9ydHMqKgoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdyZWF0ZXIgR2FsYW5nYWwqKgoKRHJ5IEdyZWF0ZXIgR2FsYW5nYWwsIGEgcm9vdCBuYXRpdmUgdG8gU291dGhlYXN0IEFzaWEsIGlzIHJlbm93bmVkIGZvciBpdHMgZGlzdGluY3Qgc3dlZXQsIHB1bmdlbnQsIGFuZCBjaXRydXN5IGZsYXZvcnMuIFRoaXMgYXJvbWF0aWMgc3BpY2UgaXMgYSBzdGFwbGUgaW4gdmFyaW91cyBBc2lhbiBjdWlzaW5lcywgcHJvbWluZW50bHkgZmVhdHVyZWQgaW4gVGhhaSwgSW5kb25lc2lhbiwgYW5kIE1hbGF5c2lhbiBkaXNoZXMuIEl0cyB2ZXJzYXRpbGUgYXBwbGljYXRpb25zIGluY2x1ZGUgZW5oYW5jaW5nIGN1cnJpZXMsIHNvdXBzLCBzdGlyLWZyaWVzLCBhbmQgdHJhZGl0aW9uYWwgVGhhaSBjdXJyeSBwYXN0ZXMuIEFkZGl0aW9uYWxseSwgaXQgY2FuIGJlIGJyZXdlZCBpbnRvIGEgcmVmcmVzaGluZyB0ZWEuCgoqKkN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0aW5nKioKCkdyZWF0ZXIgR2FsYW5nYWwgaXMgY3VsdGl2YXRlZCBhY3Jvc3MgU291dGhlYXN0IEFzaWEsIHRocml2aW5nIGluIHRyb3BpY2FsIGNsaW1hdGVzLiBUaGUgcm9vdCBpcyBoYXJ2ZXN0ZWQgb25jZSBtYXR1cmVkLCB0aGVuIGNhcmVmdWxseSBkcmllZCB0byBwcmVzZXJ2ZSBpdHMgcm9idXN0IGZsYXZvcnMgYW5kIG1lZGljaW5hbCBwcm9wZXJ0aWVzLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvbmx5IHRoZSBmaW5lc3QgcXVhbGl0eSBHcmVhdGVyIEdhbGFuZ2FsIHJvb3RzIGFyZSBzZWxlY3RlZCBhbmQgcHJvY2Vzc2VkLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIGl0cyBjdWxpbmFyeSB1c2VzLCBEcnkgR3JlYXRlciBHYWxhbmdhbCBvZmZlcnMgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEFpZDoqKiBLbm93biBmb3IgZWFzaW5nIGRpZ2VzdGlvbiBhbmQgcmVkdWNpbmcgZ2FzdHJvaW50ZXN0aW5hbCBkaXNjb21mb3J0LgotICoqQW50aS1pbmZsYW1tYXRvcnkgUHJvcGVydGllczoqKiBDb250YWlucyBjb21wb3VuZHMgdGhhdCBoZWxwIGFsbGV2aWF0ZSBpbmZsYW1tYXRpb24uCi0gKipBbnRpb3hpZGFudCBCZW5lZml0czoqKiBSaWNoIGluIGFudGlveGlkYW50cyB0aGF0IGNvbWJhdCBmcmVlIHJhZGljYWxzIGFuZCBwcm9tb3RlIG92ZXJhbGwgaGVhbHRoLgoKKipNYXJrZXQgUmVhY2gqKgoKVmFybmkgRXhwb3J0cyBzcGVjaWFsaXplcyBpbiBzb3VyY2luZyBhbmQgZXhwb3J0aW5nIHByZW1pdW0gRHJ5IEdyZWF0ZXIgR2FsYW5nYWwgdG8gZGlzY2VybmluZyBtYXJrZXRzIHdvcmxkd2lkZS4gT3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBlbnN1cmVzIHRoYXQgb3VyIHByb2R1Y3RzIG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMsIG1ha2luZyB1cyBhIHRydXN0ZWQgc3VwcGxpZXIgZm9yIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgcHVycG9zZXMgYWxpa2UuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkpvaW4gaGFuZHMgd2l0aCBWYXJuaSBFeHBvcnRzIHRvIGV4cGxvcmUgdGhlIGRpdmVyc2UgY3VsaW5hcnkgYW5kIGhlYWx0aCBiZW5lZml0cyBvZiBEcnkgR3JlYXRlciBHYWxhbmdhbC4gV2hldGhlciB5b3UncmUgaW4gdGhlIGZvb2QgaW5kdXN0cnksIHBoYXJtYWNldXRpY2Fscywgb3Igd2VsbG5lc3Mgc2VjdG9yLCB3ZSBwcm92aWRlIHJlbGlhYmxlIHN1cHBseSBhbmQgY29tcGV0aXRpdmUgcHJpY2luZy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIGhvdyB3ZSBjYW4gbWVldCB5b3VyIHNwZWNpZmljIHJlcXVpcmVtZW50cyBhbmQgZGVsaXZlciBleGNlbGxlbmNlIGluIGV2ZXJ5IHNoaXBtZW50LgoKKipDb250YWN0IFVzKioKCkRpc2NvdmVyIHRoZSBlc3NlbmNlIG9mIERyeSBHcmVhdGVyIEdhbGFuZ2FsIHdpdGggVmFybmkgRXhwb3J0cy4gUmVhY2ggb3V0IHRvIHVzIG5vdyBhbmQgZW1iYXJrIG9uIGEgam91cm5leSBvZiBmbGF2b3IsIGFyb21hLCBhbmQgaGVhbHRoLiBMZXQgdXMgYmUgeW91ciBnYXRld2F5IHRvIHByZW1pdW0gU291dGhlYXN0IEFzaWFuIHNwaWNlcyBhbmQgaW5ncmVkaWVudHMu"
+                "Certification": "FSSAI Certified",
+                "description": "KipQb2hhIFRoaWNrOiBBIEhlYXJ0eSBWZXJzaW9uIG9mIFRyYWRpdGlvbmFsIEluZGlhbiBGbGF0dGVuZWQgUmljZSoqCgoqKkludHJvZHVjdGlvbioqCgpQb2hhIFRoaWNrLCBhbHNvIGtub3duIGFzIFRoaWNrIFBvaGEsIGlzIGEgZGVsaWdodGZ1bCBhbmQgaGVhcnR5IHZhcmlhdGlvbiBvZiB0aGUgdHJhZGl0aW9uYWwgSW5kaWFuIGRpc2ggbWFkZSBmcm9tIGZsYXR0ZW5lZCByaWNlLiBJdCBpcyBhIGJlbG92ZWQgYnJlYWtmYXN0IG9wdGlvbiBhY3Jvc3MgSW5kaWEsIGFwcHJlY2lhdGVkIGZvciBpdHMgc2ltcGxpY2l0eSwgbGlnaHRuZXNzLCBhbmQgdmVyc2F0aWxpdHkuIFBvaGEgVGhpY2sgY2FuIGJlIGVuam95ZWQgd2l0aCBhIHZhcmlldHkgb2Ygc2F2b3J5IGFjY29tcGFuaW1lbnRzIGFuZCBpcyBvZnRlbiBzZXJ2ZWQgYWxvbmdzaWRlIHRlYSBvciBjb2ZmZWUuCgoqKkluZ3JlZGllbnRzKioKClRoZSBtYWluIGluZ3JlZGllbnRzIHVzZWQgaW4gcHJlcGFyaW5nIFBvaGEgVGhpY2sgaW5jbHVkZToKLSAqKkZsYXR0ZW5lZCBSaWNlIChQb2hhKToqKiBUaGUgY29yZSBpbmdyZWRpZW50LCBtYWRlIGJ5IHBhcmJvaWxpbmcgcmljZSwgZmxhdHRlbmluZyBpdCwgYW5kIHRoZW4gZHJ5aW5nIGl0IGludG8gZmxha2VzLgotICoqT2lsOioqIFVzZWQgZm9yIGNvb2tpbmcgdGhlIGRpc2guCi0gKipPbmlvbnM6KiogQWRkcyBmbGF2b3IgYW5kIHRleHR1cmUuCi0gKipQb3RhdG9lczoqKiBPZnRlbiBkaWNlZCBhbmQgY29va2VkIGFsb25nIHdpdGggdGhlIFBvaGEuCi0gKipTcGljZXM6KiogU3VjaCBhcyBjdW1pbiBzZWVkcywgbXVzdGFyZCBzZWVkcywgdHVybWVyaWMsIGFuZCBjdXJyeSBsZWF2ZXMsIHdoaWNoIHByb3ZpZGUgYXJvbWF0aWMgZmxhdm9ycyB0byB0aGUgZGlzaC4KLSAqKk9wdGlvbmFsIEluZ3JlZGllbnRzOioqIERlcGVuZGluZyBvbiByZWdpb25hbCBwcmVmZXJlbmNlcywgYWRkaXRpb25hbCBpbmdyZWRpZW50cyBsaWtlIHBlYW51dHMsIGNvcmlhbmRlciBsZWF2ZXMsIGxlbW9uIGp1aWNlLCBncmF0ZWQgY29jb251dCwgb3Igb3RoZXIgdmVnZXRhYmxlcyBtYXkgYmUgaW5jbHVkZWQuCgoqKlByZXBhcmF0aW9uKioKClRoZSBwcmVwYXJhdGlvbiBvZiBQb2hhIFRoaWNrIGludm9sdmVzIHNldmVyYWwgc3RyYWlnaHRmb3J3YXJkIHN0ZXBzOgoxLiAqKldhc2hpbmcgYW5kIFNvYWtpbmc6KiogVGhlIGZsYXR0ZW5lZCByaWNlIChQb2hhKSBpcyBnZW50bHkgd2FzaGVkIHRvIHJlbW92ZSBhbnkgaW1wdXJpdGllcyBhbmQgdGhlbiBzb2FrZWQgYnJpZWZseSBpbiB3YXRlci4gSXQncyBjcnVjaWFsIG5vdCB0byBvdmVyLXNvYWsgdG8gcHJldmVudCB0aGUgUG9oYSBmcm9tIGJlY29taW5nIG11c2h5LgoyLiAqKkRyYWluaW5nOioqIEFmdGVyIHNvYWtpbmcsIHRoZSBQb2hhIGlzIHRob3JvdWdobHkgZHJhaW5lZCB0byBlbGltaW5hdGUgZXhjZXNzIHdhdGVyLgozLiAqKkNvb2tpbmc6KiogSW4gYSBwYW4sIGhlYXQgb2lsIGFuZCB0eXBpY2FsbHkgc3BsdXR0ZXIgbXVzdGFyZCBzZWVkcyBhbmQgY3VtaW4gc2VlZHMgdG8gcmVsZWFzZSB0aGVpciBmbGF2b3JzLiBDaG9wcGVkIG9uaW9ucywgZGljZWQgcG90YXRvZXMsIGFuZCBvdGhlciBzcGljZXMgYXJlIGFkZGVkIGFuZCBzYXV0w6llZCB1bnRpbCB0aGUgcG90YXRvZXMgYXJlIGNvb2tlZCB0aHJvdWdoLgo0LiAqKkFkZGluZyBQb2hhOioqIFRoZSBkcmFpbmVkIFBvaGEgaXMgdGhlbiBhZGRlZCB0byB0aGUgcGFuIGFuZCBtaXhlZCBnZW50bHkgd2l0aCB0aGUgc3BpY2VzIGFuZCB2ZWdldGFibGVzLiBJdCBpcyBjb29rZWQgZm9yIGEgZmV3IG1pbnV0ZXMgdW50aWwgaGVhdGVkIHRocm91Z2ggYW5kIHdlbGwgY29tYmluZWQuCjUuICoqRmluYWwgVG91Y2hlczoqKiBGcmVzaCBpbmdyZWRpZW50cyBsaWtlIGNob3BwZWQgY29yaWFuZGVyIGxlYXZlcywgcm9hc3RlZCBwZWFudXRzLCBhbmQgYSBzcGxhc2ggb2YgbGVtb24ganVpY2UgbWF5IGJlIGFkZGVkIGF0IHRoZSBlbmQgdG8gZW5oYW5jZSBmbGF2b3IgYW5kIHRleHR1cmUuCgoqKkN1bGluYXJ5IFVzZXMqKgoKUG9oYSBUaGljayBjYW4gYmUgZW5qb3llZCBpbiB2YXJpb3VzIHdheXM6Ci0gKipCcmVha2Zhc3QgRGlzaDoqKiBJdCBpcyBjb21tb25seSBzZXJ2ZWQgYXMgYSBmdWxmaWxsaW5nIGFuZCBudXRyaXRpb3VzIGJyZWFrZmFzdCBkaXNoLgotICoqU25hY2s6KiogUG9oYSBUaGljayBhbHNvIG1ha2VzIGZvciBhIHNhdGlzZnlpbmcgc25hY2ssIGVzcGVjaWFsbHkgd2hlbiBwYWlyZWQgd2l0aCBhIGhvdCBiZXZlcmFnZSBsaWtlIHRlYSBvciBjb2ZmZWUuCi0gKipNYWluIENvdXJzZToqKiBEZXBlbmRpbmcgb24gdGhlIGFjY29tcGFuaW1lbnRzIGFuZCBzaWRlIGRpc2hlcywgUG9oYSBUaGljayBjYW4gYWxzbyBiZSBlbmpveWVkIGFzIGEgbWFpbiBjb3Vyc2UgbWVhbC4KCioqSGVhbHRoIEJlbmVmaXRzKioKClBvaGEgVGhpY2sgb2ZmZXJzIHNldmVyYWwgaGVhbHRoIGJlbmVmaXRzOgotICoqTnV0cmllbnQtUmljaDoqKiBJdCBpcyByaWNoIGluIGNhcmJvaHlkcmF0ZXMsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIHByb3ZpZGluZyBlc3NlbnRpYWwgbnV0cmllbnRzIGZvciBhIGJhbGFuY2VkIGRpZXQuCi0gKipMaWdodCBhbmQgRWFzaWx5IERpZ2VzdGlibGU6KiogVGhlIGZsYXR0ZW5lZCByaWNlIGlzIGxpZ2h0IG9uIHRoZSBzdG9tYWNoIGFuZCBlYXN5IHRvIGRpZ2VzdCwgbWFraW5nIGl0IHN1aXRhYmxlIGZvciBjb25zdW1wdGlvbiBpbiB0aGUgbW9ybmluZy4KLSAqKlZlcnNhdGlsZToqKiBJdCBjYW4gYmUgY3VzdG9taXplZCB3aXRoIHZhcmlvdXMgaW5ncmVkaWVudHMgdG8gc3VpdCBpbmRpdmlkdWFsIHRhc3RlcyBhbmQgZGlldGFyeSBwcmVmZXJlbmNlcy4KCioqRXhwZXJpZW5jZSBQb2hhIFRoaWNrIHdpdGggVmFybmkgRXhwb3J0cyoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBvZmZlciBoaWdoLXF1YWxpdHkgUG9oYSBUaGljaywgcGVyZmVjdCBmb3IgcHJlcGFyaW5nIHRyYWRpdGlvbmFsIEluZGlhbiBicmVha2Zhc3RzIG9yIHNuYWNrcy4gT3VyIFBvaGEgVGhpY2sgaXMgY2FyZWZ1bGx5IHNvdXJjZWQgYW5kIHByb2Nlc3NlZCB0byBlbnN1cmUgZnJlc2huZXNzIGFuZCBhdXRoZW50aWNpdHkuIENvbnRhY3QgdXMgdG9kYXkgdG8gZXhwbG9yZSBvdXIgcmFuZ2Ugb2YgcHJvZHVjdHMgYW5kIHNhdm9yIHRoZSBhdXRoZW50aWMgZmxhdm9ycyBvZiBJbmRpYSB3aXRoIFZhcm5pIEV4cG9ydHMhCgo="
             }
         ]
+
     }
+
 ];
 
 export const landingPageSlider = [
@@ -1251,14 +1809,528 @@ export const contactUsSection = {
 }
 
 export const Slider_products = [
-    { id: 1, name: "Black-raisins", image: Black_raisins },
-    { id: 2, name: "Brown-Sesame", image: Brown_Sesame },
-    { id: 3, name: "Cardamom", image: Cardamom },
-    { id: 4, name: "Currants", image: Currants },
-    { id: 5, name: "Guar-meal", image: guar_meal },
-    { id: 6, name: "Red-Raisin", image: Red_Raisin },
-    { id: 7, name: "Split-bengal-gram-chana-dal", image: Split_bengal_gram_chana_dal },
-    { id: 8, name: "White-Onion", image: White_Onion },
+    {
+        "id": 0.377590171478573,
+        "name": "Mustard Seeds",
+        "image": "/src/assets/Products/whole-spices/46.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.9114499506656428,
+        "name": "Dry Ginger",
+        "image": "/src/assets/Products/whole-spices/50.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.4134316512320175,
+        "name": "Dehydrated Red Onion Powder",
+        "image": "/src/assets/Products/Dehydrated/13.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.18213494385261542,
+        "name": "Black Pepper Powder",
+        "image": "/src/assets/Products/ground-spices/73.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.5599246745284303,
+        "name": "Sooji (Semolina)",
+        "image": "/src/assets/Products/grains/24.png",
+        "path": "/products/grains"
+    },
+    {
+        "id": 0.9828602079237698,
+        "name": "Yellow Onion",
+        "image": "/src/assets/Products/onion/27.png",
+        "path": "/products/onion"
+    },
+    {
+        "id": 0.026196482648706,
+        "name": "Coriander Powder",
+        "image": "/src/assets/Products/ground-spices/67.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.9445320713392753,
+        "name": "Cumin Seeds",
+        "image": "/src/assets/Products/whole-spices/42.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.3703051057156279,
+        "name": "Brown Sesame Seeds",
+        "image": "/src/assets/Products/sesame/38.png",
+        "path": "/products/sesame seeds"
+    },
+    {
+        "id": 0.18099724909214232,
+        "name": "Mace",
+        "image": "/src/assets/Products/whole-spices/62.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.9588432480213775,
+        "name": "Dehydrated White Onion Flakes",
+        "image": "/src/assets/Products/Dehydrated/10.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.13889829295297407,
+        "name": "Chilly Powder",
+        "image": "/src/assets/Products/ground-spices/76.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.2367189600633186,
+        "name": "Tamarind",
+        "image": "/src/assets/Products/whole-spices/64.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.12691316455738288,
+        "name": "Dill Seeds",
+        "image": "/src/assets/Products/whole-spices/56.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.7657264630467744,
+        "name": "Hulled Sesame Seeds",
+        "image": "/src/assets/Products/sesame/39.png",
+        "path": "/products/sesame seeds"
+    },
+    {
+        "id": 0.20953523147285247,
+        "name": "Bold Peanut Seed",
+        "image": "/src/assets/Products/Peanut/3.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.13536849328644318,
+        "name": "Java Peanut Seed",
+        "image": "/src/assets/Products/Peanut/2.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.9583351826038804,
+        "name": "Nutmeg",
+        "image": "/src/assets/Products/whole-spices/51.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.6631475781784733,
+        "name": "Nutmeg Powder",
+        "image": "/src/assets/Products/ground-spices/71.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.6524837406455695,
+        "name": "Fenugreek Powder",
+        "image": "/src/assets/Products/ground-spices/69.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.11188224521848933,
+        "name": "Dehydrated White Onion Powder",
+        "image": "/src/assets/Products/Dehydrated/11.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.6513141812555703,
+        "name": "Anardana Powder",
+        "image": "/src/assets/Products/ground-spices/75.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.26776461012184627,
+        "name": "Ginger Flakes",
+        "image": "/src/assets/Products/Dehydrated/19.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.543951482754311,
+        "name": "Celery Seeds",
+        "image": "/src/assets/Products/whole-spices/60.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.9407178159783343,
+        "name": "Fenugreek Seeds",
+        "image": "/src/assets/Products/whole-spices/44.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.14134772173804167,
+        "name": "Fennel Powder",
+        "image": "/src/assets/Products/ground-spices/77.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.7116434827224236,
+        "name": "Dehydrated Pink Onion Powder",
+        "image": "/src/assets/Products/Dehydrated/15.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.0009458258255548024,
+        "name": "Dehydrated Pink Onion Flakes",
+        "image": "/src/assets/Products/Dehydrated/14.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.7630153162925866,
+        "name": "Dry Greater Galangal",
+        "image": "/src/assets/Products/whole-spices/65.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.8889572567152566,
+        "name": "Ground Nuts",
+        "image": "/src/assets/Products/Peanut/4.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.8532095499495438,
+        "name": "Pink Onion",
+        "image": "/src/assets/Products/onion/29.png",
+        "path": "/products/onion"
+    },
+    {
+        "id": 0.41417780276131366,
+        "name": "Roasted Gram Whole Without Skin",
+        "image": "/src/assets/Products/Roasted-Gram/82.png",
+        "path": "/products/roasted-gram"
+    },
+    {
+        "id": 0.15328902379880227,
+        "name": "Golden Long Raisins",
+        "image": "/src/assets/Products/raisins/31.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.6138347306520231,
+        "name": "Star Anise",
+        "image": "/src/assets/Products/whole-spices/63.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.8497581604382174,
+        "name": "Rice",
+        "image": "/src/assets/Products/grains/23.png",
+        "path": "/products/grains"
+    },
+    {
+        "id": 0.7656194251953283,
+        "name": "Cumin Powder",
+        "image": "/src/assets/Products/ground-spices/66.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.7244662043714463,
+        "name": "Brown Raisins",
+        "image": "/src/assets/Products/raisins/36.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.20539492486409539,
+        "name": "Dehydrated Garlic Flakes/Cloves",
+        "image": "/src/assets/Products/Dehydrated/16.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.9458434839795922,
+        "name": "Turmeric Powder",
+        "image": "/src/assets/Products/ground-spices/68.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.4839604581760646,
+        "name": "Dehydrated Red Onion Flakes",
+        "image": "/src/assets/Products/Dehydrated/12.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.540063385377594,
+        "name": "Dehydrated Garlic Powder",
+        "image": "/src/assets/Products/Dehydrated/17.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.2356740160233728,
+        "name": "Wheat",
+        "image": "/src/assets/Products/grains/20.png",
+        "path": "/products/grains"
+    },
+    {
+        "id": 0.9928608412979913,
+        "name": "Coriander Seeds",
+        "image": "/src/assets/Products/whole-spices/43.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.06884744953387978,
+        "name": "Garam Masala Powder",
+        "image": "/src/assets/Products/ground-spices/80.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.10382298368482812,
+        "name": "Dry Ginger Powder",
+        "image": "/src/assets/Products/ground-spices/70.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.6340425697192174,
+        "name": "Clove Seeds",
+        "image": "/src/assets/Products/whole-spices/53.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.7945138499493067,
+        "name": "Five Spices Powder",
+        "image": "/src/assets/Products/ground-spices/79.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.768443207737487,
+        "name": "Bay Leaves",
+        "image": "/src/assets/Products/whole-spices/57.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.650412983024192,
+        "name": "Caraway Seeds",
+        "image": "/src/assets/Products/whole-spices/59.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.7224329768080904,
+        "name": "Yellow Raisins",
+        "image": "/src/assets/Products/raisins/37.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.13578850849351953,
+        "name": "Curry Powder",
+        "image": "/src/assets/Products/ground-spices/72.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.28899998556447337,
+        "name": "Green Raisins",
+        "image": "/src/assets/Products/raisins/33.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.3492944397484712,
+        "name": "Maize/Corn",
+        "image": "/src/assets/Products/grains/21.png",
+        "path": "/products/grains"
+    },
+    {
+        "id": 0.647599081872253,
+        "name": "Coconut",
+        "image": "/src/assets/Products/fruits/9.png",
+        "path": "/products/fruits-and-vegetables"
+    },
+    {
+        "id": 0.7993857387816192,
+        "name": "Green Millet",
+        "image": "/src/assets/Products/grains/25.png",
+        "path": "/products/grains"
+    },
+    {
+        "id": 0.45557623977469874,
+        "name": "Pomegranate",
+        "image": "/src/assets/Products/fruits/8.png",
+        "path": "/products/fruits-and-vegetables"
+    },
+    {
+        "id": 0.9346329027352487,
+        "name": "Ajwain Seeds",
+        "image": "/src/assets/Products/whole-spices/58.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.49460356700104,
+        "name": "Fennel Seeds",
+        "image": "/src/assets/Products/whole-spices/45.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.5574148310288156,
+        "name": "Poha Thin",
+        "image": "/src/assets/Products/others/86.png",
+        "path": "/products/other-products"
+    },
+    {
+        "id": 0.48789744121721457,
+        "name": "Soya Chunks",
+        "image": "/src/assets/Products/others/84.png",
+        "path": "/products/other-products"
+    },
+    {
+        "id": 0.43989747503773824,
+        "name": "Fryums",
+        "image": "/src/assets/Products/others/85.png",
+        "path": "/products/other-products"
+    },
+    {
+        "id": 0.5628624624226228,
+        "name": "Turmeric (Haldi)",
+        "image": "/src/assets/Products/whole-spices/47.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.5915888741862576,
+        "name": "Ginger Powder",
+        "image": "/src/assets/Products/Dehydrated/18.png",
+        "path": "/products/dehydrated-product"
+    },
+    {
+        "id": 0.19507159305254085,
+        "name": "Chilli Flakes",
+        "image": "/src/assets/Products/whole-spices/49.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.9854644141765729,
+        "name": "Blanched Peanut Seeds",
+        "image": "/src/assets/Products/Peanut/1.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.8522182395172857,
+        "name": "Cardamom",
+        "image": "/src/assets/Products/whole-spices/54.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.776575215618118,
+        "name": "Roasted Peanuts",
+        "image": "/src/assets/Products/Peanut/5.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.05467510964044098,
+        "name": "Black Raisins",
+        "image": "/src/assets/Products/raisins/35.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.6208195959054714,
+        "name": "Yellow Mustard Powder",
+        "image": "/src/assets/Products/ground-spices/78.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.7719470083827913,
+        "name": "Black Pepper",
+        "image": "/src/assets/Products/whole-spices/52.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.46111146983415296,
+        "name": "Roasted Gram Split Without Skin",
+        "image": "/src/assets/Products/Roasted-Gram/83.png",
+        "path": "/products/roasted-gram"
+    },
+    {
+        "id": 0.45826434814423833,
+        "name": "Golden Raisins",
+        "image": "/src/assets/Products/raisins/30.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.2964342812106766,
+        "name": "Sultanas Raisins",
+        "image": "/src/assets/Products/raisins/34.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.8199529487374513,
+        "name": "Amchur Powder",
+        "image": "/src/assets/Products/ground-spices/74.png",
+        "path": "/products/spices/whole-spices"
+    },
+    {
+        "id": 0.0560857257889964,
+        "name": "Mango",
+        "image": "/src/assets/Products/fruits/6.png",
+        "path": "/products/fruits-and-vegetables"
+    },
+    {
+        "id": 0.8182227964238622,
+        "name": "Black Sesame Seeds",
+        "image": "/src/assets/Products/sesame/40.png",
+        "path": "/products/sesame seeds"
+    },
+    {
+        "id": 0.33255929933381956,
+        "name": "White Onions",
+        "image": "/src/assets/Products/onion/28.png",
+        "path": "/products/onion"
+    },
+    {
+        "id": 0.2023575658530259,
+        "name": "Black Cumin Seeds",
+        "image": "/src/assets/Products/whole-spices/55.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.4162289500170191,
+        "name": "Roasted Sesame Seeds",
+        "image": "/src/assets/Products/sesame/41.png",
+        "path": "/products/sesame seeds"
+    },
+    {
+        "id": 0.25517613983887144,
+        "name": "Roasted Gram With Skin",
+        "image": "/src/assets/Products/Roasted-Gram/81.png",
+        "path": "/products/roasted-gram"
+    },
+    {
+        "id": 0.5063930084524937,
+        "name": "Chilli",
+        "image": "/src/assets/Products/whole-spices/48.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.29915179762515187,
+        "name": "Flax Seeds",
+        "image": "/src/assets/Products/grains/22.png",
+        "path": "/products/grains"
+    },
+    {
+        "id": 0.21852196886231834,
+        "name": "Red Onion",
+        "image": "/src/assets/Products/onion/26.png",
+        "path": "/products/onion"
+    },
+    {
+        "id": 0.974668821288905,
+        "name": "Golden Round Raisins",
+        "image": "/src/assets/Products/raisins/32.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.5674878877639322,
+        "name": "Poha Thick",
+        "image": "/src/assets/Products/others/87.png",
+        "path": "/products/other-products"
+    },
+    {
+        "id": 0.36657684300550897,
+        "name": "Cinnamon",
+        "image": "/src/assets/Products/whole-spices/61.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.030004359418353665,
+        "name": "Banana",
+        "image": "/src/assets/Products/fruits/7.png",
+        "path": "/products/fruits-and-vegetables"
+    }
 ]
 
 export const counter = [
@@ -1281,31 +2353,73 @@ export const products_detail1 = 'Tm9uLUJhc21hdGk6IEVhc2lseSBkZWZpbmVkIGFzIGEgYm9
 export const products_detail2 = 'QmhpbWFuaSBFeHBvcnRzIHNvdXJjZXMgdGhlIG1vc3QgZXhjZWxsZW50IHF1YWxpdHkgbm9uLWJhc21hdGkgcmljZSBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygbm9ydGhlcm4gcGFydHMgb2YgdGhlIGNvdW50cnksIEluZG8tR2FuZ2V0aWMgcGxhaW5zIGF0IHRoZSB2ZXJ5IGJlZ2lubmluZyBvZiB0aGUgb3BlcmF0aW9uLgoKVGhpcyByaWNlIGlzIGV4dHJlbWVseSByaWNoIHdpdGhpbiB0aGUgcHJvdGVpbiBhbHNvIGJlY2F1c2Ugb2YgdGhlIG9pbCBjb250ZW50LiBSaWdodCBhZnRlciB0aGUgc291cmNpbmcgcHJvY2VzcywgdGhlIG5vbiBiYXNtYXRpIHJpY2UgaXMgbWFkZSB0byB1bmRlcmdvIGNhcmVmdWwgY2xlYW5pbmcgd2hpY2ggaGVscHMgdG8gYWNoaWV2ZSBhIDkwIHRvIDk1JSBwdXJpdHkgbGV2ZWwuCgpWYXJpZXR5IEJoaW1hbmkgRXhwb3J0cyBoYXZlIFNvbmEgTWFzb29yaSBSaWNlLCBKZWVyYSBTYW1iYSBSaWNlLCAxMDAlIEJyb2tlbiBSaWNlLCBQb25uaSBSaWNlLCBJUiA2NCBSaWNlLCBJUiA4IFJpY2UsIE1hdHRhIFJpY2UsIE1hdHRhIFJpY2UsIElkbHkgLyBLcmFudGkgcmljZSBub24tQmFzbWF0aSByaWNlLgoKQmhpbWFuaSBFeHBvcnRzIGhhcyBrbm93biBzb3VyY2VzIHdpdGggYSBzcHJlYWQgcHJvY2Vzc2luZyBwbGFudCBjb25zaXN0aW5nIG9mIHRoZSBsYXRlc3QgbWFjaGluZXJ5IHRoYXQgdXRpbGl6ZXMgY3V0dGluZy1lZGdlIG1hY2hpbmVyeS4gVGhpcyBwbGFudCBtYWtlcyB1c2Ugb2YgZW52aXJvbm1lbnQtZnJpZW5kbHkgcHJhY3RpY2VzIHdoZXJldmVyIHBvc3NpYmxlIGFuZCBnaXZlcyB3YXN0ZSBtYW5hZ2VtZW50IHNwZWNpYWwgYXR0ZW50aW9uLiBUaGUgbmF0dXJhbCBiYXNtYXRpIHJpY2UgdGh1cyBwcm9kdWNlZCBpcyBvZiB0aGUgdmVyeSBiZXN0IHN0YW5kYXJkcyBhbmQgZXhwb3J0LXJlYWR5LiBPdXIgY29tcGFueSBpcyBkZWRpY2F0ZWQgdG8gc2VydmluZyB5b3UgaW4gdGhlIGFic29sdXRlIGJlc3Qgd2F5IGFuZCBjb25zaXN0ZW50bHkgaW1wcm92aW5nIGl0c2VsZiBkdXJpbmcgdGhpcyBlbmRlYXZvci4KCkJoaW1hbmkgRXhwb3J0cyBzaGlwcyBhbGwga2luZHMgb2YgdmFyaWV0aWVzIGluIG5vbi1iYXNtYXRpIHJpY2UgbGlrZSBTb25hIE1hc29vcmkgUmljZSwgSmVlcmEgU2FtYmEgUmljZSwgMTAwJSBCcm9rZW4gUmljZSwgUG9ubmkgUmljZSwgSVIgNjQgUmljZSwgSVIgOCBSaWNlLCBNYXR0YSBSaWNlLCBNYXR0YSBSaWNlLCBJZGx5IC8gS3JhbnRpIHJpY2Ugbm9uLUJhc21hdGkgcmljZSB3b3JsZHdpZGUuCgpSaWNlIGZyb20gSW5kaWEgaXMgdmVyeSByaWNoIGluIG51dHJpdGlvbiBhbmQgZnVsbCBvZiB2aXRhbWlucyBhcyBpcyB0aGUgcmVndWxhciBkaWV0IG9mIHRoZSBJbmRpYW4gcG9wdWxhdGlvbi4gUmljZSBzdGVhbSBhbmQgZ3JhaW4gcmljZSBhcmUgZWFzeSB0byBkaWdlc3QgZm9yIGFueSBhZ2Ugb2YgcGVvcGxlLgoKSWYgeW91IGFyZSBsb29raW5nIGZvciBhIG5vbiBiYXNtYXRpIHN1cHBsaWVyIGluIEluZGlhIG9yIGEgYmFzbWF0aSByaWNlIGV4cG9ydGVyIGZyb20gSW5kaWEsIHRoZW4gQmhpbWFuaSBFeHBvcnRzIGlzIHRoZSByaWdodCBjaG9pY2UgZm9yIHlvdXIgZnV0dXJlIGVuZGVhdm9ycy4KCkluIDIwMjAsIEluZGlhIGJlY2FtZSB0aGUgbGVhZGVyIGFzIGEgcmljZSBleHBvcnRlciB3b3JsZHdpZGUgZHVlIHRvIHRoZSBxdWFsaXR5IG9mIG5vbi1iYXNtYXRpIHJpY2UgYW5kIGl0cyBwcmljZS4KClVzZSBBbmQgQmVuZWZpdHMgT2YgTm9uIEJhc21hdGkgUmljZQpJbmRpYW4gTm9uLWJhc21hdGkgcmljZSBpcyBhIG5hdHVyYWwgc291cmNlIG9mIGFudGktaW5mbGFtbWF0aW9uIGZvciB5b3VyIGJvZHkuIEluIGFkZGl0aW9uLCBnbHV0ZW4tZnJlZSBtZWFscyBhcmUgc28gZ29vZCB0byBhZGQgdG8geW91ciBkYWlseSBkaWV0IHBsYW4uCgpOb24tQmFzbWF0aSByaWNlIGhhcyBzb21lIHZpdGFtaW5zIGxpa2UgQiBBbmQgQjEgd2hpY2ggaW1wcm92ZSB0aGUgbmVydm91cyBzeXN0ZW0gaGVhbHRoIG9mIHRoZSBicmFpbiB0byBmdW5jdGlvbiBwcm9wZXJseSAKCk91ciBib2R5IG5lZWRzIGEgaHVnZSBhbW91bnQgb2YgZW5lcmd5IHRvIHBlcmZvcm0gYSBkYXktdG8tZGF5IHRhc2ssIG5vbiBiYXNtYXRpIHJpY2UgaGFzIGNhcmJvaHlkcmF0ZXMgaW4gaHVnZSBhbW91bnRzIHdoaWNoIHByb3ZpZGUgcHJvcGVyIGVuZXJneSB0byBmdW5jdGlvbiB0aGUgd2hvbGUgZGF5LgoKTm9uLWJhc21hdGkgcmljZSBtYWtlcyB5b3UgZmF0ISBJdOKAmXMgYSBteXRoLiBJdCBoZWxwcyB0byByZWR1Y2Ugb2Jlc2l0eSBhbmQgcmVkdWNlIGNhbmNlciByaXNrIHRvby4gUmljZSB3YXRlciBpcyBnb29kIHRvIGZpZ2h0IGhhaXIgZmFsbC4KCk5vbmJhc21hdGkgcmljZSBpcyBhIGdvb2Qgc291cmNlIG9mIHByb3RlaW4sIGFzIGEgcmVzdWx0LCBpdCBwcm9tb3RlcyB0aGUgaGVhbHRoIG9mIHRoZSBoZWFydCBhbmQgY2FuIGJlIHVzZWQgZm9yIHNraW5jYXJlIGNvc21ldGljcy4='
 
 
-export const privateLable = {
-    title: "Private Label",
-    description: `We offer private labelling to companies who do not have the expertise and machinery to handle the production process. We handle the complete production from scratch.We manufacture and export over 350+ products. ​You can have your own brand and product identity. We are amongst the top private label food manufacturers. Our products excel in quality control, flavour and food safety. We strive to satisfy the tastes of our discerning customers.
-    Our team is skilled in producing, co- packing, and exporting quality private label food products.We make sure to meet the sanitation and hygiene standards and uphold the integrity and pride of our organisation with a great culinary legacy and outstanding service.`,
-    thumbImage: "",
-    productImage: [privateProductFront, privateProductBack],
-}
-
-export const aboutUsDetail = {
-    content1: {
-        title: "",
-        description: ""
-    },
-    content2: {
-        title: "",
-        description: ""
-    },
-    content3: {
-        title: "",
-        description: ""
-    }
-}
-
 export const Cardfeatures = [
     { id: "1", logo: mission, title: "Our Quality", description: "Every single product we export and supply consists of highly effective elements, outstanding quality and the capacity to offer a healthy life. All our..." },
     { id: "2", logo: values, title: "Why Us?", description: "As a renowned brand, we only pick our products from manufacturers who only use 100% authentic materials or ingredients which ensure the highest purity..." },
     { id: "3", logo: vision, title: "Our Mission", description: "From the very beginning of our organisation, we always aim towards supplying superior quality products with the highest precision. With our responsibl..." }
 ]
+
+
+export const importDetails = {
+    title: "Import Services",
+    thumbImage: importImage,
+    path: "services/import",
+    productImage: [],
+    "description": `At Varni Exports, we are dedicated to sourcing and importing high-quality scrap materials from around the globe. Our comprehensive import operations ensure that you receive only the best materials to meet your industrial and manufacturing needs.`,
+    "Extensive Range of Scrap Materials": `We import all types of scrap materials, including metals, plastics, paper, and more.Our diverse selection ensures that we can meet the varied requirements of different industries, providing you with the materials you need for your operations.`,
+    "Quality Assurance": `Our rigorous quality control processes ensure that all imported materials meet stringent standards.We meticulously inspect and verify each shipment to guarantee that you receive materials that are reliable and of the highest quality.`,
+    "Global Sourcing":
+        `Leveraging our extensive network of international suppliers, we source scrap materials from trusted partners worldwide.Our global reach allows us to bring you the best materials at competitive prices, ensuring value for your business.`,
+
+    " Efficient Logistics":
+        `We understand the importance of timely deliveries.Our efficient logistics and supply chain management systems ensure that your materials arrive on schedule, minimizing downtime and keeping your operations running smoothly.`,
+
+    "Sustainable Solutions":
+        `At Varni Exports, we are committed to sustainability.By importing and recycling scrap materials, we contribute to reducing waste and promoting environmental conservation.Our sustainable practices align with our mission to support a greener future.
+Partner with Varni Exports for all your scrap material needs.Our expertise, quality assurance, and global sourcing capabilities make us your ideal partner in importing top- grade scrap materials.`,
+
+    "last": `Your materials, our commitment.`
+}
+
+export const privateLableDetails = {
+    title: "Private Label",
+    thumbImage: privateLableImage,
+    path:"services/private-lable",
+    productImage: [privateProductFront, privateProductBack],
+    "description":
+
+        `At Varni Exports, we specialize in private labeling for companies lacking the expertise and machinery to manage production. We oversee the entire process from start to finish, manufacturing and exporting over 350 high-quality products. With us, you can establish your own brand and product identity. As one of the leading private label food manufacturers, our products stand out for their exceptional quality control, flavor, and food safety. We are dedicated to meeting the preferences of our discerning customers.
+
+Our expert team excels in producing, co-packing, and exporting premium private label food products. We adhere strictly to sanitation and hygiene standards, maintaining the integrity and pride of our organization, which boasts a rich culinary legacy and exceptional service.`,
+
+    "last": `Your brand, our products.`
+}
+
+export const exportDetails = {
+    title: "Exports Services",
+    thumbImage: exportImage,
+    path: "services/exports",
+    productImage: [],
+    "description":
+
+        `At Varni Exports, we pride ourselves on being a trusted name in the global food export industry. Our commitment to quality, safety, and flavor sets us apart as we bring the finest products from our facilities to markets worldwide.`,
+
+    "Quality You Can Trust":
+        `Every product we export undergoes stringent quality control measures to ensure it meets the highest standards. Our dedication to food safety and hygiene guarantees that you receive products that are not only delicious but also safe and reliable.`,
+
+    "Wide Range of Products":
+        `We export over 350 diverse food products, each crafted to meet the unique tastes and preferences of different markets. From spices and condiments to snacks and gourmet items, our extensive product range is designed to cater to the global palate.`,
+
+    "Global Reach":
+        `With a robust logistics network, we ensure timely delivery to our international partners. Our expertise in handling complex export regulations and documentation ensures a seamless process from our door to yours.`,
+
+    "Customer-Centric Approach":
+        `Understanding and meeting the needs of our international clients is at the heart of our export operations. We work closely with our partners to tailor our offerings, ensuring they align with local market demands and customer preferences.`,
+
+    "Sustainable Practices":
+        `At Varni Exports, we are committed to sustainability. Our production processes are designed to minimize environmental impact, and we work with suppliers who share our commitment to ethical and sustainable practices.
+    
+    Partner with Varni Exports for a reliable supply of premium food products that stand out in quality and flavor. Let us help you bring the best of our culinary heritage to your market.`,
+
+    "last": `Your market, our expertise.`
+}

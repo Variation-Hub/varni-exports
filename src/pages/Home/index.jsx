@@ -1,12 +1,11 @@
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { commitmentSection, landingPageSlider } from '../../contant';
+import { commitmentSection, exportDetails, importDetails, landingPageSlider, privateLableDetails } from '../../contant';
 import Style from "./style.module.css";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
 import Cardfeature from '../../components/Card_features';
 import Lider from '../../components/Slider';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
   const settings = {
@@ -17,15 +16,6 @@ const Home = () => {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-  };
-  const set = {
-    infinite: true,
-    autoplay: true,
-    autoplaySpeed: 3000,
-    cssEase: "linear",
-    speed: 500,
-    slidesToShow: 6.5,
-    slidesToScroll: 1
   };
 
   return (
@@ -45,6 +35,7 @@ const Home = () => {
           })}
         </Slider>
       </div>
+
       <div className={Style.commit_container}>
         {
           commitmentSection.map((commit, index) => {
@@ -59,65 +50,48 @@ const Home = () => {
         }
       </div>
 
-      <div className={Style.services_container}>
+      <div className='w-4/5 border-b-2 relative left-1/2 -translate-x-1/2 p-12'></div>
 
-        <h1 className={Style.services_title}>Our Services</h1>
-
-        <div className={Style.Service_servicess}>
-
-          <div className={Style.upper_services}>
-
-            <div className={Style.import}>
-              <div className={Style.hid_box}>
-                <div className={Style.import_title}>
-                  <h1>Import</h1>
+      <h1 className='text-center text-3xl m-12'>Our Services</h1>
+      <section className={`flex flex-col mt-16`}>
+        <div className='flex justify-around'>
+          {[importDetails, privateLableDetails, exportDetails].map(item => {
+            return (
+              <div className="relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md" key={item.title}>
+                <div className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-blue-500"
+                  style={{
+                    backgroundImage: 'url(' + item.thumbImage + ')',
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    backgroundRepeat: 'no-repeat',
+                  }}
+                >
                 </div>
-                <div className={Style.import_description}>
-                  <p>We import Agri-commodities such as Cinamon sticks, cloves, and soybean seeds from the international market.</p>
+                <div className="p-6">
+                  <h5 className="mb-2 block text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
+                    {item.title}
+                  </h5>
+                  <p className="block font-light leading-relaxed text-inherit antialiased text-justify text-sm">
+                    {`${item.description.slice(0, 185)}.....`}
+                  </p>
                 </div>
-              </div >
-            </div>
-
-
-            <div className={Style.Export}>
-              <div className={Style.export_title}>
-                <h1>Export</h1>
+                <Link to={item.path} className="p-6 pt-0">
+                  <button data-ripple-light="true" type="button" className="absolute right-3 bottom-3 select-none rounded-lg bg-[#003C54] py-3 px-6 text-center align-middle text-xs font-bold uppercase text-white shadow-md shadow-blue-500/20 transition-all hover:shadow-lg hover:shadow-blue-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none">
+                    Read More
+                  </button>
+                </Link>
               </div>
-              <div className={Style.export_description}>
-                <p>We export the finest quality of spices, nuts, and other agricultural products with superlative value to the international market.</p>
-              </div>
-            </div>
-
-          </div>
-
-          <div className={Style.downe_services}>
-
-            <div className={Style.Service_broker}>
-              <div className={Style.service_broker_title}>
-                <h1>Service Broker</h1>
-              </div>
-              <div className={Style.service_broker_description}>
-                <p>We offer broker services among highly motivated dealers with full authenticity in a transaction.</p>
-              </div>
-            </div>
-
-            <div className={Style.impex_solution}>
-              <div className={Style.impex_solution_title}>
-                <h1>Impex Solutions</h1>
-              </div>
-              <div className={Style.impex_solution_description}>
-                <p>We provide end-to-end solutions to our clients regarding all import and export-related issues to the domestic market as well international market.</p>
-              </div>
-            </div>
-
-          </div>
-
+            )
+          })}
         </div>
 
-      </div>
+      </section>
+
+      <div className='w-4/5 border-b-2 relative left-1/2 -translate-x-1/2 p-12'></div>
 
       <Lider />
 
+      <div className='w-4/5 border-b-2 relative left-1/2 -translate-x-1/2'></div>
       <Cardfeature />
 
     </>

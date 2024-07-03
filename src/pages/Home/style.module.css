@@ -209,6 +209,12 @@
     display: none;
 }
 
+.service_container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
 @media screen and (max-width: 1024px) {
     .slider_component img{
         height: 80vh;

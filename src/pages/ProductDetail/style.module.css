@@ -1,124 +1,89 @@
-.main {
-    height: 50vh;
-    position: relative;
-    top: -9vh;
-    display: flex;
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.productSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.productName {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.image {
+  width: 30vw;
+  aspect-ratio: 1/1;
+}
+
+.productDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.productTable {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px 0;
+  border-collapse: collapse;
+}
+
+.productTable td {
+  padding: 4px;
+  border: 1px solid #ddd;
+}
+
+.productDescription {
+  width: 50%;
+  margin: 0 auto;
+}
+
+/* Other products section styling */
+.otherProductsSection {
+  margin-top: 40px;
+}
+
+.otherProductsGrid {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.productLink {
+  text-decoration: none;
+  color: inherit;
+}
+
+.productThumbnail {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 4px;
+  transition: transform 0.3s ease;
+}
+
+.productThumbnail:hover {
+  transform: scale(1.05);
+  /* background-color: var(--secondary-color); */
+  box-shadow: 0px 1px 3px var(--primary-color);
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .productDetails {
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    color: white;
-    background-image: url(../../assets/rice/shutterstock_1043775769-scaled-1.webp);
-    background-position: center;
-    background-repeat: no-repeat;
-}
+  }
 
-.main h1 {
-
-    font-size: 45px;
-    font-weight: 600
-}
-
-.img_home {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-}
-
-.section {
-    margin: 2%;
-    width: 60vw;
-    display: flex;
-    flex-direction: column;
-    /* align-items: center; */
-    justify-content: center;
-    gap: 30px;
-}
-
-.section h1 {
-    font-size: 50px;
-    font-weight: 600;
-}
-
-.section h2 {
-    font-size: 35px;
-    font-weight: 500;
-}
-
-.Non_Basmati {
-    display: flex;
-    gap: 5%;
-}
-
-.Non_Basmati p {
-    width: 40vw;
-}
-
-.img {
-    height: 30vh;
-    width: 35vw;
-    /* border: 1px solid black; */
-    background-image: url(../../assets/rice/india-rice-export-1530355033-1568428150.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-}
-
-.Rice {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-
-}
-
-.box1 {
-    width: 20vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    box-shadow: 1px 1px 0px 0px rgb(98, 97, 97);
-}
-
-.box1 h1 {
-    font-size: 25px;
-    font-weight: 400;
-}
-
-.box2 {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.rice_img1 {
-    height: 45px;
-    width: 45px;
-    border-radius: 50%;
-    background-image: url(../../assets/rice/Brown-Rice.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-
-}
-
-.rice_img2 {
-    height: 45px;
-    width: 45px;
-    border-radius: 50%;
-    background-image: url(../../assets/rice/1121-raw-img.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-
-}
-
-.Exporter {
-    display: flex;
-    align-items: center;
-    gap: 10px;
+  .productDescription {
+    max-width: 100%;
+    padding: 0 20px;
+  }
 }

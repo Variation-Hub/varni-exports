@@ -13,8 +13,7 @@
 }
 
 .scrolled {
-    background: rgba(255, 255, 255, 0.8);
-    /* Change this to the desired color */
+    background: rgba(255, 255, 255, 1);
 }
 
 .navbar_container ul {
