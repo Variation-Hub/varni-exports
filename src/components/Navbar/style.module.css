@@ -28,19 +28,18 @@
     animation: borderAnimation 0.2s linear;
 }
 
-.product_name{
+.product_name {
     text-transform: capitalize;
 }
+
 @keyframes borderAnimation {
     from {
         width: 0%;
     }
-
     to {
         width: 100%;
     }
 }
-
 
 .navbar_container ul li:hover {
     color: var(--primary-color)
@@ -77,14 +76,20 @@
     .menu_bar {
         display: none;
     }
-
     .manu_burgur {
         display: block;
+    }
+    .navbar_container {
+        backdrop-filter: blur(0px);
+        justify-content: space-between;
+        padding: 10px 20px 0px 30px;
     }
 }
 
 @media screen and (max-width:425px) {
     .navbar_container {
         backdrop-filter: blur(0px);
+        justify-content: space-between;
+        padding: 10px 20px 0px 20px;
     }
 }

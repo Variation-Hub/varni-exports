@@ -90,11 +90,9 @@
     .product_name {
         width: 40%;
     }
-
     .product_name h1 {
         font-size: 3vw;
     }
-
     .product_name article {
         font-size: 1.8vw;
         line-height: 1.3;
@@ -105,13 +103,16 @@
     .product_name {
         width: 90%;
     }
-
     .product_name h1 {
         font-size: 6vw;
+        text-align: center;
     }
-
     .product_name article {
         font-size: 4vw;
         line-height: 1.3;
+    }
+    .img_style h1 {
+        top: 20%;
+        font-size: 50px;
     }
 }

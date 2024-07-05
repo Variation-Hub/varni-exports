@@ -4,6 +4,7 @@ import style from '../ProductDetail/style.module.css'
 import { catagories } from '../../contant'
 import Markdown from 'react-markdown'
 import { useEffect, useState } from 'react'
+import Style from './style.module.css'
 
 function Category() {
 
@@ -38,9 +39,9 @@ function Category() {
       <div className={style.container}>
         <div className={style.productSection}>
           <h1 className={style.productName}>{data?.name}</h1>
-          <div className='flex items-center justify-around gap-24'>
+          <div className={`flex items-center justify-around gap-24 ${Style.details_head}`}>
             <div className={style.image}>
-              <img src={data?.images} alt={`${data?.name} image`} width="100%" height="100%" />
+              <img src={data?.images} alt={`${data?.name} image`} width="100%" height="100%" /> 
             </div>
             <div className={style.productDetails}>
               <table className={style.productTable}>
@@ -68,9 +69,9 @@ function Category() {
               <Markdown className="text-justify">{atob(data?.description)}</Markdown>
             ) : null}
           </div>
-          <div className='flex flex-col gap-5 mr-10'>
+          
+          <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
             <h1 className='text-2xl mb-4'>Other Products</h1>
-
             {suggestedCategory?.slice(0, 4)?.map((item) => (
               <Link to={`/products/${categoryId}/${item.name}`} key={item.id} className={style.productLink}>
                 <div className={style.productThumbnail}>

@@ -1,4 +1,4 @@
-.product_container{
+.product_container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -6,7 +6,33 @@
     padding: 2% 10%;
 }
 
-.images{
+.images {
     width: 25%;
     margin: 2% 0%;
+}
+
+.productt_name {
+    text-align: center;
+}
+
+@media screen and (max-width: 426px) {
+    .products_head {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .products_description {
+        padding: 20px;
+    }
+    .product_container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .productt_name {
+        align-items: center;
+        width: 250px;
+        border: 1px solid red;
+    }
 }

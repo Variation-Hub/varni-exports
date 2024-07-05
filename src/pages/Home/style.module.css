@@ -9,7 +9,7 @@
     position: relative;
 }
 
-.slider_component img{
+.slider_component img {
     height: 100vh;
 }
 
@@ -21,12 +21,12 @@
 
 .sliderText h1 {
     font-size: 3vw;
-    color: var(--primary-color)
+    color: var(--primary-color);
 }
 
 .sliderText p {
     font-size: 1.5vw;
-    color: var(--secondary-color)
+    color: var(--secondary-color);
 }
 
 .commit_container {
@@ -39,7 +39,7 @@
     flex-direction: column;
     align-items: center;
     width: 25%;
-    gap: 10px
+    gap: 10px;
 }
 
 .commitmentSection div {
@@ -53,13 +53,13 @@
 
 .commitmentSection h2 {
     font-size: 1.5vw;
-    color: var(--primary-color)
+    color: var(--primary-color);
 }
 
 .commitmentSection article {
     text-align: center;
     width: 100%;
-    color: var(--secondary-color)
+    color: var(--secondary-color);
 }
 
 .services_container {
@@ -94,10 +94,9 @@
     width: 41vw;
     font-size: 18px;
     background-color: black;
-    opacity: .5;
+    opacity: 0.5;
     color: white;
     padding: 5%;
-
 }
 
 .import:hover {
@@ -113,7 +112,7 @@
     width: 41vw;
     font-size: 18px;
     background-color: white;
-    opacity: .45;
+    opacity: 0.45;
     color: black;
     padding: 5%;
 }
@@ -122,7 +121,6 @@
     background-color: rgba(255, 255, 255);
     /* Change this to the desired color */
 }
-
 
 .Service_broker:hover {
     background-color: rgba(255, 255, 255);
@@ -180,7 +178,7 @@
 .sliderTextp {
     top: 100%;
     position: absolute;
-    transition: all .2s ease-out;
+    transition: all 0.2s ease-out;
     /* background: black;
     opacity: 0.5;
     color: white; */
@@ -209,32 +207,75 @@
     display: none;
 }
 
-.service_container{
+.service_container {
     width: 100vw;
     display: flex;
     flex-direction: column;
 }
 
 @media screen and (max-width: 1024px) {
-    .slider_component img{
+    .slider_component img {
         height: 80vh;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .slider_component img{
+    .slider_component img {
         height: 50vh;
+        width: 100vw;
+    }
+    .Card {
+        width: 15rem;
+    }
+    .read_more {
+        padding: 3px 10px;
+        font-size: 9px;
     }
 }
 
 @media screen and (max-width: 425px) {
-    .slider_component img{
+    .slider_component img {
         height: 30vh;
     }
 }
 
 @media screen and (max-width: 325px) {
-    .slider_component img{
+    .slider_component img {
         height: 26vh;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .slider_component img {
+        height: 37vh;
+    }
+    .sliderText h1 {
+        font-size: 4vw;
+    }
+    .sliderText p {
+        font-size: 3.3vw;
+    }
+    .card_section {
+        flex-direction: column;
+        gap: 50px;
+        align-items: center;
+    }
+    .Card {
+        width: 90%;
+    }
+    .commit_container {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .commitmentSection {
+        width: 70%;
+    }
+    .commitmentSection h2 {
+        font-size: 4vw;
+    }
+    .read_more {
+        padding: 3px 10px;
+        font-size: 12px;
     }
 }
