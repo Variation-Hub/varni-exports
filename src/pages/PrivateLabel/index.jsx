@@ -10,9 +10,30 @@ const PrivateLable = () => {
                 <img src={PrivateLableBanner} alt="" width="100%" height="100%" />
             </section>
             <div className="p-4">
-
-
-            </div>
+        {Object.keys(privateLableDetails).map((value) => {
+          if (
+            !["title", "thumbImage", "path", "productImage", "last"].includes(
+              value
+            )
+          ) {
+            return (
+              <div className="px-5">
+                <h1 className="text-2xl">{value}</h1>
+                <p className="text-justify">{privateLableDetails[value]}</p>
+                <br />
+              </div>
+            );
+          } else null;
+        })}
+        <div className={`flex justify-center gap-20 ${Style.privateimg_container}`}>
+            {privateLableDetails?.productImage?.map((value) => {
+                return (
+                    <img className={Style.private_img} src={value} alt="" />
+                )
+            })}
+        </div>
+        <h1 className="text-center text-[#003c54] text-2xl mt-20">{privateLableDetails.last}</h1>
+      </div>
         </>
 
     )

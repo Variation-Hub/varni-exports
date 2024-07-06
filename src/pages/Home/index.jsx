@@ -63,12 +63,12 @@ const Home = () => {
             return (
               <div
                 className={`relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md ${Style.Card}`}
-                key={item.title}
+                key={item?.title}
               >
                 <div
                   className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-blue-500"
                   style={{
-                    backgroundImage: "url(" + item.thumbImage + ")",
+                    backgroundImage: "url(" + item?.thumbImage + ")",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     backgroundRepeat: "no-repeat",
@@ -76,13 +76,13 @@ const Home = () => {
                 ></div>
                 <div className="p-6">
                   <h5 className="mb-2 block text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
-                    {item.title}
+                    {item?.title}
                   </h5>
                   <p className="block font-light leading-relaxed text-inherit antialiased text-justify text-sm">
-                    {`${item.description.slice(0, 185)}.....`}
+                    {`${item?.Description.slice(0, 185)}.....`}
                   </p>
                 </div>
-                <Link to={item.path} className="p-6 pt-0">
+                <Link to={item?.path} className="p-6 pt-0">
                   <button
                     data-ripple-light="true"
                     type="button"

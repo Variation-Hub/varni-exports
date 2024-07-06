@@ -285,7 +285,12 @@
 @media screen and (max-width: 426px) {
     .img_style h1 {
         top: 38%;
-        font-size: 22px;
+        font-size: 35px;
+        width: 100%;
+        text-align: center;
+    }
+    .img_style img {
+        height: 30vh;
     }
 }
 
