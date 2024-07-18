@@ -57,10 +57,20 @@ const Contact = () => {
         </div>
 
         <div className={style.contact_Form2}>
-
-          <input type="text" name=" name" placeholder="Name" className={style.fonts} />
-          <input type="Email" name=" email" placeholder="Email" className={style.fonts} />
-          <input type="text" name=" number" placeholder="Phone Number" className={style.fonts} />
+          <div className='flex gap-2'>
+          <input type='text' name='first_name' placeholder='First name' className={`w-1/2 ${style.fonts}`}/>
+          <input type="text" name="last_ name" placeholder="Last Name" className={`w-1/2 ${style.fonts}`} />
+          </div>
+          <input type="Email" name="email" placeholder="Email" className={style.fonts} />
+          <input type="text" name="number" placeholder="Phone Number" className={style.fonts} />
+          <input type="text" name="business_type" placeholder="Business" className={style.fonts}/>
+          <input type="text" name="website" placeholder="Website Link" className={style.fonts}/>
+          <input type="text" name="address" placeholder="Address" className={style.fonts}/>
+          <div className='flex gap-2'>
+          <input type='text' name='city' placeholder='City' className={`w-1/2 ${style.fonts}`}/>
+          <input type="text" name="postal_code" placeholder="Postal Code" className={`w-1/2 ${style.fonts}`} />
+          </div>
+          <input type="text" name="state" placeholder="State" className={style.fonts}/>
           <select name="course" placeholder="Choose product type of inquiry" className={style.fonts}>
 
             <option className={style.fonts}>Choose product type of inquiry </option>
