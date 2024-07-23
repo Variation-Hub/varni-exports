@@ -1,4 +1,3 @@
-import { FaGreaterThan } from 'react-icons/fa6'
 import { Link, useParams } from 'react-router-dom'
 import style from '../ProductDetail/style.module.css'
 import { catagories } from '../../contant'

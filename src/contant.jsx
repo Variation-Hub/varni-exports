@@ -1938,529 +1938,79 @@ export const contactUsSection = {
 };
 
 export const Slider_products = [
-  {
-    id: 0.377590171478573,
-    name: "Mustard Seeds",
-    image: "/src/assets/Products/whole-spices/46.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.9114499506656428,
-    name: "Dry Ginger",
-    image: "/src/assets/Products/whole-spices/50.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.4134316512320175,
-    name: "Dehydrated Red Onion Powder",
-    image: "/src/assets/Products/Dehydrated/13.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.18213494385261542,
-    name: "Black Pepper Powder",
-    image: "/src/assets/Products/ground-spices/73.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.5599246745284303,
-    name: "Sooji (Semolina)",
-    image: "/src/assets/Products/grains/24.png",
-    path: "/products/grains",
-  },
-  {
-    id: 0.9828602079237698,
-    name: "Yellow Onion",
-    image: "/src/assets/Products/onion/27.png",
-    path: "/products/onion",
-  },
-  {
-    id: 0.026196482648706,
-    name: "Coriander Powder",
-    image: "/src/assets/Products/ground-spices/67.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.9445320713392753,
-    name: "Cumin Seeds",
-    image: "/src/assets/Products/whole-spices/42.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.3703051057156279,
-    name: "Brown Sesame Seeds",
-    image: "/src/assets/Products/sesame/38.png",
-    path: "/products/sesame seeds",
-  },
-  {
-    id: 0.18099724909214232,
-    name: "Mace",
-    image: "/src/assets/Products/whole-spices/62.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.9588432480213775,
-    name: "Dehydrated White Onion Flakes",
-    image: "/src/assets/Products/Dehydrated/10.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.13889829295297407,
-    name: "Chilly Powder",
-    image: "/src/assets/Products/ground-spices/76.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.2367189600633186,
-    name: "Tamarind",
-    image: "/src/assets/Products/whole-spices/64.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.12691316455738288,
-    name: "Dill Seeds",
-    image: "/src/assets/Products/whole-spices/56.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.7657264630467744,
-    name: "Hulled Sesame Seeds",
-    image: "/src/assets/Products/sesame/39.png",
-    path: "/products/sesame seeds",
-  },
-  {
-    id: 0.20953523147285247,
-    name: "Bold Peanut Seed",
-    image: "/src/assets/Products/Peanut/3.png",
-    path: "/products/peanuts",
-  },
-  {
-    id: 0.13536849328644318,
-    name: "Java Peanut Seed",
-    image: "/src/assets/Products/Peanut/2.png",
-    path: "/products/peanuts",
-  },
-  {
-    id: 0.9583351826038804,
-    name: "Nutmeg",
-    image: "/src/assets/Products/whole-spices/51.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.6631475781784733,
-    name: "Nutmeg Powder",
-    image: "/src/assets/Products/ground-spices/71.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.6524837406455695,
-    name: "Fenugreek Powder",
-    image: "/src/assets/Products/ground-spices/69.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.11188224521848933,
-    name: "Dehydrated White Onion Powder",
-    image: "/src/assets/Products/Dehydrated/11.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.6513141812555703,
-    name: "Anardana Powder",
-    image: "/src/assets/Products/ground-spices/75.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.26776461012184627,
-    name: "Ginger Flakes",
-    image: "/src/assets/Products/Dehydrated/19.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.543951482754311,
-    name: "Celery Seeds",
-    image: "/src/assets/Products/whole-spices/60.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.9407178159783343,
-    name: "Fenugreek Seeds",
-    image: "/src/assets/Products/whole-spices/44.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.14134772173804167,
-    name: "Fennel Powder",
-    image: "/src/assets/Products/ground-spices/77.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.7116434827224236,
-    name: "Dehydrated Pink Onion Powder",
-    image: "/src/assets/Products/Dehydrated/15.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.0009458258255548024,
-    name: "Dehydrated Pink Onion Flakes",
-    image: "/src/assets/Products/Dehydrated/14.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.7630153162925866,
-    name: "Dry Greater Galangal",
-    image: "/src/assets/Products/whole-spices/65.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.8889572567152566,
-    name: "Ground Nuts",
-    image: "/src/assets/Products/Peanut/4.png",
-    path: "/products/peanuts",
-  },
-  {
-    id: 0.8532095499495438,
-    name: "Pink Onion",
-    image: "/src/assets/Products/onion/29.png",
-    path: "/products/onion",
-  },
-  {
-    id: 0.41417780276131366,
-    name: "Roasted Gram Whole Without Skin",
-    image: "/src/assets/Products/Roasted-Gram/82.png",
-    path: "/products/roasted-gram",
-  },
-  {
-    id: 0.15328902379880227,
-    name: "Golden Long Raisins",
-    image: "/src/assets/Products/raisins/31.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.6138347306520231,
-    name: "Star Anise",
-    image: "/src/assets/Products/whole-spices/63.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.8497581604382174,
-    name: "Rice",
-    image: "/src/assets/Products/grains/23.png",
-    path: "/products/grains",
-  },
-  {
-    id: 0.7656194251953283,
-    name: "Cumin Powder",
-    image: "/src/assets/Products/ground-spices/66.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.7244662043714463,
-    name: "Brown Raisins",
-    image: "/src/assets/Products/raisins/36.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.20539492486409539,
-    name: "Dehydrated Garlic Flakes/Cloves",
-    image: "/src/assets/Products/Dehydrated/16.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.9458434839795922,
-    name: "Turmeric Powder",
-    image: "/src/assets/Products/ground-spices/68.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.4839604581760646,
-    name: "Dehydrated Red Onion Flakes",
-    image: "/src/assets/Products/Dehydrated/12.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.540063385377594,
-    name: "Dehydrated Garlic Powder",
-    image: "/src/assets/Products/Dehydrated/17.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.2356740160233728,
-    name: "Wheat",
-    image: "/src/assets/Products/grains/20.png",
-    path: "/products/grains",
-  },
-  {
-    id: 0.9928608412979913,
-    name: "Coriander Seeds",
-    image: "/src/assets/Products/whole-spices/43.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.06884744953387978,
-    name: "Garam Masala Powder",
-    image: "/src/assets/Products/ground-spices/80.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.10382298368482812,
-    name: "Dry Ginger Powder",
-    image: "/src/assets/Products/ground-spices/70.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.6340425697192174,
-    name: "Clove Seeds",
-    image: "/src/assets/Products/whole-spices/53.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.7945138499493067,
-    name: "Five Spices Powder",
-    image: "/src/assets/Products/ground-spices/79.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.768443207737487,
-    name: "Bay Leaves",
-    image: "/src/assets/Products/whole-spices/57.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.650412983024192,
-    name: "Caraway Seeds",
-    image: "/src/assets/Products/whole-spices/59.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.7224329768080904,
-    name: "Yellow Raisins",
-    image: "/src/assets/Products/raisins/37.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.13578850849351953,
-    name: "Curry Powder",
-    image: "/src/assets/Products/ground-spices/72.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.28899998556447337,
-    name: "Green Raisins",
-    image: "/src/assets/Products/raisins/33.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.3492944397484712,
-    name: "Maize/Corn",
-    image: "/src/assets/Products/grains/21.png",
-    path: "/products/grains",
-  },
-  {
-    id: 0.647599081872253,
-    name: "Coconut",
-    image: "/src/assets/Products/fruits/9.png",
-    path: "/products/fruits-and-vegetables",
-  },
-  {
-    id: 0.7993857387816192,
-    name: "Green Millet",
-    image: "/src/assets/Products/grains/25.png",
-    path: "/products/grains",
-  },
-  {
-    id: 0.45557623977469874,
-    name: "Pomegranate",
-    image: "/src/assets/Products/fruits/8.png",
-    path: "/products/fruits-and-vegetables",
-  },
-  {
-    id: 0.9346329027352487,
-    name: "Ajwain Seeds",
-    image: "/src/assets/Products/whole-spices/58.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.49460356700104,
-    name: "Fennel Seeds",
-    image: "/src/assets/Products/whole-spices/45.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.5574148310288156,
-    name: "Poha Thin",
-    image: "/src/assets/Products/others/86.png",
-    path: "/products/other-products",
-  },
-  {
-    id: 0.48789744121721457,
-    name: "Soya Chunks",
-    image: "/src/assets/Products/others/84.png",
-    path: "/products/other-products",
-  },
-  {
-    id: 0.43989747503773824,
-    name: "Fryums",
-    image: "/src/assets/Products/others/85.png",
-    path: "/products/other-products",
-  },
-  {
-    id: 0.5628624624226228,
-    name: "Turmeric (Haldi)",
-    image: "/src/assets/Products/whole-spices/47.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.5915888741862576,
-    name: "Ginger Powder",
-    image: "/src/assets/Products/Dehydrated/18.png",
-    path: "/products/dehydrated-product",
-  },
-  {
-    id: 0.19507159305254085,
-    name: "Chilli Flakes",
-    image: "/src/assets/Products/whole-spices/49.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.9854644141765729,
-    name: "Blanched Peanut Seeds",
-    image: "/src/assets/Products/Peanut/1.png",
-    path: "/products/peanuts",
-  },
-  {
-    id: 0.8522182395172857,
-    name: "Cardamom",
-    image: "/src/assets/Products/whole-spices/54.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.776575215618118,
-    name: "Roasted Peanuts",
-    image: "/src/assets/Products/Peanut/5.png",
-    path: "/products/peanuts",
-  },
-  {
-    id: 0.05467510964044098,
-    name: "Black Raisins",
-    image: "/src/assets/Products/raisins/35.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.6208195959054714,
-    name: "Yellow Mustard Powder",
-    image: "/src/assets/Products/ground-spices/78.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.7719470083827913,
-    name: "Black Pepper",
-    image: "/src/assets/Products/whole-spices/52.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.46111146983415296,
-    name: "Roasted Gram Split Without Skin",
-    image: "/src/assets/Products/Roasted-Gram/83.png",
-    path: "/products/roasted-gram",
-  },
-  {
-    id: 0.45826434814423833,
-    name: "Golden Raisins",
-    image: "/src/assets/Products/raisins/30.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.2964342812106766,
-    name: "Sultanas Raisins",
-    image: "/src/assets/Products/raisins/34.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.8199529487374513,
-    name: "Amchur Powder",
-    image: "/src/assets/Products/ground-spices/74.png",
-    path: "/products/spices/whole-spices",
-  },
-  {
-    id: 0.0560857257889964,
-    name: "Mango",
-    image: "/src/assets/Products/fruits/6.png",
-    path: "/products/fruits-and-vegetables",
-  },
-  {
-    id: 0.8182227964238622,
-    name: "Black Sesame Seeds",
-    image: "/src/assets/Products/sesame/40.png",
-    path: "/products/sesame seeds",
-  },
-  {
-    id: 0.33255929933381956,
-    name: "White Onions",
-    image: "/src/assets/Products/onion/28.png",
-    path: "/products/onion",
-  },
-  {
-    id: 0.2023575658530259,
-    name: "Black Cumin Seeds",
-    image: "/src/assets/Products/whole-spices/55.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.4162289500170191,
-    name: "Roasted Sesame Seeds",
-    image: "/src/assets/Products/sesame/41.png",
-    path: "/products/sesame seeds",
-  },
-  {
-    id: 0.25517613983887144,
-    name: "Roasted Gram With Skin",
-    image: "/src/assets/Products/Roasted-Gram/81.png",
-    path: "/products/roasted-gram",
-  },
-  {
-    id: 0.5063930084524937,
-    name: "Chilli",
-    image: "/src/assets/Products/whole-spices/48.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.29915179762515187,
-    name: "Flax Seeds",
-    image: "/src/assets/Products/grains/22.png",
-    path: "/products/grains",
-  },
-  {
-    id: 0.21852196886231834,
-    name: "Red Onion",
-    image: "/src/assets/Products/onion/26.png",
-    path: "/products/onion",
-  },
-  {
-    id: 0.974668821288905,
-    name: "Golden Round Raisins",
-    image: "/src/assets/Products/raisins/32.png",
-    path: "/products/raisins",
-  },
-  {
-    id: 0.5674878877639322,
-    name: "Poha Thick",
-    image: "/src/assets/Products/others/87.png",
-    path: "/products/other-products",
-  },
-  {
-    id: 0.36657684300550897,
-    name: "Cinnamon",
-    image: "/src/assets/Products/whole-spices/61.png",
-    path: "/products/spices/ground-spices",
-  },
-  {
-    id: 0.030004359418353665,
-    name: "Banana",
-    image: "/src/assets/Products/fruits/7.png",
-    path: "/products/fruits-and-vegetables",
-  },
-];
+    {
+        "id": 0.9445320713392753,
+        "name": "Cumin Seeds",
+        "image": "/src/assets/Products/whole-spices/42.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.20953523147285247,
+        "name": "Bold Peanut Seed",
+        "image": "/src/assets/Products/Peanut/3.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.13536849328644318,
+        "name": "Java Peanut Seed",
+        "image": "/src/assets/Products/Peanut/2.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.8889572567152566,
+        "name": "Ground Nuts",
+        "image": "/src/assets/Products/Peanut/4.png",
+        "path": "/products/peanuts"
+    },
+    {
+        "id": 0.8532095499495438,
+        "name": "Pink Onion",
+        "image": "/src/assets/Products/onion/29.png",
+        "path": "/products/onion"
+    },
+    {
+        "id": 0.8497581604382174,
+        "name": "Rice",
+        "image": "/src/assets/Products/grains/23.png",
+        "path": "/products/grains"
+    },
+    {
+        "id": 0.9928608412979913,
+        "name": "Coriander Seeds",
+        "image": "/src/assets/Products/whole-spices/43.png",
+        "path": "/products/spices/ground-spices"
+    },
+    {
+        "id": 0.647599081872253,
+        "name": "Coconut",
+        "image": "/src/assets/Products/fruits/9.png",
+        "path": "/products/fruits-and-vegetables"
+    },
+    {
+        "id": 0.45826434814423833,
+        "name": "Golden Raisins",
+        "image": "/src/assets/Products/raisins/30.png",
+        "path": "/products/raisins"
+    },
+    {
+        "id": 0.8182227964238622,
+        "name": "Black Sesame Seeds",
+        "image": "/src/assets/Products/sesame/40.png",
+        "path": "/products/sesame seeds"
+    },
+    {
+        "id": 0.25517613983887144,
+        "name": "Roasted Gram With Skin",
+        "image": "/src/assets/Products/Roasted-Gram/81.png",
+        "path": "/products/roasted-gram"
+    },
+    {
+        "id": 0.21852196886231834,
+        "name": "Red Onion",
+        "image": "/src/assets/Products/onion/26.png",
+        "path": "/products/onion"
+    }
+]
 
 export const counter = [
   { id: 1, name: "Projects", number: "63" },

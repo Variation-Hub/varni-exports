@@ -62,34 +62,16 @@
     color: var(--secondary-color);
 }
 
-.services_container {
-    /* border: 1px solid black; */
-    background-image: url("./src/assets/Our-Services.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    width: 100vw;
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    background-attachment: fixed;
-}
-
 .Service_servicess {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    /* border: 1px solid black; */
-    /* height: 80vh; */
-    /* width: 85vw; */
     justify-content: center;
     align-items: center;
 }
 
 .import,
 .impex_solution {
-    /*  : 1px solid black; */
     height: 35vh;
     width: 41vw;
     font-size: 18px;
@@ -102,7 +84,6 @@
 .import:hover {
     background-color: rgba(0, 0, 0);
     color: rgba(255, 255, 255);
-    /* Change this to the desired color */
 }
 
 .Export,

@@ -3,17 +3,55 @@ import Style from "./App.module.css";
 
 import { catagories, Slider_products } from "../../contant.jsx";
 import { Link } from "react-router-dom";
-import { styled } from "@mui/material";
+
+const styleButton = {
+  position: "absolute",
+  borderRadius: "50%",
+  zIndex: "50",
+  width: "50px",
+  height: "50px",
+  color: "var(--secondary-color)",
+  display: "flex",
+  top: "25%",
+  alignItems: "center",
+  justifyContent: "center",
+  fontSize: "48px",
+  cursor: "pointer",
+  textShadow: "1px 1px 3px lightgray",
+}
+
+function SampleNextArrow(props) {
+  const { onClick } = props;
+  return (
+    <div
+      className={Style.sample_arrow}
+      style={{ ...styleButton, right: "20px" }}
+      onClick={onClick}
+    >&gt;</div>
+  );
+}
+
+function SamplePrevArrow(props) {
+  const { onClick } = props;
+  return (
+    <div
+      className={Style.sample_arrow}
+      style={{ ...styleButton, left: "20px" }}
+      onClick={onClick}
+    > &lt; </div>
+  );
+}
 
 function Lider() {
   const settings = {
     infinite: true,
     slidesToShow: 6,
     slidesToScroll: 1,
-    autoplay: true,
+    // autoplay: true,
     speed: 1200,
     autoplaySpeed: 1200,
-    pauseOnHover: true,
+    nextArrow: <SampleNextArrow />,
+    prevArrow: <SamplePrevArrow />,
     responsive: [
       {
         breakpoint: 1024,
@@ -48,7 +86,6 @@ function Lider() {
     autoplay: true,
     speed: 1400,
     autoplaySpeed: 1400,
-    pauseOnHover: true,
     responsive: [
       {
         breakpoint: 1024,
@@ -108,10 +145,10 @@ function Lider() {
         <Slider {...settings_category} className={Style.slider_main}>
           {catagories.map((slider, index) => {
             return (
-              <>
+              <div key={index}>
                 <Link
                   to={slider.path}
-                  key={index}
+
                   className={Style.slider_component_category}
                 >
                   <img
@@ -122,7 +159,7 @@ function Lider() {
                   />
                 </Link>
                 <h1 className={Style.name_category}>{slider.name}</h1>
-              </>
+              </div>
             );
           })}
         </Slider>
