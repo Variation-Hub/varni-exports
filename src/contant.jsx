@@ -1938,78 +1938,78 @@ export const contactUsSection = {
 };
 
 export const Slider_products = [
-    {
-        "id": 0.9445320713392753,
-        "name": "Cumin Seeds",
-        "image": "/src/assets/Products/whole-spices/42.png",
-        "path": "/products/spices/ground-spices"
-    },
-    {
-        "id": 0.20953523147285247,
-        "name": "Bold Peanut Seed",
-        "image": "/src/assets/Products/Peanut/3.png",
-        "path": "/products/peanuts"
-    },
-    {
-        "id": 0.13536849328644318,
-        "name": "Java Peanut Seed",
-        "image": "/src/assets/Products/Peanut/2.png",
-        "path": "/products/peanuts"
-    },
-    {
-        "id": 0.8889572567152566,
-        "name": "Ground Nuts",
-        "image": "/src/assets/Products/Peanut/4.png",
-        "path": "/products/peanuts"
-    },
-    {
-        "id": 0.8532095499495438,
-        "name": "Pink Onion",
-        "image": "/src/assets/Products/onion/29.png",
-        "path": "/products/onion"
-    },
-    {
-        "id": 0.8497581604382174,
-        "name": "Rice",
-        "image": "/src/assets/Products/grains/23.png",
-        "path": "/products/grains"
-    },
-    {
-        "id": 0.9928608412979913,
-        "name": "Coriander Seeds",
-        "image": "/src/assets/Products/whole-spices/43.png",
-        "path": "/products/spices/ground-spices"
-    },
-    {
-        "id": 0.647599081872253,
-        "name": "Coconut",
-        "image": "/src/assets/Products/fruits/9.png",
-        "path": "/products/fruits-and-vegetables"
-    },
-    {
-        "id": 0.45826434814423833,
-        "name": "Golden Raisins",
-        "image": "/src/assets/Products/raisins/30.png",
-        "path": "/products/raisins"
-    },
-    {
-        "id": 0.8182227964238622,
-        "name": "Black Sesame Seeds",
-        "image": "/src/assets/Products/sesame/40.png",
-        "path": "/products/sesame seeds"
-    },
-    {
-        "id": 0.25517613983887144,
-        "name": "Roasted Gram With Skin",
-        "image": "/src/assets/Products/Roasted-Gram/81.png",
-        "path": "/products/roasted-gram"
-    },
-    {
-        "id": 0.21852196886231834,
-        "name": "Red Onion",
-        "image": "/src/assets/Products/onion/26.png",
-        "path": "/products/onion"
-    }
+  {
+    "id": 0.9445320713392753,
+    "name": "Cumin Seeds",
+    "image": spices1,
+    "path": "/products/spices/ground-spices"
+  },
+  {
+    "id": 0.20953523147285247,
+    "name": "Bold Peanut Seed",
+    "image": peanut3,
+    "path": "/products/peanuts"
+  },
+  {
+    "id": 0.13536849328644318,
+    "name": "Java Peanut Seed",
+    "image": peanut2,
+    "path": "/products/peanuts"
+  },
+  {
+    "id": 0.8889572567152566,
+    "name": "Ground Nuts",
+    "image": peanut4,
+    "path": "/products/peanuts"
+  },
+  {
+    "id": 0.8532095499495438,
+    "name": "Pink Onion",
+    "image": onion4,
+    "path": "/products/onion"
+  },
+  {
+    "id": 0.8497581604382174,
+    "name": "Rice",
+    "image": grains5,
+    "path": "/products/grains"
+  },
+  {
+    "id": 0.9928608412979913,
+    "name": "Coriander Seeds",
+    "image": spices2,
+    "path": "/products/spices/ground-spices"
+  },
+  {
+    "id": 0.647599081872253,
+    "name": "Coconut",
+    "image": fruitsandvegetables4,
+    "path": "/products/fruits-and-vegetables"
+  },
+  {
+    "id": 0.45826434814423833,
+    "name": "Golden Raisins",
+    "image": raisins1,
+    "path": "/products/raisins"
+  },
+  {
+    "id": 0.8182227964238622,
+    "name": "Black Sesame Seeds",
+    "image": sesameseed3,
+    "path": "/products/sesame seeds"
+  },
+  {
+    "id": 0.25517613983887144,
+    "name": "Roasted Gram With Skin",
+    "image": roastedGram1,
+    "path": "/products/roasted-gram"
+  },
+  {
+    "id": 0.21852196886231834,
+    "name": "Red Onion",
+    "image": onion1,
+    "path": "/products/onion"
+  }
 ]
 
 export const counter = [
