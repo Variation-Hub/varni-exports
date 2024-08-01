@@ -1,5 +1,11 @@
 import certificateImage from "../../assets/Banner/certificate-banner.webp";
 import Style from "./style.module.css";
+import Image1 from "../../assets/Certificate/fassai-thumb.jpg";
+import Image2 from "../../assets/Certificate/apeda-thumb.jpg";
+import Image3 from "../../assets/Certificate/farm-thumb.jpg";
+import Image4 from "../../assets/Certificate/iec-thumb.jpg";
+import Image5 from "../../assets/Certificate/gst-thumb.jpg";
+import Image6 from "../../assets/Certificate/msme-thumb.jpg";
 
 const Certificate = () => {
   return (
@@ -11,27 +17,27 @@ const Certificate = () => {
       <div className="flex justify-center items-center min-h-screen">
         <div className={Style.container}>
           <img
-            src="http://www.ancienttradingimpex.com/assets/images/certificates/fassai-thumb.jpg"
+            src={Image1}
             alt="Image 1"
           />
           <img
-            src="http://www.ancienttradingimpex.com/assets/images/certificates/apeda-thumb.jpg"
+            src={Image2}
             alt="Image 2"
           />
           <img
-            src="http://www.ancienttradingimpex.com/assets/images/certificates/farm-thumb.jpg"
+            src={Image3}
             alt="Image 3"
           />
           <img
-            src="http://www.ancienttradingimpex.com/assets/images/certificates/iec-thumb.jpg"
+            src={Image4}
             alt="Image 4"
           />
           <img
-            src="http://www.ancienttradingimpex.com/assets/images/certificates/gst-thumb.jpg"
+            src={Image5}
             alt="Image 5"
           />
           <img
-            src="http://www.ancienttradingimpex.com/assets/images/certificates/msme-thumb.jpg"
+            src={Image6}
             alt="Image 6"
           />
         </div>

@@ -12,7 +12,7 @@ const styleButton = {
   height: "50px",
   color: "var(--secondary-color)",
   display: "flex",
-  top: "25%",
+  top: "35%",
   alignItems: "center",
   justifyContent: "center",
   fontSize: "48px",
@@ -86,6 +86,8 @@ function Lider() {
     autoplay: true,
     speed: 1400,
     autoplaySpeed: 1400,
+    nextArrow: <SampleNextArrow />,
+    prevArrow: <SamplePrevArrow />,
     responsive: [
       {
         breakpoint: 1024,

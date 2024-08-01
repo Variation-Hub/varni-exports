@@ -112,4 +112,7 @@
     .productThumbnail {
         flex-direction: column;
     }
+    .image{
+    width: 220px;
+    }
 }

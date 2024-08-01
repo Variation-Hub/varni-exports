@@ -14,8 +14,8 @@
 }
 
 .img {
-    height: 150px;
-    width: 150px;
+    height: 215px;
+    width: 215px;
     z-index: 1;
     position: relative;
     border-radius: 50%;
@@ -28,7 +28,7 @@
 
 .img_bg {
     height: 150px;
-    width: 150px;
+    width: 190px;
     display: block;
     position: relative;
     top: -140px;

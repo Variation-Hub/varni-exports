@@ -55,9 +55,9 @@ function Category() {
               <Link
                 to={`/products/${categoryId}/${item.name}`}
                 key={item.id}
-                className={Style.images}
+                className={`flex flex-col items-center  ${Style.images}`}
               >
-                <img src={item?.images} alt="" />
+                <img className="w-[220px]" src={item?.images} alt="" />
                 <h1 className={Style.productt_name}>{item.name}</h1>
               </Link>
             );
