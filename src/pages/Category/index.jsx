@@ -28,7 +28,7 @@ function Category() {
           <ul className={productStyle.products_contianer}>
             {data?.products_detail?.map((product, index) => (
               <Link
-                to={`/products/${categoryId}/${product.subCatagoriesId}/${product.name}`}
+                to={`/products/${categoryId}/${product.subCatagoriesId}`}
                 key={index}
                 className={productStyle.product_name}
               >

@@ -10,37 +10,104 @@ function Category() {
   const { categoryId, subcategoryId, productId } = useParams();
   const [suggestedCategory, setSuggestedCategory] = useState([]);
   const [data, setData] = useState(null);
-
-  console.log(categoryId, subcategoryId, productId)
+  const [data2, setData2] = useState(null);
 
   useEffect(() => {
-    if (!productId) {
-      const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
-      setSuggestedCategory(category);
-      const productData = category?.find(item => item.name === subcategoryId) || null;
-      setData(productData);
+    if (categoryId === "spices" && ["ground-spices", "whole-spices"].includes(subcategoryId)) {
+      if (productId) {
+        const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
+        const productData = category?.find(item => item.subCatagoriesId === subcategoryId)?.products_detail || null;
+        setSuggestedCategory(productData);
+        const deailtData = productData?.find(item => item.name === productId) || null;
+        setData2(deailtData);
+      } else {
+        const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
+        setSuggestedCategory(category);
+        const productData = category?.find(item => item.subCatagoriesId === subcategoryId) || null;
+        setData(productData);
+      }
     } else {
       const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
-      const subCategory = category.find(item => item.subCatagoriesId === subcategoryId)?.products_detail;
-      setSuggestedCategory(subCategory);
-      const productData = subCategory?.find(item => item.name === productId) || null;
-      setData(productData);
+      const subCategory = category.find(item => item.name === subcategoryId);
+      setData(subCategory);
     }
   }, [categoryId, subcategoryId, productId]);
-  console.log(data)
-
 
   return (
 
-    productId ? (
-      null
+    categoryId === "spices" && ["ground-spices", "whole-spices"].includes(subcategoryId) ? (
+      productId && data2 ?
+        <div className={style.container}>
+          <div className={style.productSection}>
+            <h1 className={style.productName}>{data2?.name}</h1>
+            <div className={`flex items-center justify-around gap-24 ${Style.details_head}`}>
+              <div className={style.image}>
+                <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" />
+              </div>
+              <div className={style.productDetails}>
+                <table className={style.productTable}>
+                  <tbody>
+                    {data2 &&
+                      Object.keys(data2)?.map((value, index) => (
+                        (value !== "id" && value !== "name" && value !== "images" && value !== "description") ?
+                          <tr key={index}>
+                            <td>{value}</td>
+                            <td>{data2[value]}</td>
+                          </tr> : null
+                      ))}
+                  </tbody>
+                </table>
+
+              </div>
+            </div>
+          </div>
+
+
+          <div className={style.otherProductsGrid}>
+            <div className={style.productDescription}>
+              <h1 className='text-3xl mb-10'>Description</h1>
+              {data2?.description ? (
+                <Markdown className="text-justify">{atob(data2?.description)}</Markdown>
+              ) : null}
+            </div>
+
+            <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
+              <h1 className='text-2xl mb-4'>Other Products</h1>
+              {suggestedCategory?.slice(0, 4)?.map((item) => (
+                <Link to={`/products/${categoryId}/${subcategoryId}/${item.name}`} key={item.id} className={style.productLink}>
+                  <div className={style.productThumbnail}>
+                    <div className='w-16 rounded-full h-16 overflow-hidden flex justify-center items-center'>
+                      <img src={item.images} alt="" width="100%" height="100%" />
+                    </div>
+                    <p>{item.name}</p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+        :
+        <div className={Style.product_container}>
+          {data?.products_detail?.map((item) => {
+            return (
+              <Link
+                to={`/products/${categoryId}/${subcategoryId}/${item.name}`}
+                key={item.id}
+                className={`flex flex-col items-center  ${Style.images}`}
+              >
+                <img className="w-[220px]" src={item?.images} alt="" />
+                <h1 className={Style.productt_name}>{item.name}</h1>
+              </Link>
+            );
+          })}
+        </div>
     ) : (
       <div className={style.container}>
         <div className={style.productSection}>
           <h1 className={style.productName}>{data?.name}</h1>
           <div className={`flex items-center justify-around gap-24 ${Style.details_head}`}>
             <div className={style.image}>
-              <img src={data?.images} alt={`${data?.name} image`} width="100%" height="100%" /> 
+              <img src={data?.images} alt={`${data?.name} image`} width="100%" height="100%" />
             </div>
             <div className={style.productDetails}>
               <table className={style.productTable}>
@@ -68,7 +135,7 @@ function Category() {
               <Markdown className="text-justify">{atob(data?.description)}</Markdown>
             ) : null}
           </div>
-          
+
           <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
             <h1 className='text-2xl mb-4'>Other Products</h1>
             {suggestedCategory?.slice(0, 4)?.map((item) => (
