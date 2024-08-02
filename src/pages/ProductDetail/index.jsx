@@ -28,6 +28,7 @@ function Category() {
       }
     } else {
       const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
+      setSuggestedCategory(category);
       const subCategory = category.find(item => item.name === subcategoryId);
       setData(subCategory);
     }
