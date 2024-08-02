@@ -45,6 +45,8 @@
 
     .products_description {
         padding: 20px;
+        display: flex;
+        text-align: justify;
     }
 
     .product_container {
@@ -56,7 +58,6 @@
     .productt_name {
         align-items: center;
         width: 250px;
-        border: 1px solid red;
     }
 
     .images {
