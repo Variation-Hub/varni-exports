@@ -11,15 +11,69 @@ import {
   TableContainer,
   TableHead,
   TableRow,
-  Paper
+  Paper,
+  Dialog,
+  DialogTitle
 } from '@mui/material';
 
 function Category() {
+
 
   const { categoryId, subcategoryId, productId } = useParams();
   const [suggestedCategory, setSuggestedCategory] = useState([]);
   const [data, setData] = useState(null);
   const [data2, setData2] = useState(null);
+
+  const [open, setOpen] = useState(false);
+  const [enquiryData, setEnquiryData] = useState({
+    full_name: '',
+    email: '',
+    number: '',
+    company_name: '',
+    city: '',
+    postal_code: '',
+    country: '',
+    quantity_in_ton: '',
+    product_name: productId ? data2?.name : data?.name
+  });
+
+  const handleClickOpen = () => {
+    setOpen(true);
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+    setEnquiryData({
+      full_name: '',
+      email: '',
+      number: '',
+      company_name: '',
+      city: '',
+      postal_code: '',
+      country: '',
+      quantity_in_ton: '',
+      product_name: ''
+    });
+  };
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setEnquiryData({
+      ...enquiryData,
+      [name]: value
+    });
+
+    setEnquiryData(prevState => ({
+      ...prevState,
+      product_name: productId ? data2?.name : data?.name,
+    }));
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault()
+    console.log(enquiryData);
+    handleClose();
+  };
 
   useEffect(() => {
     if (categoryId === "spices" && ["ground-spices", "whole-spices"].includes(subcategoryId)) {
@@ -163,6 +217,13 @@ function Category() {
           </div>
 
           <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
+
+            <div className={style.send}>
+              <button className={style.btn} onClick={handleClickOpen}>
+                Enquiry Now
+              </button>
+            </div>
+
             <h1 className='text-2xl mb-4'>Other Products</h1>
             {suggestedCategory?.slice(0, 4)?.map((item) => (
               <Link to={`/products/${categoryId}/${item.name}`} key={item.id} className={style.productLink}>
@@ -176,6 +237,110 @@ function Category() {
             ))}
           </div>
         </div>
+
+        <Dialog open={open} onClose={handleClose}>
+          <form className={style.contact_Form2} onSubmit={handleSubmit}>
+            <label className='text-lg uppercase'>Enquiry Details</label>
+            <input
+              type='text'
+              name='full_name'
+              placeholder='Full name'
+              className={`${style.fonts}`}
+              value={enquiryData?.full_name}
+              onChange={handleChange}
+              required
+            />
+
+            <div className='flex gap-5 max-[426px]:flex-col'>
+              <input
+                type="email"
+                name="email"
+                placeholder="Email"
+                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
+                value={enquiryData?.email}
+                onChange={handleChange}
+                required
+              />
+
+              <input
+                type="number"
+                name="number"
+                placeholder="Phone Number"
+                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
+                value={enquiryData?.number}
+                onChange={handleChange}
+                required
+              />
+
+            </div>
+
+            <input
+              type="text"
+              name="company_name"
+              placeholder="Company Name"
+              className={style.fonts}
+              value={enquiryData?.company_name}
+              onChange={handleChange}
+              required
+            />
+
+
+            <div className='flex gap-5 max-[426px]:flex-col'>
+              <input
+                type='text'
+                name='city'
+                placeholder='City'
+                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
+                value={enquiryData?.city}
+                onChange={handleChange}
+                required
+              />
+
+              <input
+                type="number"
+                name="postal_code"
+                placeholder="Postal Code"
+                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
+                value={enquiryData?.postal_code}
+                onChange={handleChange}
+                required
+              />
+
+            </div>
+
+            <div className='flex gap-5 max-[426px]:flex-col'>
+              <input
+                type='text'
+                name='country'
+                placeholder='Country'
+                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
+                value={enquiryData?.country}
+                onChange={handleChange}
+                required
+              />
+
+              <input
+                type="number"
+                name="quantity_in_ton"
+                placeholder="Quantity in Ton"
+                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
+                value={enquiryData?.quantity_in_ton}
+                onChange={handleChange}
+                required
+              />
+
+            </div>
+
+            <div className={style.send}>
+              <input
+                className={style.btn}
+                value="Send Request"
+                type='submit'
+              />
+            </div>
+
+          </form>
+        </Dialog>
       </div>
     )
   );

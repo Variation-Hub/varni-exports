@@ -83,6 +83,31 @@
 }
 
 
+.btn {
+    border: 1px solid #0b0b0b;
+    color: white;
+    padding: 10px 25px;
+    width: 100%;
+    background-color: var(--primary-color);
+}
+
+.btn:hover {
+    background-color: var(--secondary-color);
+}
+
+
+.fonts {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.contact_Form2 {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+}
+
 /* Media queries for responsiveness */
 
 @media (max-width: 768px) {
@@ -95,6 +120,12 @@
     .productDescription {
         max-width: 100%;
         padding: 0 20px;
+    }
+
+    .contact_Form2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
 }
 

@@ -1935,7 +1935,7 @@ export const contactUsSection = {
     "B-705, Titanium Heights, Opp. Vodafone House, Corporate Rd, Prahlad Nagar, Ahmedabad, 380015 Gujarat, India",
   contact: "+91 94088 62963",
   contact1: "+91 99245 81694",
-  email: "sales@varniexports.com",
+  email: "info@varniexports.com",
 };
 
 export const Slider_products = [

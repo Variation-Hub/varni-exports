@@ -54,10 +54,10 @@ const Contact = () => {
           </div>
 
           <div className={style.media}>
-            <div><FaFacebookF /></div>
-            <div><FaYoutube /></div>
-            <div><BsInstagram /></div>
-            <div><BsTwitterX /></div>
+            <div className='hover:text-[#1877F2]'><FaFacebookF /></div>
+            <div className='hover:text-[#FF0000]'><FaYoutube /></div>
+            <div className='hover:text-[#ee2a7b]'><BsInstagram /></div>
+            <div className='hover:text-[#1dc0f2]'><BsTwitterX /></div>
           </div>
         </div>
 
@@ -76,9 +76,9 @@ const Contact = () => {
             <input type="text" name="postal_code" placeholder="Postal Code" className={`w-1/2 ${style.fonts}`} />
           </div>
           <input type="text" name="state" placeholder="State" className={style.fonts} />
-          <select name="course" placeholder="Choose product type of inquiry" className={style.fonts}>
+          <select name="course" placeholder="Choose product type of enquiry" className={style.fonts}>
 
-            <option className={style.fonts}>Choose product type of inquiry </option>
+            <option className={style.fonts}>Choose product type of enquiry </option>
             <option>Spices</option>
             <option >Ground nut</option>
             <option>Rice</option>

@@ -33,7 +33,7 @@ const Footer = () => {
         <div className={styles.font}>
           <h3>Contact</h3>
           <div className={styles.cont}>
-            <a className='flex items-center gap-2' href="mailto:sales@varniexports.com" ><FaLink />sales@varniexports.com</a>
+            <a className='flex items-center gap-2' href="mailto:info@varniexports.com" ><FaLink />info@varniexports.com</a>
             <a className='flex items-center gap-2' href="tel:+91 94088 62963"><FiPhone />+91 94088 62963</a>
             <a className='flex items-center gap-2' href="tel:+91 99245 81694" ><FiPhone />+91 99245 81694</a>
           </div>
