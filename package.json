@@ -21,6 +21,7 @@
     "react-markdown": "^9.0.1",
     "react-router-dom": "^6.23.1",
     "react-slick": "^0.30.2",
+    "rsuite": "^5.68.1",
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {

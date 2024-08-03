@@ -11,10 +11,9 @@ import {
   TableContainer,
   TableHead,
   TableRow,
-  Paper,
   Dialog,
-  DialogTitle
 } from '@mui/material';
+import { Message } from 'rsuite';
 
 function Category() {
 
@@ -28,6 +27,7 @@ function Category() {
   const [enquiryData, setEnquiryData] = useState({
     full_name: '',
     email: '',
+    country_code: '',
     number: '',
     company_name: '',
     city: '',
@@ -47,6 +47,7 @@ function Category() {
       full_name: '',
       email: '',
       number: '',
+      country_code: '',
       company_name: '',
       city: '',
       postal_code: '',
@@ -71,7 +72,21 @@ function Category() {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    console.log(enquiryData);
+    fetch('https://varni-export-backend.onrender.com/send-enquiry', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ subject: "Product Enquiry", body: enquiryData }),
+    })
+      .then(response => {
+        if (response.ok) {
+          console.log('Email sent successfully');
+        }
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
     handleClose();
   };
 
@@ -144,6 +159,11 @@ function Category() {
             </div>
 
             <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
+              <div className={style.send}>
+                <button className={style.btn} onClick={handleClickOpen}>
+                  Enquiry Now
+                </button>
+              </div>
               <h1 className='text-2xl mb-4'>Other Products</h1>
               {suggestedCategory?.slice(0, 4)?.map((item) => (
                 <Link to={`/products/${categoryId}/${subcategoryId}/${item.name}`} key={item.id} className={style.productLink}>
@@ -251,22 +271,31 @@ function Category() {
               required
             />
 
+            <input
+              type="email"
+              name="email"
+              placeholder="Email"
+              className={`w-full max-[426px]:w-full ${style.fonts}`}
+              value={enquiryData?.email}
+              onChange={handleChange}
+              required
+            />
             <div className='flex gap-5 max-[426px]:flex-col'>
+
               <input
-                type="email"
-                name="email"
-                placeholder="Email"
-                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
-                value={enquiryData?.email}
+                type="number"
+                name="country_code"
+                placeholder="Country code"
+                className={`w-1/3 max-[426px]:w-full ${style.fonts}`}
+                value={enquiryData?.country_code}
                 onChange={handleChange}
                 required
               />
-
               <input
                 type="number"
                 name="number"
                 placeholder="Phone Number"
-                className={`w-1/2 max-[426px]:w-full ${style.fonts}`}
+                className={`w-2/3 max-[426px]:w-full ${style.fonts}`}
                 value={enquiryData?.number}
                 onChange={handleChange}
                 required
