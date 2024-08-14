@@ -14,6 +14,7 @@ import {
   Dialog,
 } from '@mui/material';
 import { Message } from 'rsuite';
+import ReactImageMagnify from 'react-image-magnify'
 
 function Category() {
 
@@ -120,9 +121,30 @@ function Category() {
             <div className={style.productSection}>
               <h1 className={style.productName}>{data2?.name}</h1>
               <div className={`flex items-center justify-around gap-24 w-[80%] ${Style.details_head}`}>
+                {data2 && (
                 <div className={style.image}>
-                  <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" />
+                  {/* <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" /> */}
+                  <ReactImageMagnify
+                    {...{
+                      smallImage: {
+                        alt: 'Original Image',
+                        isFluidWidth: true,
+                        src: data2.images
+                      },
+                      largeImage: {
+                        src: data2.images,
+                        width:500,
+                        height: 500
+                      },
+                      enlargedImageContainerDimensions: {
+                        width: '100%',
+                        height: '100%',
+                      },
+                    }}
+                  />
                 </div>
+              )}
+
                 <div className={style.productDetails}>
                   <TableContainer>
                     <Table className={style.productTable}>
@@ -198,9 +220,32 @@ function Category() {
           <div className={style.productSection}>
             <h1 className={style.productName}>{data?.name}</h1>
             <div className={`flex items-center justify-around gap-24 w-[80%] ${Style.details_head}`}>
-              <div className={style.image}>
+              {/* <div className={style.image}>
                 <img src={data?.images} alt={`${data?.name} image`} width="100%" height="100%" />
-              </div>
+              </div> */}
+              {data && (
+                <div className={style.image}>
+                  {/* <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" /> */}
+                  <ReactImageMagnify
+                    {...{
+                      smallImage: {
+                        alt: 'Original Image',
+                        isFluidWidth: true,
+                        src: data.images
+                      },
+                      largeImage: {
+                        src: data.images,
+                        width:600,
+                        height:700
+                      },
+                      enlargedImageContainerDimensions: {
+                        width: '100%',
+                        height: '100%',
+                      },
+                    }}
+                  />
+                </div>
+              )}
               <div className={style.productDetails}>
                 <TableContainer>
                   <Table className={style.productTable}>

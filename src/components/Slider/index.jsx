@@ -131,8 +131,10 @@ function Lider() {
                 key={slider.id}
                 className={Style.slider_component}
               >
-                <img className={Style.img} src={slider.image} alt="Slide 1" />
-                <hr className={Style.img_bg} />
+               {/* <div className={Style.img_box}> </div> */}
+               <img className={Style.img} src={slider.image} alt="Slide 1" />
+              
+                {/* <hr className={Style.img_bg} /> */}
                 <div className={Style.sliderText}>
                   <h1 className={Style.name}>{slider.name}</h1>
                 </div>
