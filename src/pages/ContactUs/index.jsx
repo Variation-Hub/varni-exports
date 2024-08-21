@@ -4,7 +4,7 @@ import { IoLocationOutline } from "react-icons/io5";
 import { FiPhone } from "react-icons/fi";
 import { HiOutlineMailOpen } from "react-icons/hi";
 import { FaFacebookF } from "react-icons/fa";
-import { FaYoutube } from "react-icons/fa6";
+import { FaWhatsapp, FaYoutube } from "react-icons/fa6";
 import { BsInstagram } from "react-icons/bs";
 import { BsTwitterX } from "react-icons/bs";
 import contactUsImage from '../../assets/Banner/contact-us-banner.webp'
@@ -156,10 +156,10 @@ const Contact = () => {
               address: '',
               city: '',
               postal_code: '',
-              state:'',
+              state: '',
               country: '',
               product: '',
-              country_code: '', 
+              country_code: '',
               message: ''
             })
           }
@@ -211,10 +211,18 @@ const Contact = () => {
           </div>
 
           <div className={style.media}>
-            <div className='hover:text-[#1877F2]'><FaFacebookF /></div>
-            <div className='hover:text-[#FF0000]'><FaYoutube /></div>
-            <div className='hover:text-[#ee2a7b]'><BsInstagram /></div>
-            <div className='hover:text-[#1dc0f2]'><BsTwitterX /></div>
+            <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+              <div className=' hover:text-[#1877F2]'><FaFacebookF /></div>
+            </a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+              <div className='hover:text-[#1DA1F2]'><BsTwitterX /></div>
+            </a>
+            <a href="https://wa.me/919408862963" target="_blank" rel="noopener noreferrer">
+              <div className='hover:text-[#25D366]'><FaWhatsapp /></div>
+            </a>
+            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+              <div className='hover:text-[#E4405F]'><BsInstagram /></div>
+            </a>
           </div>
         </div>
 

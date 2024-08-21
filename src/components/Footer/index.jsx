@@ -6,7 +6,7 @@ import { IoLocationOutline } from "react-icons/io5";
 import { FaLink } from "react-icons/fa";
 import { MdProductionQuantityLimits } from "react-icons/md";
 import { GrCertificate } from "react-icons/gr";
-import { BsInfoCircle } from "react-icons/bs";
+import { BsInfoCircle, BsTwitterX } from "react-icons/bs";
 import { RiContactsBook3Line } from "react-icons/ri";
 import { FaFacebookF, FaTwitter, FaWhatsapp, FaInstagram } from 'react-icons/fa';
 
@@ -51,7 +51,7 @@ const Footer = () => {
               <FaFacebookF className='text-2xl text-gray-600 hover:text-[#1877F2]' />
             </a>
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-              <FaTwitter className='text-2xl text-gray-600 hover:text-[#1DA1F2]' />
+              <BsTwitterX className='text-2xl text-gray-600 hover:text-[#1DA1F2]' />
             </a>
             <a href="https://wa.me/919408862963" target="_blank" rel="noopener noreferrer">
               <FaWhatsapp className='text-2xl text-gray-600 hover:text-[#25D366]' />
