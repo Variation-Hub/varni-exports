@@ -92,14 +92,14 @@
     font-weight: 500;
     line-height: 24px;
     color: rgb(80, 167, 44);
-    margin-bottom: 0.5vh;
+    margin-bottom: 4vh;
+    margin-top: 3vh;
 }
 
 .offering {
     font-size: 45px;
-    font-weight: 900;
+    font-weight: 600;
     color: rgb(2, 61, 85);
-    margin-bottom: 5vh;
 }
 
 .slider_component_category {

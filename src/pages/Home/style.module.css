@@ -9,6 +9,29 @@
     position: relative;
 }
 
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.sliderText h1 {
+    animation: slideIn 1s ease-in-out forwards;
+}
+
+.sliderText p {
+    transform: translateX(-100%);
+    animation: slideIn 1s ease-in-out forwards;
+    animation-delay: 1s;
+}
+
+
 .slider_component img {
     height: 100vh;
 }
@@ -205,9 +228,11 @@
         height: 50vh;
         width: 100vw;
     }
+
     .Card {
         width: 15rem;
     }
+
     .read_more {
         padding: 3px 10px;
         font-size: 9px;
@@ -230,31 +255,39 @@
     .slider_component img {
         height: 37vh;
     }
+
     .sliderText h1 {
         font-size: 4vw;
     }
+
     .sliderText p {
         font-size: 3.3vw;
     }
+
     .card_section {
         flex-direction: column;
         gap: 50px;
         align-items: center;
     }
+
     .Card {
         width: 90%;
     }
+
     .commit_container {
         flex-direction: column;
         align-items: center;
         gap: 20px;
     }
+
     .commitmentSection {
         width: 70%;
     }
+
     .commitmentSection h2 {
         font-size: 4vw;
     }
+
     .read_more {
         padding: 3px 10px;
         font-size: 12px;

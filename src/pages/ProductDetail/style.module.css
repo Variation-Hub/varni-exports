@@ -89,12 +89,20 @@
     padding: 10px 25px;
     width: 100%;
     background-color: var(--primary-color);
+    border-radius: .3rem;
 }
 
 .btn:hover {
     background-color: var(--secondary-color);
 }
 
+
+.fixedEnquiryButtonContainer {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
 
 .fonts {
     border: 1px solid black;
@@ -226,6 +234,13 @@
     .images {
         width: 220px;
     }
+
+    .fixedEnquiryButtonContainer {
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        z-index: 1000;
+    }
 }
 
 .productDetails {
@@ -256,5 +271,4 @@
 
 .tableBodyCell {
     padding: 10px !important;
-    /* padding-left: 1rem !important; */
 }

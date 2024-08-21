@@ -18,6 +18,7 @@ const styleButton = {
   fontSize: "48px",
   cursor: "pointer",
   textShadow: "1px 1px 3px lightgray",
+  background: "rgb(250 249 246 / 62%)"
 }
 
 function SampleNextArrow(props) {
@@ -52,6 +53,7 @@ function Lider() {
     autoplaySpeed: 1200,
     nextArrow: <SampleNextArrow />,
     prevArrow: <SamplePrevArrow />,
+    pauseOnHover: false,
     responsive: [
       {
         breakpoint: 1024,
@@ -88,6 +90,7 @@ function Lider() {
     autoplaySpeed: 1400,
     nextArrow: <SampleNextArrow />,
     prevArrow: <SamplePrevArrow />,
+    pauseOnHover: false,
     responsive: [
       {
         breakpoint: 1024,

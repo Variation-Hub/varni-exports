@@ -122,28 +122,28 @@ function Category() {
               <h1 className={style.productName}>{data2?.name}</h1>
               <div className={`flex items-center justify-around gap-24 w-[80%] ${Style.details_head}`}>
                 {data2 && (
-                <div className={style.image}>
-                  {/* <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" /> */}
-                  <ReactImageMagnify
-                    {...{
-                      smallImage: {
-                        alt: 'Original Image',
-                        isFluidWidth: true,
-                        src: data2.images
-                      },
-                      largeImage: {
-                        src: data2.images,
-                        width:500,
-                        height: 500
-                      },
-                      enlargedImageContainerDimensions: {
-                        width: '100%',
-                        height: '100%',
-                      },
-                    }}
-                  />
-                </div>
-              )}
+                  <div className={style.image}>
+                    {/* <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" /> */}
+                    <ReactImageMagnify
+                      {...{
+                        smallImage: {
+                          alt: 'Original Image',
+                          isFluidWidth: true,
+                          src: data2.images
+                        },
+                        largeImage: {
+                          src: data2.images,
+                          width: 500,
+                          height: 500
+                        },
+                        enlargedImageContainerDimensions: {
+                          width: '100%',
+                          height: '100%',
+                        },
+                      }}
+                    />
+                  </div>
+                )}
 
                 <div className={style.productDetails}>
                   <TableContainer>
@@ -181,11 +181,6 @@ function Category() {
               </div>
 
               <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
-                <div className={style.send}>
-                  <button className={style.btn} onClick={handleClickOpen}>
-                    Enquiry Now
-                  </button>
-                </div>
                 <h1 className='text-2xl mb-4'>Other Products</h1>
                 {suggestedCategory?.slice(0, 4)?.map((item) => (
                   <Link to={`/products/${categoryId}/${subcategoryId}/${item.name}`} key={item.id} className={style.productLink}>
@@ -235,8 +230,8 @@ function Category() {
                       },
                       largeImage: {
                         src: data.images,
-                        width:600,
-                        height:700
+                        width: 600,
+                        height: 700
                       },
                       enlargedImageContainerDimensions: {
                         width: '100%',
@@ -282,12 +277,6 @@ function Category() {
             </div>
 
             <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
-
-              <div className={style.send}>
-                <button className={style.btn} onClick={handleClickOpen}>
-                  Enquiry Now
-                </button>
-              </div>
 
               <h1 className='text-2xl mb-4'>Other Products</h1>
               {suggestedCategory?.slice(0, 4)?.map((item) => (
@@ -418,6 +407,11 @@ function Category() {
 
         </form>
       </Dialog>
+      <div className={style.fixedEnquiryButtonContainer}>
+        <button className={style.btn} onClick={handleClickOpen}>
+          Enquiry Now
+        </button>
+      </div>
     </>
   );
 }

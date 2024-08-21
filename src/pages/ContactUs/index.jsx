@@ -91,44 +91,44 @@ const Contact = () => {
     // }
 
     // Address validation
-    if (!contact.address) {
-      tempErrors["address"] = "Address is required";
-      isValid = false;
-    }
+    // if (!contact.address) {
+    //   tempErrors["address"] = "Address is required";
+    //   isValid = false;
+    // }
 
     // City validation
-    if (!contact.city) {
-      tempErrors["city"] = "City is required";
-      isValid = false;
-    }
+    // if (!contact.city) {
+    //   tempErrors["city"] = "City is required";
+    //   isValid = false;
+    // }
 
     // Postal code validation
-    const postalPattern = /^[0-9]{6}$/;
-    if (!contact.postal_code) {
-      tempErrors["postal_code"] = "Postal code is required";
-      isValid = false;
-    } else if (!postalPattern.test(contact.postal_code)) {
-      tempErrors["postal_code"] = "Invalid postal code";
-      isValid = false;
-    }
+    // const postalPattern = /^[0-9]{6}$/;
+    // if (!contact.postal_code) {
+    //   tempErrors["postal_code"] = "Postal code is required";
+    //   isValid = false;
+    // } else if (!postalPattern.test(contact.postal_code)) {
+    //   tempErrors["postal_code"] = "Invalid postal code";
+    //   isValid = false;
+    // }
 
     // State validation
-    if (!contact.state) {
-      tempErrors["state"] = "State is required";
-      isValid = false;
-    }
+    // if (!contact.state) {
+    //   tempErrors["state"] = "State is required";
+    //   isValid = false;
+    // }
 
     // Product validation
-    if (!contact.product) {
-      tempErrors["product"] = "Product is required";
-      isValid = false;
-    }
+    // if (!contact.product) {
+    //   tempErrors["product"] = "Product is required";
+    //   isValid = false;
+    // }
 
     // Message validation
-    if (!contact.message) {
-      tempErrors["message"] = "Message is required";
-      isValid = false;
-    }
+    // if (!contact.message) {
+    //   tempErrors["message"] = "Message is required";
+    //   isValid = false;
+    // }
 
     setErrors(tempErrors);
     return isValid;
