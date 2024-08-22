@@ -1946,6 +1946,12 @@ export const Slider_products = [
     "path": "/products/spices/ground-spices"
   },
   {
+    "id": 0.9928608412979913,
+    "name": "Coriander Seeds",
+    "image": spices2,
+    "path": "/products/spices/ground-spices"
+  },
+  {
     "id": 0.20953523147285247,
     "name": "Bold Peanut Seed",
     "image": peanut3,
@@ -1970,16 +1976,16 @@ export const Slider_products = [
     "path": "/products/onion"
   },
   {
+    "id": 0.21852196886231834,
+    "name": "Red Onion",
+    "image": onion1,
+    "path": "/products/onion"
+  },
+  {
     "id": 0.8497581604382174,
     "name": "Rice",
     "image": grains5,
     "path": "/products/grains"
-  },
-  {
-    "id": 0.9928608412979913,
-    "name": "Coriander Seeds",
-    "image": spices2,
-    "path": "/products/spices/ground-spices"
   },
   {
     "id": 0.647599081872253,
@@ -2005,12 +2011,6 @@ export const Slider_products = [
     "image": roastedGram1,
     "path": "/products/roasted-gram"
   },
-  {
-    "id": 0.21852196886231834,
-    "name": "Red Onion",
-    "image": onion1,
-    "path": "/products/onion"
-  }
 ]
 
 export const counter = [
