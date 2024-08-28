@@ -1951,20 +1951,16 @@ export const catagories = [
             <p>Flax seeds, also known as linseeds, are small oil seeds harvested from the flax plant (Linum usitatissimum). These seeds are valued for their rich nutritional profile and have been used for centuries in traditional medicine and culinary practices. At Varni Exports, we provide the following varieties of flax seeds:</p>
             <br />
 
-            <ul>
-              <li><strong>Brown Flax Seeds</strong>: The most common variety, known for its nutty flavor and high omega-3 fatty acid content.</li>
-              <li><strong>Golden Flax Seeds</strong>: Similar to brown flax seeds but with a lighter color and slightly milder taste.</li>
-            </ul>
+            <li><strong>Brown Flax Seeds</strong>: The most common variety, known for its nutty flavor and high omega-3 fatty acid content.</li>
+            <li><strong>Golden Flax Seeds</strong>: Similar to brown flax seeds but with a lighter color and slightly milder taste.</li>
             <br />
 
             <p><strong>Why Choose Flax Seeds from Varni Exports?</strong></p>
             <br />
-            <ul>
-              <li><strong>Nutritional Powerhouse</strong>: Flax seeds are rich in alpha-linolenic acid (ALA), an essential omega-3 fatty acid, as well as dietary fiber, lignans, and antioxidants.</li>
-              <li><strong>Health Benefits</strong>: Consuming flax seeds may promote heart health, aid in digestion, support skin health, and contribute to overall well-being. They are also valued for their potential anti-inflammatory and antioxidant properties.</li>
-              <li><strong>Versatile Use</strong>: Flax seeds are used in a variety of culinary applications, including baking (as an egg substitute), sprinkled on cereals or salads, added to smoothies, and incorporated into bread and snack bars.</li>
-              <li><strong>Industrial Applications</strong>: Beyond food, flax seeds are used in the production of linseed oil, which is used in paints, varnishes, and wood finishes due to its drying properties.</li>
-            </ul>
+            <li><strong>Nutritional Powerhouse</strong>: Flax seeds are rich in alpha-linolenic acid (ALA), an essential omega-3 fatty acid, as well as dietary fiber, lignans, and antioxidants.</li>
+            <li><strong>Health Benefits</strong>: Consuming flax seeds may promote heart health, aid in digestion, support skin health, and contribute to overall well-being. They are also valued for their potential anti-inflammatory and antioxidant properties.</li>
+            <li><strong>Versatile Use</strong>: Flax seeds are used in a variety of culinary applications, including baking (as an egg substitute), sprinkled on cereals or salads, added to smoothies, and incorporated into bread and snack bars.</li>
+            <li><strong>Industrial Applications</strong>: Beyond food, flax seeds are used in the production of linseed oil, which is used in paints, varnishes, and wood finishes due to its drying properties.</li>
             <br />
 
             <p><strong>Sourcing and Processing</strong></p>
@@ -1979,12 +1975,10 @@ export const catagories = [
 
             <p><strong>Uses and Benefits of Flax Seeds</strong></p>
             <br />
-            <ul>
-              <li><strong>Dietary Supplement</strong>: Flax seeds are commonly consumed as a dietary supplement due to their high content of omega-3 fatty acids and fiber, promoting cardiovascular health and digestive regularity.</li>
-              <li><strong>Culinary Uses</strong>: Adds a nutty flavor and crunchy texture to baked goods, breakfast cereals, yogurt, and salads. Ground flax seeds (flaxseed meal) can be used as an egg substitute in vegan baking.</li>
-              <li><strong>Health Benefits</strong>: Supports brain function, joint health, and may help lower cholesterol levels. Flax seeds are also associated with improved skin condition and hair health.</li>
-              <li><strong>Natural Remedies</strong>: Used in traditional medicine for their potential anti-inflammatory properties and to alleviate symptoms of constipation.</li>
-            </ul>
+            <li><strong>Dietary Supplement</strong>: Flax seeds are commonly consumed as a dietary supplement due to their high content of omega-3 fatty acids and fiber, promoting cardiovascular health and digestive regularity.</li>
+            <li><strong>Culinary Uses</strong>: Adds a nutty flavor and crunchy texture to baked goods, breakfast cereals, yogurt, and salads. Ground flax seeds (flaxseed meal) can be used as an egg substitute in vegan baking.</li>
+            <li><strong>Health Benefits</strong>: Supports brain function, joint health, and may help lower cholesterol levels. Flax seeds are also associated with improved skin condition and hair health.</li>
+            <li><strong>Natural Remedies</strong>: Used in traditional medicine for their potential anti-inflammatory properties and to alleviate symptoms of constipation.</li>
             <br />
 
             <p><strong>Commitment to Quality and Sustainability</strong></p>
@@ -2035,22 +2029,18 @@ export const catagories = [
 
             <p><strong>Culinary Uses of Sooji</strong></p>
             <br />
-            <ul>
-              <li><strong>Indian Cuisine</strong>: Sooji is a staple ingredient in Indian cuisine, used to prepare dishes such as upma, halwa, idli, dosa, and various sweets like ladoo and kesari.</li>
-              <li><strong>Baking</strong>: Sooji is used in baking to create crisp crusts for bread, pizza, and biscuits. It is also added to doughs to enhance texture and structure.</li>
-              <li><strong>Soups and Porridges</strong>: Sooji can be used to thicken soups and stews, adding a hearty texture. It is also used to make creamy porridges and puddings.</li>
-              <li><strong>Fried and Roasted Snacks</strong>: Sooji is used to make snacks like pakoras, bhajis, and crispy fried items by coating vegetables or meats.</li>
-            </ul>
+            <li><strong>Indian Cuisine</strong>: Sooji is a staple ingredient in Indian cuisine, used to prepare dishes such as upma, halwa, idli, dosa, and various sweets like ladoo and kesari.</li>
+            <li><strong>Baking</strong>: Sooji is used in baking to create crisp crusts for bread, pizza, and biscuits. It is also added to doughs to enhance texture and structure.</li>
+            <li><strong>Soups and Porridges</strong>: Sooji can be used to thicken soups and stews, adding a hearty texture. It is also used to make creamy porridges and puddings.</li>
+            <li><strong>Fried and Roasted Snacks</strong>: Sooji is used to make snacks like pakoras, bhajis, and crispy fried items by coating vegetables or meats.</li>
             <br />
 
             <p><strong>Health Benefits of Sooji</strong></p>
             <br />
-            <ul>
-              <li><strong>Nutrient-Rich</strong>: Sooji is a good source of carbohydrates, providing energy for the body. It also contains protein, fiber, and essential vitamins and minerals.</li>
-              <li><strong>Digestive Health</strong>: Sooji aids in digestion due to its fiber content, promoting digestive regularity and gut health.</li>
-              <li><strong>Gluten-Free Option</strong>: When made from gluten-free grains, Sooji can be suitable for individuals with gluten intolerance.</li>
-              <li><strong>Versatile Cooking Ingredient</strong>: Its neutral flavor and ability to absorb flavors make Sooji a versatile ingredient in both sweet and savory dishes.</li>
-            </ul>
+            <li><strong>Nutrient-Rich</strong>: Sooji is a good source of carbohydrates, providing energy for the body. It also contains protein, fiber, and essential vitamins and minerals.</li>
+            <li><strong>Digestive Health</strong>: Sooji aids in digestion due to its fiber content, promoting digestive regularity and gut health.</li>
+            <li><strong>Gluten-Free Option</strong>: When made from gluten-free grains, Sooji can be suitable for individuals with gluten intolerance.</li>
+            <li><strong>Versatile Cooking Ingredient</strong>: Its neutral flavor and ability to absorb flavors make Sooji a versatile ingredient in both sweet and savory dishes.</li>
             <br />
 
             <p><strong>Sourcing and Quality Assurance</strong></p>
@@ -2190,48 +2180,40 @@ export const catagories = [
             <br />
             <p> <strong>Green millet is packed with essential nutrients:</strong></p>
             <br />
-            <ul>
-              <li><strong>Rich in Protein:</strong> Contains a significant amount of protein, making it an excellent dietary choice for vegetarians and vegans.</li>
-              <li><strong>High in Fiber:</strong> A great source of dietary fiber, which aids in digestion and helps maintain healthy bowel movements.</li>
-              <li><strong>Essential Minerals:</strong> Loaded with iron, magnesium, phosphorus, and potassium, contributing to overall health and well-being.</li>
-              <li><strong>Vitamins:</strong> Contains B vitamins, including niacin, thiamine, and riboflavin, which are crucial for energy metabolism and maintaining a healthy nervous system.</li>
-              <li><strong>Gluten-Free:</strong> Naturally gluten-free, making it suitable for those with gluten intolerance or celiac disease.</li>
-            </ul>
+            <li><strong>Rich in Protein:</strong> Contains a significant amount of protein, making it an excellent dietary choice for vegetarians and vegans.</li>
+            <li><strong>High in Fiber:</strong> A great source of dietary fiber, which aids in digestion and helps maintain healthy bowel movements.</li>
+            <li><strong>Essential Minerals:</strong> Loaded with iron, magnesium, phosphorus, and potassium, contributing to overall health and well-being.</li>
+            <li><strong>Vitamins:</strong> Contains B vitamins, including niacin, thiamine, and riboflavin, which are crucial for energy metabolism and maintaining a healthy nervous system.</li>
+            <li><strong>Gluten-Free:</strong> Naturally gluten-free, making it suitable for those with gluten intolerance or celiac disease.</li>
             <br />
 
             <h2><strong>Health Benefits</strong></h2>
             <br />
             <p>Incorporating green millet into your diet can offer numerous health benefits:</p>
             <br />
-            <ul>
-              <li><strong>Supports Heart Health:</strong> Rich in magnesium and potassium, green millet helps maintain healthy blood pressure levels and supports cardiovascular health.</li>
-              <li><strong>Aids in Weight Management:</strong> High fiber content promotes a feeling of fullness, reducing overall calorie intake and aiding in weight management.</li>
-              <li><strong>Regulates Blood Sugar Levels:</strong> Low glycemic index makes it an excellent choice for diabetics and those looking to maintain stable blood sugar levels.</li>
-              <li><strong>Boosts Immune System:</strong> Contains antioxidants and essential nutrients that strengthen the immune system and protect against infections.</li>
-            </ul>
+            <li><strong>Supports Heart Health:</strong> Rich in magnesium and potassium, green millet helps maintain healthy blood pressure levels and supports cardiovascular health.</li>
+            <li><strong>Aids in Weight Management:</strong> High fiber content promotes a feeling of fullness, reducing overall calorie intake and aiding in weight management.</li>
+            <li><strong>Regulates Blood Sugar Levels:</strong> Low glycemic index makes it an excellent choice for diabetics and those looking to maintain stable blood sugar levels.</li>
+            <li><strong>Boosts Immune System:</strong> Contains antioxidants and essential nutrients that strengthen the immune system and protect against infections.</li>
             <br />
 
             <h2><strong>Culinary Uses</strong></h2>
             <br />
             <p>Green millet is incredibly versatile and can be used in various culinary applications:</p>
             <br />
-            <ul>
-              <li><strong>Traditional Dishes:</strong> Commonly used in porridges, flatbreads, and fermented foods in many cultures.</li>
-              <li><strong>Salads:</strong> Adds a nutritious and crunchy element to salads when cooked and cooled.</li>
-              <li><strong>Baking:</strong> Can be ground into flour and used in baking bread, muffins, and other gluten-free baked goods.</li>
-              <li><strong>Side Dishes:</strong> Cooked green millet can be served as a side dish, similar to rice or quinoa, complementing a variety of main courses.</li>
-            </ul>
+            <li><strong>Traditional Dishes:</strong> Commonly used in porridges, flatbreads, and fermented foods in many cultures.</li>
+            <li><strong>Salads:</strong> Adds a nutritious and crunchy element to salads when cooked and cooled.</li>
+            <li><strong>Baking:</strong> Can be ground into flour and used in baking bread, muffins, and other gluten-free baked goods.</li>
+            <li><strong>Side Dishes:</strong> Cooked green millet can be served as a side dish, similar to rice or quinoa, complementing a variety of main courses.</li>
             <br />
 
             <h2><strong>Quality Assurance</strong></h2>
             <br />
             <p>At Varni Exports, we ensure that our green millet meets the highest standards of quality and safety:</p>
             <br />
-            <ul>
-              <li><strong>Premium Sourcing:</strong> Sourced from trusted farmers who practice sustainable agriculture.</li>
-              <li><strong>Rigorous Quality Control:</strong> Undergoes stringent quality checks to ensure purity, consistency, and nutritional value.</li>
-              <li><strong>Hygienic Processing:</strong> Processed and packaged under hygienic conditions to maintain freshness and prevent contamination.</li>
-            </ul>
+            <li><strong>Premium Sourcing:</strong> Sourced from trusted farmers who practice sustainable agriculture.</li>
+            <li><strong>Rigorous Quality Control:</strong> Undergoes stringent quality checks to ensure purity, consistency, and nutritional value.</li>
+            <li><strong>Hygienic Processing:</strong> Processed and packaged under hygienic conditions to maintain freshness and prevent contamination.</li>
             <br />
 
             <h2><strong>Experience Green Millet with Varni Exports</strong></h2>
@@ -2267,7 +2249,61 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "15 to 30 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFBhcnRuZXIgZm9yIFJlZCBPbmlvbiBFeHBvcnQKCkFyZSB5b3Ugc2Vla2luZyBhIHJlbGlhYmxlIG9uaW9uIGV4cG9ydGVyPyBWYXJuaSBFeHBvcnRzIGlzIHRoZSBpZGVhbCBwbGF0Zm9ybSB0byBlc3RhYmxpc2ggZW5kdXJpbmcgdHJhZGUgcmVsYXRpb25zaGlwcyBhbmQgZnV0dXJlIGJ1c2luZXNzIHZlbnR1cmVzLgoKIyMjIEhpZ2gtUXVhbGl0eSBSZWQgT25pb25zIGZyb20gRmVydGlsZSBSZWdpb25zCgpWYXJuaSBFeHBvcnRzIHNvdXJjZXMgcHJlbWl1bS1xdWFsaXR5IHJlZCBvbmlvbnMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gVGhlc2UgcmVkIG9uaW9ucyBhcmUgZXhjZXB0aW9uYWxseSByaWNoIGluIHByb3RlaW4gYW5kIGhhdmUgYSBzaWduaWZpY2FudCBvaWwgY29udGVudC4gQWZ0ZXIgc291cmNpbmcsIHRoZSByZWQgb25pb25zIHVuZGVyZ28gbWV0aWN1bG91cyBjbGVhbmluZywgYWNoaWV2aW5nIGEgZ3JhZGluZyBsZXZlbCBvZiA5MCB0byA5NSUuCgojIyMgVmFyaWV0eSBvZiBPbmlvbnMgT2ZmZXJlZAoKQXQgVmFybmkgRXhwb3J0cywgd2Ugb2ZmZXIgYSBkaXZlcnNlIHJhbmdlIG9mIG9uaW9uIHZhcmlldGllcyB0byBtZWV0IHlvdXIgc3BlY2lmaWMgbmVlZHM6Ci0gKipSZWQgT25pb25zKioKLSAqKldoaXRlIE9uaW9ucyoqCi0gKipZZWxsb3cgT25pb25zKioKLSAqKlBpbmsgT25pb25zKioKCiMjIyBTdGF0ZS1vZi10aGUtQXJ0IFByb2Nlc3NpbmcgUGxhbnQKCk91ciBhZHZhbmNlZCBwcm9jZXNzaW5nIHBsYW50IGZlYXR1cmVzIHRoZSBsYXRlc3QgbWFjaGluZXJ5IGFuZCBlbXBsb3lzIGN1dHRpbmctZWRnZSB0ZWNobm9sb2d5LiBXZSBwcmlvcml0aXplIGVudmlyb25tZW50YWxseSBmcmllbmRseSBwcmFjdGljZXMgYW5kIGVmZmVjdGl2ZSB3YXN0ZSBtYW5hZ2VtZW50IHN5c3RlbXMuIFRoZSBuYXR1cmFsIG9uaW9ucyB3ZSBwcm9kdWNlIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIGFuZCBhcmUgcmVhZHkgZm9yIGV4cG9ydC4KCiMjIyBPcHRpbWFsIEdyb3dpbmcgUmVnaW9ucwoKUmVkIG9uaW9ucyBhcmUgd2lkZWx5IGN1bHRpdmF0ZWQgaW4gdGhlIHdlc3Rlcm4gcGFydHMgb2YgSW5kaWEsIGVzcGVjaWFsbHkgaW4gR3VqYXJhdCBhbmQgTmFzaWssIHdoZXJlIHRoZSBlbnZpcm9ubWVudCBpcyBpZGVhbCBmb3IgdGhlaXIgZ3Jvd3RoIGFuZCBkZXZlbG9wbWVudC4KCiMjIyBDb21wcmVoZW5zaXZlIFN1cHBsaWVyIGFuZCBFeHBvcnRlcgoKVmFybmkgRXhwb3J0cyBpcyBhIHJlY29nbml6ZWQgc3VwcGxpZXIsIGV4cG9ydGVyLCBhbmQgcHJvZHVjZXIgb2Ygb25pb25zLiBJbmRpYSdzIGRyeSBhbmQgaHVtaWQgY2xpbWF0ZSBwcm9kdWNlcyB0aGUgYmVzdCBxdWFsaXR5IG9uaW9ucywgbWFraW5nIHRoZW0gYSBzdGFwbGUgaW5ncmVkaWVudCBpbiBjdWlzaW5lcyB3b3JsZHdpZGUuCgojIyMgTGlmZSBDeWNsZSBhbmQgQ3VsdGl2YXRpb24KClRoZSBsaWZlIGN5Y2xlIG9mIG9uaW9uIGNyb3BzIHJhbmdlcyBmcm9tIDQgdG8gNSBtb250aHMsIGRlcGVuZGluZyBvbiB0aGUgdmFyaWV0eS4gSGFydmVzdGluZyBvbmlvbnMgaXMgbGFib3ItaW50ZW5zaXZlLCByZXF1aXJpbmcgYSBoaWdoIG51bWJlciBvZiB3b3JrZXJzIGR1ZSB0byB0aGUgY29tcGxleGl0eSBvZiB0aGUgb3BlcmF0aW9ucy4KCiMjIyBOdXRyaXRpb25hbCBCZW5lZml0cyBvZiBSZWQgT25pb25zCgpPbmlvbnMgYXJlIHJpY2ggaW4gbnV0cmllbnRzIGFuZCB2aXRhbWlucywgb2ZmZXJpbmcgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzLiBJbmNsdWRpbmcgb25pb25zIGluIHlvdXIgZGFpbHkgZGlldCBjYW4gc2lnbmlmaWNhbnRseSBlbmhhbmNlIHlvdXIgb3ZlcmFsbCBoZWFsdGguCgojIyMgVXNlcyBhbmQgQmVuZWZpdHMgb2YgUmVkIE9uaW9ucwoKMS4gKipOdXRyaWVudC1SaWNoKio6IExvdyBpbiBjYWxvcmllcyBidXQgaGlnaCBpbiBlc3NlbnRpYWwgbWluZXJhbHMgYW5kIHZpdGFtaW5zLCBpbmNsdWRpbmcgVml0YW1pbiBCIGFuZCBWaXRhbWluIEMsIHdoaWNoIGFpZCBpbiByZWQgYmxvb2QgY2VsbCBmb3JtYXRpb24gYW5kIG5lcnZlIGZ1bmN0aW9uLgoyLiAqKkhlYXJ0IEhlYWx0aCoqOiBDb250YWlucyBhbnRpb3hpZGFudHMgdGhhdCByZWR1Y2UgaGVhcnQgZGlzZWFzZSByaXNrLCBpbmZsYW1tYXRpb24sIGFuZCBibG9vZCBjbG90IGZvcm1hdGlvbi4KMy4gKipDYW5jZXItRmlnaHRpbmcgQ29tcG91bmRzKio6IFJlZCBvbmlvbnMgY29udGFpbiBjb21wb3VuZHMgdGhhdCBoZWxwIGZpZ2h0IGNhbmNlcnMgc3VjaCBhcyBzdG9tYWNoIGFuZCBjb2xvcmVjdGFsIGNhbmNlci4gVml0YW1pbiBBIGluIHJlZCBvbmlvbnMgaGVscHMgZGVjcmVhc2UgdHVtb3IgZGV2ZWxvcG1lbnQuCjQuICoqQm9uZSBEZW5zaXR5IGFuZCBCbG9vZCBTdWdhciBDb250cm9sKio6IFN0dWRpZXMgc3VnZ2VzdCB0aGF0IHJlZCBvbmlvbnMgY2FuIGJvb3N0IGJvbmUgZGVuc2l0eSBhbmQgaGVscCByZWd1bGF0ZSBibG9vZCBzdWdhciBsZXZlbHMuCjUuICoqQW50aWJhY3RlcmlhbCBQcm9wZXJ0aWVzKio6IE9uaW9ucyBwcm9tb3RlIGRpZ2VzdGl2ZSBoZWFsdGggYW5kIG1heSBpbXByb3ZlIGltbXVuZSBmdW5jdGlvbiBkdWUgdG8gdGhlaXIgYW50aWJhY3RlcmlhbCBwcm9wZXJ0aWVzLgoKQ2hvb3NlIFZhcm5pIEV4cG9ydHMgZm9yIHRoZSBmaW5lc3QgcXVhbGl0eSByZWQgb25pb25zIGFuZCBleHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBmbGF2b3IgYW5kIGhlYWx0aCBiZW5lZml0cyB0aGV5IG9mZmVyLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYW5kIHBsYWNlIHlvdXIgb3JkZXIuIERpc2NvdmVyIHRoZSBkaWZmZXJlbmNlIHdpdGggVmFybmkgRXhwb3J0cyE=",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Partner for Red Onion Export</strong></h1>
+            <br />
+
+            <h2><strong>High-Quality Red Onions from Fertile Regions</strong></h2>
+            <br />
+            <p>Varni Exports sources premium-quality red onions from the fertile regions of western India and the Indo-Gangetic plains. These red onions are exceptionally rich in protein and have a significant oil content. After sourcing, the red onions undergo meticulous cleaning, achieving a grading level of 90 to 95%.</p>
+            <br />
+
+            <h2><strong>Variety of Onions Offered</strong></h2>
+            <br />
+            <p>At Varni Exports, we offer a diverse range of onion varieties to meet your specific needs:</p>
+            <li><strong>Red Onions</strong></li>
+            <li><strong>White Onions</strong></li>
+            <li><strong>Yellow Onions</strong></li>
+            <li><strong>Pink Onions</strong></li>
+            <br />
+
+            <h2><strong>State-of-the-Art Processing Plant</strong></h2>
+            <br />
+            <p>Our advanced processing plant features the latest machinery and employs cutting-edge technology. We prioritize environmentally friendly practices and effective waste management systems. The natural onions we produce meet the highest standards and are ready for export.</p>
+            <br />
+
+            <h2><strong>Optimal Growing Regions</strong></h2>
+            <br />
+            <p>Red onions are widely cultivated in the western parts of India, especially in Gujarat and Nasik, where the environment is ideal for their growth and development.</p>
+            <br />
+
+            <h2><strong>Comprehensive Supplier and Exporter</strong></h2>
+            <br />
+            <p>Varni Exports is a recognized supplier, exporter, and producer of onions. India's dry and humid climate produces the best quality onions, making them a staple ingredient in cuisines worldwide.</p>
+            <br />
+
+            <h2><strong>Life Cycle and Cultivation</strong></h2>
+            <br />
+            <p>The life cycle of onion crops ranges from 4 to 5 months, depending on the variety. Harvesting onions is labor-intensive, requiring a high number of workers due to the complexity of the operations.</p>
+            <br />
+
+            <h2><strong>Nutritional Benefits of Red Onions</strong></h2>
+            <br />
+            <p>Onions are rich in nutrients and vitamins, offering numerous health benefits. Including onions in your daily diet can significantly enhance your overall health.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of Red Onions</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Low in calories but high in essential minerals and vitamins, including Vitamin B and Vitamin C, which aid in red blood cell formation and nerve function.</li>
+            <li><strong>Heart Health:</strong> Contains antioxidants that reduce heart disease risk, inflammation, and blood clot formation.</li>
+            <li><strong>Cancer-Fighting Compounds:</strong> Red onions contain compounds that help fight cancers such as stomach and colorectal cancer. Vitamin A in red onions helps decrease tumor development.</li>
+            <li><strong>Bone Density and Blood Sugar Control:</strong> Studies suggest that red onions can boost bone density and help regulate blood sugar levels.</li>
+            <li><strong>Antibacterial Properties:</strong> Onions promote digestive health and may improve immune function due to their antibacterial properties.</li>
+            <br />
+
+            <p>Choose Varni Exports for the finest quality red onions and experience the exceptional flavor and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -2287,7 +2323,61 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "15 to 30 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFBhcnRuZXIgZm9yIFllbGxvdyBPbmlvbiBFeHBvcnQKCkFyZSB5b3UgaW4gc2VhcmNoIG9mIGEgcmVsaWFibGUgb25pb24gZXhwb3J0ZXI/IFZhcm5pIEV4cG9ydHMgaXMgdGhlIGlkZWFsIHBsYXRmb3JtIHRvIGVzdGFibGlzaCBlbmR1cmluZyB0cmFkZSByZWxhdGlvbnNoaXBzIGFuZCBmdXR1cmUgYnVzaW5lc3MgdmVudHVyZXMuCgojIyMgSGlnaC1RdWFsaXR5IFllbGxvdyBPbmlvbnMgZnJvbSBGZXJ0aWxlIFJlZ2lvbnMKClZhcm5pIEV4cG9ydHMgc291cmNlcyBwcmVtaXVtLXF1YWxpdHkgeWVsbG93IG9uaW9ucyBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygd2VzdGVybiBJbmRpYSBhbmQgdGhlIEluZG8tR2FuZ2V0aWMgcGxhaW5zLiBUaGVzZSB5ZWxsb3cgb25pb25zIGFyZSBleGNlcHRpb25hbGx5IHJpY2ggaW4gcHJvdGVpbiBhbmQgb2lsIGNvbnRlbnQuIEFmdGVyIHNvdXJjaW5nLCB0aGUgeWVsbG93IG9uaW9ucyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcsIGFjaGlldmluZyBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUuCgojIyMgVmFyaWV0eSBvZiBPbmlvbnMgT2ZmZXJlZAoKQXQgVmFybmkgRXhwb3J0cywgd2Ugb2ZmZXIgYSBkaXZlcnNlIHJhbmdlIG9mIG9uaW9uIHZhcmlldGllcyB0byBtZWV0IHlvdXIgc3BlY2lmaWMgbmVlZHM6Ci0gKipSZWQgT25pb25zKioKLSAqKlllbGxvdyBPbmlvbnMqKgotICoqV2hpdGUgT25pb25zKioKLSAqKlBpbmsgT25pb25zKioKCiMjIyBTdGF0ZS1vZi10aGUtQXJ0IFByb2Nlc3NpbmcgUGxhbnQKCk91ciBhZHZhbmNlZCBwcm9jZXNzaW5nIHBsYW50IGZlYXR1cmVzIHRoZSBsYXRlc3QgbWFjaGluZXJ5IGFuZCBlbXBsb3lzIGN1dHRpbmctZWRnZSB0ZWNobm9sb2d5LiBXZSBwcmlvcml0aXplIGVudmlyb25tZW50YWxseSBmcmllbmRseSBwcmFjdGljZXMgYW5kIGVmZmVjdGl2ZSB3YXN0ZSBtYW5hZ2VtZW50IHN5c3RlbXMuIFRoZSBuYXR1cmFsIHllbGxvdyBvbmlvbnMgd2UgcHJvZHVjZSBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBhbmQgYXJlIHJlYWR5IGZvciBleHBvcnQuCgojIyMgT3B0aW1hbCBHcm93aW5nIFJlZ2lvbnMKClllbGxvdyBvbmlvbnMgYXJlIHdpZGVseSBjdWx0aXZhdGVkIGluIHRoZSB3ZXN0ZXJuIHBhcnRzIG9mIEluZGlhLCBlc3BlY2lhbGx5IGluIEd1amFyYXQgYW5kIE5hc2lrLCB3aGVyZSB0aGUgZW52aXJvbm1lbnQgaXMgaWRlYWwgZm9yIHRoZWlyIGdyb3d0aCBhbmQgZGV2ZWxvcG1lbnQuCgojIyMgQ29tcHJlaGVuc2l2ZSBTdXBwbGllciBhbmQgRXhwb3J0ZXIKClZhcm5pIEV4cG9ydHMgaXMgYSByZWNvZ25pemVkIHN1cHBsaWVyLCBleHBvcnRlciwgYW5kIHByb2R1Y2VyIG9mIG9uaW9ucy4gSW5kaWEncyBkcnkgYW5kIGh1bWlkIGNsaW1hdGUgcHJvZHVjZXMgdGhlIGJlc3QgcXVhbGl0eSBvbmlvbnMsIG1ha2luZyB0aGVtIGEgc3RhcGxlIGluZ3JlZGllbnQgaW4gY3Vpc2luZXMgd29ybGR3aWRlLgoKIyMjIExpZmUgQ3ljbGUgYW5kIEN1bHRpdmF0aW9uCgpUaGUgbGlmZSBjeWNsZSBvZiBvbmlvbiBjcm9wcyByYW5nZXMgZnJvbSA1IHRvIDYgbW9udGhzLCBkZXBlbmRpbmcgb24gdGhlIHZhcmlldHkuIEhhcnZlc3Rpbmcgb25pb25zIGlzIGxhYm9yLWludGVuc2l2ZSwgcmVxdWlyaW5nIGEgaGlnaCBudW1iZXIgb2Ygd29ya2VycyBkdWUgdG8gdGhlIGNvbXBsZXhpdHkgb2YgdGhlIG9wZXJhdGlvbnMuCgojIyMgTnV0cml0aW9uYWwgQmVuZWZpdHMgb2YgWWVsbG93IE9uaW9ucwoKT25pb25zIGFyZSByaWNoIGluIG51dHJpZW50cyBhbmQgdml0YW1pbnMsIG9mZmVyaW5nIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0cy4gSW5jbHVkaW5nIG9uaW9ucyBpbiB5b3VyIGRhaWx5IGRpZXQgY2FuIHNpZ25pZmljYW50bHkgZW5oYW5jZSB5b3VyIG92ZXJhbGwgaGVhbHRoLgoKIyMjIFVzZXMgYW5kIEJlbmVmaXRzIG9mIFllbGxvdyBPbmlvbnMKCjEuICoqTnV0cmllbnQtUmljaCoqOiBMb3cgaW4gY2Fsb3JpZXMgYnV0IGhpZ2ggaW4gZXNzZW50aWFsIG1pbmVyYWxzIGFuZCB2aXRhbWlucywgaW5jbHVkaW5nIFZpdGFtaW4gQiBhbmQgVml0YW1pbiBDLCB3aGljaCBhaWQgaW4gcmVkIGJsb29kIGNlbGwgZm9ybWF0aW9uIGFuZCBuZXJ2ZSBmdW5jdGlvbi4KMi4gKipIZWFydCBIZWFsdGgqKjogQ29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgcmVkdWNlIGhlYXJ0IGRpc2Vhc2UgcmlzaywgaW5mbGFtbWF0aW9uLCBhbmQgYmxvb2QgY2xvdCBmb3JtYXRpb24uCjMuICoqQ2FuY2VyLUZpZ2h0aW5nIENvbXBvdW5kcyoqOiBZZWxsb3cgb25pb25zIGNvbnRhaW4gY29tcG91bmRzIHRoYXQgaGVscCBmaWdodCBjYW5jZXJzIHN1Y2ggYXMgc3RvbWFjaCBhbmQgY29sb3JlY3RhbCBjYW5jZXIuIFZpdGFtaW4gQSBpbiB5ZWxsb3cgb25pb25zIGhlbHBzIGRlY3JlYXNlIHR1bW9yIGRldmVsb3BtZW50Lgo0LiAqKkJvbmUgRGVuc2l0eSBhbmQgQmxvb2QgU3VnYXIgQ29udHJvbCoqOiBTdHVkaWVzIHN1Z2dlc3QgdGhhdCB5ZWxsb3cgb25pb25zIGNhbiBib29zdCBib25lIGRlbnNpdHkgYW5kIGhlbHAgcmVndWxhdGUgYmxvb2Qgc3VnYXIgbGV2ZWxzLgo1LiAqKkFudGliYWN0ZXJpYWwgUHJvcGVydGllcyoqOiBPbmlvbnMgcHJvbW90ZSBkaWdlc3RpdmUgaGVhbHRoIGFuZCBtYXkgaW1wcm92ZSBpbW11bmUgZnVuY3Rpb24gZHVlIHRvIHRoZWlyIGFudGliYWN0ZXJpYWwgcHJvcGVydGllcy4KCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciB0aGUgZmluZXN0IHF1YWxpdHkgeWVsbG93IG9uaW9ucyBhbmQgZXhwZXJpZW5jZSB0aGUgZXhjZXB0aW9uYWwgZmxhdm9yIGFuZCBoZWFsdGggYmVuZWZpdHMgdGhleSBvZmZlci4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFuZCBwbGFjZSB5b3VyIG9yZGVyLiBEaXNjb3ZlciB0aGUgZGlmZmVyZW5jZSB3aXRoIFZhcm5pIEV4cG9ydHMh",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Partner for Yellow Onion Export</strong></h1>
+            <br />
+
+            <h2><strong>High-Quality Yellow Onions from Fertile Regions</strong></h2>
+            <br />
+            <p>Varni Exports sources premium-quality yellow onions from the fertile regions of western India and the Indo-Gangetic plains. These yellow onions are exceptionally rich in protein and oil content. After sourcing, the yellow onions undergo meticulous cleaning, achieving a purity level of 90 to 95%.</p>
+            <br />
+
+            <h2><strong>Variety of Onions Offered</strong></h2>
+            <br />
+            <p>At Varni Exports, we offer a diverse range of onion varieties to meet your specific needs:</p>
+            <li><strong>Red Onions</strong></li>
+            <li><strong>Yellow Onions</strong></li>
+            <li><strong>White Onions</strong></li>
+            <li><strong>Pink Onions</strong></li>
+            <br />
+
+            <h2><strong>State-of-the-Art Processing Plant</strong></h2>
+            <br />
+            <p>Our advanced processing plant features the latest machinery and employs cutting-edge technology. We prioritize environmentally friendly practices and effective waste management systems. The natural yellow onions we produce meet the highest standards and are ready for export.</p>
+            <br />
+
+            <h2><strong>Optimal Growing Regions</strong></h2>
+            <br />
+            <p>Yellow onions are widely cultivated in the western parts of India, especially in Gujarat and Nasik, where the environment is ideal for their growth and development.</p>
+            <br />
+
+            <h2><strong>Comprehensive Supplier and Exporter</strong></h2>
+            <br />
+            <p>Varni Exports is a recognized supplier, exporter, and producer of onions. India's dry and humid climate produces the best quality onions, making them a staple ingredient in cuisines worldwide.</p>
+            <br />
+
+            <h2><strong>Life Cycle and Cultivation</strong></h2>
+            <br />
+            <p>The life cycle of onion crops ranges from 5 to 6 months, depending on the variety. Harvesting onions is labor-intensive, requiring a high number of workers due to the complexity of the operations.</p>
+            <br />
+
+            <h2><strong>Nutritional Benefits of Yellow Onions</strong></h2>
+            <br />
+            <p>Onions are rich in nutrients and vitamins, offering numerous health benefits. Including onions in your daily diet can significantly enhance your overall health.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of Yellow Onions</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Low in calories but high in essential minerals and vitamins, including Vitamin B and Vitamin C, which aid in red blood cell formation and nerve function.</li>
+            <li><strong>Heart Health:</strong> Contains antioxidants that reduce heart disease risk, inflammation, and blood clot formation.</li>
+            <li><strong>Cancer-Fighting Compounds:</strong> Yellow onions contain compounds that help fight cancers such as stomach and colorectal cancer. Vitamin A in yellow onions helps decrease tumor development.</li>
+            <li><strong>Bone Density and Blood Sugar Control:</strong> Studies suggest that yellow onions can boost bone density and help regulate blood sugar levels.</li>
+            <li><strong>Antibacterial Properties:</strong> Onions promote digestive health and may improve immune function due to their antibacterial properties.</li>
+            <br />
+
+            <p>Choose Varni Exports for the finest quality yellow onions and experience the exceptional flavor and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -2307,7 +2397,61 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "15 to 30 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFBhcnRuZXIgZm9yIFdoaXRlIE9uaW9uIEV4cG9ydAoKQXJlIHlvdSBpbiBzZWFyY2ggb2YgYSByZWxpYWJsZSBvbmlvbiBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB0aGUgaWRlYWwgcGxhdGZvcm0gdG8gZXN0YWJsaXNoIGVuZHVyaW5nIHRyYWRlIHJlbGF0aW9uc2hpcHMgYW5kIGZ1dHVyZSBidXNpbmVzcyB2ZW50dXJlcy4KCiMjIyBIaWdoLVF1YWxpdHkgV2hpdGUgT25pb25zIGZyb20gRmVydGlsZSBSZWdpb25zCgpWYXJuaSBFeHBvcnRzIHNvdXJjZXMgcHJlbWl1bS1xdWFsaXR5IHdoaXRlIG9uaW9ucyBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygd2VzdGVybiBJbmRpYSBhbmQgdGhlIEluZG8tR2FuZ2V0aWMgcGxhaW5zLiBUaGVzZSB3aGl0ZSBvbmlvbnMgYXJlIGV4Y2VwdGlvbmFsbHkgcmljaCBpbiBwcm90ZWluIGFuZCBvaWwgY29udGVudC4gQWZ0ZXIgc291cmNpbmcsIHRoZSB3aGl0ZSBvbmlvbnMgdW5kZXJnbyBtZXRpY3Vsb3VzIGNsZWFuaW5nLCBhY2hpZXZpbmcgYSBwdXJpdHkgbGV2ZWwgb2YgOTAgdG8gOTUlLgoKIyMjIFZhcmlldHkgb2YgT25pb25zIE9mZmVyZWQKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIG9mZmVyIGEgZGl2ZXJzZSByYW5nZSBvZiBvbmlvbiB2YXJpZXRpZXMgdG8gbWVldCB5b3VyIHNwZWNpZmljIG5lZWRzOgotICoqUmVkIE9uaW9ucyoqCi0gKipXaGl0ZSBPbmlvbnMqKgotICoqWWVsbG93IE9uaW9ucyoqCi0gKipQaW5rIE9uaW9ucyoqCgojIyMgU3RhdGUtb2YtdGhlLUFydCBQcm9jZXNzaW5nIFBsYW50CgpPdXIgYWR2YW5jZWQgcHJvY2Vzc2luZyBwbGFudCBmZWF0dXJlcyB0aGUgbGF0ZXN0IG1hY2hpbmVyeSBhbmQgZW1wbG95cyBjdXR0aW5nLWVkZ2UgdGVjaG5vbG9neS4gV2UgcHJpb3JpdGl6ZSBlbnZpcm9ubWVudGFsbHkgZnJpZW5kbHkgcHJhY3RpY2VzIGFuZCBlZmZlY3RpdmUgd2FzdGUgbWFuYWdlbWVudCBzeXN0ZW1zLiBUaGUgbmF0dXJhbCB3aGl0ZSBvbmlvbnMgd2UgcHJvZHVjZSBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBhbmQgYXJlIHJlYWR5IGZvciBleHBvcnQuCgojIyMgT3B0aW1hbCBHcm93aW5nIFJlZ2lvbnMKCldoaXRlIG9uaW9ucyBhcmUgd2lkZWx5IGN1bHRpdmF0ZWQgaW4gdGhlIHdlc3Rlcm4gcGFydHMgb2YgSW5kaWEsIGVzcGVjaWFsbHkgaW4gR3VqYXJhdCBhbmQgTmFzaWssIHdoZXJlIHRoZSBlbnZpcm9ubWVudCBpcyBpZGVhbCBmb3IgdGhlaXIgZ3Jvd3RoIGFuZCBkZXZlbG9wbWVudC4KCiMjIyBDb21wcmVoZW5zaXZlIFN1cHBsaWVyIGFuZCBFeHBvcnRlcgoKVmFybmkgRXhwb3J0cyBpcyBhIHJlY29nbml6ZWQgc3VwcGxpZXIsIGV4cG9ydGVyLCBhbmQgcHJvZHVjZXIgb2Ygb25pb25zLiBJbmRpYSdzIGRyeSBhbmQgaHVtaWQgY2xpbWF0ZSBwcm9kdWNlcyB0aGUgYmVzdCBxdWFsaXR5IG9uaW9ucywgbWFraW5nIHRoZW0gYSBzdGFwbGUgaW5ncmVkaWVudCBpbiBjdWlzaW5lcyB3b3JsZHdpZGUuCgojIyMgTGlmZSBDeWNsZSBhbmQgQ3VsdGl2YXRpb24KClRoZSBsaWZlIGN5Y2xlIG9mIG9uaW9uIGNyb3BzIHJhbmdlcyBmcm9tIDUgdG8gNiBtb250aHMsIGRlcGVuZGluZyBvbiB0aGUgdmFyaWV0eS4gSGFydmVzdGluZyBvbmlvbnMgaXMgbGFib3ItaW50ZW5zaXZlLCByZXF1aXJpbmcgYSBoaWdoIG51bWJlciBvZiB3b3JrZXJzIGR1ZSB0byB0aGUgY29tcGxleGl0eSBvZiB0aGUgb3BlcmF0aW9ucy4KCiMjIyBOdXRyaXRpb25hbCBCZW5lZml0cyBvZiBXaGl0ZSBPbmlvbnMKCk9uaW9ucyBhcmUgcmljaCBpbiBudXRyaWVudHMgYW5kIHZpdGFtaW5zLCBvZmZlcmluZyBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuIEluY2x1ZGluZyBvbmlvbnMgaW4geW91ciBkYWlseSBkaWV0IGNhbiBzaWduaWZpY2FudGx5IGVuaGFuY2UgeW91ciBvdmVyYWxsIGhlYWx0aC4KCiMjIyBVc2VzIGFuZCBCZW5lZml0cyBvZiBXaGl0ZSBPbmlvbnMKCjEuICoqTnV0cmllbnQtUmljaCoqOiBMb3cgaW4gY2Fsb3JpZXMgYnV0IGhpZ2ggaW4gZXNzZW50aWFsIG1pbmVyYWxzIGFuZCB2aXRhbWlucywgaW5jbHVkaW5nIFZpdGFtaW4gQiBhbmQgVml0YW1pbiBDLCB3aGljaCBhaWQgaW4gcmVkIGJsb29kIGNlbGwgZm9ybWF0aW9uIGFuZCBuZXJ2ZSBmdW5jdGlvbi4KMi4gKipIZWFydCBIZWFsdGgqKjogQ29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgcmVkdWNlIGhlYXJ0IGRpc2Vhc2UgcmlzaywgaW5mbGFtbWF0aW9uLCBhbmQgYmxvb2QgY2xvdCBmb3JtYXRpb24uCjMuICoqQ2FuY2VyLUZpZ2h0aW5nIENvbXBvdW5kcyoqOiBXaGl0ZSBvbmlvbnMgY29udGFpbiBjb21wb3VuZHMgdGhhdCBoZWxwIGZpZ2h0IGNhbmNlcnMgc3VjaCBhcyBzdG9tYWNoIGFuZCBjb2xvcmVjdGFsIGNhbmNlci4gVml0YW1pbiBBIGluIHdoaXRlIG9uaW9ucyBoZWxwcyBkZWNyZWFzZSB0dW1vciBkZXZlbG9wbWVudC4KNC4gKipCb25lIERlbnNpdHkgYW5kIEJsb29kIFN1Z2FyIENvbnRyb2wqKjogU3R1ZGllcyBzdWdnZXN0IHRoYXQgd2hpdGUgb25pb25zIGNhbiBib29zdCBib25lIGRlbnNpdHkgYW5kIGhlbHAgcmVndWxhdGUgYmxvb2Qgc3VnYXIgbGV2ZWxzLgo1LiAqKkFudGliYWN0ZXJpYWwgUHJvcGVydGllcyoqOiBPbmlvbnMgcHJvbW90ZSBkaWdlc3RpdmUgaGVhbHRoIGFuZCBtYXkgaW1wcm92ZSBpbW11bmUgZnVuY3Rpb24gZHVlIHRvIHRoZWlyIGFudGliYWN0ZXJpYWwgcHJvcGVydGllcy4KCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciB0aGUgZmluZXN0IHF1YWxpdHkgd2hpdGUgb25pb25zIGFuZCBleHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBmbGF2b3IgYW5kIGhlYWx0aCBiZW5lZml0cyB0aGV5IG9mZmVyLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYW5kIHBsYWNlIHlvdXIgb3JkZXIuIERpc2NvdmVyIHRoZSBkaWZmZXJlbmNlIHdpdGggVmFybmkgRXhwb3J0cyE=",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Partner for White Onion Export</strong></h1>
+            <br />
+
+            <h2><strong>High-Quality White Onions from Fertile Regions</strong></h2>
+            <br />
+            <p>Varni Exports sources premium-quality white onions from the fertile regions of western India and the Indo-Gangetic plains. These white onions are exceptionally rich in protein and oil content. After sourcing, the white onions undergo meticulous cleaning, achieving a purity level of 90 to 95%.</p>
+            <br />
+
+            <h2><strong>Variety of Onions Offered</strong></h2>
+            <br />
+            <p>At Varni Exports, we offer a diverse range of onion varieties to meet your specific needs:</p>
+            <li><strong>Red Onions</strong></li>
+            <li><strong>White Onions</strong></li>
+            <li><strong>Yellow Onions</strong></li>
+            <li><strong>Pink Onions</strong></li>
+            <br />
+
+            <h2><strong>State-of-the-Art Processing Plant</strong></h2>
+            <br />
+            <p>Our advanced processing plant features the latest machinery and employs cutting-edge technology. We prioritize environmentally friendly practices and effective waste management systems. The natural white onions we produce meet the highest standards and are ready for export.</p>
+            <br />
+
+            <h2><strong>Optimal Growing Regions</strong></h2>
+            <br />
+            <p>White onions are widely cultivated in the western parts of India, especially in Gujarat and Nasik, where the environment is ideal for their growth and development.</p>
+            <br />
+
+            <h2><strong>Comprehensive Supplier and Exporter</strong></h2>
+            <br />
+            <p>Varni Exports is a recognized supplier, exporter, and producer of onions. India's dry and humid climate produces the best quality onions, making them a staple ingredient in cuisines worldwide.</p>
+            <br />
+
+            <h2><strong>Life Cycle and Cultivation</strong></h2>
+            <br />
+            <p>The life cycle of onion crops ranges from 5 to 6 months, depending on the variety. Harvesting onions is labor-intensive, requiring a high number of workers due to the complexity of the operations.</p>
+            <br />
+
+            <h2><strong>Nutritional Benefits of White Onions</strong></h2>
+            <br />
+            <p>Onions are rich in nutrients and vitamins, offering numerous health benefits. Including onions in your daily diet can significantly enhance your overall health.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of White Onions</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Low in calories but high in essential minerals and vitamins, including Vitamin B and Vitamin C, which aid in red blood cell formation and nerve function.</li>
+            <li><strong>Heart Health:</strong> Contains antioxidants that reduce heart disease risk, inflammation, and blood clot formation.</li>
+            <li><strong>Cancer-Fighting Compounds:</strong> White onions contain compounds that help fight cancers such as stomach and colorectal cancer. Vitamin A in white onions helps decrease tumor development.</li>
+            <li><strong>Bone Density and Blood Sugar Control:</strong> Studies suggest that white onions can boost bone density and help regulate blood sugar levels.</li>
+            <li><strong>Antibacterial Properties:</strong> Onions promote digestive health and may improve immune function due to their antibacterial properties.</li>
+            <br />
+
+            <p>Choose Varni Exports for the finest quality white onions and experience the exceptional flavor and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -2327,7 +2471,61 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "15 to 30 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFBhcnRuZXIgZm9yIFBpbmsgT25pb24gRXhwb3J0CgpBcmUgeW91IGluIHNlYXJjaCBvZiBhIHJlbGlhYmxlIG9uaW9uIGV4cG9ydGVyPyBWYXJuaSBFeHBvcnRzIGlzIHRoZSBpZGVhbCBwbGF0Zm9ybSB0byBlc3RhYmxpc2ggZW5kdXJpbmcgdHJhZGUgcmVsYXRpb25zaGlwcyBhbmQgZnV0dXJlIGJ1c2luZXNzIHZlbnR1cmVzLgoKIyMjIEhpZ2gtUXVhbGl0eSBQaW5rIE9uaW9ucyBmcm9tIEZlcnRpbGUgUmVnaW9ucwoKVmFybmkgRXhwb3J0cyBzb3VyY2VzIHByZW1pdW0tcXVhbGl0eSBwaW5rIG9uaW9ucyBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygd2VzdGVybiBJbmRpYSBhbmQgdGhlIEluZG8tR2FuZ2V0aWMgcGxhaW5zLiBUaGVzZSBwaW5rIG9uaW9ucyBhcmUgZXhjZXB0aW9uYWxseSByaWNoIGluIHByb3RlaW4gYW5kIG9pbCBjb250ZW50LiBBZnRlciBzb3VyY2luZywgdGhlIHBpbmsgb25pb25zIHVuZGVyZ28gbWV0aWN1bG91cyBjbGVhbmluZywgYWNoaWV2aW5nIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4KCiMjIyBWYXJpZXR5IG9mIE9uaW9ucyBPZmZlcmVkCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBvZmZlciBhIGRpdmVyc2UgcmFuZ2Ugb2Ygb25pb24gdmFyaWV0aWVzIHRvIG1lZXQgeW91ciBzcGVjaWZpYyBuZWVkczoKLSAqKlJlZCBPbmlvbnMqKgotICoqV2hpdGUgT25pb25zKioKLSAqKlllbGxvdyBPbmlvbnMqKgotICoqUGluayBPbmlvbnMqKgoKIyMjIFN0YXRlLW9mLXRoZS1BcnQgUHJvY2Vzc2luZyBQbGFudAoKT3VyIGFkdmFuY2VkIHByb2Nlc3NpbmcgcGxhbnQgZmVhdHVyZXMgdGhlIGxhdGVzdCBtYWNoaW5lcnkgYW5kIGVtcGxveXMgY3V0dGluZy1lZGdlIHRlY2hub2xvZ3kuIFdlIHByaW9yaXRpemUgZW52aXJvbm1lbnRhbGx5IGZyaWVuZGx5IHByYWN0aWNlcyBhbmQgZWZmZWN0aXZlIHdhc3RlIG1hbmFnZW1lbnQgc3lzdGVtcy4gVGhlIG5hdHVyYWwgcGluayBvbmlvbnMgd2UgcHJvZHVjZSBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBhbmQgYXJlIHJlYWR5IGZvciBleHBvcnQuCgojIyMgT3B0aW1hbCBHcm93aW5nIFJlZ2lvbnMKClBpbmsgb25pb25zIGFyZSB3aWRlbHkgY3VsdGl2YXRlZCBpbiB0aGUgd2VzdGVybiBwYXJ0cyBvZiBJbmRpYSwgZXNwZWNpYWxseSBpbiBHdWphcmF0IGFuZCBOYXNpaywgd2hlcmUgdGhlIGVudmlyb25tZW50IGlzIGlkZWFsIGZvciB0aGVpciBncm93dGggYW5kIGRldmVsb3BtZW50LgoKIyMjIENvbXByZWhlbnNpdmUgU3VwcGxpZXIgYW5kIEV4cG9ydGVyCgpWYXJuaSBFeHBvcnRzIGlzIGEgcmVjb2duaXplZCBzdXBwbGllciwgZXhwb3J0ZXIsIGFuZCBwcm9kdWNlciBvZiBvbmlvbnMuIEluZGlhJ3MgZHJ5IGFuZCBodW1pZCBjbGltYXRlIHByb2R1Y2VzIHRoZSBiZXN0IHF1YWxpdHkgb25pb25zLCBtYWtpbmcgdGhlbSBhIHN0YXBsZSBpbmdyZWRpZW50IGluIGN1aXNpbmVzIHdvcmxkd2lkZS4KCiMjIyBMaWZlIEN5Y2xlIGFuZCBDdWx0aXZhdGlvbgoKVGhlIGxpZmUgY3ljbGUgb2Ygb25pb24gY3JvcHMgcmFuZ2VzIGZyb20gNSB0byA2IG1vbnRocywgZGVwZW5kaW5nIG9uIHRoZSB2YXJpZXR5LiBIYXJ2ZXN0aW5nIG9uaW9ucyBpcyBsYWJvci1pbnRlbnNpdmUsIHJlcXVpcmluZyBhIGhpZ2ggbnVtYmVyIG9mIHdvcmtlcnMgZHVlIHRvIHRoZSBjb21wbGV4aXR5IG9mIHRoZSBvcGVyYXRpb25zLgoKIyMjIE51dHJpdGlvbmFsIEJlbmVmaXRzIG9mIFBpbmsgT25pb25zCgpPbmlvbnMgYXJlIHJpY2ggaW4gbnV0cmllbnRzIGFuZCB2aXRhbWlucywgb2ZmZXJpbmcgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzLiBJbmNsdWRpbmcgb25pb25zIGluIHlvdXIgZGFpbHkgZGlldCBjYW4gc2lnbmlmaWNhbnRseSBlbmhhbmNlIHlvdXIgb3ZlcmFsbCBoZWFsdGguCgojIyMgVXNlcyBhbmQgQmVuZWZpdHMgb2YgUGluayBPbmlvbnMKCjEuICoqTnV0cmllbnQtUmljaCoqOiBMb3cgaW4gY2Fsb3JpZXMgYnV0IGhpZ2ggaW4gZXNzZW50aWFsIG1pbmVyYWxzIGFuZCB2aXRhbWlucywgaW5jbHVkaW5nIFZpdGFtaW4gQiBhbmQgVml0YW1pbiBDLCB3aGljaCBhaWQgaW4gcmVkIGJsb29kIGNlbGwgZm9ybWF0aW9uIGFuZCBuZXJ2ZSBmdW5jdGlvbi4KMi4gKipIZWFydCBIZWFsdGgqKjogQ29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgcmVkdWNlIGhlYXJ0IGRpc2Vhc2UgcmlzaywgaW5mbGFtbWF0aW9uLCBhbmQgYmxvb2QgY2xvdCBmb3JtYXRpb24uCjMuICoqQ2FuY2VyLUZpZ2h0aW5nIENvbXBvdW5kcyoqOiBQaW5rIG9uaW9ucyBjb250YWluIGNvbXBvdW5kcyB0aGF0IGhlbHAgZmlnaHQgY2FuY2VycyBzdWNoIGFzIHN0b21hY2ggYW5kIGNvbG9yZWN0YWwgY2FuY2VyLiBWaXRhbWluIEEgaW4gcGluayBvbmlvbnMgaGVscHMgZGVjcmVhc2UgdHVtb3IgZGV2ZWxvcG1lbnQuCjQuICoqQm9uZSBEZW5zaXR5IGFuZCBCbG9vZCBTdWdhciBDb250cm9sKio6IFN0dWRpZXMgc3VnZ2VzdCB0aGF0IHBpbmsgb25pb25zIGNhbiBib29zdCBib25lIGRlbnNpdHkgYW5kIGhlbHAgcmVndWxhdGUgYmxvb2Qgc3VnYXIgbGV2ZWxzLgo1LiAqKkFudGliYWN0ZXJpYWwgUHJvcGVydGllcyoqOiBPbmlvbnMgcHJvbW90ZSBkaWdlc3RpdmUgaGVhbHRoIGFuZCBtYXkgaW1wcm92ZSBpbW11bmUgZnVuY3Rpb24gZHVlIHRvIHRoZWlyIGFudGliYWN0ZXJpYWwgcHJvcGVydGllcy4KCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciB0aGUgZmluZXN0IHF1YWxpdHkgcGluayBvbmlvbnMgYW5kIGV4cGVyaWVuY2UgdGhlIGV4Y2VwdGlvbmFsIGZsYXZvciBhbmQgaGVhbHRoIGJlbmVmaXRzIHRoZXkgb2ZmZXIuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhbmQgcGxhY2UgeW91ciBvcmRlci4gRGlzY292ZXIgdGhlIGRpZmZlcmVuY2Ugd2l0aCBWYXJuaSBFeHBvcnRzIQ==",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Partner for Pink Onion Export</strong></h1>
+            <br />
+
+            <h2><strong>High-Quality Pink Onions from Fertile Regions</strong></h2>
+            <br />
+            <p>Varni Exports sources premium-quality pink onions from the fertile regions of western India and the Indo-Gangetic plains. These pink onions are exceptionally rich in protein and oil content. After sourcing, the pink onions undergo meticulous cleaning, achieving a purity level of 90 to 95%.</p>
+            <br />
+
+            <h2><strong>Variety of Onions Offered</strong></h2>
+            <br />
+            <p>At Varni Exports, we offer a diverse range of onion varieties to meet your specific needs:</p>
+              <li><strong>Red Onions</strong></li>
+              <li><strong>White Onions</strong></li>
+              <li><strong>Yellow Onions</strong></li>
+              <li><strong>Pink Onions</strong></li>
+            <br />
+
+            <h2><strong>State-of-the-Art Processing Plant</strong></h2>
+            <br />
+            <p>Our advanced processing plant features the latest machinery and employs cutting-edge technology. We prioritize environmentally friendly practices and effective waste management systems. The natural pink onions we produce meet the highest standards and are ready for export.</p>
+            <br />
+
+            <h2><strong>Optimal Growing Regions</strong></h2>
+            <br />
+            <p>Pink onions are widely cultivated in the western parts of India, especially in Gujarat and Nasik, where the environment is ideal for their growth and development.</p>
+            <br />
+
+            <h2><strong>Comprehensive Supplier and Exporter</strong></h2>
+            <br />
+            <p>Varni Exports is a recognized supplier, exporter, and producer of onions. India's dry and humid climate produces the best quality onions, making them a staple ingredient in cuisines worldwide.</p>
+            <br />
+
+            <h2><strong>Life Cycle and Cultivation</strong></h2>
+            <br />
+            <p>The life cycle of onion crops ranges from 5 to 6 months, depending on the variety. Harvesting onions is labor-intensive, requiring a high number of workers due to the complexity of the operations.</p>
+            <br />
+
+            <h2><strong>Nutritional Benefits of Pink Onions</strong></h2>
+            <br />
+            <p>Onions are rich in nutrients and vitamins, offering numerous health benefits. Including onions in your daily diet can significantly enhance your overall health.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of Pink Onions</strong></h2>
+            <br />
+              <li><strong>Nutrient-Rich:</strong> Low in calories but high in essential minerals and vitamins, including Vitamin B and Vitamin C, which aid in red blood cell formation and nerve function.</li>
+              <li><strong>Heart Health:</strong> Contains antioxidants that reduce heart disease risk, inflammation, and blood clot formation.</li>
+              <li><strong>Cancer-Fighting Compounds:</strong> Pink onions contain compounds that help fight cancers such as stomach and colorectal cancer. Vitamin A in pink onions helps decrease tumor development.</li>
+              <li><strong>Bone Density and Blood Sugar Control:</strong> Studies suggest that pink onions can boost bone density and help regulate blood sugar levels.</li>
+              <li><strong>Antibacterial Properties:</strong> Onions promote digestive health and may improve immune function due to their antibacterial properties.</li>
+            <br />
+
+            <p>Choose Varni Exports for the finest quality pink onions and experience the exceptional flavor and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>
+        ,
       },
     ],
   },
