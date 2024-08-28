@@ -182,7 +182,62 @@ export const catagories = [
         Packaging: "25 Kg Vaccum Bag",
         Loading: "19 Tons",
         description:
-          "CiMjIyBXZWxjb21lIHRvIFZhcm5pIEV4cG9ydHM6IFlvdXIgUHJlbWllciBTb3VyY2UgZm9yIEJsYW5jaGVkIFBlYW51dCBTZWVkcwpcCkFyZSB5b3Ugc2VhcmNoaW5nIGZvciB0b3AtcXVhbGl0eSBCbGFuY2hlZCBQZWFudXQgU2VlZHM/IExvb2sgbm8gZnVydGhlciB0aGFuIFZhcm5pIEV4cG9ydHMsIGEgbGVhZGluZyBtYW51ZmFjdHVyZXIsIHN1cHBsaWVyLCBhbmQgZXhwb3J0ZXIgZnJvbSBJbmRpYS4gClwKQmxhbmNoZWQgcGVhbnV0cyBoYXZlIHVuZGVyZ29uZSBhIG1ldGljdWxvdXMgcHJvY2VzcyB3aGVyZSB0aGVpciBza2lucyBhcmUgcmVtb3ZlZCwgcmVzdWx0aW5nIGluIGEgd2hpdGUsIHNtb290aCBhcHBlYXJhbmNlLiBUaGlzIGludm9sdmVzIGJyaWVmbHkgYm9pbGluZyB0aGUgcGVhbnV0cywgcXVpY2tseSBjb29saW5nIHRoZW0sIGFuZCB0aGVuIHBlZWxpbmcgb2ZmIHRoZSBza2lucy4gVW5saWtlIHJhdyBvciByb2FzdGVkIHBlYW51dHMsIGJsYW5jaGVkIHBlYW51dHMgb2ZmZXIgYSBjbGVhbiwgc21vb3RoIHN1cmZhY2UsIG1ha2luZyB0aGVtIGlkZWFsIGZvciB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KXAojIyMgV2h5IENob29zZSBCbGFuY2hlZCBQZWFudXRzIGZyb20gVmFybmkgRXhwb3J0cz8KXApBdCBWYXJuaSBFeHBvcnRzLCB3ZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB0aGUgZmluZXN0IGJsYW5jaGVkIHBlYW51dCBzZWVkcywgcGVlbGVkIHBlYW51dHMsIHNraW5sZXNzIHBlYW51dHMsIGFuZCBibGFuY2hlZCBncm91bmRudXRzIHRvIGN1c3RvbWVycyBnbG9iYWxseS4gT3VyIHJhbmdlIGluY2x1ZGVzOgoKLSAqKkJvbGQgUGVhbnV0KioKLSAqKkphdmEgUGVhbnV0KioKLSAqKlRKIFBlYW51dCoqCgpCbGFuY2hlZCBwZWFudXRzIGZyb20gSW5kaWEgYXJlIHJlbm93bmVkIGZvciB0aGVpciBzdXBlcmlvciBxdWFsaXR5IGNvbXBhcmVkIHRvIHRob3NlIGZyb20gb3RoZXIgcmVnaW9ucy4gQXMgYSB0b3AgZXhwb3J0ZXIsIHdlIGVuc3VyZSB0aW1lbHkgZGVsaXZlcnkgYW5kIGFkaGVyZW5jZSB0byBpbnRlcm5hdGlvbmFsIHRyYWRlIHJlZ3VsYXRpb25zLgoKCiMjIyMgS2V5IERpZmZlcmVuY2VzIGFuZCBWYXJpZXRpZXMKXApVbmRlcnN0YW5kaW5nIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gcGVlbGVkIGFuZCBibGFuY2hlZCBwZWFudXRzIGlzIGVzc2VudGlhbDoKLSAqKlBlZWxlZCBQZWFudXRzKio6IFNraW5zIHJlbW92ZWQgbWVjaGFuaWNhbGx5LgotICoqQmxhbmNoZWQgUGVhbnV0cyoqOiBTa2lucyByZW1vdmVkIHRocm91Z2ggYm9pbGluZyBhbmQgY29vbGluZywgcmVzdWx0aW5nIGluIGEgc21vb3RoZXIgdGV4dHVyZSBhbmQgY2xlYW5lciBhcHBlYXJhbmNlLgoKIyMjIyBUeXBlcyBvZiBCbGFuY2hlZCBQZWFudXRzOgotICoqV2hvbGUgQmxhbmNoZWQgUGVhbnV0cyoqOiBJbnRhY3QgcGVhbnV0cywgcGVyZmVjdCBmb3IgcmVjaXBlcyByZXF1aXJpbmcgd2hvbGUgbnV0cy4KLSAqKlNwbGl0IEJsYW5jaGVkIFBlYW51dHMqKjogSGFsdmVkIGR1cmluZyBibGFuY2hpbmcsIGlkZWFsIGZvciBwZWFudXQgYnV0dGVyIGFuZCBwcm9jZXNzZWQgZm9vZHMuCgojIyMgVGhlIEhhcm1vbml6ZWQgU3lzdGVtIChIUykgQ29kZQpUaGUgSFMgY29kZSBmb3IgYmxhbmNoZWQgcGVhbnV0cyBpcyAyMDA4MTEwMCwgZXNzZW50aWFsIGZvciBpbnRlcm5hdGlvbmFsIHRyYWRlIGFuZCBjbGFzc2lmaWNhdGlvbi4KCiMjIyBVc2UgYW5kIEJlbmVmaXRzIG9mIEJsYW5jaGVkIFBlYW51dCBTZWVkcwoKMS4gKipTbW9vdGggVGV4dHVyZSoqOiBQZXJmZWN0IGZvciBjcmVhbXkgcmVjaXBlcyBhbmQgc3ByZWFkcyBsaWtlIHBlYW51dCBidXR0ZXIuCjIuICoqRW5oYW5jZWQgRmxhdm9yKio6IEJsYW5jaGluZyByZW1vdmVzIHRoZSBiaXR0ZXIgc2tpbnMsIHJlc3VsdGluZyBpbiBhIG1pbGRlciB0YXN0ZS4KMy4gKipWZXJzYXRpbGUgVXNlKio6IElkZWFsIGZvciBiYWtpbmcsIGNvb2tpbmcsIGFuZCBzbmFja2luZy4KNC4gKipJbXByb3ZlZCBEaWdlc3RpYmlsaXR5Kio6IEVhc2llciB0byBkaWdlc3Qgd2l0aG91dCB0aGUgc2tpbnMsIHN1aXRhYmxlIGZvciBzZW5zaXRpdmUgc3RvbWFjaHMuCjUuICoqQWVzdGhldGljIEFwcGVhbCoqOiBUaGVpciBjbGVhbiwgd2hpdGUgYXBwZWFyYW5jZSBlbmhhbmNlcyB0aGUgdmlzdWFsIGFwcGVhbCBvZiBkaXNoZXMgYW5kIHByb2R1Y3RzLgojIyMgQ2hvb3NlIFZhcm5pIEV4cG9ydHMgZm9yIFF1YWxpdHkgYW5kIFJlbGlhYmlsaXR5ClwKVmFybmkgRXhwb3J0cyBpcyByZWNvZ25pemVkIGFzIGEgdG9wIGV4cG9ydGVyIG9mIGJsYW5jaGVkIHBlYW51dCBzZWVkcyB3b3JsZHdpZGUuIFdlIGNhdGVyIHRvIGNsaWVudHMgaW4gdmFyaW91cyBjb3VudHJpZXMsIGVuc3VyaW5nIHRoZXkgcmVjZWl2ZSB0aGUgaGlnaGVzdCBxdWFsaXR5IHByb2R1Y3RzLiBJZiB5b3UncmUgbG9va2luZyBmb3IgYSByZWxpYWJsZSBpbnRlcm5hdGlvbmFsIHBlYW51dCBzdXBwbGllciwgY29udGFjdCBWYXJuaSBFeHBvcnRzIGZvciBpbnF1aXJpZXMgYW5kIG9yZGVycy4gTGV0IHVzIHByb3ZpZGUgeW91ciBidXNpbmVzcyB3aXRoIHRoZSBiZXN0IGJsYW5jaGVkIHBlYW51dHMgaXQgZGVzZXJ2ZXMu",
+          <div>
+            <div>
+              <strong>Welcome to Varni Exports: Your Premier Source for Blanched Peanut Seeds.</strong>
+            </div>
+            <br />
+            <div>
+              <p>Are you searching for top-quality Blanched Peanut Seeds? Look no further than Varni Exports, a leading manufacturer, supplier, and exporter from India.</p>
+              <p>Blanched peanuts have undergone a meticulous process where their skins are removed, resulting in a white, smooth appearance. This involves briefly boiling the peanuts, quickly cooling them, and then peeling off the skins. Unlike raw or roasted peanuts, blanched peanuts offer a clean, smooth surface, making them ideal for various culinary applications.</p>
+
+              <br />
+              <strong>Why Choose Blanched Peanuts from Varni Exports?</strong>
+              <br />
+              <br />
+              <p>At Varni Exports, we are dedicated to providing the finest blanched peanut seeds, peeled peanuts, skinless peanuts, and blanched groundnuts to customers globally. Our range includes:</p>
+              <li><strong>Bold Peanut</strong></li>
+              <li><strong>Java Peanut</strong></li>
+              <li><strong>TJ Peanut</strong></li>
+              <p>Blanched peanuts from India are renowned for their superior quality compared to those from other regions. As a top exporter, we ensure timely delivery and adherence to international trade regulations.</p>
+
+              <br />
+              <strong>Key Differences and Varieties</strong>
+              <br />
+              <br />
+              <p>Understanding the difference between peeled and blanched peanuts is essential:</p>
+              <li><strong>Peeled Peanuts</strong>: Skins removed mechanically.</li>
+              <li><strong>Blanched Peanuts</strong>: Skins removed through boiling and cooling, resulting in a smoother texture and cleaner appearance.</li>
+
+              <br />
+              <strong>Types of Blanched Peanuts:</strong>
+              <br />
+              <br />
+              <li><strong>Whole Blanched Peanuts</strong>: Intact peanuts, perfect for recipes requiring whole nuts.</li>
+              <li><strong>Split Blanched Peanuts</strong>: Halved during blanching, ideal for peanut butter and processed foods.</li>
+
+              <br />
+              <strong>The Harmonized System (HS) Code</strong>
+              <br />
+              <br />
+              <p>The HS code for blanched peanuts is 20081100, essential for international trade and classification.</p>
+
+              <br />
+              <strong>Use and Benefits of Blanched Peanut Seeds</strong>
+              <br />
+              <br />
+              <li><strong>Smooth Texture</strong>: Perfect for creamy recipes and spreads like peanut butter.</li>
+              <li><strong>Enhanced Flavor</strong>: Blanching removes the bitter skins, resulting in a milder taste.</li>
+              <li><strong>Versatile Use</strong>: Ideal for baking, cooking, and snacking.</li>
+              <li><strong>Improved Digestibility</strong>: Easier to digest without the skins, suitable for sensitive stomachs.</li>
+              <li><strong>Aesthetic Appeal</strong>: Their clean, white appearance enhances the visual appeal of dishes and products.</li>
+              <br />
+              <strong>Choose Varni Exports for Quality and Reliability</strong>
+              <br />
+              <br />
+              <p>Varni Exports is recognized as a top exporter of blanched peanut seeds worldwide. We cater to clients in various countries, ensuring they receive the highest quality products. If you're looking for a reliable international peanut supplier, contact Varni Exports for inquiries and orders. Let us provide your business with the best blanched peanuts it deserves.</p>
+            </div>
+          </div>,
       },
 
       {
@@ -199,7 +254,59 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "19 Tons",
         description:
-          "IiMjIyBXZWxjb21lIHRvIFZhcm5pIEV4cG9ydHM6IFlvdXIgUHJlbWllciBTb3VyY2UgZm9yIEphdmEgUGVhbnV0IFNlZWRzCgpBcmUgeW91IGxvb2tpbmcgZm9yIGhpZ2gtcXVhbGl0eSBKYXZhIFBlYW51dCBTZWVkcz8gVmFybmkgRXhwb3J0cywgYSBsZWFkaW5nIG1hbnVmYWN0dXJlciBhbmQgZXhwb3J0ZXIgZnJvbSBJbmRpYSwgaXMgeW91ciB0cnVzdGVkIHBhcnRuZXIgZm9yIHByZW1pdW0gSmF2YSBQZWFudXQgc2VlZHMuIAoKQXQgVmFybmkgRXhwb3J0cywgd2UgdGFrZSBwcmlkZSBpbiBwcm9kdWNpbmcgSmF2YSBQZWFudXQgc2VlZHMgcmVub3duZWQgZm9yIHRoZWlyIHN1cGVyaW9yIHRhc3RlLCB0ZXh0dXJlLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgYW5kIG91ciBkZWRpY2F0aW9uIHRvIHNlcnZpbmcgaW50ZXJuYXRpb25hbCBjbGllbnRzIGhhdmUgZXN0YWJsaXNoZWQgdXMgYXMgYSByZXB1dGFibGUgbmFtZSBpbiB0aGUgYWdyaWN1bHR1cmFsIGluZHVzdHJ5LgoKIyMjIFdoeSBDaG9vc2UgSmF2YSBQZWFudXRzIGZyb20gVmFybmkgRXhwb3J0cz8KCkphdmEgUGVhbnV0cywgYWxzbyBrbm93biBhcyBKYXZhIEdyb3VuZG51dHMsIGFyZSBjZWxlYnJhdGVkIGZvciB0aGVpciBzbWFsbGVyIHNpemUgYW5kIHN3ZWV0ZXIgdGFzdGUgY29tcGFyZWQgdG8gb3RoZXIgcGVhbnV0IHZhcmlldGllcy4gVGhlc2UgcGVhbnV0cyBhcmUgcGVyZmVjdCBmb3IgYSB2YXJpZXR5IG9mIGN1bGluYXJ5IGFwcGxpY2F0aW9ucywgcmFuZ2luZyBmcm9tIHJhdyBjb25zdW1wdGlvbiB0byBnb3VybWV0IHJlY2lwZXMuIAoKIyMjIyBPdXIgUG9wdWxhciBWYXJpZXRpZXM6Ci0gKipKYXZhIFBlYW51dCA1MC82MCoqOiBUaGlzIGdyYWRlIGluZGljYXRlcyB0aGF0IHRoZXJlIGFyZSA1MCB0byA2MCBwZWFudXRzIHBlciBvdW5jZSwgZW5zdXJpbmcgYSBjb25zaXN0ZW50IHNpemUgYW5kIHF1YWxpdHksIG1ha2luZyBpdCBhIHBvcHVsYXIgY2hvaWNlIGFtb25nIG91ciBjbGllbnRzLgotICoqSmF2YSBQZWFudXQgODAvOTAqKjogQ29udGFpbmluZyA4MCB0byA5MCBwZWFudXRzIHBlciBvdW5jZSwgdGhpcyB2YXJpZXR5IGlzIGlkZWFsIGZvciBzcGVjaWZpYyBjdWxpbmFyeSBuZWVkcywgb2ZmZXJpbmcgYSBkaWZmZXJlbnQgdGV4dHVyZSBhbmQgZmxhdm9yIHByb2ZpbGUuCgojIyMgQ29tcGV0aXRpdmUgUHJpY2luZyBhbmQgSGlnaCBRdWFsaXR5CldlIG9mZmVyIGNvbXBldGl0aXZlIHByaWNlcyBvbiBhbGwgb3VyIHByb2R1Y3RzLiBWaXNpdCBvdXIgUGVhbnV0IFByb2Nlc3NpbmcgVW5pdCBpbiBHdWphcmF0IGZvciBhIGNvbXByZWhlbnNpdmUgdW5kZXJzdGFuZGluZyBvZiBvdXIgb3BlcmF0aW9ucyBhbmQgcXVhbGl0eSBzdGFuZGFyZHMuIE91ciBKYXZhIFBlYW51dCA1MC82MCBQcmljZSBhbmQgSmF2YSBQZWFudXQgU2VlZCBQcmljZXMgYXJlIGFtb25nIHRoZSBiZXN0IGluIHRoZSBtYXJrZXQsIGVuc3VyaW5nIGV4Y2VsbGVudCB2YWx1ZSBmb3IgeW91ciBpbnZlc3RtZW50LgoKIyMjIFN1cHBvcnRpbmcgRmFybWVycyBhbmQgRm9vZCBNYW51ZmFjdHVyZXJzCkFzIGEgbGVhZGluZyBtYW51ZmFjdHVyZXIgYW5kIGV4cG9ydGVyIG9mIEphdmEgUGVhbnV0IFNlZWRzIGluIEluZGlhLCB3ZSBhcmUgY29tbWl0dGVkIHRvIHN1cHBvcnRpbmcgZmFybWVycyBhbmQgZm9vZCBtYW51ZmFjdHVyZXJzIHdpdGggdG9wLXRpZXIgc2VlZHMgdGhhdCB5aWVsZCByb2J1c3QgYW5kIG51dHJpdGlvdXMgcGVhbnV0cy4gT3VyIHNlZWRzIGFyZSBzdWl0YWJsZSBmb3IgYSB2YXJpZXR5IG9mIHNvaWwgdHlwZXMgYW5kIGNsaW1hdGljIGNvbmRpdGlvbnMsIGVuc3VyaW5nIHdpZGVzcHJlYWQgY3VsdGl2YXRpb24gc3VjY2Vzcy4KCiMjIyBCZW5lZml0cyBvZiBKYXZhIFBlYW51dHMKCiMjIyMgUmljaCBpbiBOdXRyaWVudHMKSmF2YSBQZWFudXRzIGFyZSBwYWNrZWQgd2l0aCBwcm90ZWluLCBmaWJlciwgaGVhbHRoeSBmYXRzLCB2aXRhbWlucywgYW5kIG1pbmVyYWxzLCBzdXBwb3J0aW5nIG92ZXJhbGwgaGVhbHRoLgoKIyMjIyBBbnRpb3hpZGFudCBQcm9wZXJ0aWVzCkhpZ2ggaW4gYW50aW94aWRhbnRzIGxpa2UgcmVzdmVyYXRyb2wgYW5kIHBvbHlwaGVub2xzLCBKYXZhIFBlYW51dHMgaGVscCByZWR1Y2Ugb3hpZGF0aXZlIHN0cmVzcyBhbmQgaW5mbGFtbWF0aW9uLgoKIyMjIyBIZWFydCBIZWFsdGgKVGhlc2UgcGVhbnV0cyBjb250YWluIGhlYWx0aHkgZmF0cyB0aGF0IGxvd2VyIGJhZCBjaG9sZXN0ZXJvbCBhbmQgaW1wcm92ZSBibG9vZCBjaXJjdWxhdGlvbiwgcHJvbW90aW5nIGhlYXJ0IGhlYWx0aC4KCiMjIyMgV2VpZ2h0IE1hbmFnZW1lbnQKSGlnaCBpbiBwcm90ZWluIGFuZCBmaWJlciwgSmF2YSBQZWFudXRzIHByb21vdGUgZnVsbG5lc3MgYW5kIGFpZCBpbiB3ZWlnaHQgY29udHJvbC4KCiMjIyMgVmVyc2F0aWxlIEN1bGluYXJ5IFVzZXMKSmF2YSBQZWFudXRzIGFyZSBpZGVhbCBmb3Igc25hY2tzLCBjb29raW5nLCBiYWtpbmcsIGFuZCBtYWtpbmcgcGVhbnV0IGJ1dHRlciwgYWRkaW5nIGZsYXZvciBhbmQgbnV0cml0aW9uIHRvIG1lYWxzLgoKQ2hvb3NlIFZhcm5pIEV4cG9ydHMgZm9yIHRoZSBmaW5lc3QgSmF2YSBQZWFudXQgc2VlZHMuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcHJvZHVjdHMgYW5kIHNlcnZpY2VzLiI=",
+          <div>
+            <strong>Welcome to Varni Exports: Your Premier Source for Java Peanut Seeds</strong>
+            <br />
+            <p>Are you looking for high-quality Java Peanut Seeds? Varni Exports, a leading manufacturer and exporter from India, is your trusted partner for premium Java Peanut seeds.</p>
+
+            <p>At Varni Exports, we take pride in producing Java Peanut seeds renowned for their superior taste, texture, and nutritional value. Our commitment to excellence and our dedication to serving international clients have established us as a reputable name in the agricultural industry.</p>
+
+            <br />
+            <strong>Why Choose Java Peanuts from Varni Exports?</strong>
+            <br />
+            <br />
+
+            <p>Java Peanuts, also known as Java Groundnuts, are celebrated for their smaller size and sweeter taste compared to other peanut varieties. These peanuts are perfect for a variety of culinary applications, ranging from raw consumption to gourmet recipes.</p>
+
+            <br />
+            <strong>Our Popular Varieties:</strong>
+            <br />
+            <br />
+
+            <li><strong>Java Peanut 50/60:</strong> This grade indicates that there are 50 to 60 peanuts per ounce, ensuring a consistent size and quality, making it a popular choice among our clients.</li>
+            <li><strong>Java Peanut 80/90:</strong> Containing 80 to 90 peanuts per ounce, this variety is ideal for specific culinary needs, offering a different texture and flavor profile.</li>
+
+            <br />
+            <strong>Competitive Pricing and High Quality</strong>
+            <br />
+            <br />
+
+            <p>We offer competitive prices on all our products. Visit our Peanut Processing Unit in Gujarat for a comprehensive understanding of our operations and quality standards. Our Java Peanut 50/60 Price and Java Peanut Seed Prices are among the best in the market, ensuring excellent value for your investment.</p>
+
+            <br />
+            <strong>Supporting Farmers and Food Manufacturers</strong>
+            <br />
+            <br />
+
+            <p>As a leading manufacturer and exporter of Java Peanut Seeds in India, we are committed to supporting farmers and food manufacturers with top-tier seeds that yield robust and nutritious peanuts. Our seeds are suitable for a variety of soil types and climatic conditions, ensuring widespread cultivation success.</p>
+
+            <br />
+            <strong>Benefits of Java Peanuts</strong>
+            <br />
+            <br />
+            <li><strong>Rich in Nutrients:</strong> Java Peanuts are packed with protein, fiber, healthy fats, vitamins, and minerals, supporting overall health.</li>
+            <li><strong>Antioxidant Properties:</strong> High in antioxidants like resveratrol and polyphenols, Java Peanuts help reduce oxidative stress and inflammation.</li>
+            <li><strong>Heart Health:</strong> These peanuts contain healthy fats that lower bad cholesterol and improve blood circulation, promoting heart health.</li>
+            <li><strong>Weight Management:</strong> High in protein and fiber, Java Peanuts promote fullness and aid in weight control.</li>
+            <li><strong>Versatile Culinary Uses:</strong> Java Peanuts are ideal for snacks, cooking, baking, and making peanut butter, adding flavor and nutrition to meals.</li>
+
+            <br />
+            <strong>Contact Us</strong>
+            <br />
+            <br />
+            <p>Choose Varni Exports for the finest Java Peanut seeds. Contact us today to learn more about our products and services.</p>
+          </div>
+        ,
       },
 
       {
@@ -216,7 +323,74 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "19 to 27 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBQcmVtaWVyIFNvdXJjZSBmb3IgQm9sZCBQZWFudXQgU2VlZHMKCkFyZSB5b3UgaW4gc2VhcmNoIG9mIGhpZ2gtcXVhbGl0eSBCb2xkIFBlYW51dCBTZWVkcz8gVmFybmkgRXhwb3J0cywgYSBsZWFkaW5nIG1hbnVmYWN0dXJlciBhbmQgZXhwb3J0ZXIgZnJvbSBJbmRpYSwgb2ZmZXJzIHByZW1pdW0gQm9sZCBHcm91bmQgTnV0cyB0aGF0IGFyZSBwZXJmZWN0IGZvciBhbGwgeW91ciBjdWxpbmFyeSBuZWVkcy4KCiMjIyBXaHkgQ2hvb3NlIEJvbGQgUGVhbnV0IFNlZWRzIGZyb20gVmFybmkgRXhwb3J0cz8KCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gc291cmNpbmcgb3VyIEJvbGQgUGVhbnV0IFNlZWRzIGZyb20gdGhlIGZpbmVzdCBmYXJtcyBpbiBJbmRpYS4gT3VyIGdyb3VuZCBudXRzIGFyZSByZW5vd25lZCBmb3IgdGhlaXIgc3VwZXJpb3IgdGFzdGUgYW5kIGV4Y2VwdGlvbmFsIG51dHJpdGlvbmFsIHZhbHVlLiBXaGV0aGVyIHlvdSBhcmUgc25hY2tpbmcsIGNvb2tpbmcsIG9yIGJha2luZywgb3VyIEJvbGQgR3JvdW5kIE51dHMgYXJlIGFuIGlkZWFsIGNob2ljZSBmb3IgYSBoZWFsdGh5IGFuZCBkZWxpY2lvdXMgYWRkaXRpb24gdG8geW91ciBkaWV0LgoKIyMjIEV4Y2VwdGlvbmFsIFF1YWxpdHkgYW5kIFZhcmlldGllcwoKQm9sZCBQZWFudXQgU2VlZHMsIGFsc28ga25vd24gYXMgQm9sZCBHcm91bmRudXQgU2VlZHMsIGFyZSBjZWxlYnJhdGVkIGZvciB0aGVpciBxdWFsaXR5IGFuZCB2ZXJzYXRpbGl0eS4gV2Ugb2ZmZXIgY2FyZWZ1bGx5IHNlbGVjdGVkIEJvbGQgNDAvNTAgYW5kIEJvbGQgNTAvNjAgdmFyaWV0aWVzLCBjdWx0aXZhdGVkIHVzaW5nIHN1c3RhaW5hYmxlIGZhcm1pbmcgcHJhY3RpY2VzIHRvIGVuc3VyZSB0aGUgaGlnaGVzdCBzdGFuZGFyZHMgb2YgcHVyaXR5IGFuZCBudXRyaXRpb24uCgojIyMjIE91ciBCb2xkIFBlYW51dCBWYXJpZXRpZXM6Ci0gKipCb2xkIDQwLzUwKio6IEtub3duIGZvciB0aGVpciByaWNoIGFuZCBjcmVhbXkgdGV4dHVyZSwgcGVyZmVjdCBmb3IgbWFraW5nIGhvbWVtYWRlIHBlYW51dCBidXR0ZXIuCi0gKipCb2xkIDUwLzYwKio6IElkZWFsIGZvciBhIHdpZGUgcmFuZ2Ugb2YgY3VsaW5hcnkgYXBwbGljYXRpb25zLCBmcm9tIHBlYW51dCBiYXJzIGFuZCBzbmFja3MgdG8gc2F2b3J5IGRpc2hlcyBhbmQgZGVzc2VydHMuCgojIyMgTnV0cml0aW9uYWwgQmVuZWZpdHMKCkJvbGQgUGVhbnV0IFNlZWRzIGFyZSBhIG51dHJpdGlvbmFsIHBvd2VyaG91c2UsIG9mZmVyaW5nIGEgZ29vZCBzb3VyY2Ugb2YgcHJvdGVpbiwgaGVhbHRoeSBmYXRzLCBhbmQgZXNzZW50aWFsIHZpdGFtaW5zIGFuZCBtaW5lcmFscy4gVGhlIHJpY2ggYW5kIGNyZWFteSB0ZXh0dXJlIG1ha2VzIHRoZW0gcGVyZmVjdCBmb3IgY3JlYXRpbmcgZGVsaWNpb3VzIGFuZCBudXRyaXRpb3VzIHNwcmVhZHMgbG92ZWQgYnkgYWxsIGFnZXMuCgojIyMgQ3VsaW5hcnkgYW5kIEluZHVzdHJpYWwgVXNlcwoKSW4gYWRkaXRpb24gdG8gdGhlaXIgY3VsaW5hcnkgdXNlcywgQm9sZCBQZWFudXQgU2VlZHMgaGF2ZSBudW1lcm91cyBhcHBsaWNhdGlvbnMgaW4gdGhlIGZvb2QgaW5kdXN0cnkuIFRoZWlyIHVuaXF1ZSBmbGF2b3IgYW5kIGNydW5jaCBlbmhhbmNlIGEgd2lkZSByYW5nZSBvZiBwcm9kdWN0cywgZnJvbSBwZWFudXQgYmFycyBhbmQgc25hY2tzIHRvIHNhdm9yeSBkaXNoZXMgYW5kIGRlc3NlcnRzLgoKIyMjIFZpc2l0IE91ciBQZWFudXQgUHJvY2Vzc2luZyBVbml0CgpGb3IgYSBmaXJzdGhhbmQgbG9vayBhdCBvdXIgY29tbWl0bWVudCB0byBxdWFsaXR5LCBwbGVhc2UgdmlzaXQgb3VyIFBlYW51dCBQcm9jZXNzaW5nIFVuaXQgaW4gR3VqYXJhdC4gQXMgbGVhZGluZyBwZWFudXQgbWFudWZhY3R1cmVycyBpbiBHdWphcmF0LCB3ZSBlbnN1cmUgdGhhdCB5b3UgcmVjZWl2ZSB0aGUgZnJlc2hlc3QgYW5kIG1vc3QgZmxhdm9yZnVsIHNlZWRzLCBzdHJhaWdodCBmcm9tIG91ciBmYXJtcyB0byB5b3VyIGtpdGNoZW4uCgojIyMgV2h5IENob29zZSBWYXJuaSBFeHBvcnRzPwoKV2hldGhlciB5b3UncmUgYSBmb29kIG1hbnVmYWN0dXJlciBzZWVraW5nIHRvcC1xdWFsaXR5IGluZ3JlZGllbnRzIG9yIGEgaGVhbHRoLWNvbnNjaW91cyBjb25zdW1lciBsb29raW5nIGZvciB3aG9sZXNvbWUgc25hY2tzLCBvdXIgQm9sZCBQZWFudXQgU2VlZHMgYXJlIHRoZSBwZXJmZWN0IGNob2ljZS4gV2l0aCB0aGVpciB1bmJlYXRhYmxlIHRhc3RlLCBudXRyaXRpb25hbCB2YWx1ZSwgYW5kIHZlcnNhdGlsaXR5LCB0aGV5IGFyZSBzdXJlIHRvIHNhdGlzZnkgeW91ciBjcmF2aW5ncyBhbmQgZWxldmF0ZSB5b3VyIHJlY2lwZXMuCgojIyMgRXhwbG9yZSBhbmQgT3JkZXIgTm93CgpFeHBsb3JlIHRoZSB2YXJpZXR5IG9mIEJvbGQgUGVhbnV0IFNlZWRzIGF2YWlsYWJsZSBhdCBWYXJuaSBFeHBvcnRzIGFuZCBleHBlcmllbmNlIHRoZSBkaWZmZXJlbmNlIGluIGZsYXZvciBhbmQgcXVhbGl0eS4gT3JkZXIgbm93IGFuZCBkaXNjb3ZlciB0aGUgZW5kbGVzcyBwb3NzaWJpbGl0aWVzIG9mIGJvbGQsIGRlbGljaW91cyBwZWFudXRzIQoKIyMjIEJlbmVmaXRzIG9mIEJvbGQgUGVhbnV0IFNlZWRzCgoxLiAqKkhlYXJ0IEhlYWx0aCoqOiBDb250YWluIHZpdGFsIG51dHJpZW50cyBhbmQgdml0YW1pbnMgdGhhdCBoZWxwIG1haW50YWluIGEgaGVhbHRoeSBoZWFydCBieSBtYW5hZ2luZyBmYXQgcmF0aW9zLgoyLiAqKk51dHJpZW50LVJpY2gqKjogQSBncmVhdCBzb3VyY2Ugb2YgZmF0cywgcHJvdGVpbiwgZmliZXIsIGFuZCBnbHVjb3NlLCB3aGljaCBtYW5hZ2UgYmxvb2Qgc3VnYXIgbGV2ZWxzIGFuZCBoZWxwIG1haW50YWluIGEgaGVhbHRoeSB3ZWlnaHQuCjMuICoqUHJvdGVpbi1QYWNrZWQqKjogV2l0aCBhcHByb3hpbWF0ZWx5IDM0JSBwcm90ZWluLCBwZWFudXRzIGFyZSBoaWdobHkgcmVjb21tZW5kZWQgZm9yIHByZS13b3Jrb3V0IGRpZXRzIGZvciBhdGhsZXRlcyBhbmQgb2xkZXIgYWR1bHRzLgo0LiAqKkJyYWluIEhlYWx0aCoqOiBSaWNoIGluIHZpdGFtaW4gQjEsIHdoaWNoIHN1cHBvcnRzIHRoZSBuZXJ2b3VzIHN5c3RlbSBhbmQgZW5oYW5jZXMgYnJhaW4gc2hhcnBuZXNzLgo1LiAqKkJvbmUgYW5kIFNraW4gSGVhbHRoKio6IENvbnRhaW4gbWFuZ2FuZXNlIGFuZCBwaG9zcGhvcnVzLCBlc3NlbnRpYWwgZm9yIHN0cm9uZyBib25lcywgaGVhbHRoeSBza2luLCBhbmQgYmV0dGVyIHZpc2lvbi4KNi4gKipEaXNlYXNlIFByZXZlbnRpb24qKjogT2ZmZXIgaGVhbHRoIGJlbmVmaXRzIHN1Y2ggYXMgcmVkdWNpbmcgY2FuY2VyIHJpc2ssIGNvbnRyb2xsaW5nIGRpYWJldGVzLCBhbmQgcHJldmVudGluZyBnYWxsc3RvbmVzLgoKQ2hvb3NlIFZhcm5pIEV4cG9ydHMgZm9yIHRoZSBmaW5lc3QgQm9sZCBQZWFudXQgU2VlZHMgYW5kIGVsZXZhdGUgeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgd2l0aCB0aGVpciB1bm1hdGNoZWQgcXVhbGl0eSBhbmQgZmxhdm9yLiBDb250YWN0IHVzIHRvZGF5IGZvciBtb3JlIGluZm9ybWF0aW9uIGFuZCB0byBwbGFjZSB5b3VyIG9yZGVyLg==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Premier Source for Bold Peanut Seeds</strong></p>
+            <br />
+
+            <p>Are you in search of high-quality Bold Peanut Seeds? Varni Exports, a leading manufacturer and exporter from India, offers premium Bold Ground Nuts that are perfect for all your culinary needs.</p>
+            <br />
+
+            <p><strong>Why Choose Bold Peanut Seeds from Varni Exports?</strong></p>
+            <br />
+
+            <p>At Varni Exports, we take pride in sourcing our Bold Peanut Seeds from the finest farms in India. Our ground nuts are renowned for their superior taste and exceptional nutritional value. Whether you are snacking, cooking, or baking, our Bold Ground Nuts are an ideal choice for a healthy and delicious addition to your diet.</p>
+            <br />
+
+            <p><strong>Exceptional Quality and Varieties</strong></p>
+            <br />
+
+            <p>Bold Peanut Seeds, also known as Bold Groundnut Seeds, are celebrated for their quality and versatility. We offer carefully selected Bold 40/50 and Bold 50/60 varieties, cultivated using sustainable farming practices to ensure the highest standards of purity and nutrition.</p>
+            <br />
+
+            <p><strong>Our Bold Peanut Varieties:</strong></p>
+            <br />
+            <li><strong>Bold 40/50:</strong> Known for their rich and creamy texture, perfect for making homemade peanut butter.</li>
+            <li><strong>Bold 50/60:</strong> Ideal for a wide range of culinary applications, from peanut bars and snacks to savory dishes and desserts.</li>
+            <br />
+
+            <p><strong>Nutritional Benefits</strong></p>
+            <br />
+
+            <p>Bold Peanut Seeds are a nutritional powerhouse, offering a good source of protein, healthy fats, and essential vitamins and minerals. The rich and creamy texture makes them perfect for creating delicious and nutritious spreads loved by all ages.</p>
+            <br />
+
+            <p><strong>Culinary and Industrial Uses</strong></p>
+            <br />
+
+            <p>In addition to their culinary uses, Bold Peanut Seeds have numerous applications in the food industry. Their unique flavor and crunch enhance a wide range of products, from peanut bars and snacks to savory dishes and desserts.</p>
+            <br />
+
+            <p><strong>Visit Our Peanut Processing Unit</strong></p>
+            <br />
+
+            <p>For a firsthand look at our commitment to quality, please visit our Peanut Processing Unit in Gujarat. As leading peanut manufacturers in Gujarat, we ensure that you receive the freshest and most flavorful seeds, straight from our farms to your kitchen.</p>
+            <br />
+
+            <p><strong>Why Choose Varni Exports?</strong></p>
+            <br />
+
+            <p>Whether you're a food manufacturer seeking top-quality ingredients or a health-conscious consumer looking for wholesome snacks, our Bold Peanut Seeds are the perfect choice. With their unbeatable taste, nutritional value, and versatility, they are sure to satisfy your cravings and elevate your recipes.</p>
+            <br />
+
+            <p><strong>Explore and Order Now</strong></p>
+            <br />
+
+            <p>Explore the variety of Bold Peanut Seeds available at Varni Exports and experience the difference in flavor and quality. Order now and discover the endless possibilities of bold, delicious peanuts!</p>
+            <br />
+
+            <p><strong>Benefits of Bold Peanut Seeds</strong></p>
+            <br />
+            <li><strong>Heart Health:</strong> Contain vital nutrients and vitamins that help maintain a healthy heart by managing fat ratios.</li>
+            <li><strong>Nutrient-Rich:</strong> A great source of fats, protein, fiber, and glucose, which manage blood sugar levels and help maintain a healthy weight.</li>
+            <li><strong>Protein-Packed:</strong> With approximately 34% protein, peanuts are highly recommended for pre-workout diets for athletes and older adults.</li>
+            <li><strong>Brain Health:</strong> Rich in vitamin B1, which supports the nervous system and enhances brain sharpness.</li>
+            <li><strong>Bone and Skin Health:</strong> Contain manganese and phosphorus, essential for strong bones, healthy skin, and better vision.</li>
+            <li><strong>Disease Prevention:</strong> Offer health benefits such as reducing cancer risk, controlling diabetes, and preventing gallstones.</li>
+            <br />
+
+            <p>Choose Varni Exports for the finest Bold Peanut Seeds and elevate your culinary creations with their unmatched quality and flavor. Contact us today for more information and to place your order.</p>
+          </div>
+        ,
       },
 
       {
@@ -233,7 +407,64 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "25 to 50 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBJZGVhbCBQYXJ0bmVyIGZvciBQZWFudXQgRXhwb3J0CgpBcmUgeW91IGluIHNlYXJjaCBvZiBhIHJlbGlhYmxlIHBlYW51dCBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB0aGUgcGVyZmVjdCBwbGF0Zm9ybSB0byBlc3RhYmxpc2ggZW5kdXJpbmcgdHJhZGUgcmVsYXRpb25zaGlwcyBmb3IgZnV0dXJlIGVuZGVhdm9ycy4KCiMjIyBIaWdoLVF1YWxpdHkgUGVhbnV0cyBmcm9tIEZlcnRpbGUgUmVnaW9ucwoKVmFybmkgRXhwb3J0cyBzb3VyY2VzIHByZW1pdW0tcXVhbGl0eSBwZWFudXRzIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiB3ZXN0ZXJuIEluZGlhIGFuZCB0aGUgSW5kby1HYW5nZXRpYyBwbGFpbnMuIFRoZXNlIHBlYW51dHMgYXJlIGV4Y2VwdGlvbmFsbHkgcmljaCBpbiBwcm90ZWluIGFuZCBvaWwgY29udGVudC4gRm9sbG93aW5nIHRoZSBzb3VyY2luZyBwcm9jZXNzLCB0aGUgcGVhbnV0cyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcsIGFjaGlldmluZyBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUuCgojIyMgVmFyaWV0aWVzIGFuZCBTaXplcwoKVmFybmkgRXhwb3J0cyBvZmZlcnMgYSB3aWRlIHJhbmdlIG9mIHBlYW51dCB2YXJpZXRpZXM6Ci0gKipHMTAsIEcyMCwgSmF2YSBWYXJpZXRpZXMqKjogQXZhaWxhYmxlIGluIHNpemVzIDUwLzYwLCA2MC83MCwgNzAvODAsIDgwLzkwLCA5MC8xMDAsIDE0MC8xNjAgY291bnRzIHBlciBvdW5jZS4KLSAqKkJvbGQgVmFyaWV0aWVzKio6IEF2YWlsYWJsZSBpbiBzaXplcyAzOC80MiwgNDAvNTAsIDUwLzYwLCA2MC83MCwgNzAvODAsIDgwLzkwLCA5MC8xMDAsIDE0MC8xNjAgY291bnRzIHBlciBvdW5jZS4KCiMjIyBTdGF0ZS1vZi10aGUtQXJ0IFByb2Nlc3NpbmcgUGxhbnQKCk91ciBhZHZhbmNlZCBwcm9jZXNzaW5nIHBsYW50IGlzIGVxdWlwcGVkIHdpdGggdGhlIGxhdGVzdCBtYWNoaW5lcnkgYW5kIGVtcGxveXMgZWNvLWZyaWVuZGx5IHByYWN0aWNlcyB3aXRoIGEgZm9jdXMgb24gd2FzdGUgbWFuYWdlbWVudC4gVGhlIG5hdHVyYWwgSmF2YSBwZWFudXRzIHByb2R1Y2VkIGFyZSBvZiB0aGUgaGlnaGVzdCBzdGFuZGFyZHMgYW5kIGV4cG9ydC1yZWFkeS4gVmFybmkgRXhwb3J0cyBpcyBkZWRpY2F0ZWQgdG8gY29udGludW91c2x5IGltcHJvdmluZyBpdHMgc2VydmljZXMgdG8gc2VydmUgeW91IGJldHRlci4KCiMjIyBHMjAgUGVhbnV0IFN1cHBsaWVyLCBFeHBvcnRlciwgYW5kIFByb2R1Y2VyCgpWYXJuaSBFeHBvcnRzIGlzIGEgcmVjb2duaXplZCBzdXBwbGllciwgZXhwb3J0ZXIsIGFuZCBwcm9kdWNlciBvZiBHMjAgcGVhbnV0cy4gSW5kaWEgcmFua3MgYW1vbmcgdGhlIHRvcCB0aHJlZSBwZWFudXQgcHJvZHVjZXJzIHdvcmxkd2lkZSwgd2l0aCBhIHllYXItcm91bmQgc3VwcGx5IHRoYW5rcyB0byBpdHMgdHdvLWNyb3AgZmFybWluZyBwYXR0ZXJuIChNYXJjaCBhbmQgT2N0b2JlcikuCgojIyMgTWFqb3IgRXhwb3J0IERlc3RpbmF0aW9ucwoKSmF2YSBwZWFudXRzIGFyZSBwcm9kdWNlZCBpbiBsYXJnZSBxdWFudGl0aWVzIGluIEluZGlhIGFuZCBhcmUgcHJpbWFyaWx5IGV4cG9ydGVkIHRvIEluZG9uZXNpYSwgVmlldG5hbSwgYW5kIFRoYWlsYW5kLiBHMjAgcGVhbnV0cywgY2hhcmFjdGVyaXplZCBieSB0aGVpciByZWRkaXNoIGFwcGVhcmFuY2UgYW5kIHNoaW55IHNlZWRzLCBoYXZlIHN0cm9uZyBvdXRlciBzaGVsbHMgZm9yIHNlZWQgcHJvdGVjdGlvbi4gTWFqb3IgcHJvZHVjdGlvbiByZWdpb25zIGluY2x1ZGUgR3VqYXJhdCwgQW5kaHJhIFByYWRlc2gsIFRhbWlsIE5hZHUsIEthcm5hdGFrYSwgTWFoYXJhc2h0cmEsIGFuZCBSYWphc3RoYW4uCgojIyMgTnV0cml0aW9uYWwgQmVuZWZpdHMgb2YgSW5kaWFuIEdyb3VuZG51dHMKCkluZGlhbiBncm91bmRudXRzIGFyZSBudXRyaWVudC1kZW5zZSBhbmQgdml0YW1pbi1yaWNoIGR1ZSB0byB0aGUgZHJ5IGFuZCBodW1pZCB3ZWF0aGVyIGNvbmRpdGlvbnMgaW4gSW5kaWEsIHdpdGggYSBsaWZlIGN5Y2xlIG9mIDQgdG8gNSBtb250aHMgZGVwZW5kaW5nIG9uIHRoZSByZWdpb24uCgojIyMgVXNlcyBhbmQgQmVuZWZpdHMgb2YgRzIwIFBlYW51dHMKCjEuICoqSGVhcnQgSGVhbHRoKio6IENvbnRhaW5zIHZpdGFsIG51dHJpZW50cyBhbmQgdml0YW1pbnMgdGhhdCBoZWxwIG1haW50YWluIGEgaGVhbHRoeSBoZWFydCBieSBiYWxhbmNpbmcgZmF0IHJhdGlvcy4KMi4gKipOdXRyaWVudC1SaWNoKio6IEEgZ3JlYXQgc291cmNlIG9mIGZhdHMsIHByb3RlaW4sIGZpYmVyLCBhbmQgZ2x1Y29zZSwgd2hpY2ggaGVscCBtYW5hZ2UgYmxvb2Qgc3VnYXIgbGV2ZWxzIGFuZCBtYWludGFpbiBhIGhlYWx0aHkgd2VpZ2h0LgozLiAqKlByb3RlaW4gU291cmNlKio6IFdpdGggYXBwcm94aW1hdGVseSAzNCUgcHJvdGVpbiwgcGVhbnV0cyBhcmUgaGlnaGx5IHJlY29tbWVuZGVkIGZvciBwcmUtd29ya291dCBkaWV0cyBmb3IgYXRobGV0ZXMgYW5kIG9sZGVyIGFkdWx0cy4KNC4gKipCcmFpbiBIZWFsdGgqKjogUmljaCBpbiB2aXRhbWluIEIxLCBzdXBwb3J0aW5nIHRoZSBuZXJ2b3VzIHN5c3RlbSBhbmQgZW5oYW5jaW5nIGJyYWluIHNoYXJwbmVzcy4KNS4gKipCb25lIGFuZCBTa2luIEhlYWx0aCoqOiBDb250YWlucyBtYW5nYW5lc2UgYW5kIHBob3NwaG9ydXMsIGVzc2VudGlhbCBmb3Igc3Ryb25nIGJvbmVzLCBoZWFsdGh5IHNraW4sIGFuZCBiZXR0ZXIgdmlzaW9uLgo2LiAqKkRpc2Vhc2UgUHJldmVudGlvbioqOiBPZmZlcnMgaGVhbHRoIGJlbmVmaXRzIHN1Y2ggYXMgcmVkdWNpbmcgY2FuY2VyIHJpc2ssIGNvbnRyb2xsaW5nIGRpYWJldGVzLCBhbmQgcHJldmVudGluZyBnYWxsc3RvbmVzLgoKQ2hvb3NlIFZhcm5pIEV4cG9ydHMgZm9yIHRoZSBmaW5lc3QgRzIwIHBlYW51dHMgYW5kIGV4cGVyaWVuY2UgdGhlIHVubWF0Y2hlZCBxdWFsaXR5IGFuZCBmbGF2b3Igb2Ygb3VyIHByb2R1Y3RzLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYW5kIHBsYWNlIHlvdXIgb3JkZXIu",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Ideal Partner for Peanut Export</strong></p>
+            <br />
+
+            <p>Are you in search of a reliable peanut exporter? Varni Exports is the perfect platform to establish enduring trade relationships for future endeavors.</p>
+            <br />
+
+            <p><strong>High-Quality Peanuts from Fertile Regions</strong></p>
+            <br />
+
+            <p>Varni Exports sources premium-quality peanuts from the fertile regions of western India and the Indo-Gangetic plains. These peanuts are exceptionally rich in protein and oil content. Following the sourcing process, the peanuts undergo meticulous cleaning, achieving a purity level of 90 to 95%.</p>
+            <br />
+
+            <p><strong>Varieties and Sizes</strong></p>
+            <br />
+
+            <p>Varni Exports offers a wide range of peanut varieties:</p>
+            <br />
+            <li><strong>G10, G20, Java Varieties:</strong> Available in sizes 50/60, 60/70, 70/80, 80/90, 90/100, 140/160 counts per ounce.</li>
+            <li><strong>Bold Varieties:</strong> Available in sizes 38/42, 40/50, 50/60, 60/70, 70/80, 80/90, 90/100, 140/160 counts per ounce.</li>
+            <br />
+
+            <p><strong>State-of-the-Art Processing Plant</strong></p>
+            <br />
+
+            <p>Our advanced processing plant is equipped with the latest machinery and employs eco-friendly practices with a focus on waste management. The natural Java peanuts produced are of the highest standards and export-ready. Varni Exports is dedicated to continuously improving its services to serve you better.</p>
+            <br />
+
+            <p><strong>G20 Peanut Supplier, Exporter, and Producer</strong></p>
+            <br />
+
+            <p>Varni Exports is a recognized supplier, exporter, and producer of G20 peanuts. India ranks among the top three peanut producers worldwide, with a year-round supply thanks to its two-crop farming pattern (March and October).</p>
+            <br />
+
+            <p><strong>Major Export Destinations</strong></p>
+            <br />
+
+            <p>Java peanuts are produced in large quantities in India and are primarily exported to Indonesia, Vietnam, and Thailand. G20 peanuts, characterized by their reddish appearance and shiny seeds, have strong outer shells for seed protection. Major production regions include Gujarat, Andhra Pradesh, Tamil Nadu, Karnataka, Maharashtra, and Rajasthan.</p>
+            <br />
+
+            <p><strong>Nutritional Benefits of Indian Groundnuts</strong></p>
+            <br />
+
+            <p>Indian groundnuts are nutrient-dense and vitamin-rich due to the dry and humid weather conditions in India, with a life cycle of 4 to 5 months depending on the region.</p>
+            <br />
+
+            <p><strong>Uses and Benefits of G20 Peanuts</strong></p>
+            <br />
+            <li><strong>Heart Health:</strong> Contains vital nutrients and vitamins that help maintain a healthy heart by balancing fat ratios.</li>
+            <li><strong>Nutrient-Rich:</strong> A great source of fats, protein, fiber, and glucose, which help manage blood sugar levels and maintain a healthy weight.</li>
+            <li><strong>Protein Source:</strong> With approximately 34% protein, peanuts are highly recommended for pre-workout diets for athletes and older adults.</li>
+            <li><strong>Brain Health:</strong> Rich in vitamin B1, supporting the nervous system and enhancing brain sharpness.</li>
+            <li><strong>Bone and Skin Health:</strong> Contains manganese and phosphorus, essential for strong bones, healthy skin, and better vision.</li>
+            <li><strong>Disease Prevention:</strong> Offers health benefits such as reducing cancer risk, controlling diabetes, and preventing gallstones.</li>
+            <br />
+
+            <p>Choose Varni Exports for the finest G20 peanuts and experience the unmatched quality and flavor of our products. Contact us today to learn more and place your order.</p>
+          </div>,
       },
 
       {
@@ -250,7 +481,81 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "19 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBTb3VyY2UgZm9yIFByZW1pdW0gUm9hc3RlZCBQZWFudXRzCgpBcmUgeW91IGluIHNlYXJjaCBvZiBoaWdoLXF1YWxpdHkgcm9hc3RlZCBwZWFudXRzPyBMb29rIG5vIGZ1cnRoZXIgdGhhbiBWYXJuaSBFeHBvcnRzLCB5b3VyIHRydXN0ZWQgcGFydG5lciBmb3IgdG9wLW5vdGNoIHJvYXN0ZWQgcGVhbnV0cyB0aGF0IGFyZSBwZXJmZWN0IGZvciB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9ucyBhbmQgc25hY2tpbmcgbmVlZHMuCgojIyMgU3VwZXJpb3IgUXVhbGl0eSBSb2FzdGVkIFBlYW51dHMKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaWRlIG91cnNlbHZlcyBvbiBvZmZlcmluZyB0aGUgZmluZXN0IHJvYXN0ZWQgcGVhbnV0cyBzb3VyY2VkIGZyb20gdGhlIGJlc3QgZmFybXMgaW4gSW5kaWEuIE91ciByb2FzdGluZyBwcm9jZXNzIGVuaGFuY2VzIHRoZSBuYXR1cmFsIGZsYXZvciBvZiB0aGUgcGVhbnV0cywgZ2l2aW5nIHRoZW0gYSByaWNoLCBudXR0eSB0YXN0ZSBhbmQgYSBzYXRpc2Z5aW5nIGNydW5jaC4gCgojIyMgV2h5IENob29zZSBSb2FzdGVkIFBlYW51dHMgZnJvbSBWYXJuaSBFeHBvcnRzPwoKIyMjIyBFeGNlcHRpb25hbCBGbGF2b3IgYW5kIFRleHR1cmUKT3VyIHJvYXN0ZWQgcGVhbnV0cyBhcmUga25vd24gZm9yIHRoZWlyIHJpY2ggZmxhdm9yIGFuZCBjcmlzcCB0ZXh0dXJlLCBtYWtpbmcgdGhlbSBhbiBpZGVhbCBzbmFjayBvciBpbmdyZWRpZW50IGZvciB2YXJpb3VzIHJlY2lwZXMuCgojIyMjIE51dHJpdGlvbmFsIEJlbmVmaXRzClJvYXN0ZWQgcGVhbnV0cyBhcmUgYSBncmVhdCBzb3VyY2Ugb2YgcHJvdGVpbiwgaGVhbHRoeSBmYXRzLCBmaWJlciwgdml0YW1pbnMsIGFuZCBtaW5lcmFscy4gVGhleSBwcm92aWRlIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0cywgaW5jbHVkaW5nOgotICoqSGVhcnQgSGVhbHRoKio6IENvbnRhaW4gaGVhbHRoeSBmYXRzIHRoYXQgaGVscCByZWR1Y2UgYmFkIGNob2xlc3Rlcm9sIGxldmVscyBhbmQgc3VwcG9ydCBjYXJkaW92YXNjdWxhciBoZWFsdGguCi0gKipFbmVyZ3kgQm9vc3QqKjogSGlnaCBpbiBwcm90ZWluIGFuZCBoZWFsdGh5IGZhdHMsIHByb3ZpZGluZyBhIHN1c3RhaW5lZCBlbmVyZ3kgcmVsZWFzZS4KLSAqKlJpY2ggaW4gQW50aW94aWRhbnRzKio6IFJvYXN0aW5nIGluY3JlYXNlcyB0aGUgYW50aW94aWRhbnQgY29udGVudCwgd2hpY2ggaGVscHMgY29tYmF0IG94aWRhdGl2ZSBzdHJlc3MuCi0gKipXZWlnaHQgTWFuYWdlbWVudCoqOiBIaWdoIGluIGZpYmVyIGFuZCBwcm90ZWluLCB3aGljaCBwcm9tb3RlIHNhdGlldHkgYW5kIGhlbHAgY29udHJvbCB3ZWlnaHQuCgojIyMgVmFyaWV0aWVzIGFuZCBTaXplcwoKVmFybmkgRXhwb3J0cyBvZmZlcnMgcm9hc3RlZCBwZWFudXRzIGluIHZhcmlvdXMgc2l6ZXMgdG8gbWVldCBkaXZlcnNlIGN1bGluYXJ5IG5lZWRzOgotICoqV2hvbGUgUm9hc3RlZCBQZWFudXRzKio6IElkZWFsIGZvciBzbmFja2luZyBhbmQgYXMgYSBnYXJuaXNoIGluIGRpc2hlcy4KLSAqKlNwbGl0IFJvYXN0ZWQgUGVhbnV0cyoqOiBQZXJmZWN0IGZvciBpbmNsdXNpb24gaW4gYmFrZWQgZ29vZHMsIHNhbGFkcywgYW5kIHBlYW51dCBidXR0ZXIuCgojIyMgQWR2YW5jZWQgUm9hc3RpbmcgVGVjaG5pcXVlcwoKT3VyIHN0YXRlLW9mLXRoZS1hcnQgcm9hc3RpbmcgZmFjaWxpdHkgZW1wbG95cyBhZHZhbmNlZCB0ZWNobmlxdWVzIHRvIGVuc3VyZSBjb25zaXN0ZW50IHF1YWxpdHkgYW5kIGZsYXZvci4gV2UgYWRoZXJlIHRvIHN0cmljdCBxdWFsaXR5IGNvbnRyb2wgbWVhc3VyZXMgdG8gZGVsaXZlciBwZWFudXRzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcy4KCiMjIyBTdXN0YWluYWJsZSBQcmFjdGljZXMKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGFyZSBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgcHJhY3RpY2VzLiBPdXIgcHJvY2Vzc2luZyBwbGFudCBpbmNvcnBvcmF0ZXMgZWNvLWZyaWVuZGx5IG1ldGhvZHMgYW5kIGVmZmVjdGl2ZSB3YXN0ZSBtYW5hZ2VtZW50IHN5c3RlbXMgdG8gbWluaW1pemUgb3VyIGVudmlyb25tZW50YWwgaW1wYWN0LgoKIyMjIEdsb2JhbCBFeHBvcnQgYW5kIFN1cHBseQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyLCBWYXJuaSBFeHBvcnRzIGVuc3VyZXMgdGltZWx5IGRlbGl2ZXJ5IG9mIHJvYXN0ZWQgcGVhbnV0cyB0byBjbGllbnRzIHdvcmxkd2lkZS4gT3VyIHJvYnVzdCBzdXBwbHkgY2hhaW4gZ3VhcmFudGVlcyB0aGF0IHlvdSByZWNlaXZlIHRoZSBmcmVzaGVzdCBhbmQgbW9zdCBmbGF2b3JmdWwgcGVhbnV0cywgd2hldGhlciB5b3UgYXJlIGEgZm9vZCBtYW51ZmFjdHVyZXIsIHJldGFpbGVyLCBvciBoZWFsdGgtY29uc2Npb3VzIGNvbnN1bWVyLgoKIyMjIFVzZXMgYW5kIEJlbmVmaXRzIG9mIFJvYXN0ZWQgUGVhbnV0cwoKUm9hc3RlZCBwZWFudXRzIGFyZSBpbmNyZWRpYmx5IHZlcnNhdGlsZSBhbmQgY2FuIGJlIHVzZWQgaW4gdmFyaW91cyB3YXlzOgoxLiAqKlNuYWNraW5nKio6IEVuam95IHRoZW0gYXMgYSBkZWxpY2lvdXMgYW5kIG51dHJpdGlvdXMgc25hY2suCjIuICoqQ29va2luZyBhbmQgQmFraW5nKio6IEFkZCB0aGVtIHRvIGNvb2tpZXMsIGNha2VzLCBhbmQgc2F2b3J5IGRpc2hlcyBmb3IgYSBjcnVuY2h5IHRleHR1cmUuCjMuICoqU2FsYWRzIGFuZCBHYXJuaXNoZXMqKjogU3ByaW5rbGUgb24gc2FsYWRzIG9yIHVzZSBhcyBhIGdhcm5pc2ggZm9yIGFkZGVkIGZsYXZvciBhbmQgbnV0cml0aW9uLgo0LiAqKlBlYW51dCBCdXR0ZXIqKjogTWFrZSBob21lbWFkZSBwZWFudXQgYnV0dGVyIHdpdGggYSByaWNoLCByb2FzdGVkIGZsYXZvci4KCiMjIyBFeHBlcmllbmNlIHRoZSBWYXJuaSBFeHBvcnRzIERpZmZlcmVuY2UKCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciBwcmVtaXVtIHJvYXN0ZWQgcGVhbnV0cyB0aGF0IGFyZSByaWNoIGluIGZsYXZvciwgbnV0cml0aW9uLCBhbmQgcXVhbGl0eS4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFib3V0IG91ciBwcm9kdWN0cyBhbmQgcGxhY2UgeW91ciBvcmRlci4gRGlzY292ZXIgdGhlIGVuZGxlc3MgY3VsaW5hcnkgcG9zc2liaWxpdGllcyB3aXRoIG91ciByb2FzdGVkIHBlYW51dHMh",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Source for Premium Roasted Peanuts</strong></p>
+            <br />
+
+            <p>Are you in search of high-quality roasted peanuts? Look no further than Varni Exports, your trusted partner for top-notch roasted peanuts that are perfect for various culinary applications and snacking needs.</p>
+            <br />
+
+            <p><strong>Superior Quality Roasted Peanuts</strong></p>
+            <br />
+
+            <p>At Varni Exports, we pride ourselves on offering the finest roasted peanuts sourced from the best farms in India. Our roasting process enhances the natural flavor of the peanuts, giving them a rich, nutty taste and a satisfying crunch.</p>
+            <br />
+
+            <p><strong>Why Choose Roasted Peanuts from Varni Exports?</strong></p>
+            <br />
+
+            <p><strong>Exceptional Flavor and Texture</strong>
+              <br />
+              Our roasted peanuts are known for their rich flavor and crisp texture, making them an ideal snack or ingredient for various recipes.</p>
+            <br />
+
+            <p><strong>Nutritional Benefits</strong></p>
+            <br />
+            <p>Roasted peanuts are a great source of protein, healthy fats, fiber, vitamins, and minerals. They provide numerous health benefits, including:</p>
+            <br />
+            <li><strong>Heart Health:</strong> Contain healthy fats that help reduce bad cholesterol levels and support cardiovascular health.</li>
+            <li><strong>Energy Boost:</strong> High in protein and healthy fats, providing a sustained energy release.</li>
+            <li><strong>Rich in Antioxidants:</strong> Roasting increases the antioxidant content, which helps combat oxidative stress.</li>
+            <li><strong>Weight Management:</strong> High in fiber and protein, which promote satiety and help control weight.</li>
+            <br />
+
+            <p><strong>Varieties and Sizes</strong></p>
+            <br />
+
+            <p>Varni Exports offers roasted peanuts in various sizes to meet diverse culinary needs:</p>
+            <br />
+            <li><strong>Whole Roasted Peanuts:</strong> Ideal for snacking and as a garnish in dishes.</li>
+            <li><strong>Split Roasted Peanuts:</strong> Perfect for inclusion in baked goods, salads, and peanut butter.</li>
+            <br />
+
+            <p><strong>Advanced Roasting Techniques</strong></p>
+            <br />
+
+            <p>Our state-of-the-art roasting facility employs advanced techniques to ensure consistent quality and flavor. We adhere to strict quality control measures to deliver peanuts that meet international standards.</p>
+            <br />
+
+            <p><strong>Sustainable Practices</strong></p>
+            <br />
+
+            <p>At Varni Exports, we are committed to sustainable practices. Our processing plant incorporates eco-friendly methods and effective waste management systems to minimize our environmental impact.</p>
+            <br />
+
+            <p><strong>Global Export and Supply</strong></p>
+            <br />
+
+            <p>As a leading exporter, Varni Exports ensures timely delivery of roasted peanuts to clients worldwide. Our robust supply chain guarantees that you receive the freshest and most flavorful peanuts, whether you are a food manufacturer, retailer, or health-conscious consumer.</p>
+            <br />
+
+            <p><strong>Uses and Benefits of Roasted Peanuts</strong></p>
+            <br />
+
+            <p>Roasted peanuts are incredibly versatile and can be used in various ways:</p>
+            <br />
+            <li><strong>Snacking:</strong> Enjoy them as a delicious and nutritious snack.</li>
+            <li><strong>Cooking and Baking:</strong> Add them to cookies, cakes, and savory dishes for a crunchy texture.</li>
+            <li><strong>Salads and Garnishes:</strong> Sprinkle on salads or use as a garnish for added flavor and nutrition.</li>
+            <li><strong>Peanut Butter:</strong> Make homemade peanut butter with a rich, roasted flavor.</li>
+            <br />
+
+            <p><strong>Experience the Varni Exports Difference</strong></p>
+            <br />
+
+            <p>Choose Varni Exports for premium roasted peanuts that are rich in flavor, nutrition, and quality. Contact us today to learn more about our products and place your order. Discover the endless culinary possibilities with our roasted peanuts!</p>
+          </div>
+        ,
       },
     ],
   },
@@ -282,7 +587,86 @@ export const catagories = [
         Loading: "Refrigerated Container",
         "Shelf Life": "7-14 Days",
         description:
-          "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgUHJlbWllciBTb3VyY2UgZm9yIEV4cXVpc2l0ZSBNYW5nb2VzCgpXZWxjb21lIHRvIFZhcm5pIEV4cG9ydHMsIHlvdXIgdHJ1c3RlZCBwYXJ0bmVyIGZvciBzb3VyY2luZyB0aGUgZmluZXN0IG1hbmdvZXMgZnJvbSB0aGUgbHVzaCBvcmNoYXJkcyBvZiBJbmRpYS4gUmVub3duZWQgZm9yIHRoZWlyIHVucGFyYWxsZWxlZCBzd2VldG5lc3MsIHZpYnJhbnQgY29sb3IsIGFuZCByaWNoIGZsYXZvciwgb3VyIG1hbmdvZXMgYXJlIGN1bHRpdmF0ZWQgYW5kIHByb2Nlc3NlZCB3aXRoIG1ldGljdWxvdXMgY2FyZSB0byBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzIG9mIGV4Y2VsbGVuY2UuCgojIyMgQWJvdXQgTWFuZ29lcwoKTWFuZ29lcyAoTWFuZ2lmZXJhIGluZGljYSkgYXJlIG9mdGVuIHJlZmVycmVkIHRvIGFzIHRoZSAia2luZyBvZiBmcnVpdHMiIGFuZCBoYXZlIGJlZW4gY2hlcmlzaGVkIGZvciB0aG91c2FuZHMgb2YgeWVhcnMuIFRoZXNlIHRyb3BpY2FsIGZydWl0cyBhcmUgcHJpemVkIGZvciB0aGVpciBqdWljeSBmbGVzaCwgc3dlZXQgdGFzdGUsIGFuZCBkZWxpZ2h0ZnVsIGFyb21hLiBNYW5nb2VzIGFyZSBub3Qgb25seSBkZWxpY2lvdXMgYnV0IGFsc28gcGFja2VkIHdpdGggZXNzZW50aWFsIG51dHJpZW50cywgbWFraW5nIHRoZW0gYSBwb3B1bGFyIGNob2ljZSBhcm91bmQgdGhlIHdvcmxkLgoKIyMjIFZhcmlldGllcwoKVmFybmkgRXhwb3J0cyBvZmZlcnMgYSByYW5nZSBvZiBtYW5nbyB2YXJpZXRpZXMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSB0YXN0ZXMgYW5kIHByZWZlcmVuY2VzOgotICoqQWxwaG9uc28gKEhhcHVzKSBNYW5nb2VzKio6IEtub3duIGZvciB0aGVpciByaWNoLCBjcmVhbXkgdGV4dHVyZSBhbmQgc3dlZXQsIGhvbmV5LWxpa2UgZmxhdm9yLiBBbHBob25zbyBtYW5nb2VzIGFyZSBoaWdobHkgc291Z2h0IGFmdGVyIGFuZCBjb25zaWRlcmVkIG9uZSBvZiB0aGUgYmVzdCB2YXJpZXRpZXMgZ2xvYmFsbHkuCi0gKipLZXNhciBNYW5nb2VzKio6IEZhbW91cyBmb3IgdGhlaXIgYnJpZ2h0IG9yYW5nZSBwdWxwIGFuZCBkaXN0aW5jdCBhcm9tYS4gS2VzYXIgbWFuZ29lcyBhcmUgc3dlZXQgd2l0aCBhIGhpbnQgb2YgdGFuZ2luZXNzLCBtYWtpbmcgdGhlbSBwZXJmZWN0IGZvciBkZXNzZXJ0cyBhbmQgZnJlc2ggY29uc3VtcHRpb24uCi0gKipCYW5nYW5hcGFsbGkgKEJlbmlzaGFuKSBNYW5nb2VzKio6IENoYXJhY3Rlcml6ZWQgYnkgdGhlaXIgc21vb3RoIHNraW4gYW5kIGZpYmVybGVzcyBmbGVzaC4gQmFuZ2FuYXBhbGxpIG1hbmdvZXMgYXJlIHN3ZWV0IGFuZCBqdWljeSwgaWRlYWwgZm9yIG1ha2luZyBqdWljZXMgYW5kIHB1cmVlcy4KLSAqKkRhc2hlcmkgTWFuZ29lcyoqOiBOb3RlZCBmb3IgdGhlaXIgZnJhZ3JhbnQgYXJvbWEgYW5kIHN3ZWV0LCBzdWNjdWxlbnQgZmxlc2guIERhc2hlcmkgbWFuZ29lcyBhcmUgcG9wdWxhciBmb3IgZnJlc2ggZWF0aW5nIGFuZCBtYWtpbmcgZGVsaWNpb3VzIG1hbmdvLWJhc2VkIGRpc2hlcy4KLSAqKkxhbmdyYSBNYW5nb2VzKio6IFJlbm93bmVkIGZvciB0aGVpciB1bmlxdWUgZmxhdm9yIGFuZCBzbW9vdGggdGV4dHVyZS4gTGFuZ3JhIG1hbmdvZXMgYXJlIHN3ZWV0IHdpdGggYSBzbGlnaHQgdGFuZywgcGVyZmVjdCBmb3IgZW5qb3lpbmcgZnJlc2ggb3IgaW4gY3VsaW5hcnkgY3JlYXRpb25zLgoKIyMjIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCBxdWFsaXR5IGlzIG91ciB1dG1vc3QgcHJpb3JpdHkuIFdlIHBhcnRuZXIgd2l0aCBleHBlcmllbmNlZCBtYW5nbyBncm93ZXJzIHdobyBhZGhlcmUgdG8gc3RyaW5nZW50IGFncmljdWx0dXJhbCBwcmFjdGljZXMgdG8gZW5zdXJlIHRoZSBiZXN0IGdyb3dpbmcgY29uZGl0aW9ucyBhbmQgZnJ1aXQgcXVhbGl0eS4gT3VyIG1hbmdvZXMgYXJlIGhhcnZlc3RlZCBhdCB0aGUgcGVhayBvZiByaXBlbmVzcyB0byBtYXhpbWl6ZSBmbGF2b3IgYW5kIG51dHJpdGlvbmFsIGNvbnRlbnQuIFJpZ29yb3VzIHF1YWxpdHkgY2hlY2tzIGFuZCBoeWdpZW5lIHN0YW5kYXJkcyBhcmUgbWFpbnRhaW5lZCB0aHJvdWdob3V0IHRoZSBwYWNrYWdpbmcgYW5kIGV4cG9ydCBwcm9jZXNzIHRvIGRlbGl2ZXIgcHJlbWl1bS1ncmFkZSBtYW5nb2VzIHRvIG91ciBjdXN0b21lcnMuCgojIyMgQ3VsaW5hcnkgVXNlcwoKTWFuZ29lcyBhcmUgaW5jcmVkaWJseSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSBlbmpveWVkIGluIG51bWVyb3VzIHdheXM6Ci0gKipGcmVzaCBDb25zdW1wdGlvbioqOiBFbmpveSBtYW5nb2VzIGFzIGEgcmVmcmVzaGluZyBzbmFjayBvciBhZGQgc2xpY2VzIHRvIHNhbGFkcywgeW9ndXJ0LCBhbmQgYnJlYWtmYXN0IGJvd2xzLgotICoqQmV2ZXJhZ2VzKio6IEJsZW5kIG1hbmdvZXMgaW50byBzbW9vdGhpZXMsIGp1aWNlcywgbGFzc2lzLCBhbmQgY29ja3RhaWxzIGZvciBhIHRyb3BpY2FsIHR3aXN0LgotICoqRGVzc2VydHMqKjogVXNlIG1hbmdvZXMgaW4gaWNlIGNyZWFtcywgc29yYmV0cywgcHVkZGluZ3MsIGFuZCBjYWtlcyB0byBhZGQgbmF0dXJhbCBzd2VldG5lc3MgYW5kIGZsYXZvci4KLSAqKkN1bGluYXJ5IERpc2hlcyoqOiBJbmNvcnBvcmF0ZSBtYW5nb2VzIGludG8gc2Fsc2FzLCBjaHV0bmV5cywgY3VycmllcywgYW5kIHNhbGFkcyBmb3IgYSBidXJzdCBvZiBmbGF2b3IuCi0gKipQcmVzZXJ2ZXMqKjogTWFrZSBtYW5nbyBqYW1zLCBqZWxsaWVzLCBhbmQgcGlja2xlcyB0byBlbmpveSB0aGUgZnJ1aXQgeWVhci1yb3VuZC4KCiMjIyBOdXRyaXRpb25hbCBCZW5lZml0cwoKTWFuZ29lcyBhcmUgbm90IG9ubHkgZGVsaWNpb3VzIGJ1dCBhbHNvIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHM6Ci0gKipWaXRhbWlucyoqOiBSaWNoIGluIHZpdGFtaW4gQywgdml0YW1pbiBBLCBhbmQgdml0YW1pbiBFLCB3aGljaCBzdXBwb3J0IGltbXVuZSBmdW5jdGlvbiBhbmQgc2tpbiBoZWFsdGguCi0gKipNaW5lcmFscyoqOiBIaWdoIGluIHBvdGFzc2l1bSwgbWFnbmVzaXVtLCBhbmQgZm9sYXRlLCBpbXBvcnRhbnQgZm9yIGhlYXJ0IGhlYWx0aCBhbmQgY2VsbHVsYXIgZnVuY3Rpb24uCi0gKipEaWV0YXJ5IEZpYmVyKio6IENvbnRhaW5zIGZpYmVyIHRoYXQgYWlkcyBkaWdlc3Rpb24gYW5kIHByb21vdGVzIGd1dCBoZWFsdGguCi0gKipBbnRpb3hpZGFudHMqKjogUGFja2VkIHdpdGggYW50aW94aWRhbnRzIHRoYXQgaGVscCBwcm90ZWN0IGNlbGxzIGZyb20gZGFtYWdlIGFuZCBzdXBwb3J0IG92ZXJhbGwgd2VsbC1iZWluZy4KCiMjIyBTdXN0YWluYWJpbGl0eSBDb21taXRtZW50CgpWYXJuaSBFeHBvcnRzIGlzIGNvbW1pdHRlZCB0byBzdXN0YWluYWJsZSBhZ3JpY3VsdHVyZSBwcmFjdGljZXMgYW5kIGVudmlyb25tZW50YWwgc3Rld2FyZHNoaXA6Ci0gKipXYXRlciBDb25zZXJ2YXRpb24qKjogSW1wbGVtZW50aW5nIGVmZmljaWVudCBpcnJpZ2F0aW9uIHRlY2huaXF1ZXMgdG8gbWluaW1pemUgd2F0ZXIgdXNhZ2UgaW4gbWFuZ28gY3VsdGl2YXRpb24uCi0gKipFbnZpcm9ubWVudGFsIFJlc3BvbnNpYmlsaXR5Kio6IFByb21vdGluZyBiaW9kaXZlcnNpdHkgYW5kIHNvaWwgaGVhbHRoIGluIG91ciBvcmNoYXJkcywgY29udHJpYnV0aW5nIHRvIGEgc3VzdGFpbmFibGUgZWNvc3lzdGVtLgotICoqQ29tbXVuaXR5IFN1cHBvcnQqKjogU3VwcG9ydGluZyBsb2NhbCBjb21tdW5pdGllcyBieSBwcm92aWRpbmcgZmFpciB3YWdlcyBhbmQgZm9zdGVyaW5nIHNvY2lvLWVjb25vbWljIGRldmVsb3BtZW50IGluIG1hbmdvLWdyb3dpbmcgcmVnaW9ucy4KCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIG1hbmdvZXMsIFZhcm5pIEV4cG9ydHMgZW5zdXJlcyBwcm9tcHQgZGVsaXZlcnkgYW5kIHN1cGVyaW9yIHF1YWxpdHk6Ci0gKipHbG9iYWwgUmVhY2gqKjogV2Ugc2VydmUgbWFya2V0cyB3b3JsZHdpZGUgd2l0aCBhIGZvY3VzIG9uIHJlbGlhYmlsaXR5LCBmcmVzaG5lc3MsIGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb24uCi0gKipDdXN0b21pemVkIFNvbHV0aW9ucyoqOiBPdXIgZXhwZXJpZW5jZWQgdGVhbSBwcm92aWRlcyB0YWlsb3JlZCBzb2x1dGlvbnMgdG8gbWVldCB0aGUgc3BlY2lmaWMgcmVxdWlyZW1lbnRzIG9mIG91ciBpbnRlcm5hdGlvbmFsIGNsaWVudGVsZS4KLSAqKkxvZ2lzdGljcyBFeHBlcnRpc2UqKjogV2UgbGV2ZXJhZ2UgYSByb2J1c3QgbG9naXN0aWNzIG5ldHdvcmsgdG8gZGVsaXZlciBmcmVzaCBtYW5nb2VzIGVmZmljaWVudGx5IGFuZCBzYWZlbHkgdG8gZGVzdGluYXRpb25zIGFjcm9zcyB0aGUgZ2xvYmUuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBtYW5nb2VzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZGVkaWNhdGVkIHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0IHlvdSB3aXRoIHlvdXIgbmVlZHMgYW5kIHByb3ZpZGUgcGVyc29uYWxpemVkIHNvbHV0aW9ucyBmb3IgeW91ciBidXNpbmVzcy4gRXhwZXJpZW5jZSB0aGUgZXhjZXB0aW9uYWwgcXVhbGl0eSBhbmQgZmxhdm9yIG9mIFZhcm5pIEV4cG9ydHPigJkgbWFuZ29lcyB0b2RheSEK",
+          <div>
+            <p><strong>Varni Exports: Your Premier Source for Exquisite Mangoes</strong></p>
+            <br />
+
+            <p>Welcome to Varni Exports, your trusted partner for sourcing the finest mangoes from the lush orchards of India. Renowned for their unparalleled sweetness, vibrant color, and rich flavor, our mangoes are cultivated and processed with meticulous care to meet international standards of excellence.</p>
+            <br />
+
+            <p><strong>About Mangoes</strong></p>
+            <br />
+
+            <p>Mangoes (Mangifera indica) are often referred to as the "king of fruits" and have been cherished for thousands of years. These tropical fruits are prized for their juicy flesh, sweet taste, and delightful aroma. Mangoes are not only delicious but also packed with essential nutrients, making them a popular choice around the world.</p>
+            <br />
+
+            <p><strong>Varieties</strong></p>
+            <br />
+
+            <p>Varni Exports offers a range of mango varieties to cater to diverse tastes and preferences:</p>
+            <br />
+            <li><strong>Alphonso (Hapus) Mangoes:</strong> Known for their rich, creamy texture and sweet, honey-like flavor. Alphonso mangoes are highly sought after and considered one of the best varieties globally.</li>
+            <li><strong>Kesar Mangoes:</strong> Famous for their bright orange pulp and distinct aroma. Kesar mangoes are sweet with a hint of tanginess, making them perfect for desserts and fresh consumption.</li>
+            <li><strong>Banganapalli (Benishan) Mangoes:</strong> Characterized by their smooth skin and fiberless flesh. Banganapalli mangoes are sweet and juicy, ideal for making juices and purees.</li>
+            <li><strong>Dasheri Mangoes:</strong> Noted for their fragrant aroma and sweet, succulent flesh. Dasheri mangoes are popular for fresh eating and making delicious mango-based dishes.</li>
+            <li><strong>Langra Mangoes:</strong> Renowned for their unique flavor and smooth texture. Langra mangoes are sweet with a slight tang, perfect for enjoying fresh or in culinary creations.</li>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, quality is our utmost priority. We partner with experienced mango growers who adhere to stringent agricultural practices to ensure the best growing conditions and fruit quality. Our mangoes are harvested at the peak of ripeness to maximize flavor and nutritional content. Rigorous quality checks and hygiene standards are maintained throughout the packaging and export process to deliver premium-grade mangoes to our customers.</p>
+            <br />
+
+            <p><strong>Culinary Uses</strong></p>
+            <br />
+
+            <p>Mangoes are incredibly versatile and can be enjoyed in numerous ways:</p>
+            <br />
+            <li><strong>Fresh Consumption:</strong> Enjoy mangoes as a refreshing snack or add slices to salads, yogurt, and breakfast bowls.</li>
+            <li><strong>Beverages:</strong> Blend mangoes into smoothies, juices, lassis, and cocktails for a tropical twist.</li>
+            <li><strong>Desserts:</strong> Use mangoes in ice creams, sorbets, puddings, and cakes to add natural sweetness and flavor.</li>
+            <li><strong>Culinary Dishes:</strong> Incorporate mangoes into salsas, chutneys, curries, and salads for a burst of flavor.</li>
+            <li><strong>Preserves:</strong> Make mango jams, jellies, and pickles to enjoy the fruit year-round.</li>
+            <br />
+
+            <p><strong>Nutritional Benefits</strong></p>
+            <br />
+
+            <p>Mangoes are not only delicious but also packed with essential nutrients:</p>
+            <br />
+            <li><strong>Vitamins:</strong> Rich in vitamin C, vitamin A, and vitamin E, which support immune function and skin health.</li>
+            <li><strong>Minerals:</strong> High in potassium, magnesium, and folate, important for heart health and cellular function.</li>
+            <li><strong>Dietary Fiber:</strong> Contains fiber that aids digestion and promotes gut health.</li>
+            <li><strong>Antioxidants:</strong> Packed with antioxidants that help protect cells from damage and support overall well-being.</li>
+            <br />
+
+            <p><strong>Sustainability Commitment</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable agriculture practices and environmental stewardship:</p>
+            <br />
+            <li><strong>Water Conservation:</strong> Implementing efficient irrigation techniques to minimize water usage in mango cultivation.</li>
+            <li><strong>Environmental Responsibility:</strong> Promoting biodiversity and soil health in our orchards, contributing to a sustainable ecosystem.</li>
+            <li><strong>Community Support:</strong> Supporting local communities by providing fair wages and fostering socio-economic development in mango-growing regions.</li>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of mangoes, Varni Exports ensures prompt delivery and superior quality:</p>
+            <br />
+            <li><strong>Global Reach:</strong> We serve markets worldwide with a focus on reliability, freshness, and customer satisfaction.</li>
+            <li><strong>Customized Solutions:</strong> Our experienced team provides tailored solutions to meet the specific requirements of our international clientele.</li>
+            <li><strong>Logistics Expertise:</strong> We leverage a robust logistics network to deliver fresh mangoes efficiently and safely to destinations across the globe.</li>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium mangoes or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your needs and provide personalized solutions for your business. Experience the exceptional quality and flavor of Varni Exports’ mangoes today!</p>
+          </div>
+        ,
       },
 
       {
@@ -302,7 +686,76 @@ export const catagories = [
         Loading: "Refrigerated Container",
         "Shelf Life": "10-15 Days",
         description:
-          "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgVHJ1c3RlZCBQYXJ0bmVyIGZvciBQcmVtaXVtIEJhbmFuYXMKCldlbGNvbWUgdG8gVmFybmkgRXhwb3J0cywgd2hlcmUgd2UgYnJpbmcgeW91IHRoZSBmaW5lc3QgcXVhbGl0eSBiYW5hbmFzIHNvdXJjZWQgZnJvbSB0aGUgbHVzaCBwbGFudGF0aW9ucyBvZiBJbmRpYS4gS25vd24gZm9yIHRoZWlyIHN3ZWV0IGZsYXZvciwgbnV0cml0aW9uYWwgcmljaG5lc3MsIGFuZCB2ZXJzYXRpbGl0eSwgb3VyIGJhbmFuYXMgYXJlIGNhcmVmdWxseSBjdWx0aXZhdGVkIGFuZCBwcm9jZXNzZWQgdG8gbWVldCBnbG9iYWwgc3RhbmRhcmRzIG9mIGV4Y2VsbGVuY2UuCgojIyMgQWJvdXQgQmFuYW5hcwoKQmFuYW5hcyBhcmUgb25lIG9mIHRoZSBtb3N0IHBvcHVsYXIgYW5kIHdpZGVseSBjb25zdW1lZCBmcnVpdHMgd29ybGR3aWRlLiBUaGV5IGFyZSBib3RhbmljYWxseSBjbGFzc2lmaWVkIGFzIGJlcnJpZXMgYW5kIGFyZSBoYXJ2ZXN0ZWQgZnJvbSBsYXJnZSBoZXJiYWNlb3VzIGZsb3dlcmluZyBwbGFudHMgaW4gdGhlIGdlbnVzIE11c2EuIEJhbmFuYXMgYXJlIGNoYXJhY3Rlcml6ZWQgYnkgdGhlaXIgZWxvbmdhdGVkIHNoYXBlLCBjcmVhbXkgZmxlc2gsIGFuZCB2aWJyYW50IHllbGxvdyBwZWVsIHdoZW4gcmlwZS4gVGhleSBhcmUgZW5qb3llZCBib3RoIHJhdyBhbmQgY29va2VkIGluIGEgdmFyaWV0eSBvZiBjdWxpbmFyeSBwcmVwYXJhdGlvbnMuCgojIyMgVmFyaWV0aWVzCgpWYXJuaSBFeHBvcnRzIG9mZmVycyBhIHJhbmdlIG9mIGJhbmFuYSB2YXJpZXRpZXMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBjb25zdW1lciBwcmVmZXJlbmNlcyBhbmQgY3VsaW5hcnkgdXNlczoKLSAqKkNhdmVuZGlzaCBCYW5hbmFzKio6IFRoZSBtb3N0IGNvbW1vbmx5IGV4cG9ydGVkIHZhcmlldHksIGtub3duIGZvciBpdHMgY3JlYW15IHRleHR1cmUgYW5kIG1pbGRseSBzd2VldCBmbGF2b3IuCi0gKipSb2J1c3RhIEJhbmFuYXMqKjogTGFyZ2VyIGFuZCBmaXJtZXIgdGhhbiBDYXZlbmRpc2gsIG9mdGVuIHVzZWQgaW4gY29va2luZyBhbmQgcHJvY2Vzc2luZy4KLSAqKlJlZCBCYW5hbmFzKio6IFN3ZWV0ZXIgYW5kIGNyZWFtaWVyIHRoYW4geWVsbG93IGJhbmFuYXMsIHdpdGggYSByZWRkaXNoLXB1cnBsZSBza2luIGFuZCBmbGVzaC4KLSAqKlBsYW50YWlucyoqOiBMYXJnZXIgYW5kIHN0YXJjaGllciBiYW5hbmFzIHVzZWQgcHJpbWFyaWx5IGluIGNvb2tpbmcsIG9mdGVuIGZyaWVkIG9yIGJvaWxlZC4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgcXVhbGl0eSBpcyBwYXJhbW91bnQuIFdlIHBhcnRuZXIgd2l0aCBleHBlcmllbmNlZCBiYW5hbmEgZ3Jvd2VycyB3aG8gYWRoZXJlIHRvIHN0cmluZ2VudCBhZ3JpY3VsdHVyYWwgcHJhY3RpY2VzIHRvIGVuc3VyZSBvcHRpbWFsIGdyb3dpbmcgY29uZGl0aW9ucyBhbmQgZnJ1aXQgcXVhbGl0eS4gT3VyIGJhbmFuYXMgYXJlIGhhcnZlc3RlZCBhdCBwZWFrIHJpcGVuZXNzIHRvIG1heGltaXplIGZsYXZvciBhbmQgbnV0cml0aW9uYWwgY29udGVudC4gUmlnb3JvdXMgcXVhbGl0eSBjaGVja3MgYW5kIGh5Z2llbmUgc3RhbmRhcmRzIGFyZSBtYWludGFpbmVkIHRocm91Z2hvdXQgdGhlIHBhY2thZ2luZyBhbmQgZXhwb3J0IHByb2Nlc3MgdG8gZGVsaXZlciBwcmVtaXVtLWdyYWRlIGJhbmFuYXMgdG8gb3VyIGN1c3RvbWVycy4KCiMjIyBDdWxpbmFyeSBVc2VzCgpCYW5hbmFzIGFyZSBpbmNyZWRpYmx5IHZlcnNhdGlsZSBhbmQgY2FuIGJlIGVuam95ZWQgaW4gbnVtZXJvdXMgd2F5czoKLSAqKkZyZXNoIENvbnN1bXB0aW9uKio6IEVhdCBiYW5hbmFzIGFzIGEgaGVhbHRoeSBzbmFjayBvciBhZGQgc2xpY2VzIHRvIGNlcmVhbHMsIHlvZ3VydCwgb3Igc21vb3RoaWVzLgotICoqQmFraW5nKio6IFVzZSByaXBlIGJhbmFuYXMgaW4gYmFraW5nIHJlY2lwZXMgZm9yIG1vaXN0IGFuZCBmbGF2b3JmdWwgYnJlYWQsIG11ZmZpbnMsIHBhbmNha2VzLCBhbmQgY2FrZXMuCi0gKipDb29raW5nKio6IEluY29ycG9yYXRlIGJhbmFuYXMgaW50byBzYXZvcnkgZGlzaGVzIHN1Y2ggYXMgY3Vycmllcywgc3Rld3MsIGFuZCBzYWxhZHMgZm9yIGEgdG91Y2ggb2Ygc3dlZXRuZXNzLgotICoqRGVzc2VydHMqKjogQmFuYW5hcyBhcmUgYSBrZXkgaW5ncmVkaWVudCBpbiBkZXNzZXJ0cyBsaWtlIGJhbmFuYSBwdWRkaW5nLCBiYW5hbmEgc3BsaXRzLCBhbmQgYmFuYW5hIGljZSBjcmVhbS4KLSAqKkZyZWV6aW5nKio6IEZyb3plbiBiYW5hbmFzIGNhbiBiZSBibGVuZGVkIGludG8gY3JlYW15IGljZSBjcmVhbXMgb3IgdXNlZCBhcyBhIGhlYWx0aHkgYWx0ZXJuYXRpdmUgdG8gdHJhZGl0aW9uYWwgZGVzc2VydHMuCgojIyMgTnV0cml0aW9uYWwgQmVuZWZpdHMKCkJhbmFuYXMgYXJlIG5vdCBvbmx5IGRlbGljaW91cyBidXQgYWxzbyBwYWNrZWQgd2l0aCBlc3NlbnRpYWwgbnV0cmllbnRzOgotICoqVml0YW1pbnMqKjogUmljaCBpbiB2aXRhbWluIEMsIHZpdGFtaW4gQjYsIGFuZCB2aXRhbWluIEEsIHdoaWNoIHN1cHBvcnQgaW1tdW5lIGZ1bmN0aW9uIGFuZCBvdmVyYWxsIGhlYWx0aC4KLSAqKk1pbmVyYWxzKio6IEhpZ2ggaW4gcG90YXNzaXVtLCBtYW5nYW5lc2UsIGFuZCBtYWduZXNpdW0sIGltcG9ydGFudCBmb3IgaGVhcnQgaGVhbHRoIGFuZCBtdXNjbGUgZnVuY3Rpb24uCi0gKipEaWV0YXJ5IEZpYmVyKio6IENvbnRhaW5zIHNvbHVibGUgYW5kIGluc29sdWJsZSBmaWJlciB0aGF0IGFpZHMgZGlnZXN0aW9uIGFuZCBwcm9tb3RlcyBhIGZlZWxpbmcgb2YgZnVsbG5lc3MuCgojIyMgU3VzdGFpbmFiaWxpdHkgQ29tbWl0bWVudAoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgYWdyaWN1bHR1cmUgcHJhY3RpY2VzIGFuZCBlbnZpcm9ubWVudGFsIHN0ZXdhcmRzaGlwLiBXZSB3b3JrIGNsb3NlbHkgd2l0aCBvdXIgZ3Jvd2VycyB0byBtaW5pbWl6ZSB3YXRlciB1c2FnZSwgcmVkdWNlIGNhcmJvbiBmb290cHJpbnQsIGFuZCBwcm9tb3RlIGJpb2RpdmVyc2l0eSBpbiBiYW5hbmEgcGxhbnRhdGlvbnMuIEJ5IHByaW9yaXRpemluZyBzdXN0YWluYWJpbGl0eSwgd2UgY29udHJpYnV0ZSB0byB0aGUgbG9uZy10ZXJtIGhlYWx0aCBvZiBvdXIgcGxhbmV0IGFuZCBjb21tdW5pdGllcy4KCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIGJhbmFuYXMsIFZhcm5pIEV4cG9ydHMgc2VydmVzIGdsb2JhbCBtYXJrZXRzIHdpdGggYSBmb2N1cyBvbiByZWxpYWJpbGl0eSwgcXVhbGl0eSwgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbi4gT3VyIGVmZmljaWVudCBsb2dpc3RpY3MgbmV0d29yayBlbnN1cmVzIHRpbWVseSBkZWxpdmVyeSBvZiBmcmVzaCBiYW5hbmFzIHRvIGRlc3RpbmF0aW9ucyB3b3JsZHdpZGUsIG1lZXRpbmcgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGludGVybmF0aW9uYWwgY2xpZW50ZWxlLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gYmFuYW5hcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSBwZXJzb25hbGl6ZWQgc29sdXRpb25zIGZvciB5b3VyIGJ1c2luZXNzIG5lZWRzLiBFeHBlcmllbmNlIHRoZSBzdXBlcmlvciBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBiYW5hbmFzIHRvZGF5IQo=",
+          <div>
+            <p><strong>Varni Exports: Your Trusted Partner for Premium Bananas</strong></p>
+            <br />
+
+            <p>Welcome to Varni Exports, where we bring you the finest quality bananas sourced from the lush plantations of India. Known for their sweet flavor, nutritional richness, and versatility, our bananas are carefully cultivated and processed to meet global standards of excellence.</p>
+            <br />
+
+            <p><strong>About Bananas</strong></p>
+            <br />
+
+            <p>Bananas are one of the most popular and widely consumed fruits worldwide. They are botanically classified as berries and are harvested from large herbaceous flowering plants in the genus Musa. Bananas are characterized by their elongated shape, creamy flesh, and vibrant yellow peel when ripe. They are enjoyed both raw and cooked in a variety of culinary preparations.</p>
+            <br />
+
+            <p><strong>Varieties</strong></p>
+            <br />
+
+            <p>Varni Exports offers a range of banana varieties to cater to diverse consumer preferences and culinary uses:</p>
+            <br />
+            <li><strong>Cavendish Bananas:</strong> The most commonly exported variety, known for its creamy texture and mildly sweet flavor.</li>
+            <li><strong>Robusta Bananas:</strong> Larger and firmer than Cavendish, often used in cooking and processing.</li>
+            <li><strong>Red Bananas:</strong> Sweeter and creamier than yellow bananas, with a reddish-purple skin and flesh.</li>
+            <li><strong>Plantains:</strong> Larger and starchier bananas used primarily in cooking, often fried or boiled.</li>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, quality is paramount. We partner with experienced banana growers who adhere to stringent agricultural practices to ensure optimal growing conditions and fruit quality. Our bananas are harvested at peak ripeness to maximize flavor and nutritional content. Rigorous quality checks and hygiene standards are maintained throughout the packaging and export process to deliver premium-grade bananas to our customers.</p>
+            <br />
+
+            <p><strong>Culinary Uses</strong></p>
+            <br />
+
+            <p>Bananas are incredibly versatile and can be enjoyed in numerous ways:</p>
+            <br />
+            <li><strong>Fresh Consumption:</strong> Eat bananas as a healthy snack or add slices to cereals, yogurt, or smoothies.</li>
+            <li><strong>Baking:</strong> Use ripe bananas in baking recipes for moist and flavorful bread, muffins, pancakes, and cakes.</li>
+            <li><strong>Cooking:</strong> Incorporate bananas into savory dishes such as curries, stews, and salads for a touch of sweetness.</li>
+            <li><strong>Desserts:</strong> Bananas are a key ingredient in desserts like banana pudding, banana splits, and banana ice cream.</li>
+            <li><strong>Freezing:</strong> Frozen bananas can be blended into creamy ice creams or used as a healthy alternative to traditional desserts.</li>
+            <br />
+
+            <p><strong>Nutritional Benefits</strong></p>
+            <br />
+
+            <p>Bananas are not only delicious but also packed with essential nutrients:</p>
+            <br />
+            <li><strong>Vitamins:</strong> Rich in vitamin C, vitamin B6, and vitamin A, which support immune function and overall health.</li>
+            <li><strong>Minerals:</strong> High in potassium, manganese, and magnesium, important for heart health and muscle function.</li>
+            <li><strong>Dietary Fiber:</strong> Contains soluble and insoluble fiber that aids digestion and promotes a feeling of fullness.</li>
+            <br />
+
+            <p><strong>Sustainability Commitment</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable agriculture practices and environmental stewardship. We work closely with our growers to minimize water usage, reduce carbon footprint, and promote biodiversity in banana plantations. By prioritizing sustainability, we contribute to the long-term health of our planet and communities.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of bananas, Varni Exports serves global markets with a focus on reliability, quality, and customer satisfaction. Our efficient logistics network ensures timely delivery of fresh bananas to destinations worldwide, meeting the diverse needs of our international clientele.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium bananas or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide personalized solutions for your business needs. Experience the superior quality and flavor of Varni Exports’ bananas today!</p>
+          </div>
+        ,
       },
 
       {
@@ -322,7 +775,87 @@ export const catagories = [
         Loading: "Refrigerated Container",
         "Shelf Life": "7-14 Days",
         description:
-          "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgUmVsaWFibGUgUGFydG5lciBmb3IgUHJlbWl1bSBQb21lZ3JhbmF0ZXMKCldlbGNvbWUgdG8gVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHNvdXJjZSBmb3IgaGlnaC1xdWFsaXR5IHBvbWVncmFuYXRlcyBzb3VyY2VkIGZyb20gdGhlIGZlcnRpbGUgb3JjaGFyZHMgb2YgSW5kaWEuIFJlbm93bmVkIGZvciB0aGVpciB2aWJyYW50IHJ1YnktcmVkIGFyaWxzIGFuZCByZWZyZXNoaW5nIHRhc3RlLCBvdXIgcG9tZWdyYW5hdGVzIGFyZSBjdWx0aXZhdGVkIGFuZCBwcm9jZXNzZWQgd2l0aCB1dG1vc3QgY2FyZSB0byBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzIG9mIGV4Y2VsbGVuY2UuCgojIyMgQWJvdXQgUG9tZWdyYW5hdGVzCgpQb21lZ3JhbmF0ZXMgKFB1bmljYSBncmFuYXR1bSkgYXJlIGFuY2llbnQgZnJ1aXRzIHdpdGggYSByaWNoIGhpc3RvcnkgZGF0aW5nIGJhY2sgdGhvdXNhbmRzIG9mIHllYXJzLiBUaGV5IGFyZSBwcml6ZWQgZm9yIHRoZWlyIHVuaXF1ZSBhcHBlYXJhbmNlLCBkZWxpY2lvdXMgZmxhdm9yLCBhbmQgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzLiBQb21lZ3JhbmF0ZXMgYXJlIGNoYXJhY3Rlcml6ZWQgYnkgdGhlaXIgdGhpY2ssIGxlYXRoZXJ5IHNraW4gdGhhdCBwcm90ZWN0cyBjbHVzdGVycyBvZiBqZXdlbC1saWtlIGFyaWxzIGNvbnRhaW5pbmcgc3dlZXQtdGFydCBqdWljZSBhbmQgc2VlZHMuIEVhY2ggYXJpbCBpcyBwYWNrZWQgd2l0aCBudXRyaWVudHMsIG1ha2luZyBwb21lZ3JhbmF0ZXMgYSBwb3B1bGFyIGNob2ljZSBmb3IgYm90aCBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIHB1cnBvc2VzLgoKIyMjIFZhcmlldGllcwoKVmFybmkgRXhwb3J0cyBvZmZlcnMgYSB2YXJpZXR5IG9mIHBvbWVncmFuYXRlIGN1bHRpdmFycyB0byBjYXRlciB0byBkaXZlcnNlIGNvbnN1bWVyIHByZWZlcmVuY2VzOgotICoqQmhhZ3dhIFBvbWVncmFuYXRlcyoqOiBLbm93biBmb3IgdGhlaXIgZGVlcCByZWQgY29sb3IsIGxhcmdlIHNpemUsIGFuZCBzd2VldC10YXJ0IGZsYXZvciBwcm9maWxlLiBCaGFnd2EgcG9tZWdyYW5hdGVzIGFyZSB3aWRlbHkgZmF2b3JlZCBmb3IgdGhlaXIganVpY2luZXNzIGFuZCBhbnRpb3hpZGFudC1yaWNoIGFyaWxzLgotICoqV29uZGVyZnVsIFBvbWVncmFuYXRlcyoqOiBPcmlnaW5hdGluZyBmcm9tIENhbGlmb3JuaWEsIHRoZXNlIHBvbWVncmFuYXRlcyBhcmUgcmVjb2duaXplZCBmb3IgdGhlaXIgYnJpZ2h0IHJlZCBhcmlscyBhbmQgcm9idXN0IGZsYXZvci4gVGhleSBhcmUgb2Z0ZW4gdXNlZCBpbiBqdWljZXMsIHNhbGFkcywgYW5kIGRlc3NlcnRzLgotICoqTW9sbGFyIGRlIEVsY2hlIFBvbWVncmFuYXRlcyoqOiBIYWlsaW5nIGZyb20gU3BhaW4sIHRoZXNlIHBvbWVncmFuYXRlcyBhcmUgcHJpemVkIGZvciB0aGVpciBzd2VldCBhbmQgZmxhdm9yZnVsIGFyaWxzLCBpZGVhbCBmb3IgZnJlc2ggY29uc3VtcHRpb24uCgojIyMgUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhdCBldmVyeSBzdGVwIG9mIHRoZSBzdXBwbHkgY2hhaW46Ci0gKipDYXJlZnVsIEN1bHRpdmF0aW9uKio6IE91ciBwb21lZ3JhbmF0ZXMgYXJlIGdyb3duIGluIHNlbGVjdCBvcmNoYXJkcyBrbm93biBmb3Igb3B0aW1hbCBncm93aW5nIGNvbmRpdGlvbnMgYW5kIHN1c3RhaW5hYmxlIGZhcm1pbmcgcHJhY3RpY2VzLgotICoqSGFydmVzdGluZyoqOiBQb21lZ3JhbmF0ZXMgYXJlIGhhcnZlc3RlZCBhdCBwZWFrIHJpcGVuZXNzIHRvIGVuc3VyZSBtYXhpbXVtIGZsYXZvciBhbmQgbnV0cml0aW9uYWwgdmFsdWUuCi0gKipQcm9jZXNzaW5nKio6IFN0cmluZ2VudCBxdWFsaXR5IGNvbnRyb2xzIGFyZSBtYWludGFpbmVkIGR1cmluZyBzb3J0aW5nLCBjbGVhbmluZywgYW5kIHBhY2thZ2luZyB0byBkZWxpdmVyIHByZW1pdW0tZ3JhZGUgcG9tZWdyYW5hdGVzIHRoYXQgbWVldCBnbG9iYWwgaHlnaWVuZSBhbmQgc2FmZXR5IHN0YW5kYXJkcy4KCiMjIyBDdWxpbmFyeSBVc2VzCgpQb21lZ3JhbmF0ZXMgYXJlIHZlcnNhdGlsZSBmcnVpdHMgdGhhdCBjYW4gYmUgZW5qb3llZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGNyZWF0aW9uczoKLSAqKkZyZXNoIENvbnN1bXB0aW9uKio6IEVuam95IHBvbWVncmFuYXRlIGFyaWxzIGFzIGEgbnV0cml0aW91cyBzbmFjayBvciBhZGQgdGhlbSB0byBzYWxhZHMsIHlvZ3VydCwgYW5kIGJyZWFrZmFzdCBib3dscy4KLSAqKkp1aWNlcyBhbmQgQmV2ZXJhZ2VzKio6IFBvbWVncmFuYXRlIGp1aWNlIGlzIHJlZnJlc2hpbmcgYW5kIHBhY2tlZCB3aXRoIGFudGlveGlkYW50cy4gSXQgaXMgYWxzbyB1c2VkIGluIGNvY2t0YWlscywgc21vb3RoaWVzLCBhbmQgbW9ja3RhaWxzLgotICoqRGVzc2VydHMqKjogU3ByaW5rbGUgcG9tZWdyYW5hdGUgYXJpbHMgb3ZlciBjYWtlcywgcHVkZGluZ3MsIGFuZCBpY2UgY3JlYW1zIGZvciBhIGJ1cnN0IG9mIGNvbG9yIGFuZCBmbGF2b3IuCi0gKipTYXVjZXMgYW5kIERyZXNzaW5ncyoqOiBQb21lZ3JhbmF0ZSBtb2xhc3NlcyBhbmQgc2F1Y2VzIGFyZSB1c2VkIGluIE1pZGRsZSBFYXN0ZXJuIGN1aXNpbmUgdG8gZW5oYW5jZSBzYXZvcnkgZGlzaGVzLgoKIyMjIEhlYWx0aCBCZW5lZml0cwoKUG9tZWdyYW5hdGVzIGFyZSBjZWxlYnJhdGVkIGZvciB0aGVpciBudXRyaXRpb25hbCByaWNobmVzcyBhbmQgaGVhbHRoLXByb21vdGluZyBwcm9wZXJ0aWVzOgotICoqQW50aW94aWRhbnQgUG93ZXJob3VzZSoqOiBQb21lZ3JhbmF0ZXMgYXJlIHJpY2ggaW4gYW50aW94aWRhbnRzIHN1Y2ggYXMgcHVuaWNhbGFnaW5zIGFuZCBhbnRob2N5YW5pbnMsIHdoaWNoIGhlbHAgbmV1dHJhbGl6ZSBmcmVlIHJhZGljYWxzIGFuZCBwcm90ZWN0IGNlbGxzIGZyb20gZGFtYWdlLgotICoqSGVhcnQgSGVhbHRoKio6IFJlZ3VsYXIgY29uc3VtcHRpb24gb2YgcG9tZWdyYW5hdGVzIG1heSBzdXBwb3J0IGhlYXJ0IGhlYWx0aCBieSByZWR1Y2luZyBjaG9sZXN0ZXJvbCBsZXZlbHMgYW5kIGltcHJvdmluZyBibG9vZCBjaXJjdWxhdGlvbi4KLSAqKkFudGktaW5mbGFtbWF0b3J5Kio6IFBvbWVncmFuYXRlcyBjb250YWluIGFudGktaW5mbGFtbWF0b3J5IGNvbXBvdW5kcyB0aGF0IG1heSBhbGxldmlhdGUgc3ltcHRvbXMgb2YgYXJ0aHJpdGlzIGFuZCBvdGhlciBpbmZsYW1tYXRvcnkgY29uZGl0aW9ucy4KLSAqKlZpdGFtaW5zIGFuZCBNaW5lcmFscyoqOiBQb21lZ3JhbmF0ZXMgYXJlIGEgZ29vZCBzb3VyY2Ugb2Ygdml0YW1pbiBDLCB2aXRhbWluIEssIHBvdGFzc2l1bSwgYW5kIGZvbGF0ZSwgZXNzZW50aWFsIGZvciBvdmVyYWxsIHdlbGwtYmVpbmcuCgojIyMgU3VzdGFpbmFiaWxpdHkgQ29tbWl0bWVudAoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgYWdyaWN1bHR1cmUgcHJhY3RpY2VzOgotICoqV2F0ZXIgQ29uc2VydmF0aW9uKio6IEVmZmljaWVudCBpcnJpZ2F0aW9uIHRlY2huaXF1ZXMgYXJlIGVtcGxveWVkIHRvIG1pbmltaXplIHdhdGVyIHVzYWdlIGluIHBvbWVncmFuYXRlIGN1bHRpdmF0aW9uLgotICoqRW52aXJvbm1lbnRhbCBSZXNwb25zaWJpbGl0eSoqOiBXZSBwcm9tb3RlIGJpb2RpdmVyc2l0eSBhbmQgc29pbCBoZWFsdGggaW4gb3VyIG9yY2hhcmRzLCBjb250cmlidXRpbmcgdG8gYSBzdXN0YWluYWJsZSBlY29zeXN0ZW0uCi0gKipDb21tdW5pdHkgRW5nYWdlbWVudCoqOiBXZSBzdXBwb3J0IGxvY2FsIGNvbW11bml0aWVzIGJ5IHByb3ZpZGluZyBmYWlyIHdhZ2VzIGFuZCBmb3N0ZXJpbmcgc29jaW8tZWNvbm9taWMgZGV2ZWxvcG1lbnQgaW4gcG9tZWdyYW5hdGUtZ3Jvd2luZyByZWdpb25zLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpBcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgcG9tZWdyYW5hdGVzLCBWYXJuaSBFeHBvcnRzIGVuc3VyZXMgcHJvbXB0IGRlbGl2ZXJ5IGFuZCBzdXBlcmlvciBxdWFsaXR5OgotICoqR2xvYmFsIFJlYWNoKio6IFdlIHNlcnZlIG1hcmtldHMgd29ybGR3aWRlIHdpdGggYSBmb2N1cyBvbiByZWxpYWJpbGl0eSwgZnJlc2huZXNzLCBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uLgotICoqQ3VzdG9taXplZCBTb2x1dGlvbnMqKjogT3VyIGV4cGVyaWVuY2VkIHRlYW0gcHJvdmlkZXMgdGFpbG9yZWQgc29sdXRpb25zIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgaW50ZXJuYXRpb25hbCBjbGllbnRlbGUuCi0gKipMb2dpc3RpY3MgRXhwZXJ0aXNlKio6IFdlIGxldmVyYWdlIGEgcm9idXN0IGxvZ2lzdGljcyBuZXR3b3JrIHRvIGRlbGl2ZXIgZnJlc2ggcG9tZWdyYW5hdGVzIGVmZmljaWVudGx5IGFuZCBzYWZlbHkgdG8gZGVzdGluYXRpb25zIGFjcm9zcyB0aGUgZ2xvYmUuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBwb21lZ3JhbmF0ZXMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBkZWRpY2F0ZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciBuZWVkcyBhbmQgcHJvdmlkZSBwZXJzb25hbGl6ZWQgc29sdXRpb25zIGZvciB5b3VyIGJ1c2luZXNzLiBFeHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBwb21lZ3JhbmF0ZXMgdG9kYXkhCg==",
+          <div>
+            <p><strong>Varni Exports: Your Reliable Partner for Premium Pomegranates</strong></p>
+            <br />
+
+            <p>Welcome to Varni Exports, your trusted source for high-quality pomegranates sourced from the fertile orchards of India. Renowned for their vibrant ruby-red arils and refreshing taste, our pomegranates are cultivated and processed with utmost care to meet international standards of excellence.</p>
+            <br />
+
+            <p><strong>About Pomegranates</strong></p>
+            <br />
+
+            <p>Pomegranates (Punica granatum) are ancient fruits with a rich history dating back thousands of years. They are prized for their unique appearance, delicious flavor, and numerous health benefits. Pomegranates are characterized by their thick, leathery skin that protects clusters of jewel-like arils containing sweet-tart juice and seeds. Each aril is packed with nutrients, making pomegranates a popular choice for both culinary and medicinal purposes.</p>
+            <br />
+
+            <p><strong>Varieties</strong></p>
+            <br />
+
+            <p>Varni Exports offers a variety of pomegranate cultivars to cater to diverse consumer preferences:</p>
+            <br />
+            <li><strong>Bhagwa Pomegranates:</strong> Known for their deep red color, large size, and sweet-tart flavor profile. Bhagwa pomegranates are widely favored for their juiciness and antioxidant-rich arils.</li>
+            <li><strong>Wonderful Pomegranates:</strong> Originating from California, these pomegranates are recognized for their bright red arils and robust flavor. They are often used in juices, salads, and desserts.</li>
+            <li><strong>Mollar de Elche Pomegranates:</strong> Hailing from Spain, these pomegranates are prized for their sweet and flavorful arils, ideal for fresh consumption.</li>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we prioritize quality at every step of the supply chain:</p>
+            <br />
+            <li><strong>Careful Cultivation:</strong> Our pomegranates are grown in select orchards known for optimal growing conditions and sustainable farming practices.</li>
+            <li><strong>Harvesting:</strong> Pomegranates are harvested at peak ripeness to ensure maximum flavor and nutritional value.</li>
+            <li><strong>Processing:</strong> Stringent quality controls are maintained during sorting, cleaning, and packaging to deliver premium-grade pomegranates that meet global hygiene and safety standards.</li>
+            <br />
+
+            <p><strong>Culinary Uses</strong></p>
+            <br />
+
+            <p>Pomegranates are versatile fruits that can be enjoyed in various culinary creations:</p>
+            <br />
+            <li><strong>Fresh Consumption:</strong> Enjoy pomegranate arils as a nutritious snack or add them to salads, yogurt, and breakfast bowls.</li>
+            <li><strong>Juices and Beverages:</strong> Pomegranate juice is refreshing and packed with antioxidants. It is also used in cocktails, smoothies, and mocktails.</li>
+            <li><strong>Desserts:</strong> Sprinkle pomegranate arils over cakes, puddings, and ice creams for a burst of color and flavor.</li>
+            <li><strong>Sauces and Dressings:</strong> Pomegranate molasses and sauces are used in Middle Eastern cuisine to enhance savory dishes.</li>
+            <br />
+
+            <p><strong>Health Benefits</strong></p>
+            <br />
+
+            <p>Pomegranates are celebrated for their nutritional richness and health-promoting properties:</p>
+            <br />
+            <li><strong>Antioxidant Powerhouse:</strong> Pomegranates are rich in antioxidants such as punicalagins and anthocyanins, which help neutralize free radicals and protect cells from damage.</li>
+            <li><strong>Heart Health:</strong> Regular consumption of pomegranates may support heart health by reducing cholesterol levels and improving blood circulation.</li>
+            <li><strong>Anti-inflammatory:</strong> Pomegranates contain anti-inflammatory compounds that may alleviate symptoms of arthritis and other inflammatory conditions.</li>
+            <li><strong>Vitamins and Minerals:</strong> Pomegranates are a good source of vitamin C, vitamin K, potassium, and folate, essential for overall well-being.</li>
+            <br />
+
+            <p><strong>Sustainability Commitment</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable agriculture practices:</p>
+            <br />
+            <li><strong>Water Conservation:</strong> Efficient irrigation techniques are employed to minimize water usage in pomegranate cultivation.</li>
+            <li><strong>Environmental Responsibility:</strong> We promote biodiversity and soil health in our orchards, contributing to a sustainable ecosystem.</li>
+            <li><strong>Community Engagement:</strong> We support local communities by providing fair wages and fostering socio-economic development in pomegranate-growing regions.</li>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of pomegranates, Varni Exports ensures prompt delivery and superior quality:</p>
+            <br />
+            <li><strong>Global Reach:</strong> We serve markets worldwide with a focus on reliability, freshness, and customer satisfaction.</li>
+            <li><strong>Customized Solutions:</strong> Our experienced team provides tailored solutions to meet the specific requirements of our international clientele.</li>
+            <li><strong>Logistics Expertise:</strong> We leverage a robust logistics network to deliver fresh pomegranates efficiently and safely to destinations across the globe.</li>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium pomegranates or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your needs and provide personalized solutions for your business. Experience the exceptional quality and flavor of Varni Exports’ pomegranates today!</p>
+          </div>
+        ,
       },
 
       {
@@ -341,7 +874,84 @@ export const catagories = [
         Loading: "Container Load",
         Feature: "High Nutritional Value, Rich in Fiber",
         description:
-          "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgUHJlbWllciBTb3VyY2UgZm9yIFByZW1pdW0gQ29jb251dHMKCldlbGNvbWUgdG8gVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgZm9yIHNvdXJjaW5nIHRoZSBmaW5lc3QgY29jb251dHMgZnJvbSB0aGUgdHJvcGljYWwgcmVnaW9ucyBvZiBJbmRpYS4gS25vd24gZm9yIHRoZWlyIHZlcnNhdGlsZSB1c2VzLCByaWNoIGZsYXZvciwgYW5kIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0cywgb3VyIGNvY29udXRzIGFyZSBjdWx0aXZhdGVkIGFuZCBwcm9jZXNzZWQgd2l0aCB0aGUgdXRtb3N0IGNhcmUgdG8gbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBvZiBleGNlbGxlbmNlLgoKIyMjIEFib3V0IENvY29udXRzCgpDb2NvbnV0cyAoQ29jb3MgbnVjaWZlcmEpIGFyZSB0cm9waWNhbCBmcnVpdHMgdGhhdCBoYXZlIGJlZW4gdmFsdWVkIGZvciBjZW50dXJpZXMgZm9yIHRoZWlyIGRpdmVyc2UgdXNlcyBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMuIFRoZSBjb2NvbnV0IHRyZWUgaXMgb2Z0ZW4gcmVmZXJyZWQgdG8gYXMgdGhlICJUcmVlIG9mIExpZmUiIGR1ZSB0byB0aGUgd2lkZSBhcnJheSBvZiBwcm9kdWN0cyBkZXJpdmVkIGZyb20gaXRzIGZydWl0LCBpbmNsdWRpbmcgY29jb251dCB3YXRlciwgbWlsaywgb2lsLCBhbmQgbWVhdC4gQ29jb251dHMgYXJlIGNlbGVicmF0ZWQgZm9yIHRoZWlyIHJlZnJlc2hpbmcgdGFzdGUgYW5kIHZlcnNhdGlsZSBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuCgojIyMgVmFyaWV0aWVzCgpWYXJuaSBFeHBvcnRzIG9mZmVycyBhIHJhbmdlIG9mIGNvY29udXQgdmFyaWV0aWVzIHRvIGNhdGVyIHRvIGRpdmVyc2UgY29uc3VtZXIgcHJlZmVyZW5jZXM6Ci0gKipUZW5kZXIgQ29jb251dHMqKjogS25vd24gZm9yIHRoZWlyIHJlZnJlc2hpbmcgYW5kIGh5ZHJhdGluZyBjb2NvbnV0IHdhdGVyLCB0ZW5kZXIgY29jb251dHMgYXJlIGhhcnZlc3RlZCBhdCBhIHlvdW5nZXIgYWdlLgotICoqTWF0dXJlIENvY29udXRzKio6IENoYXJhY3Rlcml6ZWQgYnkgdGhlaXIgaGFyZCBzaGVsbCBhbmQgcmljaCwgZmF0dHkgbWVhdCwgbWF0dXJlIGNvY29udXRzIGFyZSBpZGVhbCBmb3IgZXh0cmFjdGluZyBjb2NvbnV0IG1pbGssIG9pbCwgYW5kIGRlc2ljY2F0ZWQgY29jb251dC4KLSAqKlNlbWktSHVza2VkIENvY29udXRzKio6IFRoZXNlIGNvY29udXRzIGFyZSBwYXJ0aWFsbHkgaHVza2VkIGZvciBlYXN5IGhhbmRsaW5nIGFuZCB0cmFuc3BvcnRhdGlvbiwgc3VpdGFibGUgZm9yIGJvdGggY3VsaW5hcnkgYW5kIGluZHVzdHJpYWwgdXNlcy4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgcXVhbGl0eSBpcyBvdXIgdG9wIHByaW9yaXR5LiBXZSBwYXJ0bmVyIHdpdGggZXhwZXJpZW5jZWQgY29jb251dCBncm93ZXJzIHdobyBmb2xsb3cgc3VzdGFpbmFibGUgYWdyaWN1bHR1cmFsIHByYWN0aWNlcyB0byBlbnN1cmUgb3B0aW1hbCBncm93aW5nIGNvbmRpdGlvbnMgYW5kIGZydWl0IHF1YWxpdHkuIE91ciBjb2NvbnV0cyBhcmUgaGFydmVzdGVkIGF0IHRoZSBwZWFrIG9mIHJpcGVuZXNzIHRvIG1heGltaXplIGZsYXZvciBhbmQgbnV0cml0aW9uYWwgY29udGVudC4gUmlnb3JvdXMgcXVhbGl0eSBjaGVja3MgYW5kIGh5Z2llbmUgc3RhbmRhcmRzIGFyZSBtYWludGFpbmVkIHRocm91Z2hvdXQgdGhlIHBhY2thZ2luZyBhbmQgZXhwb3J0IHByb2Nlc3MgdG8gZGVsaXZlciBwcmVtaXVtLWdyYWRlIGNvY29udXRzIHRvIG91ciBjdXN0b21lcnMuCgojIyMgQ3VsaW5hcnkgVXNlcwoKQ29jb251dHMgYXJlIGluY3JlZGlibHkgdmVyc2F0aWxlIGFuZCBjYW4gYmUgZW5qb3llZCBpbiB2YXJpb3VzIGZvcm1zOgotICoqQ29jb251dCBXYXRlcioqOiBFbmpveSBhcyBhIHJlZnJlc2hpbmcgYW5kIGh5ZHJhdGluZyBiZXZlcmFnZSwgcmljaCBpbiBlbGVjdHJvbHl0ZXMuCi0gKipDb2NvbnV0IE1pbGsgYW5kIENyZWFtKio6IFVzZSBpbiBjdXJyaWVzLCBzb3VwcywgZGVzc2VydHMsIGFuZCBiZXZlcmFnZXMgZm9yIGEgY3JlYW15IHRleHR1cmUgYW5kIHJpY2ggZmxhdm9yLgotICoqQ29jb251dCBPaWwqKjogSWRlYWwgZm9yIGNvb2tpbmcsIGJha2luZywgYW5kIGFzIGEgbmF0dXJhbCBoZWFsdGggYW5kIGJlYXV0eSBwcm9kdWN0LgotICoqRGVzaWNjYXRlZCBDb2NvbnV0Kio6IEFkZCB0byBiYWtlZCBnb29kcywgY2VyZWFscywgYW5kIHNuYWNrcyBmb3IgYSBudXR0eSBmbGF2b3IgYW5kIHRleHR1cmUuCi0gKipDb2NvbnV0IE1lYXQqKjogRWF0IGZyZXNoLCBkcmllZCwgb3Igc2hyZWRkZWQgaW4gYSB2YXJpZXR5IG9mIHN3ZWV0IGFuZCBzYXZvcnkgZGlzaGVzLgoKIyMjIE51dHJpdGlvbmFsIEJlbmVmaXRzCgpDb2NvbnV0cyBhcmUgbm90IG9ubHkgZGVsaWNpb3VzIGJ1dCBhbHNvIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHM6Ci0gKipWaXRhbWlucyoqOiBSaWNoIGluIHZpdGFtaW5zIEMsIEUsIEIxLCBCMywgQjUsIGFuZCBCNiwgc3VwcG9ydGluZyBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KLSAqKk1pbmVyYWxzKio6IEhpZ2ggaW4gcG90YXNzaXVtLCBtYWduZXNpdW0sIGFuZCBpcm9uLCBpbXBvcnRhbnQgZm9yIGhlYXJ0IGhlYWx0aCBhbmQgbXVzY2xlIGZ1bmN0aW9uLgotICoqSGVhbHRoeSBGYXRzKio6IENvbnRhaW5zIG1lZGl1bS1jaGFpbiB0cmlnbHljZXJpZGVzIChNQ1RzKSB0aGF0IGFyZSBlYXNpbHkgZGlnZXN0aWJsZSBhbmQgcHJvdmlkZSBhIHF1aWNrIHNvdXJjZSBvZiBlbmVyZ3kuCi0gKipBbnRpb3hpZGFudHMqKjogUGFja2VkIHdpdGggYW50aW94aWRhbnRzIHRoYXQgaGVscCBwcm90ZWN0IGNlbGxzIGZyb20gZGFtYWdlIGFuZCBzdXBwb3J0IG92ZXJhbGwgd2VsbC1iZWluZy4KCiMjIyBTdXN0YWluYWJpbGl0eSBDb21taXRtZW50CgpWYXJuaSBFeHBvcnRzIGlzIGNvbW1pdHRlZCB0byBzdXN0YWluYWJsZSBhZ3JpY3VsdHVyZSBwcmFjdGljZXMgYW5kIGVudmlyb25tZW50YWwgc3Rld2FyZHNoaXA6Ci0gKipXYXRlciBDb25zZXJ2YXRpb24qKjogSW1wbGVtZW50aW5nIGVmZmljaWVudCBpcnJpZ2F0aW9uIHRlY2huaXF1ZXMgdG8gbWluaW1pemUgd2F0ZXIgdXNhZ2UgaW4gY29jb251dCBjdWx0aXZhdGlvbi4KLSAqKkVudmlyb25tZW50YWwgUmVzcG9uc2liaWxpdHkqKjogUHJvbW90aW5nIGJpb2RpdmVyc2l0eSBhbmQgc29pbCBoZWFsdGggaW4gb3VyIGNvY29udXQgcGxhbnRhdGlvbnMsIGNvbnRyaWJ1dGluZyB0byBhIHN1c3RhaW5hYmxlIGVjb3N5c3RlbS4KLSAqKkNvbW11bml0eSBTdXBwb3J0Kio6IFN1cHBvcnRpbmcgbG9jYWwgY29tbXVuaXRpZXMgYnkgcHJvdmlkaW5nIGZhaXIgd2FnZXMgYW5kIGZvc3RlcmluZyBzb2Npby1lY29ub21pYyBkZXZlbG9wbWVudCBpbiBjb2NvbnV0LWdyb3dpbmcgcmVnaW9ucy4KCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIGNvY29udXRzLCBWYXJuaSBFeHBvcnRzIGVuc3VyZXMgcHJvbXB0IGRlbGl2ZXJ5IGFuZCBzdXBlcmlvciBxdWFsaXR5OgotICoqR2xvYmFsIFJlYWNoKio6IFdlIHNlcnZlIG1hcmtldHMgd29ybGR3aWRlIHdpdGggYSBmb2N1cyBvbiByZWxpYWJpbGl0eSwgZnJlc2huZXNzLCBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uLgotICoqQ3VzdG9taXplZCBTb2x1dGlvbnMqKjogT3VyIGV4cGVyaWVuY2VkIHRlYW0gcHJvdmlkZXMgdGFpbG9yZWQgc29sdXRpb25zIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgaW50ZXJuYXRpb25hbCBjbGllbnRlbGUuCi0gKipMb2dpc3RpY3MgRXhwZXJ0aXNlKio6IFdlIGxldmVyYWdlIGEgcm9idXN0IGxvZ2lzdGljcyBuZXR3b3JrIHRvIGRlbGl2ZXIgZnJlc2ggY29jb251dHMgZWZmaWNpZW50bHkgYW5kIHNhZmVseSB0byBkZXN0aW5hdGlvbnMgYWNyb3NzIHRoZSBnbG9iZS4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIGNvY29udXRzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZGVkaWNhdGVkIHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0IHlvdSB3aXRoIHlvdXIgbmVlZHMgYW5kIHByb3ZpZGUgcGVyc29uYWxpemVkIHNvbHV0aW9ucyBmb3IgeW91ciBidXNpbmVzcy4gRXhwZXJpZW5jZSB0aGUgZXhjZXB0aW9uYWwgcXVhbGl0eSBhbmQgZmxhdm9yIG9mIFZhcm5pIEV4cG9ydHPigJkgY29jb251dHMgdG9kYXkh",
+          <div>
+            <p><strong>Varni Exports: Your Premier Source for Premium Coconuts</strong></p>
+            <br />
+
+            <p>Welcome to Varni Exports, your trusted partner for sourcing the finest coconuts from the tropical regions of India. Known for their versatile uses, rich flavor, and numerous health benefits, our coconuts are cultivated and processed with the utmost care to meet international standards of excellence.</p>
+            <br />
+
+            <p><strong>About Coconuts</strong></p>
+            <br />
+
+            <p>Coconuts (Cocos nucifera) are tropical fruits that have been valued for centuries for their diverse uses and nutritional benefits. The coconut tree is often referred to as the "Tree of Life" due to the wide array of products derived from its fruit, including coconut water, milk, oil, and meat. Coconuts are celebrated for their refreshing taste and versatile culinary applications.</p>
+            <br />
+
+            <p><strong>Varieties</strong></p>
+            <br />
+
+            <p>Varni Exports offers a range of coconut varieties to cater to diverse consumer preferences:</p>
+            <br />
+            <li><strong>Tender Coconuts:</strong> Known for their refreshing and hydrating coconut water, tender coconuts are harvested at a younger age.</li>
+            <li><strong>Mature Coconuts:</strong> Characterized by their hard shell and rich, fatty meat, mature coconuts are ideal for extracting coconut milk, oil, and desiccated coconut.</li>
+            <li><strong>Semi-Husked Coconuts:</strong> These coconuts are partially husked for easy handling and transportation, suitable for both culinary and industrial uses.</li>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, quality is our top priority. We partner with experienced coconut growers who follow sustainable agricultural practices to ensure optimal growing conditions and fruit quality. Our coconuts are harvested at the peak of ripeness to maximize flavor and nutritional content. Rigorous quality checks and hygiene standards are maintained throughout the packaging and export process to deliver premium-grade coconuts to our customers.</p>
+            <br />
+
+            <p><strong>Culinary Uses</strong></p>
+            <br />
+
+            <p>Coconuts are incredibly versatile and can be enjoyed in various forms:</p>
+            <br />
+            <li><strong>Coconut Water:</strong> Enjoy as a refreshing and hydrating beverage, rich in electrolytes.</li>
+            <li><strong>Coconut Milk and Cream:</strong> Use in curries, soups, desserts, and beverages for a creamy texture and rich flavor.</li>
+            <li><strong>Coconut Oil:</strong> Ideal for cooking, baking, and as a natural health and beauty product.</li>
+            <li><strong>Desiccated Coconut:</strong> Add to baked goods, cereals, and snacks for a nutty flavor and texture.</li>
+            <li><strong>Coconut Meat:</strong> Eat fresh, dried, or shredded in a variety of sweet and savory dishes.</li>
+            <br />
+
+            <p><strong>Nutritional Benefits</strong></p>
+            <br />
+
+            <p>Coconuts are not only delicious but also packed with essential nutrients:</p>
+            <br />
+            <li><strong>Vitamins:</strong> Rich in vitamins C, E, B1, B3, B5, and B6, supporting overall health and well-being.</li>
+            <li><strong>Minerals:</strong> High in potassium, magnesium, and iron, important for heart health and muscle function.</li>
+            <li><strong>Healthy Fats:</strong> Contains medium-chain triglycerides (MCTs) that are easily digestible and provide a quick source of energy.</li>
+            <li><strong>Antioxidants:</strong> Packed with antioxidants that help protect cells from damage and support overall well-being.</li>
+            <br />
+
+            <p><strong>Sustainability Commitment</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable agriculture practices and environmental stewardship:</p>
+            <br />
+            <li><strong>Water Conservation:</strong> Implementing efficient irrigation techniques to minimize water usage in coconut cultivation.</li>
+            <li><strong>Environmental Responsibility:</strong> Promoting biodiversity and soil health in our coconut plantations, contributing to a sustainable ecosystem.</li>
+            <li><strong>Community Support:</strong> Supporting local communities by providing fair wages and fostering socio-economic development in coconut-growing regions.</li>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of coconuts, Varni Exports ensures prompt delivery and superior quality:</p>
+            <br />
+            <li><strong>Global Reach:</strong> We serve markets worldwide with a focus on reliability, freshness, and customer satisfaction.</li>
+            <li><strong>Customized Solutions:</strong> Our experienced team provides tailored solutions to meet the specific requirements of our international clientele.</li>
+            <li><strong>Logistics Expertise:</strong> We leverage a robust logistics network to deliver fresh coconuts efficiently and safely to destinations across the globe.</li>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium coconuts or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your needs and provide personalized solutions for your business. Experience the exceptional quality and flavor of Varni Exports’ coconuts today!</p>
+          </div>
+        ,
       },
     ],
   },
@@ -369,7 +979,79 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgV2hpdGUgT25pb24gRmxha2VzCgpWYXJuaSBFeHBvcnRzIHNwZWNpYWxpemVzIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgaGlnaC1xdWFsaXR5IGRlaHlkcmF0ZWQgd2hpdGUgb25pb24gZmxha2VzLiBXZSBlbnN1cmUgdGhhdCBvdXIgcHJvZHVjdHMgbWVldCB0aGUgaGlnaGVzdCBzdGFuZGFyZHMgb2YgcXVhbGl0eSBhbmQgaHlnaWVuZSwgbWFraW5nIHRoZW0gYSByZWxpYWJsZSBjaG9pY2UgZm9yIHZhcmlvdXMgY3VsaW5hcnkgYW5kIGluZHVzdHJpYWwgYXBwbGljYXRpb25zLgoKIyMjIEFib3V0IERlaHlkcmF0ZWQgV2hpdGUgT25pb24gRmxha2VzCgpPbmlvbnMgYXJlIG9uZSBvZiB0aGUgb2xkZXN0IHNwaWNlcyBrbm93biB0byBodW1hbml0eSwgd2lkZWx5IHVzZWQgaW4gY29va2luZyBhbmQgc2FsYWRzLiBQdW5nZW50IHZhcmlldGllcyBzZXJ2ZSBhcyBhIGNvbmRpbWVudCBmb3IgZmxhdm9yaW5nIGEgcmFuZ2Ugb2YgZm9vZCBpdGVtcy4gRGVoeWRyYXRlZCBvbmlvbnMsIGluY2x1ZGluZyBmbGFrZXMsIHBvd2RlciwgYW5kIGdyYW51bGVzLCBhcmUgZ2FpbmluZyBwb3B1bGFyaXR5IGFzIGEgc3BpY2UgZHVlIHRvIHRoZWlyIGVhc2Ugb2YgcGFja2FnaW5nLCBxdWFsaXR5IGNvbnRyb2wsIGFuZCB0cmFuc3BvcnRhdGlvbi4gRGVoeWRyYXRlZCB3aGl0ZSBvbmlvbiBmbGFrZXMgYXJlIGV4dGVuc2l2ZWx5IHVzZWQgaW4gcGlja2xlcywgY3Vycmllcywgc2F1Y2VzLCBhbmQgZXZlbiBpbiBtZWRpY2luYWwgYXBwbGljYXRpb25zIGFzIGEgc3Vic3RpdHV0ZSBmb3IgZnJlc2ggb25pb25zLgoKIyMjIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBwcm9jdXJlIG9uaW9ucyBkaXJlY3RseSBmcm9tIGN1bHRpdmF0ZWQgZmFybXMgYW5kIHByb2Nlc3NvcnMuIE91ciBkZWh5ZHJhdGlvbiBwcm9jZXNzIGlzIGNhcnJpZWQgb3V0IGluIHdlbGwtZXF1aXBwZWQgdW5pdHMgd2hlcmUgZnJlc2ggb25pb25zIHVuZGVyZ28gbXVsdGlwbGUgc3RlcHMgb2YgdGVzdGluZyBhbmQgc29ydGluZy4gVGhlIGRlaHlkcmF0ZWQgb25pb25zIGFyZSB0aGVuIHN0b3JlZCBhdCBzcGVjaWZpYyB0ZW1wZXJhdHVyZXMgdG8gbWFpbnRhaW4gdGhlaXIgbWF0ZXJpYWwgcHJvcGVydGllcyBhbmQgc2hlbGYgbGlmZS4gV2Ugb2ZmZXIgdGhlIGJlc3QgcXVhbGl0eSBkZWh5ZHJhdGVkIG9uaW9ucyBpbiB2YXJpb3VzIGZvcm1zIGluY2x1ZGluZyBmbGFrZXMsIGNob3BwZWQsIG1pbmNlZCwgcG93ZGVyLCBhbmQgZ3JhbnVsZXMuCgojIyMgQXBwbGljYXRpb25zCgpEZWh5ZHJhdGVkIHdoaXRlIG9uaW9uIGZsYWtlcyBhcmUgdmVyc2F0aWxlIGFuZCBjYW4gYmUgdXNlZCBpbiB2YXJpb3VzIGFwcGxpY2F0aW9ucyBzdWNoIGFzOgotICoqRmFzdCBGb29kIGFuZCBTbmFjayBGb29kcyoqCi0gKipGb29kIFNlcnZpY2UgUGFja3MqKgotICoqU3R1ZmZpbmcgTWl4ZXMqKgotICoqUGlja2xlZCBQcm9kdWN0cyoqCi0gKipNZWF0IGFuZCBTZWFmb29kIFByb2R1Y3RzKioKLSAqKlJlY2lwZXMgYW5kIENhbm5lZCBGb29kcyoqCi0gKipTYWxhZCBEcmVzc2luZ3MgYW5kIERpcHMqKgotICoqQm90dGxlIFBhY2tzIGFuZCBTZWFzb25pbmdzKioKLSAqKkJha2VyeSBUb3BwaW5ncyBhbmQgR291cm1ldCBTYXVjZXMqKgoKIyMjIENoZW1pY2FsIERhdGEKCi0gKipNb2lzdHVyZSoqOiBNYXguIDYlCi0gKipTTzIqKjogTWF4LiA1MCBQUE0KLSAqKlBlc3RpY2lkZXMsIEhlcmJpY2lkZXMsIEZ1bmdpY2lkZXMqKjogTm90IERldGVjdGFibGUKCiMjIyBNaWNyb2Jpb2xvZ2ljYWwgRGF0YQoKLSAqKlRvdGFsIFBsYXRlIENvdW50Kio6IE1heCAxNTAsMDAwIC9HCi0gKipDb2xpZm9ybSBHZXJtcyoqOiBNYXggMTAgLyBHCi0gKipFLUNvbGkqKjogTmVnYXRpdmUgaW4gMSBHCi0gKipZZWFzdCAmIE1vdWxkKio6IE1heCAxMDAgLyBHCi0gKipTYWxtb25lbGxhKio6IE5lZ2F0aXZlIGluIDI1IEcKLSAqKkJhY2lsbHVzIENlcmV1cyoqOiBNYXggMTAgLyBHCi0gKipTdGFwaHlsb2NvY2N1cyBBdXJldXMqKjogTmVnYXRpdmUgaW4gMSBHCgojIyMgU3VzdGFpbmFibGUgU291cmNpbmcKClZhcm5pIEV4cG9ydHMgaXMgY29tbWl0dGVkIHRvIHN1c3RhaW5hYmxlIHNvdXJjaW5nIHByYWN0aWNlcy4gV2Ugd29yayBjbG9zZWx5IHdpdGggbG9jYWwgZmFybWVycyB3aG8gYWRoZXJlIHRvIGVjby1mcmllbmRseSBhZ3JpY3VsdHVyYWwgbWV0aG9kcy4gT3VyIGZvY3VzIG9uIHN1c3RhaW5hYmlsaXR5IGVuc3VyZXMgdGhhdCB3ZSBkZWxpdmVyIHByb2R1Y3RzIHRoYXQgYXJlIG5vdCBvbmx5IGhpZ2ggaW4gcXVhbGl0eSBidXQgYWxzbyByZXNwb25zaWJseSBzb3VyY2VkLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpBcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgZGVoeWRyYXRlZCB3aGl0ZSBvbmlvbiBmbGFrZXMsIFZhcm5pIEV4cG9ydHMgZ3VhcmFudGVlcyBwcmVtaXVtLXF1YWxpdHkgcHJvZHVjdHMgdGhhdCBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLiBXZSBwcmlvcml0aXplIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBhbmQgZW5zdXJlIHRpbWVseSBkZWxpdmVyeSBvZiBvcmRlcnMgdGhyb3VnaCBlZmZpY2llbnQgbG9naXN0aWNzLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gZGVoeWRyYXRlZCB3aGl0ZSBvbmlvbiBmbGFrZXMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBleHBlcmllbmNlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIHF1YWxpdHkgYW5kIHJlbGlhYmlsaXR5IG9mIFZhcm5pIEV4cG9ydHMgdG9kYXkh",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated White Onion Flakes</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated white onion flakes. We ensure that our products meet the highest standards of quality and hygiene, making them a reliable choice for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated White Onion Flakes</strong></p>
+            <br />
+
+            <p>Onions are one of the oldest spices known to humanity, widely used in cooking and salads. Pungent varieties serve as a condiment for flavoring a range of food items. Dehydrated onions, including flakes, powder, and granules, are gaining popularity as a spice due to their ease of packaging, quality control, and transportation. Dehydrated white onion flakes are extensively used in pickles, curries, sauces, and even in medicinal applications as a substitute for fresh onions.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we procure onions directly from cultivated farms and processors. Our dehydration process is carried out in well-equipped units where fresh onions undergo multiple steps of testing and sorting. The dehydrated onions are then stored at specific temperatures to maintain their material properties and shelf life. We offer the best quality dehydrated onions in various forms including flakes, chopped, minced, powder, and granules.</p>
+            <br />
+
+            <p><strong>Applications</strong></p>
+            <br />
+
+            <p>Dehydrated white onion flakes are versatile and can be used in various applications such as:</p>
+            <br />
+            <li>Fast Food and Snack Foods</li>
+            <li>Food Service Packs</li>
+            <li>Stuffing Mixes</li>
+            <li>Pickled Products</li>
+            <li>Meat and Seafood Products</li>
+            <li>Recipes and Canned Foods</li>
+            <li>Salad Dressings and Dips</li>
+            <li>Bottle Packs and Seasonings</li>
+            <li>Bakery Toppings and Gourmet Sauces</li>
+            <br />
+
+            <p><strong>Chemical Data</strong></p>
+            <br />
+
+            <p>- <strong>Moisture:</strong> Max. 6%</p>
+            <p>- <strong>SO2:</strong> Max. 50 PPM</p>
+            <p>- <strong>Pesticides, Herbicides, Fungicides:</strong> Not Detectable</p>
+            <br />
+
+            <p><strong>Microbiological Data</strong></p>
+            <br />
+
+            <p>- <strong>Total Plate Count:</strong> Max 150,000 /G</p>
+            <p>- <strong>Coliform Germs:</strong> Max 10 / G</p>
+            <p>- <strong>E-Coli:</strong> Negative in 1 G</p>
+            <p>- <strong>Yeast & Mould:</strong> Max 100 / G</p>
+            <p>- <strong>Salmonella:</strong> Negative in 25 G</p>
+            <p>- <strong>Bacillus Cereus:</strong> Max 10 / G</p>
+            <p>- <strong>Staphylococcus Aureus:</strong> Negative in 1 G</p>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated white onion flakes, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated white onion flakes or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -388,7 +1070,65 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgV2hpdGUgT25pb24gUG93ZGVyCgpWYXJuaSBFeHBvcnRzIHNwZWNpYWxpemVzIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgaGlnaC1xdWFsaXR5IGRlaHlkcmF0ZWQgd2hpdGUgb25pb24gcG93ZGVyLiBPdXIgY29tbWl0bWVudCB0byBleGNlbGxlbmNlIGVuc3VyZXMgdGhhdCBvdXIgcHJvZHVjdHMgbWVldCBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMgYW5kIGFyZSBpZGVhbCBmb3IgYSB3aWRlIHJhbmdlIG9mIGN1bGluYXJ5IGFuZCBpbmR1c3RyaWFsIGFwcGxpY2F0aW9ucy4KCiMjIyBBYm91dCBEZWh5ZHJhdGVkIFdoaXRlIE9uaW9uIFBvd2RlcgoKT25pb25zIGFyZSBhbW9uZyB0aGUgb2xkZXN0IHNwaWNlcyBrbm93biB0byBodW1hbml0eSwgd2lkZWx5IHVzZWQgaW4gY29va2luZyBhbmQgc2FsYWRzLiBQdW5nZW50IHZhcmlldGllcyBzZXJ2ZSBhcyBhIGNvbmRpbWVudCBmb3IgZmxhdm9yaW5nIHZhcmlvdXMgZm9vZCBpdGVtcy4gRGVoeWRyYXRlZCBvbmlvbiBwcm9kdWN0cywgaW5jbHVkaW5nIHdoaXRlIG9uaW9uIHBvd2RlciwgZmxha2VzLCBhbmQgZ3JhbnVsZXMsIGFyZSBnYWluaW5nIHBvcHVsYXJpdHkgZHVlIHRvIHRoZWlyIGVhc2Ugb2YgcGFja2FnaW5nLCBxdWFsaXR5IGNvbnRyb2wsIGFuZCB0cmFuc3BvcnRhYmlsaXR5IGZvciBnbG9iYWwgZGVzdGluYXRpb25zLgoKIyMjIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgZGVoeWRyYXRlZCB3aGl0ZSBvbmlvbiBwb3dkZXIgaXMgcHJvZHVjZWQgZnJvbSB0aGUgZmluZXN0IHF1YWxpdHkgb25pb25zLCBzb3VyY2VkIGRpcmVjdGx5IGZyb20gY3VsdGl2YXRlZCBmYXJtcy4gVGhlIGRlaHlkcmF0aW9uIHByb2Nlc3MgaXMgY2FycmllZCBvdXQgaW4gc3RhdGUtb2YtdGhlLWFydCBmYWNpbGl0aWVzIHdoZXJlIGZyZXNoIG9uaW9ucyB1bmRlcmdvIG11bHRpcGxlIHN0ZXBzIG9mIHRlc3RpbmcgYW5kIHNvcnRpbmcuIFRoaXMgbWV0aWN1bG91cyBhcHByb2FjaCBndWFyYW50ZWVzIHRoYXQgb3VyIG9uaW9uIHBvd2RlciByZXRhaW5zIGl0cyBuYXR1cmFsIGZsYXZvciBhbmQgbnV0cml0aW9uYWwgcHJvcGVydGllcyB3aGlsZSBiZWluZyBlYXN5IHRvIHN0b3JlIGFuZCB1c2UuCgojIyMgQXBwbGljYXRpb25zIG9mIERlaHlkcmF0ZWQgV2hpdGUgT25pb24gUG93ZGVyCgpEZWh5ZHJhdGVkIHdoaXRlIG9uaW9uIHBvd2RlciBpcyB2ZXJzYXRpbGUgYW5kIGV4dGVuc2l2ZWx5IHVzZWQgaW4gdmFyaW91cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnM6Ci0gKipTb3VwcyoqOiBBZGRzIGRlcHRoIGFuZCBmbGF2b3IgdG8gYSB2YXJpZXR5IG9mIHNvdXBzLgotICoqU2F1Y2VzKio6IEVuaGFuY2VzIHRoZSB0YXN0ZSBvZiBib3RoIGNyZWFteSBhbmQgdG9tYXRvLWJhc2VkIHNhdWNlcy4KLSAqKlNlYXNvbmluZyoqOiBQZXJmZWN0IGZvciBzZWFzb25pbmcgYmxlbmRzLCBzcGljZSBtaXhlcywgYW5kIHJ1YnMuCi0gKipNZWF0IFByb2R1Y3RzKio6IFVzZWQgaW4gc2F1c2FnZXMsIGJ1cmdlcnMsIGFuZCBtZWF0bG9hZiB0byBpbXBhcnQgYSByaWNoIG9uaW9uIGZsYXZvci4KLSAqKkZvb2QgUHJlcGFyYXRpb25zKio6IFN1aXRhYmxlIGZvciBhbnkgZGlzaCB3aGVyZSBhIHN0cm9uZyBvbmlvbiBmbGF2b3IgYW5kIHRhc3RlIGFyZSBkZXNpcmVkLCBpbmNsdWRpbmcgZHJlc3NpbmdzLCBtYXJpbmFkZXMsIGFuZCBkaXBzLgoKIyMjIEJlbmVmaXRzIG9mIERlaHlkcmF0ZWQgV2hpdGUgT25pb24gUG93ZGVyCgotICoqQ29udmVuaWVuY2UqKjogRWFzeSB0byBwYWNrLCBzdG9yZSwgYW5kIHRyYW5zcG9ydC4KLSAqKkxvbmcgU2hlbGYgTGlmZSoqOiBNYWludGFpbnMgaXRzIGZsYXZvciBhbmQgbnV0cml0aW9uYWwgdmFsdWUgb3ZlciBleHRlbmRlZCBwZXJpb2RzLgotICoqQ29uc2lzdGVuY3kqKjogUHJvdmlkZXMgYSBjb25zaXN0ZW50IGZsYXZvciBwcm9maWxlIGluIHJlY2lwZXMuCi0gKipWZXJzYXRpbGl0eSoqOiBDYW4gYmUgdXNlZCBpbiBhIHdpZGUgcmFuZ2Ugb2YgY3VsaW5hcnkgYXBwbGljYXRpb25zLgotICoqTnV0cml0aW9uYWwgVmFsdWUqKjogUmV0YWlucyBlc3NlbnRpYWwgbnV0cmllbnRzIGZvdW5kIGluIGZyZXNoIG9uaW9ucy4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzLiBXZSB3b3JrIGNsb3NlbHkgd2l0aCBsb2NhbCBmYXJtZXJzIHdobyBhZGhlcmUgdG8gZWNvLWZyaWVuZGx5IGFncmljdWx0dXJhbCBtZXRob2RzLiBPdXIgZm9jdXMgb24gc3VzdGFpbmFiaWxpdHkgZW5zdXJlcyB0aGF0IHdlIGRlbGl2ZXIgcHJvZHVjdHMgdGhhdCBhcmUgbm90IG9ubHkgaGlnaCBpbiBxdWFsaXR5IGJ1dCBhbHNvIHJlc3BvbnNpYmx5IHNvdXJjZWQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBkZWh5ZHJhdGVkIHdoaXRlIG9uaW9uIHBvd2RlciwgVmFybmkgRXhwb3J0cyBndWFyYW50ZWVzIHByZW1pdW0tcXVhbGl0eSBwcm9kdWN0cyB0aGF0IG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMuIFdlIHByaW9yaXRpemUgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGFuZCBlbnN1cmUgdGltZWx5IGRlbGl2ZXJ5IG9mIG9yZGVycyB0aHJvdWdoIGVmZmljaWVudCBsb2dpc3RpY3MuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBkZWh5ZHJhdGVkIHdoaXRlIG9uaW9uIHBvd2RlciBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGV4cGVyaWVuY2VkIHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0IHlvdSB3aXRoIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBwcm92aWRlIHJlbGlhYmxlIHNvdXJjaW5nIHNvbHV0aW9ucy4gRXhwZXJpZW5jZSB0aGUgcXVhbGl0eSBhbmQgcmVsaWFiaWxpdHkgb2YgVmFybmkgRXhwb3J0cyB0b2RheSE=",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated White Onion Powder</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated white onion powder. Our commitment to excellence ensures that our products meet stringent quality standards and are ideal for a wide range of culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated White Onion Powder</strong></p>
+            <br />
+
+            <p>Onions are among the oldest spices known to humanity, widely used in cooking and salads. Pungent varieties serve as a condiment for flavoring various food items. Dehydrated onion products, including white onion powder, flakes, and granules, are gaining popularity due to their ease of packaging, quality control, and transportability for global destinations.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our dehydrated white onion powder is produced from the finest quality onions, sourced directly from cultivated farms. The dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion powder retains its natural flavor and nutritional properties while being easy to store and use.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated White Onion Powder</strong></p>
+            <br />
+
+            <p>Dehydrated white onion powder is versatile and extensively used in various culinary applications:</p>
+            <br />
+            <li><strong>Soups:</strong> Adds depth and flavor to a variety of soups.</li>
+            <li><strong>Sauces:</strong> Enhances the taste of both creamy and tomato-based sauces.</li>
+            <li><strong>Seasoning:</strong> Perfect for seasoning blends, spice mixes, and rubs.</li>
+            <li><strong>Meat Products:</strong> Used in sausages, burgers, and meatloaf to impart a rich onion flavor.</li>
+            <li><strong>Food Preparations:</strong> Suitable for any dish where a strong onion flavor and taste are desired, including dressings, marinades, and dips.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated White Onion Powder</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains its flavor and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Can be used in a wide range of culinary applications.</li>
+            <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated white onion powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated white onion powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -406,7 +1146,66 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgUmVkIE9uaW9uIEZsYWtlcwoKVmFybmkgRXhwb3J0cyBzcGVjaWFsaXplcyBpbiBzb3VyY2luZyBhbmQgZXhwb3J0aW5nIGhpZ2gtcXVhbGl0eSBkZWh5ZHJhdGVkIHJlZCBvbmlvbiBmbGFrZXMuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyB0aGF0IG91ciBwcm9kdWN0cyBtZWV0IHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcywgbWFraW5nIHRoZW0gYW4gaWRlYWwgY2hvaWNlIGZvciB2YXJpb3VzIGN1bGluYXJ5IGFuZCBpbmR1c3RyaWFsIGFwcGxpY2F0aW9ucy4KCiMjIyBBYm91dCBEZWh5ZHJhdGVkIFJlZCBPbmlvbiBGbGFrZXMKClJlZCBvbmlvbnMgYXJlIHByaXplZCBmb3IgdGhlaXIgdmlicmFudCBjb2xvciBhbmQgcm9idXN0IGZsYXZvciwgd2lkZWx5IHVzZWQgaW4gY29va2luZyBhbmQgc2FsYWRzLiBEZWh5ZHJhdGVkIHJlZCBvbmlvbiBmbGFrZXMgcmV0YWluIHRoZSBkaXN0aW5jdGl2ZSB0YXN0ZSBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMgb2YgZnJlc2ggcmVkIG9uaW9ucyB3aGlsZSBvZmZlcmluZyB0aGUgY29udmVuaWVuY2Ugb2YgYSBsb25nZXIgc2hlbGYgbGlmZSBhbmQgZWFzaWVyIHN0b3JhZ2UuIFRoZXkgYXJlIHBlcmZlY3QgZm9yIGFkZGluZyBhIGJ1cnN0IG9mIGZsYXZvciBhbmQgY29sb3IgdG8gYSB2YXJpZXR5IG9mIGRpc2hlcy4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIHRoYXQgb3VyIGRlaHlkcmF0ZWQgcmVkIG9uaW9uIGZsYWtlcyBhcmUgcHJvZHVjZWQgZnJvbSB0aGUgZmluZXN0IHF1YWxpdHkgcmVkIG9uaW9ucywgc291cmNlZCBkaXJlY3RseSBmcm9tIGN1bHRpdmF0ZWQgZmFybXMuIE91ciBkZWh5ZHJhdGlvbiBwcm9jZXNzIGlzIGNhcnJpZWQgb3V0IGluIHN0YXRlLW9mLXRoZS1hcnQgZmFjaWxpdGllcyB3aGVyZSBmcmVzaCBvbmlvbnMgdW5kZXJnbyBtdWx0aXBsZSBzdGVwcyBvZiB0ZXN0aW5nIGFuZCBzb3J0aW5nLiBUaGlzIG1ldGljdWxvdXMgYXBwcm9hY2ggZ3VhcmFudGVlcyB0aGF0IG91ciBvbmlvbiBmbGFrZXMgcmV0YWluIHRoZWlyIG5hdHVyYWwgZmxhdm9yLCBjb2xvciwgYW5kIG51dHJpdGlvbmFsIHByb3BlcnRpZXMuCgojIyMgQXBwbGljYXRpb25zIG9mIERlaHlkcmF0ZWQgUmVkIE9uaW9uIEZsYWtlcwoKRGVoeWRyYXRlZCByZWQgb25pb24gZmxha2VzIGFyZSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSB1c2VkIGluIGEgd2lkZSByYW5nZSBvZiBjdWxpbmFyeSBhcHBsaWNhdGlvbnM6Ci0gKipTbmFja2luZyoqOiBTcHJpbmtsZSBvbiBzbmFja3MgYW5kIGFwcGV0aXplcnMgZm9yIGFkZGVkIGZsYXZvci4KLSAqKkNvb2tpbmcqKjogVXNlIGluIHNvdXBzLCBzdGV3cywgYW5kIGNhc3Nlcm9sZXMgdG8gZW5oYW5jZSB0YXN0ZSBhbmQgdGV4dHVyZS4KLSAqKkJha2luZyoqOiBBZGQgdG8gYnJlYWQsIHJvbGxzLCBhbmQgc2F2b3J5IHBhc3RyaWVzIGZvciBhIHJpY2ggb25pb24gZmxhdm9yLgotICoqU2Vhc29uaW5nKio6IFBlcmZlY3QgZm9yIHNwaWNlIGJsZW5kcywgcnVicywgYW5kIHNlYXNvbmluZyBtaXhlcy4KLSAqKlNhbGFkcyoqOiBSZWh5ZHJhdGUgYW5kIGFkZCB0byBzYWxhZHMgZm9yIGEgZnJlc2ggb25pb24gdGFzdGUuCi0gKipHYXJuaXNoaW5nKio6IFVzZSBhcyBhIGNvbG9yZnVsIGFuZCBmbGF2b3JmdWwgZ2FybmlzaCBmb3IgdmFyaW91cyBkaXNoZXMuCgojIyMgQmVuZWZpdHMgb2YgRGVoeWRyYXRlZCBSZWQgT25pb24gRmxha2VzCgotICoqQ29udmVuaWVuY2UqKjogRWFzeSB0byBwYWNrLCBzdG9yZSwgYW5kIHRyYW5zcG9ydC4KLSAqKkxvbmcgU2hlbGYgTGlmZSoqOiBNYWludGFpbnMgaXRzIGZsYXZvciwgY29sb3IsIGFuZCBudXRyaXRpb25hbCB2YWx1ZSBvdmVyIGV4dGVuZGVkIHBlcmlvZHMuCi0gKipDb25zaXN0ZW5jeSoqOiBQcm92aWRlcyBhIGNvbnNpc3RlbnQgZmxhdm9yIHByb2ZpbGUgaW4gcmVjaXBlcy4KLSAqKlZlcnNhdGlsaXR5Kio6IFN1aXRhYmxlIGZvciBhIHdpZGUgcmFuZ2Ugb2YgY3VsaW5hcnkgYXBwbGljYXRpb25zLgotICoqTnV0cml0aW9uYWwgVmFsdWUqKjogUmV0YWlucyBlc3NlbnRpYWwgbnV0cmllbnRzIGZvdW5kIGluIGZyZXNoIG9uaW9ucy4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzLiBXZSB3b3JrIGNsb3NlbHkgd2l0aCBsb2NhbCBmYXJtZXJzIHdobyBhZGhlcmUgdG8gZWNvLWZyaWVuZGx5IGFncmljdWx0dXJhbCBtZXRob2RzLiBPdXIgZm9jdXMgb24gc3VzdGFpbmFiaWxpdHkgZW5zdXJlcyB0aGF0IHdlIGRlbGl2ZXIgcHJvZHVjdHMgdGhhdCBhcmUgbm90IG9ubHkgaGlnaCBpbiBxdWFsaXR5IGJ1dCBhbHNvIHJlc3BvbnNpYmx5IHNvdXJjZWQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBkZWh5ZHJhdGVkIHJlZCBvbmlvbiBmbGFrZXMsIFZhcm5pIEV4cG9ydHMgZ3VhcmFudGVlcyBwcmVtaXVtLXF1YWxpdHkgcHJvZHVjdHMgdGhhdCBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLiBXZSBwcmlvcml0aXplIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBhbmQgZW5zdXJlIHRpbWVseSBkZWxpdmVyeSBvZiBvcmRlcnMgdGhyb3VnaCBlZmZpY2llbnQgbG9naXN0aWNzLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gZGVoeWRyYXRlZCByZWQgb25pb24gZmxha2VzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZXhwZXJpZW5jZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBxdWFsaXR5IGFuZCByZWxpYWJpbGl0eSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Red Onion Flakes</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated red onion flakes. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated Red Onion Flakes</strong></p>
+            <br />
+
+            <p>Red onions are prized for their vibrant color and robust flavor, widely used in cooking and salads. Dehydrated red onion flakes retain the distinctive taste and nutritional benefits of fresh red onions while offering the convenience of a longer shelf life and easier storage. They are perfect for adding a burst of flavor and color to a variety of dishes.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our dehydrated red onion flakes are produced from the finest quality red onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion flakes retain their natural flavor, color, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated Red Onion Flakes</strong></p>
+            <br />
+
+            <p>Dehydrated red onion flakes are versatile and can be used in a wide range of culinary applications:</p>
+            <br />
+            <li><strong>Snacking:</strong> Sprinkle on snacks and appetizers for added flavor.</li>
+            <li><strong>Cooking:</strong> Use in soups, stews, and casseroles to enhance taste and texture.</li>
+            <li><strong>Baking:</strong> Add to bread, rolls, and savory pastries for a rich onion flavor.</li>
+            <li><strong>Seasoning:</strong> Perfect for spice blends, rubs, and seasoning mixes.</li>
+            <li><strong>Salads:</strong> Rehydrate and add to salads for a fresh onion taste.</li>
+            <li><strong>Garnishing:</strong> Use as a colorful and flavorful garnish for various dishes.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated Red Onion Flakes</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains its flavor, color, and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Suitable for a wide range of culinary applications.</li>
+            <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated red onion flakes, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated red onion flakes or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -427,7 +1226,66 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgUmVkIE9uaW9uIFBvd2RlcgoKVmFybmkgRXhwb3J0cyBzcGVjaWFsaXplcyBpbiBzb3VyY2luZyBhbmQgZXhwb3J0aW5nIGhpZ2gtcXVhbGl0eSBkZWh5ZHJhdGVkIHJlZCBvbmlvbiBwb3dkZXIuIE91ciBkZWRpY2F0aW9uIHRvIHF1YWxpdHkgZW5zdXJlcyB0aGF0IG91ciBwcm9kdWN0cyBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcywgbWFraW5nIHRoZW0gYSByZWxpYWJsZSBjaG9pY2UgZm9yIHZhcmlvdXMgY3VsaW5hcnkgYW5kIGluZHVzdHJpYWwgYXBwbGljYXRpb25zLgoKIyMjIEFib3V0IERlaHlkcmF0ZWQgUmVkIE9uaW9uIFBvd2RlcgoKUmVkIG9uaW9ucyBhcmUga25vd24gZm9yIHRoZWlyIHZpYnJhbnQgY29sb3IgYW5kIHJvYnVzdCBmbGF2b3IsIHdpZGVseSB1c2VkIGluIGNvb2tpbmcgYW5kIHNhbGFkcy4gRGVoeWRyYXRlZCByZWQgb25pb24gcG93ZGVyIHJldGFpbnMgdGhlIGRpc3RpbmN0aXZlIHRhc3RlIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cyBvZiBmcmVzaCByZWQgb25pb25zIHdoaWxlIG9mZmVyaW5nIHRoZSBjb252ZW5pZW5jZSBvZiBhIGxvbmdlciBzaGVsZiBsaWZlIGFuZCBlYXNpZXIgc3RvcmFnZS4gVGhpcyBtYWtlcyBpdCBhbiBpZGVhbCBpbmdyZWRpZW50IGZvciBlbmhhbmNpbmcgdGhlIGZsYXZvciBvZiBhIHdpZGUgcmFuZ2Ugb2YgZGlzaGVzLgoKIyMjIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgZGVoeWRyYXRlZCByZWQgb25pb24gcG93ZGVyIGlzIHByb2R1Y2VkIGZyb20gdGhlIGZpbmVzdCBxdWFsaXR5IHJlZCBvbmlvbnMsIHNvdXJjZWQgZGlyZWN0bHkgZnJvbSBjdWx0aXZhdGVkIGZhcm1zLiBPdXIgZGVoeWRyYXRpb24gcHJvY2VzcyBpcyBjYXJyaWVkIG91dCBpbiBzdGF0ZS1vZi10aGUtYXJ0IGZhY2lsaXRpZXMgd2hlcmUgZnJlc2ggb25pb25zIHVuZGVyZ28gbXVsdGlwbGUgc3RlcHMgb2YgdGVzdGluZyBhbmQgc29ydGluZy4gVGhpcyBtZXRpY3Vsb3VzIGFwcHJvYWNoIGd1YXJhbnRlZXMgdGhhdCBvdXIgb25pb24gcG93ZGVyIHJldGFpbnMgaXRzIG5hdHVyYWwgZmxhdm9yLCBjb2xvciwgYW5kIG51dHJpdGlvbmFsIHByb3BlcnRpZXMuCgojIyMgQXBwbGljYXRpb25zIG9mIERlaHlkcmF0ZWQgUmVkIE9uaW9uIFBvd2RlcgoKRGVoeWRyYXRlZCByZWQgb25pb24gcG93ZGVyIGlzIHZlcnNhdGlsZSBhbmQgZXh0ZW5zaXZlbHkgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKlNvdXBzIGFuZCBTdGV3cyoqOiBBZGRzIGRlcHRoIGFuZCBmbGF2b3IgdG8gc291cHMsIHN0ZXdzLCBhbmQgYnJvdGhzLgotICoqU2F1Y2VzIGFuZCBHcmF2aWVzKio6IEVuaGFuY2VzIHRoZSB0YXN0ZSBvZiBzYXVjZXMsIGdyYXZpZXMsIGFuZCBtYXJpbmFkZXMuCi0gKipTZWFzb25pbmcqKjogSWRlYWwgZm9yIHNwaWNlIGJsZW5kcywgcnVicywgYW5kIHNlYXNvbmluZyBtaXhlcy4KLSAqKk1lYXQgUHJvZHVjdHMqKjogVXNlZCBpbiBzYXVzYWdlcywgYnVyZ2VycywgYW5kIG1lYXRsb2FmIHRvIGltcGFydCBhIHJpY2ggb25pb24gZmxhdm9yLgotICoqQmFraW5nKio6IEluY29ycG9yYXRlIGludG8gYnJlYWQsIHJvbGxzLCBhbmQgc2F2b3J5IHBhc3RyaWVzIGZvciBhIGRpc3RpbmN0IHRhc3RlLgotICoqRHJlc3NpbmdzIGFuZCBEaXBzKio6IFBlcmZlY3QgZm9yIHNhbGFkIGRyZXNzaW5ncywgZGlwcywgYW5kIHNwcmVhZHMuCgojIyMgQmVuZWZpdHMgb2YgRGVoeWRyYXRlZCBSZWQgT25pb24gUG93ZGVyCgotICoqQ29udmVuaWVuY2UqKjogRWFzeSB0byBwYWNrLCBzdG9yZSwgYW5kIHRyYW5zcG9ydC4KLSAqKkxvbmcgU2hlbGYgTGlmZSoqOiBNYWludGFpbnMgaXRzIGZsYXZvciwgY29sb3IsIGFuZCBudXRyaXRpb25hbCB2YWx1ZSBvdmVyIGV4dGVuZGVkIHBlcmlvZHMuCi0gKipDb25zaXN0ZW5jeSoqOiBQcm92aWRlcyBhIGNvbnNpc3RlbnQgZmxhdm9yIHByb2ZpbGUgaW4gcmVjaXBlcy4KLSAqKlZlcnNhdGlsaXR5Kio6IFN1aXRhYmxlIGZvciBhIHdpZGUgcmFuZ2Ugb2YgY3VsaW5hcnkgYXBwbGljYXRpb25zLgotICoqTnV0cml0aW9uYWwgVmFsdWUqKjogUmV0YWlucyBlc3NlbnRpYWwgbnV0cmllbnRzIGZvdW5kIGluIGZyZXNoIG9uaW9ucy4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzLiBXZSB3b3JrIGNsb3NlbHkgd2l0aCBsb2NhbCBmYXJtZXJzIHdobyBhZGhlcmUgdG8gZWNvLWZyaWVuZGx5IGFncmljdWx0dXJhbCBtZXRob2RzLiBPdXIgZm9jdXMgb24gc3VzdGFpbmFiaWxpdHkgZW5zdXJlcyB0aGF0IHdlIGRlbGl2ZXIgcHJvZHVjdHMgdGhhdCBhcmUgbm90IG9ubHkgaGlnaCBpbiBxdWFsaXR5IGJ1dCBhbHNvIHJlc3BvbnNpYmx5IHNvdXJjZWQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBkZWh5ZHJhdGVkIHJlZCBvbmlvbiBwb3dkZXIsIFZhcm5pIEV4cG9ydHMgZ3VhcmFudGVlcyBwcmVtaXVtLXF1YWxpdHkgcHJvZHVjdHMgdGhhdCBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLiBXZSBwcmlvcml0aXplIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBhbmQgZW5zdXJlIHRpbWVseSBkZWxpdmVyeSBvZiBvcmRlcnMgdGhyb3VnaCBlZmZpY2llbnQgbG9naXN0aWNzLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gZGVoeWRyYXRlZCByZWQgb25pb24gcG93ZGVyIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZXhwZXJpZW5jZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBxdWFsaXR5IGFuZCByZWxpYWJpbGl0eSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Red Onion Powder</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated red onion powder. Our dedication to quality ensures that our products meet the highest standards, making them a reliable choice for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated Red Onion Powder</strong></p>
+            <br />
+
+            <p>Red onions are known for their vibrant color and robust flavor, widely used in cooking and salads. Dehydrated red onion powder retains the distinctive taste and nutritional benefits of fresh red onions while offering the convenience of a longer shelf life and easier storage. This makes it an ideal ingredient for enhancing the flavor of a wide range of dishes.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our dehydrated red onion powder is produced from the finest quality red onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion powder retains its natural flavor, color, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated Red Onion Powder</strong></p>
+            <br />
+
+            <p>Dehydrated red onion powder is versatile and extensively used in various culinary applications:</p>
+            <br />
+            <li><strong>Soups and Stews:</strong> Adds depth and flavor to soups, stews, and broths.</li>
+            <li><strong>Sauces and Gravies:</strong> Enhances the taste of sauces, gravies, and marinades.</li>
+            <li><strong>Seasoning:</strong> Ideal for spice blends, rubs, and seasoning mixes.</li>
+            <li><strong>Meat Products:</strong> Used in sausages, burgers, and meatloaf to impart a rich onion flavor.</li>
+            <li><strong>Baking:</strong> Incorporate into bread, rolls, and savory pastries for a distinct taste.</li>
+            <li><strong>Dressings and Dips:</strong> Perfect for salad dressings, dips, and spreads.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated Red Onion Powder</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains its flavor, color, and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Suitable for a wide range of culinary applications.</li>
+            <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated red onion powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated red onion powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -445,7 +1303,66 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgUGluayBPbmlvbiBGbGFrZXMKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgZGVoeWRyYXRlZCBwaW5rIG9uaW9uIGZsYWtlcy4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgb3VyIHByb2R1Y3RzIG1lZXQgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzLCBtYWtpbmcgdGhlbSBhbiBpZGVhbCBjaG9pY2UgZm9yIHZhcmlvdXMgY3VsaW5hcnkgYW5kIGluZHVzdHJpYWwgYXBwbGljYXRpb25zLgoKIyMjIEFib3V0IERlaHlkcmF0ZWQgUGluayBPbmlvbiBGbGFrZXMKClBpbmsgb25pb25zIGFyZSBjaGVyaXNoZWQgZm9yIHRoZWlyIHVuaXF1ZSBjb2xvciBhbmQgbWlsZCwgc3dlZXQgZmxhdm9yLCBtYWtpbmcgdGhlbSBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IGluIGNvb2tpbmcgYW5kIHNhbGFkcy4gRGVoeWRyYXRlZCBwaW5rIG9uaW9uIGZsYWtlcyByZXRhaW4gdGhlIGRpc3RpbmN0aXZlIHRhc3RlIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cyBvZiBmcmVzaCBwaW5rIG9uaW9ucyB3aGlsZSBvZmZlcmluZyB0aGUgY29udmVuaWVuY2Ugb2YgYSBsb25nZXIgc2hlbGYgbGlmZSBhbmQgZWFzaWVyIHN0b3JhZ2UuIFRoZXkgYXJlIHBlcmZlY3QgZm9yIGFkZGluZyBhIHN1YnRsZSBvbmlvbiBmbGF2b3IgYW5kIGFwcGVhbGluZyBjb2xvciB0byBhIHZhcmlldHkgb2YgZGlzaGVzLgoKIyMjIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgZGVoeWRyYXRlZCBwaW5rIG9uaW9uIGZsYWtlcyBhcmUgcHJvZHVjZWQgZnJvbSB0aGUgZmluZXN0IHF1YWxpdHkgcGluayBvbmlvbnMsIHNvdXJjZWQgZGlyZWN0bHkgZnJvbSBjdWx0aXZhdGVkIGZhcm1zLiBPdXIgZGVoeWRyYXRpb24gcHJvY2VzcyBpcyBjYXJyaWVkIG91dCBpbiBzdGF0ZS1vZi10aGUtYXJ0IGZhY2lsaXRpZXMgd2hlcmUgZnJlc2ggb25pb25zIHVuZGVyZ28gbXVsdGlwbGUgc3RlcHMgb2YgdGVzdGluZyBhbmQgc29ydGluZy4gVGhpcyBtZXRpY3Vsb3VzIGFwcHJvYWNoIGd1YXJhbnRlZXMgdGhhdCBvdXIgb25pb24gZmxha2VzIHJldGFpbiB0aGVpciBuYXR1cmFsIGZsYXZvciwgY29sb3IsIGFuZCBudXRyaXRpb25hbCBwcm9wZXJ0aWVzLgoKIyMjIEFwcGxpY2F0aW9ucyBvZiBEZWh5ZHJhdGVkIFBpbmsgT25pb24gRmxha2VzCgpEZWh5ZHJhdGVkIHBpbmsgb25pb24gZmxha2VzIGFyZSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSB1c2VkIGluIGEgd2lkZSByYW5nZSBvZiBjdWxpbmFyeSBhcHBsaWNhdGlvbnM6Ci0gKipTbmFja2luZyoqOiBTcHJpbmtsZSBvbiBzbmFja3MgYW5kIGFwcGV0aXplcnMgZm9yIGFkZGVkIGZsYXZvci4KLSAqKkNvb2tpbmcqKjogVXNlIGluIHNvdXBzLCBzdGV3cywgYW5kIGNhc3Nlcm9sZXMgdG8gZW5oYW5jZSB0YXN0ZSBhbmQgdGV4dHVyZS4KLSAqKkJha2luZyoqOiBBZGQgdG8gYnJlYWQsIHJvbGxzLCBhbmQgc2F2b3J5IHBhc3RyaWVzIGZvciBhIHJpY2ggb25pb24gZmxhdm9yLgotICoqU2Vhc29uaW5nKio6IFBlcmZlY3QgZm9yIHNwaWNlIGJsZW5kcywgcnVicywgYW5kIHNlYXNvbmluZyBtaXhlcy4KLSAqKlNhbGFkcyoqOiBSZWh5ZHJhdGUgYW5kIGFkZCB0byBzYWxhZHMgZm9yIGEgZnJlc2ggb25pb24gdGFzdGUuCi0gKipHYXJuaXNoaW5nKio6IFVzZSBhcyBhIGNvbG9yZnVsIGFuZCBmbGF2b3JmdWwgZ2FybmlzaCBmb3IgdmFyaW91cyBkaXNoZXMuCgojIyMgQmVuZWZpdHMgb2YgRGVoeWRyYXRlZCBQaW5rIE9uaW9uIEZsYWtlcwoKLSAqKkNvbnZlbmllbmNlKio6IEVhc3kgdG8gcGFjaywgc3RvcmUsIGFuZCB0cmFuc3BvcnQuCi0gKipMb25nIFNoZWxmIExpZmUqKjogTWFpbnRhaW5zIGl0cyBmbGF2b3IsIGNvbG9yLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgb3ZlciBleHRlbmRlZCBwZXJpb2RzLgotICoqQ29uc2lzdGVuY3kqKjogUHJvdmlkZXMgYSBjb25zaXN0ZW50IGZsYXZvciBwcm9maWxlIGluIHJlY2lwZXMuCi0gKipWZXJzYXRpbGl0eSoqOiBTdWl0YWJsZSBmb3IgYSB3aWRlIHJhbmdlIG9mIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KLSAqKk51dHJpdGlvbmFsIFZhbHVlKio6IFJldGFpbnMgZXNzZW50aWFsIG51dHJpZW50cyBmb3VuZCBpbiBmcmVzaCBvbmlvbnMuCgojIyMgU3VzdGFpbmFibGUgU291cmNpbmcKClZhcm5pIEV4cG9ydHMgaXMgY29tbWl0dGVkIHRvIHN1c3RhaW5hYmxlIHNvdXJjaW5nIHByYWN0aWNlcy4gV2Ugd29yayBjbG9zZWx5IHdpdGggbG9jYWwgZmFybWVycyB3aG8gYWRoZXJlIHRvIGVjby1mcmllbmRseSBhZ3JpY3VsdHVyYWwgbWV0aG9kcy4gT3VyIGZvY3VzIG9uIHN1c3RhaW5hYmlsaXR5IGVuc3VyZXMgdGhhdCB3ZSBkZWxpdmVyIHByb2R1Y3RzIHRoYXQgYXJlIG5vdCBvbmx5IGhpZ2ggaW4gcXVhbGl0eSBidXQgYWxzbyByZXNwb25zaWJseSBzb3VyY2VkLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpBcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgZGVoeWRyYXRlZCBwaW5rIG9uaW9uIGZsYWtlcywgVmFybmkgRXhwb3J0cyBndWFyYW50ZWVzIHByZW1pdW0tcXVhbGl0eSBwcm9kdWN0cyB0aGF0IG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMuIFdlIHByaW9yaXRpemUgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGFuZCBlbnN1cmUgdGltZWx5IGRlbGl2ZXJ5IG9mIG9yZGVycyB0aHJvdWdoIGVmZmljaWVudCBsb2dpc3RpY3MuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBkZWh5ZHJhdGVkIHBpbmsgb25pb24gZmxha2VzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZXhwZXJpZW5jZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBxdWFsaXR5IGFuZCByZWxpYWJpbGl0eSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Pink Onion Flakes</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated pink onion flakes. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated Pink Onion Flakes</strong></p>
+            <br />
+
+            <p>Pink onions are cherished for their unique color and mild, sweet flavor, making them a versatile ingredient in cooking and salads. Dehydrated pink onion flakes retain the distinctive taste and nutritional benefits of fresh pink onions while offering the convenience of a longer shelf life and easier storage. They are perfect for adding a subtle onion flavor and appealing color to a variety of dishes.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our dehydrated pink onion flakes are produced from the finest quality pink onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion flakes retain their natural flavor, color, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated Pink Onion Flakes</strong></p>
+            <br />
+
+            <p>Dehydrated pink onion flakes are versatile and can be used in a wide range of culinary applications:</p>
+            <br />
+            <li><strong>Snacking:</strong> Sprinkle on snacks and appetizers for added flavor.</li>
+            <li><strong>Cooking:</strong> Use in soups, stews, and casseroles to enhance taste and texture.</li>
+            <li><strong>Baking:</strong> Add to bread, rolls, and savory pastries for a rich onion flavor.</li>
+            <li><strong>Seasoning:</strong> Perfect for spice blends, rubs, and seasoning mixes.</li>
+            <li><strong>Salads:</strong> Rehydrate and add to salads for a fresh onion taste.</li>
+            <li><strong>Garnishing:</strong> Use as a colorful and flavorful garnish for various dishes.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated Pink Onion Flakes</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains its flavor, color, and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Suitable for a wide range of culinary applications.</li>
+            <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated pink onion flakes, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated pink onion flakes or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -466,12 +1383,71 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgUGluayBPbmlvbiBQb3dkZXIKClZhcm5pIEV4cG9ydHMgaXMgeW91ciByZWxpYWJsZSBwYXJ0bmVyIGZvciBzb3VyY2luZyBoaWdoLXF1YWxpdHkgZGVoeWRyYXRlZCBwaW5rIG9uaW9uIHBvd2Rlci4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgb3VyIHByb2R1Y3RzIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzLCBtYWtpbmcgdGhlbSBpZGVhbCBmb3IgdmFyaW91cyBjdWxpbmFyeSBhbmQgaW5kdXN0cmlhbCBhcHBsaWNhdGlvbnMuCgojIyMgQWJvdXQgRGVoeWRyYXRlZCBQaW5rIE9uaW9uIFBvd2RlcgoKUGluayBvbmlvbnMgYXJlIGtub3duIGZvciB0aGVpciBtaWxkLCBzd2VldCBmbGF2b3IgYW5kIGRpc3RpbmN0aXZlIGNvbG9yLCBtYWtpbmcgdGhlbSBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IGluIG1hbnkgZGlzaGVzLiBEZWh5ZHJhdGVkIHBpbmsgb25pb24gcG93ZGVyIHJldGFpbnMgdGhlIHVuaXF1ZSB0YXN0ZSBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMgb2YgZnJlc2ggcGluayBvbmlvbnMgd2hpbGUgb2ZmZXJpbmcgdGhlIGNvbnZlbmllbmNlIG9mIGEgbG9uZ2VyIHNoZWxmIGxpZmUgYW5kIGVhc2llciBzdG9yYWdlLiBUaGlzIG1ha2VzIGl0IGFuIGlkZWFsIGluZ3JlZGllbnQgZm9yIGVuaGFuY2luZyB0aGUgZmxhdm9yIG9mIGEgd2lkZSByYW5nZSBvZiBkaXNoZXMuCgojIyMgUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGVuc3VyZSB0aGF0IG91ciBkZWh5ZHJhdGVkIHBpbmsgb25pb24gcG93ZGVyIGlzIHByb2R1Y2VkIGZyb20gdGhlIGZpbmVzdCBxdWFsaXR5IHBpbmsgb25pb25zLCBzb3VyY2VkIGRpcmVjdGx5IGZyb20gY3VsdGl2YXRlZCBmYXJtcy4gT3VyIGRlaHlkcmF0aW9uIHByb2Nlc3MgaXMgY2FycmllZCBvdXQgaW4gc3RhdGUtb2YtdGhlLWFydCBmYWNpbGl0aWVzIHdoZXJlIGZyZXNoIG9uaW9ucyB1bmRlcmdvIG11bHRpcGxlIHN0ZXBzIG9mIHRlc3RpbmcgYW5kIHNvcnRpbmcuIFRoaXMgbWV0aWN1bG91cyBhcHByb2FjaCBndWFyYW50ZWVzIHRoYXQgb3VyIG9uaW9uIHBvd2RlciByZXRhaW5zIGl0cyBuYXR1cmFsIGZsYXZvciwgY29sb3IsIGFuZCBudXRyaXRpb25hbCBwcm9wZXJ0aWVzLgoKIyMjIEFwcGxpY2F0aW9ucyBvZiBEZWh5ZHJhdGVkIFBpbmsgT25pb24gUG93ZGVyCgpEZWh5ZHJhdGVkIHBpbmsgb25pb24gcG93ZGVyIGlzIHZlcnNhdGlsZSBhbmQgZXh0ZW5zaXZlbHkgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKlNvdXBzIGFuZCBTdGV3cyoqOiBBZGRzIGRlcHRoIGFuZCBmbGF2b3IgdG8gc291cHMsIHN0ZXdzLCBhbmQgYnJvdGhzLgotICoqU2F1Y2VzIGFuZCBHcmF2aWVzKio6IEVuaGFuY2VzIHRoZSB0YXN0ZSBvZiBzYXVjZXMsIGdyYXZpZXMsIGFuZCBtYXJpbmFkZXMuCi0gKipTZWFzb25pbmcqKjogSWRlYWwgZm9yIHNwaWNlIGJsZW5kcywgcnVicywgYW5kIHNlYXNvbmluZyBtaXhlcy4KLSAqKk1lYXQgUHJvZHVjdHMqKjogVXNlZCBpbiBzYXVzYWdlcywgYnVyZ2VycywgYW5kIG1lYXRsb2FmIHRvIGltcGFydCBhIHJpY2ggb25pb24gZmxhdm9yLgotICoqQmFraW5nKio6IEluY29ycG9yYXRlIGludG8gYnJlYWQsIHJvbGxzLCBhbmQgc2F2b3J5IHBhc3RyaWVzIGZvciBhIGRpc3RpbmN0IHRhc3RlLgotICoqRHJlc3NpbmdzIGFuZCBEaXBzKio6IFBlcmZlY3QgZm9yIHNhbGFkIGRyZXNzaW5ncywgZGlwcywgYW5kIHNwcmVhZHMuCgojIyMgQmVuZWZpdHMgb2YgRGVoeWRyYXRlZCBQaW5rIE9uaW9uIFBvd2RlcgoKLSAqKkNvbnZlbmllbmNlKio6IEVhc3kgdG8gcGFjaywgc3RvcmUsIGFuZCB0cmFuc3BvcnQuCi0gKipMb25nIFNoZWxmIExpZmUqKjogTWFpbnRhaW5zIGl0cyBmbGF2b3IsIGNvbG9yLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgb3ZlciBleHRlbmRlZCBwZXJpb2RzLgotICoqQ29uc2lzdGVuY3kqKjogUHJvdmlkZXMgYSBjb25zaXN0ZW50IGZsYXZvciBwcm9maWxlIGluIHJlY2lwZXMuCi0gKipWZXJzYXRpbGl0eSoqOiBTdWl0YWJsZSBmb3IgYSB3aWRlIHJhbmdlIG9mIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KLSAqKk51dHJpdGlvbmFsIFZhbHVlKio6IFJldGFpbnMgZXNzZW50aWFsIG51dHJpZW50cyBmb3VuZCBpbiBmcmVzaCBvbmlvbnMuCgojIyMgU3VzdGFpbmFibGUgU291cmNpbmcKClZhcm5pIEV4cG9ydHMgaXMgY29tbWl0dGVkIHRvIHN1c3RhaW5hYmxlIHNvdXJjaW5nIHByYWN0aWNlcy4gV2Ugd29yayBjbG9zZWx5IHdpdGggbG9jYWwgZmFybWVycyB3aG8gYWRoZXJlIHRvIGVjby1mcmllbmRseSBhZ3JpY3VsdHVyYWwgbWV0aG9kcy4gT3VyIGZvY3VzIG9uIHN1c3RhaW5hYmlsaXR5IGVuc3VyZXMgdGhhdCB3ZSBkZWxpdmVyIHByb2R1Y3RzIHRoYXQgYXJlIG5vdCBvbmx5IGhpZ2ggaW4gcXVhbGl0eSBidXQgYWxzbyByZXNwb25zaWJseSBzb3VyY2VkLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpBcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgZGVoeWRyYXRlZCBwaW5rIG9uaW9uIHBvd2RlciwgVmFybmkgRXhwb3J0cyBndWFyYW50ZWVzIHByZW1pdW0tcXVhbGl0eSBwcm9kdWN0cyB0aGF0IG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMuIFdlIHByaW9yaXRpemUgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGFuZCBlbnN1cmUgdGltZWx5IGRlbGl2ZXJ5IG9mIG9yZGVycyB0aHJvdWdoIGVmZmljaWVudCBsb2dpc3RpY3MuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBkZWh5ZHJhdGVkIHBpbmsgb25pb24gcG93ZGVyIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZXhwZXJpZW5jZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBxdWFsaXR5IGFuZCByZWxpYWJpbGl0eSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Pink Onion Powder</strong></p>
+            <br />
+
+            <p>Varni Exports is your reliable partner for sourcing high-quality dehydrated pink onion powder. Our commitment to excellence ensures that our products meet the highest standards, making them ideal for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated Pink Onion Powder</strong></p>
+            <br />
+
+            <p>Pink onions are known for their mild, sweet flavor and distinctive color, making them a versatile ingredient in many dishes. Dehydrated pink onion powder retains the unique taste and nutritional benefits of fresh pink onions while offering the convenience of a longer shelf life and easier storage. This makes it an ideal ingredient for enhancing the flavor of a wide range of dishes.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our dehydrated pink onion powder is produced from the finest quality pink onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion powder retains its natural flavor, color, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated Pink Onion Powder</strong></p>
+            <br />
+
+            <p>Dehydrated pink onion powder is versatile and extensively used in various culinary applications:</p>
+            <br />
+            <li><strong>Soups and Stews:</strong> Adds depth and flavor to soups, stews, and broths.</li>
+            <li><strong>Sauces and Gravies:</strong> Enhances the taste of sauces, gravies, and marinades.</li>
+            <li><strong>Seasoning:</strong> Ideal for spice blends, rubs, and seasoning mixes.</li>
+            <li><strong>Meat Products:</strong> Used in sausages, burgers, and meatloaf to impart a rich onion flavor.</li>
+            <li><strong>Baking:</strong> Incorporate into bread, rolls, and savory pastries for a distinct taste.</li>
+            <li><strong>Dressings and Dips:</strong> Perfect for salad dressings, dips, and spreads.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated Pink Onion Powder</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains its flavor, color, and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Suitable for a wide range of culinary applications.</li>
+            <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated pink onion powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated pink onion powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
         id: "7",
-        name: "Dehydrated Garlic Flakes/Cloves",
+        name: "Dehydrated Garlic Flakes-Cloves",
         Category: "Dehydrated Products",
         images: dehydrated7,
         "Botanical Name": "Allium Sativum",
@@ -486,7 +1462,65 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgR2FybGljIEZsYWtlcyBhbmQgQ2xvdmVzCgpWYXJuaSBFeHBvcnRzIHNwZWNpYWxpemVzIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgaGlnaC1xdWFsaXR5IGRlaHlkcmF0ZWQgZ2FybGljIGZsYWtlcyBhbmQgY2xvdmVzLiBPdXIgY29tbWl0bWVudCB0byBleGNlbGxlbmNlIGVuc3VyZXMgdGhhdCBvdXIgcHJvZHVjdHMgbWVldCBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMsIG1ha2luZyB0aGVtIGlkZWFsIGZvciB2YXJpb3VzIGN1bGluYXJ5IGFuZCBpbmR1c3RyaWFsIGFwcGxpY2F0aW9ucy4KCiMjIyBBYm91dCBEZWh5ZHJhdGVkIEdhcmxpYyBGbGFrZXMgYW5kIENsb3ZlcwoKR2FybGljIGlzIGEgc3RhcGxlIGluZ3JlZGllbnQgaW4ga2l0Y2hlbnMgd29ybGR3aWRlLCBrbm93biBmb3IgaXRzIHB1bmdlbnQgZmxhdm9yIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuIERlaHlkcmF0ZWQgZ2FybGljIGZsYWtlcyBhbmQgY2xvdmVzIHJldGFpbiB0aGUgZGlzdGluY3RpdmUgdGFzdGUgYW5kIG51dHJpdGlvbmFsIGJlbmVmaXRzIG9mIGZyZXNoIGdhcmxpYyB3aGlsZSBvZmZlcmluZyB0aGUgY29udmVuaWVuY2Ugb2YgYSBsb25nZXIgc2hlbGYgbGlmZSBhbmQgZWFzaWVyIHN0b3JhZ2UuIFRoZXkgYXJlIHBlcmZlY3QgZm9yIGFkZGluZyBhIHJvYnVzdCBnYXJsaWMgZmxhdm9yIHRvIGEgdmFyaWV0eSBvZiBkaXNoZXMgd2l0aG91dCB0aGUgaGFzc2xlIG9mIHBlZWxpbmcgYW5kIGNob3BwaW5nIGZyZXNoIGdhcmxpYy4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIHRoYXQgb3VyIGRlaHlkcmF0ZWQgZ2FybGljIGZsYWtlcyBhbmQgY2xvdmVzIGFyZSBwcm9kdWNlZCBmcm9tIHRoZSBmaW5lc3QgcXVhbGl0eSBnYXJsaWMsIHNvdXJjZWQgZGlyZWN0bHkgZnJvbSBjdWx0aXZhdGVkIGZhcm1zLiBPdXIgZGVoeWRyYXRpb24gcHJvY2VzcyBpcyBjYXJyaWVkIG91dCBpbiBzdGF0ZS1vZi10aGUtYXJ0IGZhY2lsaXRpZXMgd2hlcmUgZnJlc2ggZ2FybGljIHVuZGVyZ29lcyBtdWx0aXBsZSBzdGVwcyBvZiB0ZXN0aW5nIGFuZCBzb3J0aW5nLiBUaGlzIG1ldGljdWxvdXMgYXBwcm9hY2ggZ3VhcmFudGVlcyB0aGF0IG91ciBnYXJsaWMgcHJvZHVjdHMgcmV0YWluIHRoZWlyIG5hdHVyYWwgZmxhdm9yLCBhcm9tYSwgYW5kIG51dHJpdGlvbmFsIHByb3BlcnRpZXMuCgojIyMgQXBwbGljYXRpb25zIG9mIERlaHlkcmF0ZWQgR2FybGljIEZsYWtlcyBhbmQgQ2xvdmVzCgpEZWh5ZHJhdGVkIGdhcmxpYyBmbGFrZXMgYW5kIGNsb3ZlcyBhcmUgdmVyc2F0aWxlIGFuZCBjYW4gYmUgdXNlZCBpbiBhIHdpZGUgcmFuZ2Ugb2YgY3VsaW5hcnkgYXBwbGljYXRpb25zOgotICoqQ29va2luZyoqOiBBZGQgdG8gc291cHMsIHN0ZXdzLCBjYXNzZXJvbGVzLCBhbmQgc3Rpci1mcmllcyBmb3IgZW5oYW5jZWQgZmxhdm9yLgotICoqU2Vhc29uaW5nKio6IFBlcmZlY3QgZm9yIHNwaWNlIGJsZW5kcywgcnVicywgYW5kIHNlYXNvbmluZyBtaXhlcy4KLSAqKkJha2luZyoqOiBVc2UgaW4gc2F2b3J5IGJyZWFkcywgcm9sbHMsIGFuZCBwYXN0cmllcyB0byBpbXBhcnQgYSByaWNoIGdhcmxpYyB0YXN0ZS4KLSAqKlNhdWNlcyBhbmQgTWFyaW5hZGVzKio6IElkZWFsIGZvciBhZGRpbmcgZGVwdGggdG8gc2F1Y2VzLCBtYXJpbmFkZXMsIGFuZCBkcmVzc2luZ3MuCi0gKipQcmVwYXJlZCBGb29kcyoqOiBDb21tb25seSB1c2VkIGluIHJlYWR5LXRvLWVhdCBtZWFscywgc25hY2tzLCBhbmQgY29udmVuaWVuY2UgZm9vZHMuCgojIyMgQmVuZWZpdHMgb2YgRGVoeWRyYXRlZCBHYXJsaWMgRmxha2VzIGFuZCBDbG92ZXMKCi0gKipDb252ZW5pZW5jZSoqOiBFYXN5IHRvIHBhY2ssIHN0b3JlLCBhbmQgdHJhbnNwb3J0LgotICoqTG9uZyBTaGVsZiBMaWZlKio6IE1haW50YWlucyBmbGF2b3IsIGFyb21hLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgb3ZlciBleHRlbmRlZCBwZXJpb2RzLgotICoqQ29uc2lzdGVuY3kqKjogUHJvdmlkZXMgYSBjb25zaXN0ZW50IGZsYXZvciBwcm9maWxlIGluIHJlY2lwZXMuCi0gKipWZXJzYXRpbGl0eSoqOiBTdWl0YWJsZSBmb3IgYSB3aWRlIHJhbmdlIG9mIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KLSAqKk51dHJpdGlvbmFsIFZhbHVlKio6IFJldGFpbnMgZXNzZW50aWFsIG51dHJpZW50cyBhbmQgaGVhbHRoIGJlbmVmaXRzIG9mIGZyZXNoIGdhcmxpYy4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzLiBXZSB3b3JrIGNsb3NlbHkgd2l0aCBsb2NhbCBmYXJtZXJzIHdobyBhZGhlcmUgdG8gZWNvLWZyaWVuZGx5IGFncmljdWx0dXJhbCBtZXRob2RzLiBPdXIgZm9jdXMgb24gc3VzdGFpbmFiaWxpdHkgZW5zdXJlcyB0aGF0IHdlIGRlbGl2ZXIgcHJvZHVjdHMgdGhhdCBhcmUgbm90IG9ubHkgaGlnaCBpbiBxdWFsaXR5IGJ1dCBhbHNvIHJlc3BvbnNpYmx5IHNvdXJjZWQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBkZWh5ZHJhdGVkIGdhcmxpYyBmbGFrZXMgYW5kIGNsb3ZlcywgVmFybmkgRXhwb3J0cyBndWFyYW50ZWVzIHByZW1pdW0tcXVhbGl0eSBwcm9kdWN0cyB0aGF0IG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMuIFdlIHByaW9yaXRpemUgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGFuZCBlbnN1cmUgdGltZWx5IGRlbGl2ZXJ5IG9mIG9yZGVycyB0aHJvdWdoIGVmZmljaWVudCBsb2dpc3RpY3MuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBkZWh5ZHJhdGVkIGdhcmxpYyBmbGFrZXMgYW5kIGNsb3ZlcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGV4cGVyaWVuY2VkIHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0IHlvdSB3aXRoIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBwcm92aWRlIHJlbGlhYmxlIHNvdXJjaW5nIHNvbHV0aW9ucy4gRXhwZXJpZW5jZSB0aGUgcXVhbGl0eSBhbmQgcmVsaWFiaWxpdHkgb2YgVmFybmkgRXhwb3J0cyB0b2RheSE=",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Garlic Flakes and Cloves</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated garlic flakes and cloves. Our commitment to excellence ensures that our products meet stringent quality standards, making them ideal for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated Garlic Flakes and Cloves</strong></p>
+            <br />
+
+            <p>Garlic is a staple ingredient in kitchens worldwide, known for its pungent flavor and numerous health benefits. Dehydrated garlic flakes and cloves retain the distinctive taste and nutritional benefits of fresh garlic while offering the convenience of a longer shelf life and easier storage. They are perfect for adding a robust garlic flavor to a variety of dishes without the hassle of peeling and chopping fresh garlic.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our dehydrated garlic flakes and cloves are produced from the finest quality garlic, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh garlic undergoes multiple steps of testing and sorting. This meticulous approach guarantees that our garlic products retain their natural flavor, aroma, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated Garlic Flakes and Cloves</strong></p>
+            <br />
+
+            <p>Dehydrated garlic flakes and cloves are versatile and can be used in a wide range of culinary applications:</p>
+            <br />
+            <li><strong>Cooking:</strong> Add to soups, stews, casseroles, and stir-fries for enhanced flavor.</li>
+            <li><strong>Seasoning:</strong> Perfect for spice blends, rubs, and seasoning mixes.</li>
+            <li><strong>Baking:</strong> Use in savory breads, rolls, and pastries to impart a rich garlic taste.</li>
+            <li><strong>Sauces and Marinades:</strong> Ideal for adding depth to sauces, marinades, and dressings.</li>
+            <li><strong>Prepared Foods:</strong> Commonly used in ready-to-eat meals, snacks, and convenience foods.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated Garlic Flakes and Cloves</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains flavor, aroma, and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Suitable for a wide range of culinary applications.</li>
+            <li><strong>Nutritional Value:</strong> Retains essential nutrients and health benefits of fresh garlic.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated garlic flakes and cloves, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated garlic flakes and cloves or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -507,7 +1541,65 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIERlaHlkcmF0ZWQgR2FybGljIFBvd2RlcgoKVmFybmkgRXhwb3J0cyBzcGVjaWFsaXplcyBpbiBzb3VyY2luZyBhbmQgZXhwb3J0aW5nIGhpZ2gtcXVhbGl0eSBkZWh5ZHJhdGVkIGdhcmxpYyBwb3dkZXIuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyB0aGF0IG91ciBwcm9kdWN0cyBtZWV0IHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcywgbWFraW5nIHRoZW0gYW4gaWRlYWwgY2hvaWNlIGZvciB2YXJpb3VzIGN1bGluYXJ5IGFuZCBpbmR1c3RyaWFsIGFwcGxpY2F0aW9ucy4KCiMjIyBBYm91dCBEZWh5ZHJhdGVkIEdhcmxpYyBQb3dkZXIKCkdhcmxpYyBpcyBhIHN0YXBsZSBpbmdyZWRpZW50IGluIGtpdGNoZW5zIHdvcmxkd2lkZSwgcHJpemVkIGZvciBpdHMgcHVuZ2VudCBmbGF2b3IgYW5kIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0cy4gRGVoeWRyYXRlZCBnYXJsaWMgcG93ZGVyIHJldGFpbnMgdGhlIGRpc3RpbmN0aXZlIHRhc3RlIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cyBvZiBmcmVzaCBnYXJsaWMgd2hpbGUgb2ZmZXJpbmcgdGhlIGNvbnZlbmllbmNlIG9mIGEgbG9uZ2VyIHNoZWxmIGxpZmUgYW5kIGVhc2llciBzdG9yYWdlLiBJdCBpcyBwZXJmZWN0IGZvciBhZGRpbmcgYSByb2J1c3QgZ2FybGljIGZsYXZvciB0byBhIHZhcmlldHkgb2YgZGlzaGVzIHdpdGhvdXQgdGhlIGhhc3NsZSBvZiBwZWVsaW5nIGFuZCBjaG9wcGluZyBmcmVzaCBnYXJsaWMuCgojIyMgUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGVuc3VyZSB0aGF0IG91ciBkZWh5ZHJhdGVkIGdhcmxpYyBwb3dkZXIgaXMgcHJvZHVjZWQgZnJvbSB0aGUgZmluZXN0IHF1YWxpdHkgZ2FybGljLCBzb3VyY2VkIGRpcmVjdGx5IGZyb20gY3VsdGl2YXRlZCBmYXJtcy4gT3VyIGRlaHlkcmF0aW9uIHByb2Nlc3MgaXMgY2FycmllZCBvdXQgaW4gc3RhdGUtb2YtdGhlLWFydCBmYWNpbGl0aWVzIHdoZXJlIGZyZXNoIGdhcmxpYyB1bmRlcmdvZXMgbXVsdGlwbGUgc3RlcHMgb2YgdGVzdGluZyBhbmQgc29ydGluZy4gVGhpcyBtZXRpY3Vsb3VzIGFwcHJvYWNoIGd1YXJhbnRlZXMgdGhhdCBvdXIgZ2FybGljIHBvd2RlciByZXRhaW5zIGl0cyBuYXR1cmFsIGZsYXZvciwgYXJvbWEsIGFuZCBudXRyaXRpb25hbCBwcm9wZXJ0aWVzLgoKIyMjIEFwcGxpY2F0aW9ucyBvZiBEZWh5ZHJhdGVkIEdhcmxpYyBQb3dkZXIKCkRlaHlkcmF0ZWQgZ2FybGljIHBvd2RlciBpcyB2ZXJzYXRpbGUgYW5kIGV4dGVuc2l2ZWx5IHVzZWQgaW4gdmFyaW91cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnM6Ci0gKipDb29raW5nKio6IEFkZHMgZGVwdGggYW5kIGZsYXZvciB0byBzb3Vwcywgc3Rld3MsIGNhc3Nlcm9sZXMsIGFuZCBzdGlyLWZyaWVzLgotICoqU2Vhc29uaW5nKio6IElkZWFsIGZvciBzcGljZSBibGVuZHMsIHJ1YnMsIGFuZCBzZWFzb25pbmcgbWl4ZXMuCi0gKipCYWtpbmcqKjogRW5oYW5jZXMgdGhlIHRhc3RlIG9mIHNhdm9yeSBicmVhZHMsIHJvbGxzLCBhbmQgcGFzdHJpZXMuCi0gKipTYXVjZXMgYW5kIE1hcmluYWRlcyoqOiBQZXJmZWN0IGZvciBhZGRpbmcgcm9idXN0IGZsYXZvciB0byBzYXVjZXMsIG1hcmluYWRlcywgYW5kIGRyZXNzaW5ncy4KLSAqKlByZXBhcmVkIEZvb2RzKio6IENvbW1vbmx5IHVzZWQgaW4gcmVhZHktdG8tZWF0IG1lYWxzLCBzbmFja3MsIGFuZCBjb252ZW5pZW5jZSBmb29kcy4KCiMjIyBCZW5lZml0cyBvZiBEZWh5ZHJhdGVkIEdhcmxpYyBQb3dkZXIKCi0gKipDb252ZW5pZW5jZSoqOiBFYXN5IHRvIHBhY2ssIHN0b3JlLCBhbmQgdHJhbnNwb3J0LgotICoqTG9uZyBTaGVsZiBMaWZlKio6IE1haW50YWlucyBmbGF2b3IsIGFyb21hLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgb3ZlciBleHRlbmRlZCBwZXJpb2RzLgotICoqQ29uc2lzdGVuY3kqKjogUHJvdmlkZXMgYSBjb25zaXN0ZW50IGZsYXZvciBwcm9maWxlIGluIHJlY2lwZXMuCi0gKipWZXJzYXRpbGl0eSoqOiBTdWl0YWJsZSBmb3IgYSB3aWRlIHJhbmdlIG9mIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KLSAqKk51dHJpdGlvbmFsIFZhbHVlKio6IFJldGFpbnMgZXNzZW50aWFsIG51dHJpZW50cyBhbmQgaGVhbHRoIGJlbmVmaXRzIG9mIGZyZXNoIGdhcmxpYy4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzLiBXZSB3b3JrIGNsb3NlbHkgd2l0aCBsb2NhbCBmYXJtZXJzIHdobyBhZGhlcmUgdG8gZWNvLWZyaWVuZGx5IGFncmljdWx0dXJhbCBtZXRob2RzLiBPdXIgZm9jdXMgb24gc3VzdGFpbmFiaWxpdHkgZW5zdXJlcyB0aGF0IHdlIGRlbGl2ZXIgcHJvZHVjdHMgdGhhdCBhcmUgbm90IG9ubHkgaGlnaCBpbiBxdWFsaXR5IGJ1dCBhbHNvIHJlc3BvbnNpYmx5IHNvdXJjZWQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBkZWh5ZHJhdGVkIGdhcmxpYyBwb3dkZXIsIFZhcm5pIEV4cG9ydHMgZ3VhcmFudGVlcyBwcmVtaXVtLXF1YWxpdHkgcHJvZHVjdHMgdGhhdCBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLiBXZSBwcmlvcml0aXplIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBhbmQgZW5zdXJlIHRpbWVseSBkZWxpdmVyeSBvZiBvcmRlcnMgdGhyb3VnaCBlZmZpY2llbnQgbG9naXN0aWNzLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gZGVoeWRyYXRlZCBnYXJsaWMgcG93ZGVyIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZXhwZXJpZW5jZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBxdWFsaXR5IGFuZCByZWxpYWJpbGl0eSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Garlic Powder</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated garlic powder. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated Garlic Powder</strong></p>
+            <br />
+
+            <p>Garlic is a staple ingredient in kitchens worldwide, prized for its pungent flavor and numerous health benefits. Dehydrated garlic powder retains the distinctive taste and nutritional benefits of fresh garlic while offering the convenience of a longer shelf life and easier storage. It is perfect for adding a robust garlic flavor to a variety of dishes without the hassle of peeling and chopping fresh garlic.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our dehydrated garlic powder is produced from the finest quality garlic, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh garlic undergoes multiple steps of testing and sorting. This meticulous approach guarantees that our garlic powder retains its natural flavor, aroma, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated Garlic Powder</strong></p>
+            <br />
+
+            <p>Dehydrated garlic powder is versatile and extensively used in various culinary applications:</p>
+            <br />
+            <li><strong>Cooking:</strong> Adds depth and flavor to soups, stews, casseroles, and stir-fries.</li>
+            <li><strong>Seasoning:</strong> Ideal for spice blends, rubs, and seasoning mixes.</li>
+            <li><strong>Baking:</strong> Enhances the taste of savory breads, rolls, and pastries.</li>
+            <li><strong>Sauces and Marinades:</strong> Perfect for adding robust flavor to sauces, marinades, and dressings.</li>
+            <li><strong>Prepared Foods:</strong> Commonly used in ready-to-eat meals, snacks, and convenience foods.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated Garlic Powder</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains flavor, aroma, and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Suitable for a wide range of culinary applications.</li>
+            <li><strong>Nutritional Value:</strong> Retains essential nutrients and health benefits of fresh garlic.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of dehydrated garlic powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium dehydrated garlic powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -528,7 +1620,65 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIEdpbmdlciBQb3dkZXIKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgZ2luZ2VyIHBvd2Rlci4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgb3VyIHByb2R1Y3RzIG1lZXQgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzLCBtYWtpbmcgdGhlbSBhbiBpZGVhbCBjaG9pY2UgZm9yIHZhcmlvdXMgY3VsaW5hcnkgYW5kIGluZHVzdHJpYWwgYXBwbGljYXRpb25zLgoKIyMjIEFib3V0IEdpbmdlciBQb3dkZXIKCkdpbmdlciBwb3dkZXIgaXMgZGVyaXZlZCBmcm9tIGRyaWVkIGdpbmdlciByb290cyBhbmQgaXMgYSBzdGFwbGUgaW5ncmVkaWVudCBpbiBraXRjaGVucyB3b3JsZHdpZGUuIEtub3duIGZvciBpdHMgd2FybSwgc3BpY3kgZmxhdm9yIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMsIGdpbmdlciBwb3dkZXIgaXMgYSB2ZXJzYXRpbGUgaW5ncmVkaWVudCB0aGF0IGVuaGFuY2VzIHRoZSB0YXN0ZSBvZiBhIHdpZGUgdmFyaWV0eSBvZiBkaXNoZXMuIEl0IGlzIGFsc28gdmFsdWVkIGZvciBpdHMgbWVkaWNpbmFsIHByb3BlcnRpZXMuCgojIyMgUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGVuc3VyZSB0aGF0IG91ciBnaW5nZXIgcG93ZGVyIGlzIHByb2R1Y2VkIGZyb20gdGhlIGZpbmVzdCBxdWFsaXR5IGdpbmdlciByb290cywgc291cmNlZCBkaXJlY3RseSBmcm9tIGN1bHRpdmF0ZWQgZmFybXMuIE91ciBkZWh5ZHJhdGlvbiBhbmQgZ3JpbmRpbmcgcHJvY2Vzc2VzIGFyZSBjYXJyaWVkIG91dCBpbiBzdGF0ZS1vZi10aGUtYXJ0IGZhY2lsaXRpZXMgd2hlcmUgZnJlc2ggZ2luZ2VyIHVuZGVyZ29lcyBtdWx0aXBsZSBzdGVwcyBvZiB0ZXN0aW5nIGFuZCBzb3J0aW5nLiBUaGlzIG1ldGljdWxvdXMgYXBwcm9hY2ggZ3VhcmFudGVlcyB0aGF0IG91ciBnaW5nZXIgcG93ZGVyIHJldGFpbnMgaXRzIG5hdHVyYWwgZmxhdm9yLCBhcm9tYSwgYW5kIG51dHJpdGlvbmFsIHByb3BlcnRpZXMuCgojIyMgQXBwbGljYXRpb25zIG9mIEdpbmdlciBQb3dkZXIKCkdpbmdlciBwb3dkZXIgaXMgdmVyc2F0aWxlIGFuZCBleHRlbnNpdmVseSB1c2VkIGluIHZhcmlvdXMgY3VsaW5hcnkgYW5kIG1lZGljaW5hbCBhcHBsaWNhdGlvbnM6Ci0gKipDb29raW5nKio6IEFkZHMgZGVwdGggYW5kIHdhcm10aCB0byBzb3Vwcywgc3Rld3MsIGN1cnJpZXMsIGFuZCBzdGlyLWZyaWVzLgotICoqQmFraW5nKio6IEVuaGFuY2VzIHRoZSB0YXN0ZSBvZiBjYWtlcywgY29va2llcywgYnJlYWQsIGFuZCBwYXN0cmllcy4KLSAqKkJldmVyYWdlcyoqOiBVc2VkIGluIHRlYXMsIHNtb290aGllcywgYW5kIGhlYWx0aCBkcmlua3MgZm9yIGEgc3BpY3kga2ljay4KLSAqKlNlYXNvbmluZyoqOiBJZGVhbCBmb3Igc3BpY2UgYmxlbmRzLCBydWJzLCBhbmQgc2Vhc29uaW5nIG1peGVzLgotICoqTWVkaWNpbmFsKio6IEtub3duIGZvciBpdHMgZGlnZXN0aXZlIGFuZCBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzLCBnaW5nZXIgcG93ZGVyIGlzIHVzZWQgaW4gdHJhZGl0aW9uYWwgcmVtZWRpZXMgYW5kIHN1cHBsZW1lbnRzLgoKIyMjIEJlbmVmaXRzIG9mIEdpbmdlciBQb3dkZXIKCi0gKipDb252ZW5pZW5jZSoqOiBFYXN5IHRvIHBhY2ssIHN0b3JlLCBhbmQgdHJhbnNwb3J0LgotICoqTG9uZyBTaGVsZiBMaWZlKio6IE1haW50YWlucyBmbGF2b3IsIGFyb21hLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgb3ZlciBleHRlbmRlZCBwZXJpb2RzLgotICoqQ29uc2lzdGVuY3kqKjogUHJvdmlkZXMgYSBjb25zaXN0ZW50IGZsYXZvciBwcm9maWxlIGluIHJlY2lwZXMuCi0gKipWZXJzYXRpbGl0eSoqOiBTdWl0YWJsZSBmb3IgYSB3aWRlIHJhbmdlIG9mIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgYXBwbGljYXRpb25zLgotICoqTnV0cml0aW9uYWwgVmFsdWUqKjogUmljaCBpbiBhbnRpb3hpZGFudHMsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIG9mZmVyaW5nIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0cy4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzLiBXZSB3b3JrIGNsb3NlbHkgd2l0aCBsb2NhbCBmYXJtZXJzIHdobyBhZGhlcmUgdG8gZWNvLWZyaWVuZGx5IGFncmljdWx0dXJhbCBtZXRob2RzLiBPdXIgZm9jdXMgb24gc3VzdGFpbmFiaWxpdHkgZW5zdXJlcyB0aGF0IHdlIGRlbGl2ZXIgcHJvZHVjdHMgdGhhdCBhcmUgbm90IG9ubHkgaGlnaCBpbiBxdWFsaXR5IGJ1dCBhbHNvIHJlc3BvbnNpYmx5IHNvdXJjZWQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBnaW5nZXIgcG93ZGVyLCBWYXJuaSBFeHBvcnRzIGd1YXJhbnRlZXMgcHJlbWl1bS1xdWFsaXR5IHByb2R1Y3RzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcy4gV2UgcHJpb3JpdGl6ZSBjdXN0b21lciBzYXRpc2ZhY3Rpb24gYW5kIGVuc3VyZSB0aW1lbHkgZGVsaXZlcnkgb2Ygb3JkZXJzIHRocm91Z2ggZWZmaWNpZW50IGxvZ2lzdGljcy4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIGdpbmdlciBwb3dkZXIgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBleHBlcmllbmNlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIHF1YWxpdHkgYW5kIHJlbGlhYmlsaXR5IG9mIFZhcm5pIEV4cG9ydHMgdG9kYXkh",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Ginger Powder</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality ginger powder. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Ginger Powder</strong></p>
+            <br />
+
+            <p>Ginger powder is derived from dried ginger roots and is a staple ingredient in kitchens worldwide. Known for its warm, spicy flavor and numerous health benefits, ginger powder is a versatile ingredient that enhances the taste of a wide variety of dishes. It is also valued for its medicinal properties.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we ensure that our ginger powder is produced from the finest quality ginger roots, sourced directly from cultivated farms. Our dehydration and grinding processes are carried out in state-of-the-art facilities where fresh ginger undergoes multiple steps of testing and sorting. This meticulous approach guarantees that our ginger powder retains its natural flavor, aroma, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Ginger Powder</strong></p>
+            <br />
+
+            <p>Ginger powder is versatile and extensively used in various culinary and medicinal applications:</p>
+            <br />
+            <li><strong>Cooking:</strong> Adds depth and warmth to soups, stews, curries, and stir-fries.</li>
+            <li><strong>Baking:</strong> Enhances the taste of cakes, cookies, bread, and pastries.</li>
+            <li><strong>Beverages:</strong> Used in teas, smoothies, and health drinks for a spicy kick.</li>
+            <li><strong>Seasoning:</strong> Ideal for spice blends, rubs, and seasoning mixes.</li>
+            <li><strong>Medicinal:</strong> Known for its digestive and anti-inflammatory properties, ginger powder is used in traditional remedies and supplements.</li>
+            <br />
+
+            <p><strong>Benefits of Ginger Powder</strong></p>
+            <br />
+
+            <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
+            <li><strong>Long Shelf Life:</strong> Maintains flavor, aroma, and nutritional value over extended periods.</li>
+            <li><strong>Consistency:</strong> Provides a consistent flavor profile in recipes.</li>
+            <li><strong>Versatility:</strong> Suitable for a wide range of culinary and medicinal applications.</li>
+            <li><strong>Nutritional Value:</strong> Rich in antioxidants, vitamins, and minerals, offering numerous health benefits.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of ginger powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium ginger powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -552,7 +1702,65 @@ export const catagories = [
         Packaging: "10 to 50 kg, PP Bags, Cartons",
         Loading: "20 to 25 Tons",
         description:
-          "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgUmVsaWFibGUgU291cmNlIGZvciBHaW5nZXIgRmxha2VzCgpXZWxjb21lIHRvIFZhcm5pIEV4cG9ydHMsIHlvdXIgdHJ1c3RlZCBzdXBwbGllciBvZiBwcmVtaXVtIGdpbmdlciBmbGFrZXMuIFdlIHRha2UgcHJpZGUgaW4gb2ZmZXJpbmcgaGlnaC1xdWFsaXR5IGdpbmdlciBmbGFrZXMgdGhhdCBhcmUgc291cmNlZCBmcm9tIHRoZSBmaW5lc3QgZ2luZ2VyIHJvb3RzIGFuZCBwcm9jZXNzZWQgdXNpbmcgYWR2YW5jZWQgdGVjaG5pcXVlcyB0byBwcmVzZXJ2ZSB0aGVpciBuYXR1cmFsIGZsYXZvciBhbmQgYXJvbWEuCgojIyMgQWJvdXQgR2luZ2VyIEZsYWtlcwoKR2luZ2VyIGZsYWtlcyBhcmUgb2J0YWluZWQgZnJvbSBmcmVzaCBnaW5nZXIgcm9vdHMgdGhhdCB1bmRlcmdvIGEgY2FyZWZ1bCBkZWh5ZHJhdGlvbiBwcm9jZXNzLiBUaGlzIHByb2Nlc3MgaW52b2x2ZXMgc2xpY2luZyB0aGUgZ2luZ2VyIGludG8gdW5pZm9ybSBmbGFrZXMgYW5kIHRoZW4gZHJ5aW5nIHRoZW0gdG8gcmVtb3ZlIG1vaXN0dXJlIHdoaWxlIHJldGFpbmluZyB0aGVpciByb2J1c3QgZmxhdm9yIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4gR2luZ2VyIGZsYWtlcyBhcmUga25vd24gZm9yIHRoZWlyIGRpc3RpbmN0aXZlIHNwaWN5IGFuZCB3YXJtIGZsYXZvciwgbWFraW5nIHRoZW0gYSB2ZXJzYXRpbGUgaW5ncmVkaWVudCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgcXVhbGl0eSBpcyBvdXIgdG9wIHByaW9yaXR5LiBXZSBzb3VyY2Ugb3VyIGdpbmdlciBmbGFrZXMgZnJvbSByZXB1dGFibGUgZmFybWVycyB3aG8gY3VsdGl2YXRlIGdpbmdlciB1c2luZyBzdXN0YWluYWJsZSBhZ3JpY3VsdHVyYWwgcHJhY3RpY2VzLiBPdXIgc3RhdGUtb2YtdGhlLWFydCBwcm9jZXNzaW5nIGZhY2lsaXRpZXMgZW5zdXJlIHRoYXQgdGhlIGdpbmdlciBmbGFrZXMgbWFpbnRhaW4gdGhlaXIgaGlnaCBxdWFsaXR5IHRocm91Z2hvdXQgdGhlIGRlaHlkcmF0aW9uIHByb2Nlc3MuIEVhY2ggYmF0Y2ggb2YgZ2luZ2VyIGZsYWtlcyB1bmRlcmdvZXMgcmlnb3JvdXMgcXVhbGl0eSBjaGVja3MgdG8gbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBmb3IgcHVyaXR5LCBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCBjb250ZW50LgoKIyMjIEN1bGluYXJ5IFVzZXMKCkdpbmdlciBmbGFrZXMgYXJlIHdpZGVseSB1c2VkIGluIGJvdGggc2F2b3J5IGFuZCBzd2VldCBkaXNoZXM6Ci0gKipDb29raW5nKio6IEFkZCBnaW5nZXIgZmxha2VzIHRvIHN0aXItZnJpZXMsIGN1cnJpZXMsIHNvdXBzLCBhbmQgbWFyaW5hZGVzIHRvIGltcGFydCBhIHNwaWN5IGFuZCBhcm9tYXRpYyBmbGF2b3IuCi0gKipCYWtpbmcqKjogSW5jb3Jwb3JhdGUgZ2luZ2VyIGZsYWtlcyBpbnRvIGJyZWFkLCBjb29raWVzLCBjYWtlcywgYW5kIG11ZmZpbnMgZm9yIGEgaGludCBvZiB3YXJtdGggYW5kIHplc3QuCi0gKipCZXZlcmFnZXMqKjogSW5mdXNlIGdpbmdlciBmbGFrZXMgaW4gdGVhcywganVpY2VzLCBjb2NrdGFpbHMsIGFuZCBzbW9vdGhpZXMgZm9yIGEgcmVmcmVzaGluZyBhbmQgaW52aWdvcmF0aW5nIHRhc3RlLgotICoqU2Vhc29uaW5nKio6IFVzZSBnaW5nZXIgZmxha2VzIGFzIGEgc2Vhc29uaW5nIGZvciBtZWF0LCBzZWFmb29kLCB2ZWdldGFibGVzLCBhbmQgc2F1Y2VzIHRvIGVuaGFuY2UgdGhlaXIgZmxhdm9yIHByb2ZpbGUuCgojIyMgSGVhbHRoIEJlbmVmaXRzCgpHaW5nZXIgZmxha2VzIGFyZSBub3Qgb25seSBwcml6ZWQgZm9yIHRoZWlyIGN1bGluYXJ5IHZlcnNhdGlsaXR5IGJ1dCBhbHNvIGZvciB0aGVpciBoZWFsdGgtcHJvbW90aW5nIHByb3BlcnRpZXM6Ci0gKipEaWdlc3RpdmUgQWlkKio6IEtub3duIGZvciBlYXNpbmcgZGlnZXN0aXZlIGRpc2NvbWZvcnQgYW5kIG5hdXNlYS4KLSAqKkFudGktaW5mbGFtbWF0b3J5Kio6IENvbnRhaW5zIGNvbXBvdW5kcyB0aGF0IG1heSBoZWxwIHJlZHVjZSBpbmZsYW1tYXRpb24gYW5kIHN1cHBvcnQgam9pbnQgaGVhbHRoLgotICoqSW1tdW5lIEJvb3N0ZXIqKjogUmljaCBpbiBhbnRpb3hpZGFudHMgdGhhdCBjYW4gc3RyZW5ndGhlbiB0aGUgaW1tdW5lIHN5c3RlbS4KLSAqKkFyb21hdGljKio6IEFkZHMgYSBkZWxpZ2h0ZnVsIGFyb21hIHRvIGRpc2hlcyBhbmQgYmV2ZXJhZ2VzLgoKIyMjIFN1c3RhaW5hYmxlIFNvdXJjaW5nCgpWYXJuaSBFeHBvcnRzIGlzIGNvbW1pdHRlZCB0byBzdXN0YWluYWJsZSBzb3VyY2luZyBwcmFjdGljZXMuIFdlIHdvcmsgY2xvc2VseSB3aXRoIGZhcm1lcnMgd2hvIHByaW9yaXRpemUgZWNvLWZyaWVuZGx5IGZhcm1pbmcgbWV0aG9kcywgZW5zdXJpbmcgbWluaW1hbCBlbnZpcm9ubWVudGFsIGltcGFjdC4gQnkgc3VwcG9ydGluZyBzdXN0YWluYWJsZSBhZ3JpY3VsdHVyZSwgd2UgY29udHJpYnV0ZSB0byB0aGUgcHJlc2VydmF0aW9uIG9mIG5hdHVyYWwgcmVzb3VyY2VzIGFuZCBiaW9kaXZlcnNpdHkuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBnaW5nZXIgZmxha2VzLCBWYXJuaSBFeHBvcnRzIGNhdGVycyB0byBnbG9iYWwgbWFya2V0cyB3aXRoIGEgZm9jdXMgb24gcXVhbGl0eSwgcmVsaWFiaWxpdHksIGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb24uIE91ciBlZmZpY2llbnQgbG9naXN0aWNzIG5ldHdvcmsgZW5zdXJlcyB0aW1lbHkgZGVsaXZlcnkgb2Ygb3JkZXJzIHRvIGludGVybmF0aW9uYWwgZGVzdGluYXRpb25zLCBtZWV0aW5nIHRoZSBkaXZlcnNlIG5lZWRzIG9mIG91ciB2YWx1ZWQgY3VzdG9tZXJzLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gZ2luZ2VyIGZsYWtlcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSB0YWlsb3JlZCBzb2x1dGlvbnMgZm9yIHlvdXIgYnVzaW5lc3MuIEV4cGVyaWVuY2UgdGhlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZsYXZvciBvZiBWYXJuaSBFeHBvcnRz4oCZIGdpbmdlciBmbGFrZXMgdG9kYXkh",
+          <div>
+            <p><strong>Varni Exports: Your Reliable Source for Ginger Flakes</strong></p>
+            <br />
+
+            <p>Welcome to Varni Exports, your trusted supplier of premium ginger flakes. We take pride in offering high-quality ginger flakes that are sourced from the finest ginger roots and processed using advanced techniques to preserve their natural flavor and aroma.</p>
+            <br />
+
+            <p><strong>About Ginger Flakes</strong></p>
+            <br />
+
+            <p>Ginger flakes are obtained from fresh ginger roots that undergo a careful dehydration process. This process involves slicing the ginger into uniform flakes and then drying them to remove moisture while retaining their robust flavor and nutritional benefits. Ginger flakes are known for their distinctive spicy and warm flavor, making them a versatile ingredient in various culinary applications.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, quality is our top priority. We source our ginger flakes from reputable farmers who cultivate ginger using sustainable agricultural practices. Our state-of-the-art processing facilities ensure that the ginger flakes maintain their high quality throughout the dehydration process. Each batch of ginger flakes undergoes rigorous quality checks to meet international standards for purity, flavor, and nutritional content.</p>
+            <br />
+
+            <p><strong>Culinary Uses</strong></p>
+            <br />
+
+            <p>Ginger flakes are widely used in both savory and sweet dishes:</p>
+            <br />
+            <li><strong>Cooking:</strong> Add ginger flakes to stir-fries, curries, soups, and marinades to impart a spicy and aromatic flavor.</li>
+            <li><strong>Baking:</strong> Incorporate ginger flakes into bread, cookies, cakes, and muffins for a hint of warmth and zest.</li>
+            <li><strong>Beverages:</strong> Infuse ginger flakes in teas, juices, cocktails, and smoothies for a refreshing and invigorating taste.</li>
+            <li><strong>Seasoning:</strong> Use ginger flakes as a seasoning for meat, seafood, vegetables, and sauces to enhance their flavor profile.</li>
+            <br />
+
+            <p><strong>Health Benefits</strong></p>
+            <br />
+
+            <p>Ginger flakes are not only prized for their culinary versatility but also for their health-promoting properties:</p>
+            <br />
+            <li><strong>Digestive Aid:</strong> Known for easing digestive discomfort and nausea.</li>
+            <li><strong>Anti-inflammatory:</strong> Contains compounds that may help reduce inflammation and support joint health.</li>
+            <li><strong>Immune Booster:</strong> Rich in antioxidants that can strengthen the immune system.</li>
+            <li><strong>Aromatic:</strong> Adds a delightful aroma to dishes and beverages.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>Varni Exports is committed to sustainable sourcing practices. We work closely with farmers who prioritize eco-friendly farming methods, ensuring minimal environmental impact. By supporting sustainable agriculture, we contribute to the preservation of natural resources and biodiversity.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading exporter of ginger flakes, Varni Exports caters to global markets with a focus on quality, reliability, and customer satisfaction. Our efficient logistics network ensures timely delivery of orders to international destinations, meeting the diverse needs of our valued customers.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium ginger flakes or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide tailored solutions for your business. Experience the superior quality and flavor of Varni Exports’ ginger flakes today!</p>
+          </div>
+        ,
       },
     ],
   },
@@ -581,12 +1789,70 @@ export const catagories = [
         "Foreign Matter": "1%",
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBXaGVhdCBTdXBwbGllcgoKVmFybmkgRXhwb3J0cyBzcGVjaWFsaXplcyBpbiBzb3VyY2luZyBhbmQgZXhwb3J0aW5nIHByZW1pdW0gcXVhbGl0eSB3aGVhdCBnbG9iYWxseS4gV2UgdGFrZSBwcmlkZSBpbiBvZmZlcmluZyBhIHZhcmlldHkgb2Ygd2hlYXQgcHJvZHVjdHMgdGFpbG9yZWQgdG8gbWVldCBkaXZlcnNlIGN1bGluYXJ5IGFuZCBpbmR1c3RyaWFsIG5lZWRzLgoKIyMjIFByZW1pdW0gUXVhbGl0eSBXaGVhdAoKV2hlYXQgaXMgYSBzdGFwbGUgZm9vZCBjcm9wIGN1bHRpdmF0ZWQgZXh0ZW5zaXZlbHkgYXJvdW5kIHRoZSB3b3JsZC4gQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBmaW5lc3QgcXVhbGl0eSB3aGVhdCBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2YgSW5kaWEsIGVuc3VyaW5nIGl0IG1lZXRzIHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcy4gT3VyIHdoZWF0IHZhcmlldGllcyBpbmNsdWRlOgoKLSAqKkR1cnVtIFdoZWF0Kio6IEtub3duIGZvciBpdHMgaGlnaCBwcm90ZWluIGNvbnRlbnQgYW5kIGV4Y2VsbGVudCBnbHV0ZW4gc3RyZW5ndGgsIGlkZWFsIGZvciBtYWtpbmcgcGFzdGEgYW5kIGNvdXNjb3VzLgotICoqSGFyZCBSZWQgU3ByaW5nIFdoZWF0Kio6IFJlY29nbml6ZWQgZm9yIGl0cyByb2J1c3QgZ2x1dGVuIHN0cmVuZ3RoLCBzdWl0YWJsZSBmb3IgYmFraW5nIGJyZWFkIGFuZCBvdGhlciBiYWtlcnkgcHJvZHVjdHMuCi0gKipTb2Z0IFJlZCBXaW50ZXIgV2hlYXQqKjogUHJlZmVycmVkIGZvciBtYWtpbmcgY2FrZXMsIGNvb2tpZXMsIGFuZCBwYXN0cmllcyBkdWUgdG8gaXRzIGxvd2VyIGdsdXRlbiBjb250ZW50LgotICoqSGFyZCBXaGl0ZSBXaGVhdCoqOiBTaW1pbGFyIHRvIHJlZCB3aGVhdCBidXQgd2l0aCBhIGxpZ2h0ZXIga2VybmVsIGNvbG9yLCBzdWl0YWJsZSBmb3IgYnJlYWQgYW5kIGJyZXdpbmcuCgojIyMgV2h5IENob29zZSBXaGVhdCBmcm9tIFZhcm5pIEV4cG9ydHM/CgoxLiAqKkhpZ2ggTnV0cml0aW9uYWwgVmFsdWUqKjogV2hlYXQgaXMgYSByaWNoIHNvdXJjZSBvZiBjYXJib2h5ZHJhdGVzLCBwcm90ZWlucywgZGlldGFyeSBmaWJlciwgdml0YW1pbnMgKEItY29tcGxleCksIGFuZCBtaW5lcmFscyAoaXJvbiwgbWFnbmVzaXVtKS4KMi4gKipWZXJzYXRpbGUgQXBwbGljYXRpb25zKio6IFVzZWQgaW4gdmFyaW91cyBmb3JtcyBpbmNsdWRpbmcgZmxvdXIgZm9yIGJha2luZywgc2Vtb2xpbmEgZm9yIHBhc3RhLCB3aGVhdCBnZXJtIGZvciBudXRyaXRpb25hbCBzdXBwbGVtZW50cywgYW5kIG1vcmUuCjMuICoqQ3VsaW5hcnkgRXhjZWxsZW5jZSoqOiBFbmhhbmNlcyB0aGUgdGFzdGUgYW5kIHRleHR1cmUgb2YgYSB3aWRlIHJhbmdlIG9mIGRpc2hlcywgZnJvbSBicmVhZCBhbmQgcGFzdHJpZXMgdG8gbm9vZGxlcyBhbmQgYnJlYWtmYXN0IGNlcmVhbHMuCjQuICoqSGVhbHRoIEJlbmVmaXRzKio6IFN1cHBvcnRzIGhlYXJ0IGhlYWx0aCwgYWlkcyBpbiBkaWdlc3Rpb24sIGFuZCBwcm92aWRlcyBzdXN0YWluZWQgZW5lcmd5IGR1ZSB0byBpdHMgY29tcGxleCBjYXJib2h5ZHJhdGVzLgoKIyMjIFNvdXJjaW5nIGFuZCBQcm9jZXNzaW5nCgpWYXJuaSBFeHBvcnRzIGVuc3VyZXMgdGhhdCBvdXIgd2hlYXQgdW5kZXJnb2VzIHJpZ29yb3VzIHF1YWxpdHkgY2hlY2tzIGZyb20gc291cmNpbmcgdG8gcHJvY2Vzc2luZy4gV2UgcGFydG5lciB3aXRoIGZhcm1lcnMgd2hvIGZvbGxvdyBzdXN0YWluYWJsZSBhZ3JpY3VsdHVyYWwgcHJhY3RpY2VzIHRvIGN1bHRpdmF0ZSB3aGVhdCB3aXRoIG1pbmltYWwgZW52aXJvbm1lbnRhbCBpbXBhY3QuIE91ciBwcm9jZXNzaW5nIGZhY2lsaXRpZXMgYXJlIGVxdWlwcGVkIHdpdGggbW9kZXJuIG1hY2hpbmVyeSB0byBjbGVhbiwgbWlsbCwgYW5kIHBhY2thZ2Ugd2hlYXQgdG8gcHJlc2VydmUgaXRzIGZyZXNobmVzcyBhbmQgbnV0cml0aW9uYWwgdmFsdWUuCgojIyMgTGVhZGluZyBXaGVhdCBFeHBvcnRlcgoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIHdoZWF0IGZyb20gSW5kaWEsIFZhcm5pIEV4cG9ydHMgY2F0ZXJzIHRvIGludGVybmF0aW9uYWwgbWFya2V0cyB3aXRoIGEgY29tbWl0bWVudCB0byBkZWxpdmVyaW5nIHByZW1pdW0gcXVhbGl0eSBwcm9kdWN0cy4gT3VyIGRlZGljYXRpb24gdG8gZXhjZWxsZW5jZSBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIG1ha2VzIHVzIGEgcHJlZmVycmVkIGNob2ljZSBhbW9uZyBnbG9iYWwgYnV5ZXJzLgoKIyMjIFVzZXMgYW5kIEJlbmVmaXRzIG9mIFdoZWF0CgoxLiAqKkRpdmVyc2UgQ3VsaW5hcnkgVXNlcyoqOiBVc2VkIHRvIG1ha2UgYnJlYWQsIHBhc3RhLCBub29kbGVzLCBjYWtlcywgY29va2llcywgYnJlYWtmYXN0IGNlcmVhbHMsIGFuZCBtb3JlLgoyLiAqKk51dHJpdGlvbmFsIFBvd2VyaG91c2UqKjogUHJvdmlkZXMgZXNzZW50aWFsIG51dHJpZW50cyBsaWtlIGNhcmJvaHlkcmF0ZXMsIHByb3RlaW5zLCBmaWJlciwgYW5kIHZhcmlvdXMgdml0YW1pbnMgYW5kIG1pbmVyYWxzLgozLiAqKkhlYWx0aCBCZW5lZml0cyoqOiBTdXBwb3J0cyBkaWdlc3RpdmUgaGVhbHRoLCBhaWRzIGluIHdlaWdodCBtYW5hZ2VtZW50LCBhbmQgcHJvbW90ZXMgb3ZlcmFsbCB3ZWxsLWJlaW5nLgo0LiAqKkVjb25vbWljIEltcG9ydGFuY2UqKjogUGxheXMgYSBjcnVjaWFsIHJvbGUgaW4gZ2xvYmFsIGZvb2Qgc2VjdXJpdHkgYW5kIGVjb25vbWljIHN0YWJpbGl0eS4KCiMjIyBDb21taXRtZW50IHRvIFF1YWxpdHkgYW5kIFN1c3RhaW5hYmlsaXR5CgpBdCBWYXJuaSBFeHBvcnRzLCBxdWFsaXR5IGlzIG91ciB0b3AgcHJpb3JpdHkuIFdlIGFkaGVyZSB0byBzdHJpY3QgcXVhbGl0eSBjb250cm9sIG1lYXN1cmVzIGFuZCBldGhpY2FsIHNvdXJjaW5nIHByYWN0aWNlcyB0byBlbnN1cmUgdGhhdCBvdXIgd2hlYXQgbWVldHMgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMuIE91ciBzdXN0YWluYWJsZSBmYXJtaW5nIHBhcnRuZXJzaGlwcyBhbmQgZWZmaWNpZW50IHByb2Nlc3NpbmcgdGVjaG5pcXVlcyByZWZsZWN0IG91ciBjb21taXRtZW50IHRvIGVudmlyb25tZW50YWwgcmVzcG9uc2liaWxpdHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBxdWFsaXR5IHdoZWF0IHByb2R1Y3RzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBvdXIga25vd2xlZGdlYWJsZSB0ZWFtIGF0IFZhcm5pIEV4cG9ydHMuIFdlIGxvb2sgZm9yd2FyZCB0byBzZXJ2aW5nIHlvdXIgd2hlYXQgc291cmNpbmcgbmVlZHMgd2l0aCByZWxpYWJpbGl0eSwgaW50ZWdyaXR5LCBhbmQgZXhjZWxsZW5jZS4gRGlzY292ZXIgdGhlIGRpZmZlcmVuY2Ugd2l0aCBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Reliable Wheat Supplier</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting premium quality wheat globally. We take pride in offering a variety of wheat products tailored to meet diverse culinary and industrial needs.</p>
+            <br />
+
+            <p><strong>Premium Quality Wheat</strong></p>
+            <br />
+
+            <p>Wheat is a staple food crop cultivated extensively around the world. At Varni Exports, we source the finest quality wheat from the fertile regions of India, ensuring it meets stringent quality standards. Our wheat varieties include:</p>
+            <br />
+            <li><strong>Durum Wheat</strong>: Known for its high protein content and excellent gluten strength, ideal for making pasta and couscous.</li>
+            <li><strong>Hard Red Spring Wheat</strong>: Recognized for its robust gluten strength, suitable for baking bread and other bakery products.</li>
+            <li><strong>Soft Red Winter Wheat</strong>: Preferred for making cakes, cookies, and pastries due to its lower gluten content.</li>
+            <li><strong>Hard White Wheat</strong>: Similar to red wheat but with a lighter kernel color, suitable for bread and brewing.</li>
+            <br />
+
+            <p><strong>Why Choose Wheat from Varni Exports?</strong></p>
+            <br />
+
+            <li><strong>High Nutritional Value</strong>: Wheat is a rich source of carbohydrates, proteins, dietary fiber, vitamins (B-complex), and minerals (iron, magnesium).</li>
+            <li><strong>Versatile Applications</strong>: Used in various forms including flour for baking, semolina for pasta, wheat germ for nutritional supplements, and more.</li>
+            <li><strong>Culinary Excellence</strong>: Enhances the taste and texture of a wide range of dishes, from bread and pastries to noodles and breakfast cereals.</li>
+            <li><strong>Health Benefits</strong>: Supports heart health, aids in digestion, and provides sustained energy due to its complex carbohydrates.</li>
+            <br />
+
+            <p><strong>Sourcing and Processing</strong></p>
+            <br />
+
+            <p>Varni Exports ensures that our wheat undergoes rigorous quality checks from sourcing to processing. We partner with farmers who follow sustainable agricultural practices to cultivate wheat with minimal environmental impact. Our processing facilities are equipped with modern machinery to clean, mill, and package wheat to preserve its freshness and nutritional value.</p>
+            <br />
+
+            <p><strong>Leading Wheat Exporter</strong></p>
+            <br />
+
+            <p>As a leading exporter of wheat from India, Varni Exports caters to international markets with a commitment to delivering premium quality products. Our dedication to excellence and customer satisfaction makes us a preferred choice among global buyers.</p>
+            <br />
+
+            <p><strong>Uses and Benefits of Wheat</strong></p>
+            <br />
+            <li><strong>Diverse Culinary Uses</strong>: Used to make bread, pasta, noodles, cakes, cookies, breakfast cereals, and more.</li>
+            <li><strong>Nutritional Powerhouse</strong>: Provides essential nutrients like carbohydrates, proteins, fiber, and various vitamins and minerals.</li>
+            <li><strong>Health Benefits</strong>: Supports digestive health, aids in weight management, and promotes overall well-being.</li>
+            <li><strong>Economic Importance</strong>: Plays a crucial role in global food security and economic stability.</li>
+            <br />
+
+            <p><strong>Commitment to Quality and Sustainability</strong></p>
+            <br />
+
+            <p>At Varni Exports, quality is our top priority. We adhere to strict quality control measures and ethical sourcing practices to ensure that our wheat meets international standards. Our sustainable farming partnerships and efficient processing techniques reflect our commitment to environmental responsibility.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>For inquiries about our premium quality wheat products or to place an order, please contact our knowledgeable team at Varni Exports. We look forward to serving your wheat sourcing needs with reliability, integrity, and excellence. Discover the difference with Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
         id: "2",
-        name: "Maize/Corn",
+        name: "Maize-Corn",
         Category: "Grains",
         images: grains2,
         Origin: "Rajasthan-India",
@@ -601,7 +1867,59 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "15 to 30 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIE1haXplL0Nvcm4gU3VwcGxpZXIKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgbWFpemUgKGNvcm4pIGdsb2JhbGx5LiBXZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyBhIHZhcmlldHkgb2YgbWFpemUgcHJvZHVjdHMgdGFpbG9yZWQgdG8gbWVldCBkaXZlcnNlIGN1bGluYXJ5LCBpbmR1c3RyaWFsLCBhbmQgYWdyaWN1bHR1cmFsIG5lZWRzLgoKIyMjIFByZW1pdW0gUXVhbGl0eSBNYWl6ZSAoQ29ybikKCk1haXplLCBjb21tb25seSBrbm93biBhcyBjb3JuLCBpcyBhIHZlcnNhdGlsZSBjZXJlYWwgZ3JhaW4gdGhhdCBzZXJ2ZXMgYXMgYSBzdGFwbGUgZm9vZCBmb3IgbWlsbGlvbnMgd29ybGR3aWRlLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBwcm9jdXJlIHRoZSBmaW5lc3QgcXVhbGl0eSBtYWl6ZSBmcm9tIHJlbGlhYmxlIHNvdXJjZXMgYWNyb3NzIEluZGlhLCBlbnN1cmluZyBpdCBtZWV0cyBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMuIE91ciBtYWl6ZSB2YXJpZXRpZXMgaW5jbHVkZToKCi0gKipZZWxsb3cgTWFpemUqKjogSGlnaCBpbiBjYXJvdGVub2lkcywgdXNlZCBwcmltYXJpbHkgZm9yIGFuaW1hbCBmZWVkLCBodW1hbiBjb25zdW1wdGlvbiwgYW5kIGluZHVzdHJpYWwgcHVycG9zZXMuCi0gKipXaGl0ZSBNYWl6ZSoqOiBDb21tb25seSB1c2VkIGZvciBodW1hbiBjb25zdW1wdGlvbiwgaW5jbHVkaW5nIG1ha2luZyBjb3JubWVhbCwgY29ybiBmbG91ciwgYW5kIHNuYWNrcy4KLSAqKlN3ZWV0IENvcm4qKjogS25vd24gZm9yIGl0cyBzd2VldCB0YXN0ZSwgY29uc3VtZWQgYXMgYSB2ZWdldGFibGUgaW4gdmFyaW91cyBkaXNoZXMgb3IgZW5qb3llZCBhcyBjYW5uZWQgb3IgZnJvemVuIGtlcm5lbHMuCi0gKipQb3Bjb3JuKio6IEEgc3BlY2lmaWMgdHlwZSBvZiBtYWl6ZSB0aGF0IHBvcHMgd2hlbiBoZWF0ZWQsIGVuam95ZWQgYXMgYSBwb3B1bGFyIHNuYWNrLgoKIyMjIFdoeSBDaG9vc2UgTWFpemUgKENvcm4pIGZyb20gVmFybmkgRXhwb3J0cz8KCjEuICoqTnV0cml0aW9uYWwgVmFsdWUqKjogTWFpemUgaXMgcmljaCBpbiBjYXJib2h5ZHJhdGVzLCBkaWV0YXJ5IGZpYmVyLCBlc3NlbnRpYWwgbWluZXJhbHMgKHN1Y2ggYXMgbWFnbmVzaXVtIGFuZCBwaG9zcGhvcnVzKSwgYW5kIHZpdGFtaW5zIChtYWlubHkgQi1jb21wbGV4IHZpdGFtaW5zKS4KMi4gKipWZXJzYXRpbGl0eSoqOiBVc2VkIGluIGRpdmVyc2UgYXBwbGljYXRpb25zIGluY2x1ZGluZyBmb29kIHByb2R1Y3RzLCBhbmltYWwgZmVlZCwgYmlvZnVlbHMsIGFuZCBpbmR1c3RyaWFsIHVzZXMgc3VjaCBhcyBzdGFyY2ggYW5kIGV0aGFub2wgcHJvZHVjdGlvbi4KMy4gKipDdWxpbmFyeSBEZWxpZ2h0cyoqOiBFbmhhbmNlcyB0aGUgZmxhdm9yIGFuZCB0ZXh0dXJlIG9mIG51bWVyb3VzIGRpc2hlcywgZnJvbSB0cmFkaXRpb25hbCBjb3JuYnJlYWQgYW5kIHRvcnRpbGxhcyB0byBtb2Rlcm4gZ291cm1ldCBjdWlzaW5lLgo0LiAqKkhlYWx0aCBCZW5lZml0cyoqOiBTdXBwb3J0cyBkaWdlc3RpdmUgaGVhbHRoLCBwcm92aWRlcyBzdXN0YWluZWQgZW5lcmd5LCBhbmQgY29udHJpYnV0ZXMgdG8gb3ZlcmFsbCB3ZWxsLWJlaW5nLgoKIyMjIFNvdXJjaW5nIGFuZCBQcm9jZXNzaW5nCgpWYXJuaSBFeHBvcnRzIGVuc3VyZXMgbWV0aWN1bG91cyBzb3VyY2luZyBhbmQgcHJvY2Vzc2luZyBvZiBtYWl6ZSB0byBtYWludGFpbiBpdHMgbnV0cml0aW9uYWwgaW50ZWdyaXR5IGFuZCBxdWFsaXR5LiBXZSBwYXJ0bmVyIHdpdGggZmFybWVycyB3aG8gZW1wbG95IHN1c3RhaW5hYmxlIGFncmljdWx0dXJhbCBwcmFjdGljZXMsIGVuc3VyaW5nIGVudmlyb25tZW50YWxseSByZXNwb25zaWJsZSBjdWx0aXZhdGlvbi4gT3VyIHN0YXRlLW9mLXRoZS1hcnQgcHJvY2Vzc2luZyBmYWNpbGl0aWVzIGFyZSBlcXVpcHBlZCB0byBjbGVhbiwgZHJ5LCBhbmQgcGFja2FnZSBtYWl6ZSBlZmZpY2llbnRseSwgcHJlc2VydmluZyBpdHMgZnJlc2huZXNzIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4KCiMjIyBMZWFkaW5nIE1haXplIChDb3JuKSBFeHBvcnRlcgoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIG1haXplIGZyb20gSW5kaWEsIFZhcm5pIEV4cG9ydHMgY2F0ZXJzIHRvIGdsb2JhbCBtYXJrZXRzIHdpdGggYSBjb21taXRtZW50IHRvIGRlbGl2ZXJpbmcgc3VwZXJpb3IgcXVhbGl0eSBwcm9kdWN0cy4gV2UgcHJpb3JpdGl6ZSBjdXN0b21lciBzYXRpc2ZhY3Rpb24gYW5kIGFkaGVyZSB0byBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBpbiBldmVyeSBhc3BlY3Qgb2Ygb3VyIG9wZXJhdGlvbnMuCgojIyMgVXNlcyBhbmQgQmVuZWZpdHMgb2YgTWFpemUgKENvcm4pCgoxLiAqKkZvb2QgUHJvZHVjdGlvbioqOiBVc2VkIGluIHZhcmlvdXMgZm9ybXMgc3VjaCBhcyBjb3JubWVhbCwgY29ybmZsb3VyLCBjb3JuIG9pbCwgYW5kIGNvcm4gc3lydXAsIGNvbnRyaWJ1dGluZyB0byBkaXZlcnNlIGN1aXNpbmVzIHdvcmxkd2lkZS4KMi4gKipBbmltYWwgRmVlZCoqOiBWYWx1YWJsZSBmZWVkIGluZ3JlZGllbnQgZm9yIGxpdmVzdG9jayBhbmQgcG91bHRyeSwgcHJvdmlkaW5nIGVzc2VudGlhbCBudXRyaWVudHMgZm9yIGdyb3d0aCBhbmQgaGVhbHRoLgozLiAqKkluZHVzdHJpYWwgQXBwbGljYXRpb25zKio6IFVzZWQgaW4gZXRoYW5vbCBwcm9kdWN0aW9uLCBzdGFyY2ggbWFudWZhY3R1cmluZywgYmlvZnVlbCBwcm9kdWN0aW9uLCBhbmQgYXMgYSByYXcgbWF0ZXJpYWwgZm9yIHZhcmlvdXMgaW5kdXN0cmlhbCBwcm9jZXNzZXMuCjQuICoqQ3VsdHVyYWwgU2lnbmlmaWNhbmNlKio6IFBsYXlzIGEgdml0YWwgcm9sZSBpbiB0cmFkaXRpb25hbCBkaWV0cyBhbmQgY3VsdHVyYWwgY2VsZWJyYXRpb25zIGluIG1hbnkgY291bnRyaWVzIGFyb3VuZCB0aGUgd29ybGQuCgojIyMgQ29tbWl0bWVudCB0byBRdWFsaXR5IGFuZCBTdXN0YWluYWJpbGl0eQoKQXQgVmFybmkgRXhwb3J0cywgd2UgdXBob2xkIHN0cmluZ2VudCBxdWFsaXR5IGNvbnRyb2wgbWVhc3VyZXMgYW5kIGV0aGljYWwgc291cmNpbmcgcHJhY3RpY2VzIHRvIGVuc3VyZSB0aGUgbWFpemUgd2UgZXhwb3J0IGlzIG9mIHRoZSBoaWdoZXN0IHN0YW5kYXJkLiBPdXIgY29tbWl0bWVudCB0byBzdXN0YWluYWJpbGl0eSBleHRlbmRzIHRvIHByb21vdGluZyByZXNwb25zaWJsZSBmYXJtaW5nIHByYWN0aWNlcyBhbmQgcmVkdWNpbmcgZW52aXJvbm1lbnRhbCBpbXBhY3QgdGhyb3VnaG91dCB0aGUgc3VwcGx5IGNoYWluLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gcXVhbGl0eSBtYWl6ZSBwcm9kdWN0cyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3Qgb3VyIGtub3dsZWRnZWFibGUgdGVhbSBhdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgaGVyZSB0byBhc3Npc3QgeW91IHdpdGggcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zIGFuZCB1bnBhcmFsbGVsZWQgY3VzdG9tZXIgc2VydmljZS4gRGlzY292ZXIgdGhlIHF1YWxpdHkgYW5kIHJlbGlhYmlsaXR5IG9mIFZhcm5pIEV4cG9ydHMgdG9kYXkh",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Maize/Corn Supplier</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting premium quality maize (corn) globally. We are dedicated to providing a variety of maize products tailored to meet diverse culinary, industrial, and agricultural needs.</p>
+            <br />
+
+            <p><strong>Premium Quality Maize (Corn)</strong></p>
+            <br />
+            <p>Maize, commonly known as corn, is a versatile cereal grain that serves as a staple food for millions worldwide. At Varni Exports, we procure the finest quality maize from reliable sources across India, ensuring it meets stringent quality standards. Our maize varieties include:</p>
+            <br />
+
+            <li><strong>Yellow Maize</strong>: High in carotenoids, used primarily for animal feed, human consumption, and industrial purposes.</li>
+            <li><strong>White Maize</strong>: Commonly used for human consumption, including making cornmeal, corn flour, and snacks.</li>
+            <li><strong>Sweet Corn</strong>: Known for its sweet taste, consumed as a vegetable in various dishes or enjoyed as canned or frozen kernels.</li>
+            <li><strong>Popcorn</strong>: A specific type of maize that pops when heated, enjoyed as a popular snack.</li>
+            <br />
+
+            <p><strong>Why Choose Maize (Corn) from Varni Exports?</strong></p>
+            <br />
+            <li><strong>Nutritional Value</strong>: Maize is rich in carbohydrates, dietary fiber, essential minerals (such as magnesium and phosphorus), and vitamins (mainly B-complex vitamins).</li>
+            <li><strong>Versatility</strong>: Used in diverse applications including food products, animal feed, biofuels, and industrial uses such as starch and ethanol production.</li>
+            <li><strong>Culinary Delights</strong>: Enhances the flavor and texture of numerous dishes, from traditional cornbread and tortillas to modern gourmet cuisine.</li>
+            <li><strong>Health Benefits</strong>: Supports digestive health, provides sustained energy, and contributes to overall well-being.</li>
+            <br />
+
+            <p><strong>Sourcing and Processing</strong></p>
+            <br />
+            <p>Varni Exports ensures meticulous sourcing and processing of maize to maintain its nutritional integrity and quality. We partner with farmers who employ sustainable agricultural practices, ensuring environmentally responsible cultivation. Our state-of-the-art processing facilities are equipped to clean, dry, and package maize efficiently, preserving its freshness and nutritional benefits.</p>
+            <br />
+
+            <p><strong>Leading Maize (Corn) Exporter</strong></p>
+            <br />
+            <p>As a leading exporter of maize from India, Varni Exports caters to global markets with a commitment to delivering superior quality products. We prioritize customer satisfaction and adhere to international standards in every aspect of our operations.</p>
+            <br />
+
+            <p><strong>Uses and Benefits of Maize (Corn)</strong></p>
+            <br />
+            <li><strong>Food Production</strong>: Used in various forms such as cornmeal, cornflour, corn oil, and corn syrup, contributing to diverse cuisines worldwide.</li>
+            <li><strong>Animal Feed</strong>: Valuable feed ingredient for livestock and poultry, providing essential nutrients for growth and health.</li>
+            <li><strong>Industrial Applications</strong>: Used in ethanol production, starch manufacturing, biofuel production, and as a raw material for various industrial processes.</li>
+            <li><strong>Cultural Significance</strong>: Plays a vital role in traditional diets and cultural celebrations in many countries around the world.</li>
+            <br />
+
+            <p><strong>Commitment to Quality and Sustainability</strong></p>
+            <br />
+            <p>At Varni Exports, we uphold stringent quality control measures and ethical sourcing practices to ensure the maize we export is of the highest standard. Our commitment to sustainability extends to promoting responsible farming practices and reducing environmental impact throughout the supply chain.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+            <p>For inquiries about our premium quality maize products or to place an order, please contact our knowledgeable team at Varni Exports. We are here to assist you with reliable sourcing solutions and unparalleled customer service. Discover the quality and reliability of Varni Exports today!</p>
+          </div>,
       },
 
       {
@@ -621,7 +1939,64 @@ export const catagories = [
         Packaging: "25 kg PP Bag, 50 kg Jute Bag",
         Loading: "18 to 20 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIEZsYXggU2VlZHMgU3VwcGxpZXIKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgZmxheCBzZWVkcyBnbG9iYWxseS4gV2UgdGFrZSBwcmlkZSBpbiBvZmZlcmluZyBmbGF4IHNlZWRzIHRoYXQgYXJlIHJlbm93bmVkIGZvciB0aGVpciBudXRyaXRpb25hbCBiZW5lZml0cyBhbmQgdmVyc2F0aWxlIGFwcGxpY2F0aW9ucyBpbiB2YXJpb3VzIGluZHVzdHJpZXMuCgojIyMgUHJlbWl1bSBRdWFsaXR5IEZsYXggU2VlZHMKCkZsYXggc2VlZHMsIGFsc28ga25vd24gYXMgbGluc2VlZHMsIGFyZSBzbWFsbCBvaWwgc2VlZHMgaGFydmVzdGVkIGZyb20gdGhlIGZsYXggcGxhbnQgKExpbnVtIHVzaXRhdGlzc2ltdW0pLiBUaGVzZSBzZWVkcyBhcmUgdmFsdWVkIGZvciB0aGVpciByaWNoIG51dHJpdGlvbmFsIHByb2ZpbGUgYW5kIGhhdmUgYmVlbiB1c2VkIGZvciBjZW50dXJpZXMgaW4gdHJhZGl0aW9uYWwgbWVkaWNpbmUgYW5kIGN1bGluYXJ5IHByYWN0aWNlcy4gQXQgVmFybmkgRXhwb3J0cywgd2UgcHJvdmlkZSB0aGUgZm9sbG93aW5nIHZhcmlldGllcyBvZiBmbGF4IHNlZWRzOgoKLSAqKkJyb3duIEZsYXggU2VlZHMqKjogVGhlIG1vc3QgY29tbW9uIHZhcmlldHksIGtub3duIGZvciBpdHMgbnV0dHkgZmxhdm9yIGFuZCBoaWdoIG9tZWdhLTMgZmF0dHkgYWNpZCBjb250ZW50LgotICoqR29sZGVuIEZsYXggU2VlZHMqKjogU2ltaWxhciB0byBicm93biBmbGF4IHNlZWRzIGJ1dCB3aXRoIGEgbGlnaHRlciBjb2xvciBhbmQgc2xpZ2h0bHkgbWlsZGVyIHRhc3RlLgoKIyMjIFdoeSBDaG9vc2UgRmxheCBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHM/CgoxLiAqKk51dHJpdGlvbmFsIFBvd2VyaG91c2UqKjogRmxheCBzZWVkcyBhcmUgcmljaCBpbiBhbHBoYS1saW5vbGVuaWMgYWNpZCAoQUxBKSwgYW4gZXNzZW50aWFsIG9tZWdhLTMgZmF0dHkgYWNpZCwgYXMgd2VsbCBhcyBkaWV0YXJ5IGZpYmVyLCBsaWduYW5zLCBhbmQgYW50aW94aWRhbnRzLgogICAKMi4gKipIZWFsdGggQmVuZWZpdHMqKjogQ29uc3VtaW5nIGZsYXggc2VlZHMgbWF5IHByb21vdGUgaGVhcnQgaGVhbHRoLCBhaWQgaW4gZGlnZXN0aW9uLCBzdXBwb3J0IHNraW4gaGVhbHRoLCBhbmQgY29udHJpYnV0ZSB0byBvdmVyYWxsIHdlbGwtYmVpbmcuIFRoZXkgYXJlIGFsc28gdmFsdWVkIGZvciB0aGVpciBwb3RlbnRpYWwgYW50aS1pbmZsYW1tYXRvcnkgYW5kIGFudGlveGlkYW50IHByb3BlcnRpZXMuCgozLiAqKlZlcnNhdGlsZSBVc2UqKjogRmxheCBzZWVkcyBhcmUgdXNlZCBpbiBhIHZhcmlldHkgb2YgY3VsaW5hcnkgYXBwbGljYXRpb25zLCBpbmNsdWRpbmcgYmFraW5nIChhcyBhbiBlZ2cgc3Vic3RpdHV0ZSksIHNwcmlua2xlZCBvbiBjZXJlYWxzIG9yIHNhbGFkcywgYWRkZWQgdG8gc21vb3RoaWVzLCBhbmQgaW5jb3Jwb3JhdGVkIGludG8gYnJlYWQgYW5kIHNuYWNrIGJhcnMuCgo0LiAqKkluZHVzdHJpYWwgQXBwbGljYXRpb25zKio6IEJleW9uZCBmb29kLCBmbGF4IHNlZWRzIGFyZSB1c2VkIGluIHRoZSBwcm9kdWN0aW9uIG9mIGxpbnNlZWQgb2lsLCB3aGljaCBpcyB1c2VkIGluIHBhaW50cywgdmFybmlzaGVzLCBhbmQgd29vZCBmaW5pc2hlcyBkdWUgdG8gaXRzIGRyeWluZyBwcm9wZXJ0aWVzLgoKIyMjIFNvdXJjaW5nIGFuZCBQcm9jZXNzaW5nCgpWYXJuaSBFeHBvcnRzIGVuc3VyZXMgbWV0aWN1bG91cyBzb3VyY2luZyBhbmQgcHJvY2Vzc2luZyBvZiBmbGF4IHNlZWRzIHRvIG1haW50YWluIHRoZWlyIGZyZXNobmVzcywgbnV0cml0aW9uYWwgaW50ZWdyaXR5LCBhbmQgZmxhdm9yLiBXZSBjb2xsYWJvcmF0ZSB3aXRoIHRydXN0ZWQgZmFybWVycyB3aG8gYWRoZXJlIHRvIHN1c3RhaW5hYmxlIGZhcm1pbmcgcHJhY3RpY2VzLCBlbnN1cmluZyBoaWdoLXF1YWxpdHkgc2VlZHMgZnJvbSBjdWx0aXZhdGlvbiB0byBoYXJ2ZXN0LiBPdXIgcHJvY2Vzc2luZyBmYWNpbGl0aWVzIGFyZSBlcXVpcHBlZCB3aXRoIGFkdmFuY2VkIHRlY2hub2xvZ3kgdG8gY2xlYW4sIHNvcnQsIGFuZCBwYWNrYWdlIGZsYXggc2VlZHMgZWZmaWNpZW50bHkuCgojIyMgTGVhZGluZyBGbGF4IFNlZWRzIEV4cG9ydGVyCgpBcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgZmxheCBzZWVkcyBmcm9tIEluZGlhLCBWYXJuaSBFeHBvcnRzIHNlcnZlcyBnbG9iYWwgbWFya2V0cyB3aXRoIGEgY29tbWl0bWVudCB0byBkZWxpdmVyaW5nIHN1cGVyaW9yIHF1YWxpdHkgcHJvZHVjdHMuIFdlIHByaW9yaXRpemUgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGFuZCBhZGhlcmUgdG8gc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyB0byBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLgoKIyMjIFVzZXMgYW5kIEJlbmVmaXRzIG9mIEZsYXggU2VlZHMKCjEuICoqRGlldGFyeSBTdXBwbGVtZW50Kio6IEZsYXggc2VlZHMgYXJlIGNvbW1vbmx5IGNvbnN1bWVkIGFzIGEgZGlldGFyeSBzdXBwbGVtZW50IGR1ZSB0byB0aGVpciBoaWdoIGNvbnRlbnQgb2Ygb21lZ2EtMyBmYXR0eSBhY2lkcyBhbmQgZmliZXIsIHByb21vdGluZyBjYXJkaW92YXNjdWxhciBoZWFsdGggYW5kIGRpZ2VzdGl2ZSByZWd1bGFyaXR5LgoKMi4gKipDdWxpbmFyeSBVc2VzKio6IEFkZHMgYSBudXR0eSBmbGF2b3IgYW5kIGNydW5jaHkgdGV4dHVyZSB0byBiYWtlZCBnb29kcywgYnJlYWtmYXN0IGNlcmVhbHMsIHlvZ3VydCwgYW5kIHNhbGFkcy4gR3JvdW5kIGZsYXggc2VlZHMgKGZsYXhzZWVkIG1lYWwpIGNhbiBiZSB1c2VkIGFzIGFuIGVnZyBzdWJzdGl0dXRlIGluIHZlZ2FuIGJha2luZy4KCjMuICoqSGVhbHRoIEJlbmVmaXRzKio6IFN1cHBvcnRzIGJyYWluIGZ1bmN0aW9uLCBqb2ludCBoZWFsdGgsIGFuZCBtYXkgaGVscCBsb3dlciBjaG9sZXN0ZXJvbCBsZXZlbHMuIEZsYXggc2VlZHMgYXJlIGFsc28gYXNzb2NpYXRlZCB3aXRoIGltcHJvdmVkIHNraW4gY29uZGl0aW9uIGFuZCBoYWlyIGhlYWx0aC4KCjQuICoqTmF0dXJhbCBSZW1lZGllcyoqOiBVc2VkIGluIHRyYWRpdGlvbmFsIG1lZGljaW5lIGZvciB0aGVpciBwb3RlbnRpYWwgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcyBhbmQgdG8gYWxsZXZpYXRlIHN5bXB0b21zIG9mIGNvbnN0aXBhdGlvbi4KCiMjIyBDb21taXRtZW50IHRvIFF1YWxpdHkgYW5kIFN1c3RhaW5hYmlsaXR5CgpWYXJuaSBFeHBvcnRzIGlzIGNvbW1pdHRlZCB0byB1cGhvbGRpbmcgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIG9mIHF1YWxpdHkgYW5kIHN1c3RhaW5hYmlsaXR5IGluIGV2ZXJ5IGFzcGVjdCBvZiBvdXIgb3BlcmF0aW9ucy4gV2Ugd29yayBjbG9zZWx5IHdpdGggb3VyIHBhcnRuZXJzIHRvIGVuc3VyZSByZXNwb25zaWJsZSBzb3VyY2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdGV3YXJkc2hpcCB0aHJvdWdob3V0IHRoZSBzdXBwbHkgY2hhaW4uCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBxdWFsaXR5IGZsYXggc2VlZHMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IG91ciBrbm93bGVkZ2VhYmxlIHRlYW0gYXQgVmFybmkgRXhwb3J0cy4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zIGFuZCBleGNlbGxlbnQgY3VzdG9tZXIgc2VydmljZS4gRXhwZXJpZW5jZSB0aGUgZXhjZWxsZW5jZSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Flax Seeds Supplier</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting premium quality flax seeds globally. We take pride in offering flax seeds that are renowned for their nutritional benefits and versatile applications in various industries.</p>
+            <br />
+
+            <p><strong>Premium Quality Flax Seeds</strong></p>
+            <br />
+            <p>Flax seeds, also known as linseeds, are small oil seeds harvested from the flax plant (Linum usitatissimum). These seeds are valued for their rich nutritional profile and have been used for centuries in traditional medicine and culinary practices. At Varni Exports, we provide the following varieties of flax seeds:</p>
+            <br />
+
+            <ul>
+              <li><strong>Brown Flax Seeds</strong>: The most common variety, known for its nutty flavor and high omega-3 fatty acid content.</li>
+              <li><strong>Golden Flax Seeds</strong>: Similar to brown flax seeds but with a lighter color and slightly milder taste.</li>
+            </ul>
+            <br />
+
+            <p><strong>Why Choose Flax Seeds from Varni Exports?</strong></p>
+            <br />
+            <ul>
+              <li><strong>Nutritional Powerhouse</strong>: Flax seeds are rich in alpha-linolenic acid (ALA), an essential omega-3 fatty acid, as well as dietary fiber, lignans, and antioxidants.</li>
+              <li><strong>Health Benefits</strong>: Consuming flax seeds may promote heart health, aid in digestion, support skin health, and contribute to overall well-being. They are also valued for their potential anti-inflammatory and antioxidant properties.</li>
+              <li><strong>Versatile Use</strong>: Flax seeds are used in a variety of culinary applications, including baking (as an egg substitute), sprinkled on cereals or salads, added to smoothies, and incorporated into bread and snack bars.</li>
+              <li><strong>Industrial Applications</strong>: Beyond food, flax seeds are used in the production of linseed oil, which is used in paints, varnishes, and wood finishes due to its drying properties.</li>
+            </ul>
+            <br />
+
+            <p><strong>Sourcing and Processing</strong></p>
+            <br />
+            <p>Varni Exports ensures meticulous sourcing and processing of flax seeds to maintain their freshness, nutritional integrity, and flavor. We collaborate with trusted farmers who adhere to sustainable farming practices, ensuring high-quality seeds from cultivation to harvest. Our processing facilities are equipped with advanced technology to clean, sort, and package flax seeds efficiently.</p>
+            <br />
+
+            <p><strong>Leading Flax Seeds Exporter</strong></p>
+            <br />
+            <p>As a leading exporter of flax seeds from India, Varni Exports serves global markets with a commitment to delivering superior quality products. We prioritize customer satisfaction and adhere to stringent quality control measures to meet international standards.</p>
+            <br />
+
+            <p><strong>Uses and Benefits of Flax Seeds</strong></p>
+            <br />
+            <ul>
+              <li><strong>Dietary Supplement</strong>: Flax seeds are commonly consumed as a dietary supplement due to their high content of omega-3 fatty acids and fiber, promoting cardiovascular health and digestive regularity.</li>
+              <li><strong>Culinary Uses</strong>: Adds a nutty flavor and crunchy texture to baked goods, breakfast cereals, yogurt, and salads. Ground flax seeds (flaxseed meal) can be used as an egg substitute in vegan baking.</li>
+              <li><strong>Health Benefits</strong>: Supports brain function, joint health, and may help lower cholesterol levels. Flax seeds are also associated with improved skin condition and hair health.</li>
+              <li><strong>Natural Remedies</strong>: Used in traditional medicine for their potential anti-inflammatory properties and to alleviate symptoms of constipation.</li>
+            </ul>
+            <br />
+
+            <p><strong>Commitment to Quality and Sustainability</strong></p>
+            <br />
+            <p>Varni Exports is committed to upholding the highest standards of quality and sustainability in every aspect of our operations. We work closely with our partners to ensure responsible sourcing and environmental stewardship throughout the supply chain.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+            <p>For inquiries about our premium quality flax seeds or to place an order, please contact our knowledgeable team at Varni Exports. We are dedicated to providing reliable sourcing solutions and excellent customer service. Experience the excellence of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -641,7 +2016,58 @@ export const catagories = [
         Packaging: "1 kg to 50 kg PP Bag",
         Loading: "20 to 24 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFNvb2ppIChTZW1vbGluYSkgU3VwcGxpZXIKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgU29vamkgKFNlbW9saW5hKSBnbG9iYWxseS4gV2UgdGFrZSBwcmlkZSBpbiBvZmZlcmluZyBTb29qaSB0aGF0IGlzIHJlbm93bmVkIGZvciBpdHMgcHVyaXR5LCBmcmVzaG5lc3MsIGFuZCB2ZXJzYXRpbGl0eSBpbiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuCgojIyMgQWJvdXQgU29vamkgKFNlbW9saW5hKQoKU29vamksIGFsc28ga25vd24gYXMgc2Vtb2xpbmEgb3IgcmF2YSwgaXMgYSBjb2Fyc2UgZmxvdXIgbWFkZSBmcm9tIGR1cnVtIHdoZWF0LiBJdCBpcyB3aWRlbHkgdXNlZCBpbiBjb29raW5nIGFjcm9zcyB2YXJpb3VzIGN1bHR1cmVzLCBwcml6ZWQgZm9yIGl0cyB0ZXh0dXJlIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4gU29vamkgaXMgY29tbW9ubHkgdXNlZCBpbiBwcmVwYXJpbmcgYSB2YXJpZXR5IG9mIGRpc2hlcywgcmFuZ2luZyBmcm9tIHNhdm9yeSB0byBzd2VldC4KCiMjIyBQcmVtaXVtIFF1YWxpdHkgU29vamkKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByb3ZpZGUgU29vamkgbWFkZSBmcm9tIHRoZSBmaW5lc3QgcXVhbGl0eSBkdXJ1bSB3aGVhdCBncmFpbnMuIE91ciBTb29qaSBpcyBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzIHRvIGVuc3VyZSBzdXBlcmlvciB0ZXh0dXJlLCBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCB2YWx1ZS4gSXQgaXMgY2hhcmFjdGVyaXplZCBieSBpdHMgZ3JhbnVsYXIgdGV4dHVyZSBhbmQgcGFsZSB5ZWxsb3cgY29sb3IuCgojIyMgQ3VsaW5hcnkgVXNlcyBvZiBTb29qaQoKMS4gKipJbmRpYW4gQ3Vpc2luZSoqOiBTb29qaSBpcyBhIHN0YXBsZSBpbmdyZWRpZW50IGluIEluZGlhbiBjdWlzaW5lLCB1c2VkIHRvIHByZXBhcmUgZGlzaGVzIHN1Y2ggYXMgdXBtYSwgaGFsd2EsIGlkbGksIGRvc2EsIGFuZCB2YXJpb3VzIHN3ZWV0cyBsaWtlIGxhZG9vIGFuZCBrZXNhcmkuCgoyLiAqKkJha2luZyoqOiBTb29qaSBpcyB1c2VkIGluIGJha2luZyB0byBjcmVhdGUgY3Jpc3AgY3J1c3RzIGZvciBicmVhZCwgcGl6emEsIGFuZCBiaXNjdWl0cy4gSXQgaXMgYWxzbyBhZGRlZCB0byBkb3VnaHMgdG8gZW5oYW5jZSB0ZXh0dXJlIGFuZCBzdHJ1Y3R1cmUuCgozLiAqKlNvdXBzIGFuZCBQb3JyaWRnZXMqKjogU29vamkgY2FuIGJlIHVzZWQgdG8gdGhpY2tlbiBzb3VwcyBhbmQgc3Rld3MsIGFkZGluZyBhIGhlYXJ0eSB0ZXh0dXJlLiBJdCBpcyBhbHNvIHVzZWQgdG8gbWFrZSBjcmVhbXkgcG9ycmlkZ2VzIGFuZCBwdWRkaW5ncy4KCjQuICoqRnJpZWQgYW5kIFJvYXN0ZWQgU25hY2tzKio6IFNvb2ppIGlzIHVzZWQgdG8gbWFrZSBzbmFja3MgbGlrZSBwYWtvcmFzLCBiaGFqaXMsIGFuZCBjcmlzcHkgZnJpZWQgaXRlbXMgYnkgY29hdGluZyB2ZWdldGFibGVzIG9yIG1lYXRzLgoKIyMjIEhlYWx0aCBCZW5lZml0cyBvZiBTb29qaQoKMS4gKipOdXRyaWVudC1SaWNoKio6IFNvb2ppIGlzIGEgZ29vZCBzb3VyY2Ugb2YgY2FyYm9oeWRyYXRlcywgcHJvdmlkaW5nIGVuZXJneSBmb3IgdGhlIGJvZHkuIEl0IGFsc28gY29udGFpbnMgcHJvdGVpbiwgZmliZXIsIGFuZCBlc3NlbnRpYWwgdml0YW1pbnMgYW5kIG1pbmVyYWxzLgoKMi4gKipEaWdlc3RpdmUgSGVhbHRoKio6IFNvb2ppIGFpZHMgaW4gZGlnZXN0aW9uIGR1ZSB0byBpdHMgZmliZXIgY29udGVudCwgcHJvbW90aW5nIGRpZ2VzdGl2ZSByZWd1bGFyaXR5IGFuZCBndXQgaGVhbHRoLgoKMy4gKipHbHV0ZW4tRnJlZSBPcHRpb24qKjogV2hlbiBtYWRlIGZyb20gZ2x1dGVuLWZyZWUgZ3JhaW5zLCBTb29qaSBjYW4gYmUgc3VpdGFibGUgZm9yIGluZGl2aWR1YWxzIHdpdGggZ2x1dGVuIGludG9sZXJhbmNlLgoKNC4gKipWZXJzYXRpbGUgQ29va2luZyBJbmdyZWRpZW50Kio6IEl0cyBuZXV0cmFsIGZsYXZvciBhbmQgYWJpbGl0eSB0byBhYnNvcmIgZmxhdm9ycyBtYWtlIFNvb2ppIGEgdmVyc2F0aWxlIGluZ3JlZGllbnQgaW4gYm90aCBzd2VldCBhbmQgc2F2b3J5IGRpc2hlcy4KCiMjIyBTb3VyY2luZyBhbmQgUXVhbGl0eSBBc3N1cmFuY2UKClZhcm5pIEV4cG9ydHMgZW5zdXJlcyB0aGF0IG91ciBTb29qaSBpcyBzb3VyY2VkIGZyb20gdHJ1c3RlZCBzdXBwbGllcnMgd2hvIGFkaGVyZSB0byBzdHJpY3QgcXVhbGl0eSBjb250cm9sIG1lYXN1cmVzLiBPdXIgcHJvY2Vzc2luZyBmYWNpbGl0aWVzIGFyZSBlcXVpcHBlZCB3aXRoIG1vZGVybiB0ZWNobm9sb2d5IHRvIGNsZWFuLCBncmluZCwgYW5kIHBhY2sgU29vamkgaHlnaWVuaWNhbGx5LCBwcmVzZXJ2aW5nIGl0cyBmcmVzaG5lc3MgYW5kIG51dHJpdGlvbmFsIGNvbnRlbnQuCgojIyMgRXhwb3J0aW5nIEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBTb29qaSBmcm9tIEluZGlhLCBWYXJuaSBFeHBvcnRzIGNhdGVycyB0byBnbG9iYWwgbWFya2V0cyB3aXRoIGEgY29tbWl0bWVudCB0byBkZWxpdmVyaW5nIHByZW1pdW0gcXVhbGl0eSBwcm9kdWN0cy4gV2UgbWFpbnRhaW4gdHJhbnNwYXJlbnQgY29tbXVuaWNhdGlvbiwgYWRoZXJlIHRvIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBhbmQgcHJpb3JpdGl6ZSBjdXN0b21lciBzYXRpc2ZhY3Rpb24uCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBTb29qaSBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3Qgb3VyIGtub3dsZWRnZWFibGUgdGVhbSBhdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMgYW5kIGV4Y2VsbGVudCBjdXN0b21lciBzZXJ2aWNlLiBFeHBlcmllbmNlIHRoZSBleGNlbGxlbmNlIG9mIFZhcm5pIEV4cG9ydHMgdG9kYXkh",
+          <div>
+            <p><strong>Welcome to Varni Exports: Your Trusted Sooji (Semolina) Supplier</strong></p>
+            <br />
+
+            <p>Varni Exports specializes in sourcing and exporting high-quality Sooji (Semolina) globally. We take pride in offering Sooji that is renowned for its purity, freshness, and versatility in culinary applications.</p>
+            <br />
+
+            <p><strong>About Sooji (Semolina)</strong></p>
+            <br />
+            <p>Sooji, also known as semolina or rava, is a coarse flour made from durum wheat. It is widely used in cooking across various cultures, prized for its texture and nutritional benefits. Sooji is commonly used in preparing a variety of dishes, ranging from savory to sweet.</p>
+            <br />
+
+            <p><strong>Premium Quality Sooji</strong></p>
+            <br />
+            <p>At Varni Exports, we provide Sooji made from the finest quality durum wheat grains. Our Sooji is processed under stringent quality standards to ensure superior texture, flavor, and nutritional value. It is characterized by its granular texture and pale yellow color.</p>
+            <br />
+
+            <p><strong>Culinary Uses of Sooji</strong></p>
+            <br />
+            <ul>
+              <li><strong>Indian Cuisine</strong>: Sooji is a staple ingredient in Indian cuisine, used to prepare dishes such as upma, halwa, idli, dosa, and various sweets like ladoo and kesari.</li>
+              <li><strong>Baking</strong>: Sooji is used in baking to create crisp crusts for bread, pizza, and biscuits. It is also added to doughs to enhance texture and structure.</li>
+              <li><strong>Soups and Porridges</strong>: Sooji can be used to thicken soups and stews, adding a hearty texture. It is also used to make creamy porridges and puddings.</li>
+              <li><strong>Fried and Roasted Snacks</strong>: Sooji is used to make snacks like pakoras, bhajis, and crispy fried items by coating vegetables or meats.</li>
+            </ul>
+            <br />
+
+            <p><strong>Health Benefits of Sooji</strong></p>
+            <br />
+            <ul>
+              <li><strong>Nutrient-Rich</strong>: Sooji is a good source of carbohydrates, providing energy for the body. It also contains protein, fiber, and essential vitamins and minerals.</li>
+              <li><strong>Digestive Health</strong>: Sooji aids in digestion due to its fiber content, promoting digestive regularity and gut health.</li>
+              <li><strong>Gluten-Free Option</strong>: When made from gluten-free grains, Sooji can be suitable for individuals with gluten intolerance.</li>
+              <li><strong>Versatile Cooking Ingredient</strong>: Its neutral flavor and ability to absorb flavors make Sooji a versatile ingredient in both sweet and savory dishes.</li>
+            </ul>
+            <br />
+
+            <p><strong>Sourcing and Quality Assurance</strong></p>
+            <br />
+            <p>Varni Exports ensures that our Sooji is sourced from trusted suppliers who adhere to strict quality control measures. Our processing facilities are equipped with modern technology to clean, grind, and pack Sooji hygienically, preserving its freshness and nutritional content.</p>
+            <br />
+
+            <p><strong>Exporting Excellence</strong></p>
+            <br />
+            <p>As a leading exporter of Sooji from India, Varni Exports caters to global markets with a commitment to delivering premium quality products. We maintain transparent communication, adhere to international food safety standards, and prioritize customer satisfaction.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+            <p>For inquiries about our premium Sooji or to place an order, please contact our knowledgeable team at Varni Exports. We are dedicated to providing reliable sourcing solutions and excellent customer service. Experience the excellence of Varni Exports today!</p>
+          </div>
+        ,
       },
       {
         id: "5",
@@ -659,7 +2085,82 @@ export const catagories = [
         Loading: "20 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "UmljZSBpcyBhIGZ1bmRhbWVudGFsIHN0YXBsZSBpbiBjdWlzaW5lcyB3b3JsZHdpZGUsIGtub3duIGZvciBpdHMgdmVyc2F0aWxpdHksIG51dHJpdGlvbmFsIHZhbHVlLCBhbmQgYWJpbGl0eSB0byBjb21wbGVtZW50IGEgd2lkZSByYW5nZSBvZiBkaXNoZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIG9mZmVyIGEgc2VsZWN0aW9uIG9mIHByZW1pdW0gcXVhbGl0eSByaWNlIHZhcmlldGllcyB0aGF0IGNhdGVyIHRvIGRpdmVyc2UgY3VsaW5hcnkgbmVlZHMsIGVuc3VyaW5nIHN1cGVyaW9yIHRhc3RlIGFuZCB0ZXh0dXJlLgoKKipWYXJpZXRpZXMgb2YgUmljZSoqCgoxLiAqKkJhc21hdGkgUmljZToqKiAKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBMb25nLCBzbGVuZGVyIGdyYWlucyB3aXRoIGEgZGlzdGluY3QgYXJvbWEgYW5kIGZsdWZmeSB0ZXh0dXJlIHdoZW4gY29va2VkLgogICAtICoqVXNlczoqKiBJZGVhbCBmb3IgYmlyeWFuaXMsIHBpbGFmcywgYW5kIGFzIGEgc2lkZSBkaXNoIGZvciBjdXJyaWVzIGFuZCBncmlsbGVkIG1lYXRzLgoKMi4gKipKYXNtaW5lIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBGcmFncmFudCwgbG9uZy1ncmFpbiByaWNlIHdpdGggYSBzb2Z0LCBzdGlja3kgdGV4dHVyZS4KICAgLSAqKlVzZXM6KiogUGVyZmVjdCBmb3IgVGhhaSBhbmQgb3RoZXIgU291dGhlYXN0IEFzaWFuIGRpc2hlcywgaW5jbHVkaW5nIHN0aXItZnJpZXMgYW5kIGN1cnJpZXMuCgozLiAqKlNob3J0LUdyYWluIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBTaG9ydCwgcGx1bXAgZ3JhaW5zIHRoYXQgYmVjb21lIHRlbmRlciBhbmQgc3RpY2t5IHdoZW4gY29va2VkLgogICAtICoqVXNlczoqKiBDb21tb25seSB1c2VkIGluIHN1c2hpLCByaXNvdHRvcywgYW5kIHJpY2UgcHVkZGluZ3MuCgo0LiAqKkJyb3duIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBXaG9sZSBncmFpbiByaWNlIHdpdGggdGhlIGJyYW4gYW5kIGdlcm0gaW50YWN0LCBvZmZlcmluZyBhIGNoZXd5IHRleHR1cmUgYW5kIG51dHR5IGZsYXZvci4KICAgLSAqKlVzZXM6KiogU3VpdGFibGUgZm9yIGhlYWx0aC1jb25zY2lvdXMgZGlzaGVzLCBzYWxhZHMsIGFuZCBhcyBhIG51dHJpdGlvdXMgYWx0ZXJuYXRpdmUgdG8gd2hpdGUgcmljZS4KCjUuICoqUGFyYm9pbGVkIFJpY2U6KioKICAgLSAqKkNoYXJhY3RlcmlzdGljczoqKiBQYXJ0aWFsbHkgYm9pbGVkIGluIHRoZSBodXNrLCByZXRhaW5pbmcgbW9yZSBudXRyaWVudHMgd2l0aCBhIGZpcm1lciB0ZXh0dXJlLgogICAtICoqVXNlczoqKiBFeGNlbGxlbnQgZm9yIGRpc2hlcyB0aGF0IHJlcXVpcmUgZGlzdGluY3QsIHNlcGFyYXRlIGdyYWlucywgc3VjaCBhcyBwaWxhZnMgYW5kIGZyaWVkIHJpY2UuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgotICoqTnV0cmllbnQtUmljaDoqKiBSaWNlIGlzIGEgZ29vZCBzb3VyY2Ugb2YgY2FyYm9oeWRyYXRlcywgcHJvdmlkaW5nIGVuZXJneSBhbmQgZXNzZW50aWFsIG51dHJpZW50cyBsaWtlIEIgdml0YW1pbnMsIGlyb24sIGFuZCBtYWduZXNpdW0uCi0gKipHbHV0ZW4tRnJlZToqKiBOYXR1cmFsbHkgZ2x1dGVuLWZyZWUsIG1ha2luZyBpdCBzdWl0YWJsZSBmb3IgaW5kaXZpZHVhbHMgd2l0aCBnbHV0ZW4gaW50b2xlcmFuY2Ugb3IgY2VsaWFjIGRpc2Vhc2UuCi0gKipWZXJzYXRpbGUgRGlldGFyeSBPcHRpb246KiogQ2FuIGJlIGluY2x1ZGVkIGluIHZhcmlvdXMgZGlldGFyeSBwbGFucywgZnJvbSB2ZWdhbiBhbmQgdmVnZXRhcmlhbiB0byBsb3ctZmF0IGFuZCBoZWFydC1oZWFsdGh5IGRpZXRzLgoKKipDdWxpbmFyeSBVc2VzKioKCi0gKipWZXJzYXRpbGUgSW5ncmVkaWVudDoqKiBSaWNlIGNhbiBiZSB1c2VkIGluIGFuIGFycmF5IG9mIGRpc2hlcywgZnJvbSBtYWluIGNvdXJzZXMgYW5kIHNpZGUgZGlzaGVzIHRvIGRlc3NlcnRzIGFuZCBzbmFja3MuCi0gKipDb21wbGVtZW50YXJ5IEJhc2U6KiogU2VydmVzIGFzIGEgcGVyZmVjdCBiYXNlIGZvciBzdGV3cywgY3Vycmllcywgc3Rpci1mcmllcywgYW5kIGdyaWxsZWQgZGlzaGVzLCBhYnNvcmJpbmcgZmxhdm9ycyBhbmQgYWRkaW5nIHRleHR1cmUuCi0gKipDdWx0dXJhbCBTdGFwbGU6KiogSW50ZWdyYWwgdG8gbnVtZXJvdXMgdHJhZGl0aW9uYWwgY3Vpc2luZXMsIGluY2x1ZGluZyBJbmRpYW4sIENoaW5lc2UsIEphcGFuZXNlLCBUaGFpLCBJdGFsaWFuLCBhbmQgTWlkZGxlIEVhc3Rlcm4uCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhbmQgZW5zdXJlIHRoYXQgb3VyIHJpY2UgbWVldHMgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzOgotICoqU291cmNlZCBmcm9tIFRydXN0ZWQgU3VwcGxpZXJzOioqIFdlIHByb2N1cmUgcmljZSBmcm9tIHJlcHV0YWJsZSBmYXJtZXJzIGFuZCBzdXBwbGllcnMga25vd24gZm9yIHRoZWlyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBhbmQgc3VzdGFpbmFibGUgcHJhY3RpY2VzLgotICoqUmlnb3JvdXMgUXVhbGl0eSBDb250cm9sOioqIE91ciByaWNlIHVuZGVyZ29lcyBzdHJpbmdlbnQgcXVhbGl0eSBjaGVja3MgdG8gZW5zdXJlIHB1cml0eSwgY29uc2lzdGVuY3ksIGFuZCBzdXBlcmlvciB0YXN0ZS4KLSAqKkh5Z2llbmljIFByb2Nlc3Npbmc6KiogUHJvY2Vzc2VkIGFuZCBwYWNrYWdlZCB1bmRlciBoeWdpZW5pYyBjb25kaXRpb25zIHRvIHByZXNlcnZlIGZyZXNobmVzcyBhbmQgbnV0cml0aW9uYWwgdmFsdWUuCgoqKkV4cGVyaWVuY2UgUHJlbWl1bSBSaWNlIHdpdGggVmFybmkgRXhwb3J0cyoqCgpEaXNjb3ZlciB0aGUgd29ybGQgb2YgcHJlbWl1bSByaWNlIHdpdGggVmFybmkgRXhwb3J0cy4gV2hldGhlciB5b3UgYXJlIGEgY3VsaW5hcnkgcHJvZmVzc2lvbmFsIG9yIGEgaG9tZSBjb29rLCBvdXIgZGl2ZXJzZSByYW5nZSBvZiByaWNlIHZhcmlldGllcyBwcm9taXNlcyB0byBlbGV2YXRlIHlvdXIgY29va2luZyBleHBlcmllbmNlLiBDb250YWN0IHVzIHRvZGF5IHRvIGV4cGxvcmUgb3VyIHNlbGVjdGlvbiBhbmQgcGxhY2UgeW91ciBvcmRlci4gRW5qb3kgdGhlIGF1dGhlbnRpYyBmbGF2b3JzIGFuZCBleGNlcHRpb25hbCBxdWFsaXR5IG9mIHJpY2UgZnJvbSBWYXJuaSBFeHBvcnRzLCB5b3VyIHRydXN0ZWQgcGFydG5lciBpbiBwcmVtaXVtIGdyYWlucyBhbmQgc3RhcGxlcy4=",
+          <div>
+            <p><strong>Rice is a fundamental staple in cuisines worldwide, known for its versatility, nutritional value, and ability to complement a wide range of dishes. At Varni Exports, we offer a selection of premium quality rice varieties that cater to diverse culinary needs, ensuring superior taste and texture.</strong></p>
+            <br />
+
+            <p><strong>Varieties of Rice</strong></p>
+            <br />
+            <li><strong>Basmati Rice:</strong>
+              <ul>
+                <li><strong>Characteristics:</strong> Long, slender grains with a distinct aroma and fluffy texture when cooked.</li>
+                <li><strong>Uses:</strong> Ideal for biryanis, pilafs, and as a side dish for curries and grilled meats.</li>
+              </ul>
+            </li>
+            <br />
+            <li><strong>Jasmine Rice:</strong>
+              <br />
+
+              <ul>
+                <li><strong>Characteristics:</strong> Fragrant, long-grain rice with a soft, sticky texture.</li>
+                <li><strong>Uses:</strong> Perfect for Thai and other Southeast Asian dishes, including stir-fries and curries.</li>
+              </ul>
+            </li>
+            <br />
+            <li><strong>Short-Grain Rice:</strong>
+              <br />
+
+              <ul>
+                <li><strong>Characteristics:</strong> Short, plump grains that become tender and sticky when cooked.</li>
+                <li><strong>Uses:</strong> Commonly used in sushi, risottos, and rice puddings.</li>
+              </ul>
+            </li>
+            <br />
+            <li><strong>Brown Rice:</strong>
+              <br />
+
+              <ul>
+                <li><strong>Characteristics:</strong> Whole grain rice with the bran and germ intact, offering a chewy texture and nutty flavor.</li>
+                <li><strong>Uses:</strong> Suitable for health-conscious dishes, salads, and as a nutritious alternative to white rice.</li>
+              </ul>
+            </li>
+            <br />
+            <li><strong>Parboiled Rice:</strong>
+              <br />
+
+              <ul>
+                <li><strong>Characteristics:</strong> Partially boiled in the husk, retaining more nutrients with a firmer texture.</li>
+                <li><strong>Uses:</strong> Excellent for dishes that require distinct, separate grains, such as pilafs and fried rice.</li>
+              </ul>
+            </li>
+            <br />
+
+            <p><strong>Health Benefits</strong></p>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Rice is a good source of carbohydrates, providing energy and essential nutrients like B vitamins, iron, and magnesium.</li>
+            <li><strong>Gluten-Free:</strong> Naturally gluten-free, making it suitable for individuals with gluten intolerance or celiac disease.</li>
+            <li><strong>Versatile Dietary Option:</strong> Can be included in various dietary plans, from vegan and vegetarian to low-fat and heart-healthy diets.</li>
+            <br />
+
+            <p><strong>Culinary Uses</strong></p>
+            <br />
+            <li><strong>Versatile Ingredient:</strong> Rice can be used in an array of dishes, from main courses and side dishes to desserts and snacks.</li>
+            <li><strong>Complementary Base:</strong> Serves as a perfect base for stews, curries, stir-fries, and grilled dishes, absorbing flavors and adding texture.</li>
+            <li><strong>Cultural Staple:</strong> Integral to numerous traditional cuisines, including Indian, Chinese, Japanese, Thai, Italian, and Middle Eastern.</li>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+            <li><strong>Sourced from Trusted Suppliers:</strong> We procure rice from reputable farmers and suppliers known for their commitment to quality and sustainable practices.</li>
+            <li><strong>Rigorous Quality Control:</strong> Our rice undergoes stringent quality checks to ensure purity, consistency, and superior taste.</li>
+            <li><strong>Hygienic Processing:</strong> Processed and packaged under hygienic conditions to preserve freshness and nutritional value.</li>
+            <br />
+
+            <p><strong>Experience Premium Rice with Varni Exports</strong></p>
+            <br />
+            <p>Discover the world of premium rice with Varni Exports. Whether you are a culinary professional or a home cook, our diverse range of rice varieties promises to elevate your cooking experience. Contact us today to explore our selection and place your order. Enjoy the authentic flavors and exceptional quality of rice from Varni Exports, your trusted partner in premium grains and staples.</p>
+          </div>
+        ,
       },
       {
         id: "6",
@@ -679,7 +2180,65 @@ export const catagories = [
         Loading: "20 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "KipHcmVlbiBNaWxsZXQ6IEEgTnV0cml0aW91cyBHcmFpbiBmb3IgYSBIZWFsdGhpZXIgTGlmZXN0eWxlKioKCioqSW50cm9kdWN0aW9uKioKCkdyZWVuIG1pbGxldCwgYWxzbyBrbm93biBhcyBwZWFybCBtaWxsZXQsIGlzIGEgaGlnaGx5IG51dHJpdGlvdXMgYW5kIHZlcnNhdGlsZSBncmFpbiB0aGF0IGhhcyBiZWVuIGEgc3RhcGxlIGluIG1hbnkgdHJhZGl0aW9uYWwgZGlldHMgYWNyb3NzIEFmcmljYSBhbmQgQXNpYS4gQXQgVmFybmkgRXhwb3J0cywgd2Ugb2ZmZXIgcHJlbWl1bSBxdWFsaXR5IGdyZWVuIG1pbGxldCB0aGF0IGlzIHBlcmZlY3QgZm9yIGEgdmFyaWV0eSBvZiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMsIHByb3ZpZGluZyBlc3NlbnRpYWwgbnV0cmllbnRzIGFuZCBoZWFsdGggYmVuZWZpdHMuCgoqKk51dHJpdGlvbmFsIFByb2ZpbGUqKgoKR3JlZW4gbWlsbGV0IGlzIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHM6Ci0gKipSaWNoIGluIFByb3RlaW46KiogQ29udGFpbnMgYSBzaWduaWZpY2FudCBhbW91bnQgb2YgcHJvdGVpbiwgbWFraW5nIGl0IGFuIGV4Y2VsbGVudCBkaWV0YXJ5IGNob2ljZSBmb3IgdmVnZXRhcmlhbnMgYW5kIHZlZ2Fucy4KLSAqKkhpZ2ggaW4gRmliZXI6KiogQSBncmVhdCBzb3VyY2Ugb2YgZGlldGFyeSBmaWJlciwgd2hpY2ggYWlkcyBpbiBkaWdlc3Rpb24gYW5kIGhlbHBzIG1haW50YWluIGhlYWx0aHkgYm93ZWwgbW92ZW1lbnRzLgotICoqRXNzZW50aWFsIE1pbmVyYWxzOioqIExvYWRlZCB3aXRoIGlyb24sIG1hZ25lc2l1bSwgcGhvc3Bob3J1cywgYW5kIHBvdGFzc2l1bSwgY29udHJpYnV0aW5nIHRvIG92ZXJhbGwgaGVhbHRoIGFuZCB3ZWxsLWJlaW5nLgotICoqVml0YW1pbnM6KiogQ29udGFpbnMgQiB2aXRhbWlucywgaW5jbHVkaW5nIG5pYWNpbiwgdGhpYW1pbmUsIGFuZCByaWJvZmxhdmluLCB3aGljaCBhcmUgY3J1Y2lhbCBmb3IgZW5lcmd5IG1ldGFib2xpc20gYW5kIG1haW50YWluaW5nIGEgaGVhbHRoeSBuZXJ2b3VzIHN5c3RlbS4KLSAqKkdsdXRlbi1GcmVlOioqIE5hdHVyYWxseSBnbHV0ZW4tZnJlZSwgbWFraW5nIGl0IHN1aXRhYmxlIGZvciB0aG9zZSB3aXRoIGdsdXRlbiBpbnRvbGVyYW5jZSBvciBjZWxpYWMgZGlzZWFzZS4KCioqSGVhbHRoIEJlbmVmaXRzKioKCkluY29ycG9yYXRpbmcgZ3JlZW4gbWlsbGV0IGludG8geW91ciBkaWV0IGNhbiBvZmZlciBudW1lcm91cyBoZWFsdGggYmVuZWZpdHM6Ci0gKipTdXBwb3J0cyBIZWFydCBIZWFsdGg6KiogUmljaCBpbiBtYWduZXNpdW0gYW5kIHBvdGFzc2l1bSwgZ3JlZW4gbWlsbGV0IGhlbHBzIG1haW50YWluIGhlYWx0aHkgYmxvb2QgcHJlc3N1cmUgbGV2ZWxzIGFuZCBzdXBwb3J0cyBjYXJkaW92YXNjdWxhciBoZWFsdGguCi0gKipBaWRzIGluIFdlaWdodCBNYW5hZ2VtZW50OioqIEhpZ2ggZmliZXIgY29udGVudCBwcm9tb3RlcyBhIGZlZWxpbmcgb2YgZnVsbG5lc3MsIHJlZHVjaW5nIG92ZXJhbGwgY2Fsb3JpZSBpbnRha2UgYW5kIGFpZGluZyBpbiB3ZWlnaHQgbWFuYWdlbWVudC4KLSAqKlJlZ3VsYXRlcyBCbG9vZCBTdWdhciBMZXZlbHM6KiogTG93IGdseWNlbWljIGluZGV4IG1ha2VzIGl0IGFuIGV4Y2VsbGVudCBjaG9pY2UgZm9yIGRpYWJldGljcyBhbmQgdGhvc2UgbG9va2luZyB0byBtYWludGFpbiBzdGFibGUgYmxvb2Qgc3VnYXIgbGV2ZWxzLgotICoqQm9vc3RzIEltbXVuZSBTeXN0ZW06KiogQ29udGFpbnMgYW50aW94aWRhbnRzIGFuZCBlc3NlbnRpYWwgbnV0cmllbnRzIHRoYXQgc3RyZW5ndGhlbiB0aGUgaW1tdW5lIHN5c3RlbSBhbmQgcHJvdGVjdCBhZ2FpbnN0IGluZmVjdGlvbnMuCgoqKkN1bGluYXJ5IFVzZXMqKgoKR3JlZW4gbWlsbGV0IGlzIGluY3JlZGlibHkgdmVyc2F0aWxlIGFuZCBjYW4gYmUgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKlRyYWRpdGlvbmFsIERpc2hlczoqKiBDb21tb25seSB1c2VkIGluIHBvcnJpZGdlcywgZmxhdGJyZWFkcywgYW5kIGZlcm1lbnRlZCBmb29kcyBpbiBtYW55IGN1bHR1cmVzLgotICoqU2FsYWRzOioqIEFkZHMgYSBudXRyaXRpb3VzIGFuZCBjcnVuY2h5IGVsZW1lbnQgdG8gc2FsYWRzIHdoZW4gY29va2VkIGFuZCBjb29sZWQuCi0gKipCYWtpbmc6KiogQ2FuIGJlIGdyb3VuZCBpbnRvIGZsb3VyIGFuZCB1c2VkIGluIGJha2luZyBicmVhZCwgbXVmZmlucywgYW5kIG90aGVyIGdsdXRlbi1mcmVlIGJha2VkIGdvb2RzLgotICoqU2lkZSBEaXNoZXM6KiogQ29va2VkIGdyZWVuIG1pbGxldCBjYW4gYmUgc2VydmVkIGFzIGEgc2lkZSBkaXNoLCBzaW1pbGFyIHRvIHJpY2Ugb3IgcXVpbm9hLCBjb21wbGVtZW50aW5nIGEgdmFyaWV0eSBvZiBtYWluIGNvdXJzZXMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGVuc3VyZSB0aGF0IG91ciBncmVlbiBtaWxsZXQgbWVldHMgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIG9mIHF1YWxpdHkgYW5kIHNhZmV0eToKLSAqKlByZW1pdW0gU291cmNpbmc6KiogU291cmNlZCBmcm9tIHRydXN0ZWQgZmFybWVycyB3aG8gcHJhY3RpY2Ugc3VzdGFpbmFibGUgYWdyaWN1bHR1cmUuCi0gKipSaWdvcm91cyBRdWFsaXR5IENvbnRyb2w6KiogVW5kZXJnb2VzIHN0cmluZ2VudCBxdWFsaXR5IGNoZWNrcyB0byBlbnN1cmUgcHVyaXR5LCBjb25zaXN0ZW5jeSwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgotICoqSHlnaWVuaWMgUHJvY2Vzc2luZzoqKiBQcm9jZXNzZWQgYW5kIHBhY2thZ2VkIHVuZGVyIGh5Z2llbmljIGNvbmRpdGlvbnMgdG8gbWFpbnRhaW4gZnJlc2huZXNzIGFuZCBwcmV2ZW50IGNvbnRhbWluYXRpb24uCgoqKkV4cGVyaWVuY2UgR3JlZW4gTWlsbGV0IHdpdGggVmFybmkgRXhwb3J0cyoqCgpEaXNjb3ZlciB0aGUgYmVuZWZpdHMgYW5kIHZlcnNhdGlsaXR5IG9mIGdyZWVuIG1pbGxldCB3aXRoIFZhcm5pIEV4cG9ydHMuIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIHRvIGVuaGFuY2UgeW91ciBkaWV0IHdpdGggbnV0cml0aW91cyBncmFpbnMgb3Igc2Vla2luZyBhIGdsdXRlbi1mcmVlIGFsdGVybmF0aXZlIGZvciB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucywgb3VyIGdyZWVuIG1pbGxldCBpcyB0aGUgcGVyZmVjdCBjaG9pY2UuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcHJvZHVjdHMgYW5kIHBsYWNlIHlvdXIgb3JkZXIuIEVuam95IHRoZSB3aG9sZXNvbWUgZ29vZG5lc3MgYW5kIGV4Y2VwdGlvbmFsIHF1YWxpdHkgb2YgZ3JlZW4gbWlsbGV0IGZyb20gVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gcHJlbWl1bSBncmFpbnMgYW5kIHN0YXBsZXMu",
+          <div>
+            <h1><strong>Green Millet: A Nutritious Grain for a Healthier Lifestyle</strong></h1>
+            <br />
+            <p>Green millet, also known as pearl millet, is a highly nutritious and versatile grain that has been a staple in many traditional diets across Africa and Asia. At Varni Exports, we offer premium quality green millet that is perfect for a variety of culinary applications, providing essential nutrients and health benefits.</p>
+            <br />
+
+            <h2><strong>Nutritional Profile</strong></h2>
+            <br />
+            <p> <strong>Green millet is packed with essential nutrients:</strong></p>
+            <br />
+            <ul>
+              <li><strong>Rich in Protein:</strong> Contains a significant amount of protein, making it an excellent dietary choice for vegetarians and vegans.</li>
+              <li><strong>High in Fiber:</strong> A great source of dietary fiber, which aids in digestion and helps maintain healthy bowel movements.</li>
+              <li><strong>Essential Minerals:</strong> Loaded with iron, magnesium, phosphorus, and potassium, contributing to overall health and well-being.</li>
+              <li><strong>Vitamins:</strong> Contains B vitamins, including niacin, thiamine, and riboflavin, which are crucial for energy metabolism and maintaining a healthy nervous system.</li>
+              <li><strong>Gluten-Free:</strong> Naturally gluten-free, making it suitable for those with gluten intolerance or celiac disease.</li>
+            </ul>
+            <br />
+
+            <h2><strong>Health Benefits</strong></h2>
+            <br />
+            <p>Incorporating green millet into your diet can offer numerous health benefits:</p>
+            <br />
+            <ul>
+              <li><strong>Supports Heart Health:</strong> Rich in magnesium and potassium, green millet helps maintain healthy blood pressure levels and supports cardiovascular health.</li>
+              <li><strong>Aids in Weight Management:</strong> High fiber content promotes a feeling of fullness, reducing overall calorie intake and aiding in weight management.</li>
+              <li><strong>Regulates Blood Sugar Levels:</strong> Low glycemic index makes it an excellent choice for diabetics and those looking to maintain stable blood sugar levels.</li>
+              <li><strong>Boosts Immune System:</strong> Contains antioxidants and essential nutrients that strengthen the immune system and protect against infections.</li>
+            </ul>
+            <br />
+
+            <h2><strong>Culinary Uses</strong></h2>
+            <br />
+            <p>Green millet is incredibly versatile and can be used in various culinary applications:</p>
+            <br />
+            <ul>
+              <li><strong>Traditional Dishes:</strong> Commonly used in porridges, flatbreads, and fermented foods in many cultures.</li>
+              <li><strong>Salads:</strong> Adds a nutritious and crunchy element to salads when cooked and cooled.</li>
+              <li><strong>Baking:</strong> Can be ground into flour and used in baking bread, muffins, and other gluten-free baked goods.</li>
+              <li><strong>Side Dishes:</strong> Cooked green millet can be served as a side dish, similar to rice or quinoa, complementing a variety of main courses.</li>
+            </ul>
+            <br />
+
+            <h2><strong>Quality Assurance</strong></h2>
+            <br />
+            <p>At Varni Exports, we ensure that our green millet meets the highest standards of quality and safety:</p>
+            <br />
+            <ul>
+              <li><strong>Premium Sourcing:</strong> Sourced from trusted farmers who practice sustainable agriculture.</li>
+              <li><strong>Rigorous Quality Control:</strong> Undergoes stringent quality checks to ensure purity, consistency, and nutritional value.</li>
+              <li><strong>Hygienic Processing:</strong> Processed and packaged under hygienic conditions to maintain freshness and prevent contamination.</li>
+            </ul>
+            <br />
+
+            <h2><strong>Experience Green Millet with Varni Exports</strong></h2>
+            <br />
+            <p>Discover the benefits and versatility of green millet with Varni Exports. Whether you are looking to enhance your diet with nutritious grains or seeking a gluten-free alternative for your culinary creations, our green millet is the perfect choice. Contact us today to learn more about our products and place your order. Enjoy the wholesome goodness and exceptional quality of green millet from Varni Exports, your trusted partner in premium grains and staples.</p>
+          </div>
+        ,
       },
     ],
   },

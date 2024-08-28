@@ -271,9 +271,7 @@ function Category() {
           <div className={style.otherProductsGrid}>
             <div className={style.productDescription}>
               <h1 className='text-3xl mb-10'>Description</h1>
-              {data?.description ? (
-                <Markdown className="text-justify">{atob(data?.description)}</Markdown>
-              ) : null}
+                <div className="text-justify">{data?.description}</div>
             </div>
 
             <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
