@@ -60,6 +60,18 @@ function Category() {
                 <img className="w-[220px]" src={item?.images} alt="" />
                 <h1 className={Style.productt_name}>{item.name}</h1>
               </Link>
+            //    <Link
+            //    to={`/products/${categoryId}/${item.name}`}
+            //    key={item.id}
+            //    className={`flex flex-col items-center justify-between relative ${Style.images}`}
+            //  >
+            //    <img className="w-[220px]" src={item?.images} alt={item.name} />
+            //    <div
+            //      className={`${Style.productt_name} rotate-6 absolute -bottom-5 left-0 right-0 text-white bg-[var(--primary-color)] opacity-0 transition-opacity duration-300 ease-in-out`}
+            //    >
+            //      <h1 className="-rotate-6">{item.name}</h1>
+            //    </div>
+            //  </Link>
             );
           })}
         </div>

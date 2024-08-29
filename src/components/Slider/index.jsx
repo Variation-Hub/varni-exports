@@ -123,7 +123,7 @@ function Lider() {
       <div className={Style.sliderImages}>
         <div className={Style.titel}>
           <h1 className={Style.offering}>What we’re offering</h1>
-          <h4 className={Style.our}>Our Produts</h4>
+          <h4 className={Style.our}>Our Products</h4>
         </div>
 
         <Slider {...settings} className={Style.Slider_products}>
