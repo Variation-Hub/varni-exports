@@ -2483,10 +2483,10 @@ export const catagories = [
             <h2><strong>Variety of Onions Offered</strong></h2>
             <br />
             <p>At Varni Exports, we offer a diverse range of onion varieties to meet your specific needs:</p>
-              <li><strong>Red Onions</strong></li>
-              <li><strong>White Onions</strong></li>
-              <li><strong>Yellow Onions</strong></li>
-              <li><strong>Pink Onions</strong></li>
+            <li><strong>Red Onions</strong></li>
+            <li><strong>White Onions</strong></li>
+            <li><strong>Yellow Onions</strong></li>
+            <li><strong>Pink Onions</strong></li>
             <br />
 
             <h2><strong>State-of-the-Art Processing Plant</strong></h2>
@@ -2516,11 +2516,11 @@ export const catagories = [
 
             <h2><strong>Uses and Benefits of Pink Onions</strong></h2>
             <br />
-              <li><strong>Nutrient-Rich:</strong> Low in calories but high in essential minerals and vitamins, including Vitamin B and Vitamin C, which aid in red blood cell formation and nerve function.</li>
-              <li><strong>Heart Health:</strong> Contains antioxidants that reduce heart disease risk, inflammation, and blood clot formation.</li>
-              <li><strong>Cancer-Fighting Compounds:</strong> Pink onions contain compounds that help fight cancers such as stomach and colorectal cancer. Vitamin A in pink onions helps decrease tumor development.</li>
-              <li><strong>Bone Density and Blood Sugar Control:</strong> Studies suggest that pink onions can boost bone density and help regulate blood sugar levels.</li>
-              <li><strong>Antibacterial Properties:</strong> Onions promote digestive health and may improve immune function due to their antibacterial properties.</li>
+            <li><strong>Nutrient-Rich:</strong> Low in calories but high in essential minerals and vitamins, including Vitamin B and Vitamin C, which aid in red blood cell formation and nerve function.</li>
+            <li><strong>Heart Health:</strong> Contains antioxidants that reduce heart disease risk, inflammation, and blood clot formation.</li>
+            <li><strong>Cancer-Fighting Compounds:</strong> Pink onions contain compounds that help fight cancers such as stomach and colorectal cancer. Vitamin A in pink onions helps decrease tumor development.</li>
+            <li><strong>Bone Density and Blood Sugar Control:</strong> Studies suggest that pink onions can boost bone density and help regulate blood sugar levels.</li>
+            <li><strong>Antibacterial Properties:</strong> Onions promote digestive health and may improve immune function due to their antibacterial properties.</li>
             <br />
 
             <p>Choose Varni Exports for the finest quality pink onions and experience the exceptional flavor and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
@@ -2556,7 +2556,51 @@ export const catagories = [
         Loading: "25 to 60 Tons",
         "Self-Life": "2 years",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIEdvbGRlbiBSYWlzaW5zIFN1cHBsaWVyCgpWYXJuaSBFeHBvcnRzIHNwZWNpYWxpemVzIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgaGlnaC1xdWFsaXR5IEdvbGRlbiBSYWlzaW5zIGdsb2JhbGx5LiBXZSB0YWtlIHByaWRlIGluIG9mZmVyaW5nIHJhaXNpbnMgdGhhdCBhcmUgcmVub3duZWQgZm9yIHRoZWlyIHB1cml0eSwgc3dlZXRuZXNzLCBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMuCgojIyMgQWJvdXQgR29sZGVuIFJhaXNpbnMKCkdvbGRlbiBSYWlzaW5zIGFyZSBkcmllZCBncmFwZXMgdGhhdCB1bmRlcmdvIGEgc3BlY2lmaWMgZHJ5aW5nIHByb2Nlc3MgdG8gcmV0YWluIHRoZWlyIGdvbGRlbiBjb2xvciBhbmQgZGlzdGluY3Qgc3dlZXRuZXNzLiBUaGV5IGFyZSBwb3B1bGFyIGluIHZhcmlvdXMgY3Vpc2luZXMgYW5kIGFyZSBwcml6ZWQgZm9yIHRoZWlyIHRhc3RlIGFuZCB2ZXJzYXRpbGl0eSBpbiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuCgojIyMgUHJlbWl1bSBRdWFsaXR5IEdvbGRlbiBSYWlzaW5zCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzb3VyY2UgdGhlIGZpbmVzdCBHb2xkZW4gUmFpc2lucyBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygd2VzdGVybiBJbmRpYSwgcGFydGljdWxhcmx5IGZyb20gdGhlIE5hc2lrIGFuZCBTYW5nbGkgcmVnaW9ucyBvZiBNYWhhcmFzaHRyYS4gT3VyIHJhaXNpbnMgYXJlIGtub3duIGZvciB0aGVpciBwbHVtcG5lc3MsIGp1aWNpbmVzcywgYW5kIG5hdHVyYWwgc3dlZXRuZXNzLiBUaGV5IGFyZSBjYXJlZnVsbHkgY2xlYW5lZCBhbmQgcHJvY2Vzc2VkIHRvIG1haW50YWluIGEgaGlnaCBwdXJpdHkgbGV2ZWwsIGVuc3VyaW5nIHRoZXkgbWVldCBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMuCgojIyMgQ3VsaW5hcnkgVXNlcyBvZiBHb2xkZW4gUmFpc2lucwoKMS4gKipTbmFja2luZyoqOiBHb2xkZW4gUmFpc2lucyBhcmUgZW5qb3llZCBhcyBhIGhlYWx0aHkgc25hY2sgb24gdGhlaXIgb3duIGR1ZSB0byB0aGVpciBzd2VldCBmbGF2b3IgYW5kIGNoZXd5IHRleHR1cmUuCiAgIAoyLiAqKkJha2luZyoqOiBUaGV5IGFyZSB1c2VkIGluIGJha2luZyBhIHZhcmlldHkgb2YgZGVzc2VydHMgc3VjaCBhcyBjYWtlcywgY29va2llcywgYnJlYWQsIGFuZCBtdWZmaW5zLCBhZGRpbmcgbmF0dXJhbCBzd2VldG5lc3MgYW5kIHRleHR1cmUuCgozLiAqKkNvb2tpbmcqKjogR29sZGVuIFJhaXNpbnMgYXJlIGluY29ycG9yYXRlZCBpbnRvIHNhdm9yeSBkaXNoZXMgbGlrZSByaWNlIHBpbGFmcywgY291c2NvdXMsIGFuZCB0YWdpbmVzIHRvIGFkZCBhIHN1YnRsZSBzd2VldG5lc3MgYW5kIGRlcHRoIG9mIGZsYXZvci4KCjQuICoqQ29uZmVjdGlvbmVyeSoqOiBUaGV5IGFyZSBhIGtleSBpbmdyZWRpZW50IGluIGNvbmZlY3Rpb25lcnkgcHJvZHVjdHMgc3VjaCBhcyBjaG9jb2xhdGVzLCBjYW5kaWVzLCBhbmQgdHJhaWwgbWl4ZXMsIGVuaGFuY2luZyB0aGVpciB0YXN0ZSBhbmQgbnV0cml0aW9uYWwgcHJvZmlsZS4KCiMjIyBIZWFsdGggQmVuZWZpdHMgb2YgR29sZGVuIFJhaXNpbnMKCjEuICoqTnV0cmllbnQtUmljaCoqOiBHb2xkZW4gUmFpc2lucyBhcmUgcGFja2VkIHdpdGggZXNzZW50aWFsIG51dHJpZW50cyBpbmNsdWRpbmcgZmliZXIsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMgbGlrZSBwb3Rhc3NpdW0uIFRoZXkgcHJvdmlkZSBhIHF1aWNrIHNvdXJjZSBvZiBlbmVyZ3kgYW5kIHN1cHBvcnQgZGlnZXN0aXZlIGhlYWx0aC4KCjIuICoqQW50aW94aWRhbnRzKio6IFRoZXkgY29udGFpbiBhbnRpb3hpZGFudHMgdGhhdCBoZWxwIHByb3RlY3QgY2VsbHMgZnJvbSBkYW1hZ2UgY2F1c2VkIGJ5IGZyZWUgcmFkaWNhbHMsIHByb21vdGluZyBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KCjMuICoqV2VpZ2h0IE1hbmFnZW1lbnQqKjogRGVzcGl0ZSBiZWluZyBuYXR1cmFsbHkgc3dlZXQsIEdvbGRlbiBSYWlzaW5zIGFyZSBsb3cgaW4gZmF0IGFuZCBjYW4gYmUgYSBzYXRpc2Z5aW5nIHNuYWNrIG9wdGlvbiBmb3IgdGhvc2Ugd2F0Y2hpbmcgdGhlaXIgd2VpZ2h0LgoKNC4gKipIZWFydCBIZWFsdGgqKjogUG90YXNzaXVtIGluIEdvbGRlbiBSYWlzaW5zIHN1cHBvcnRzIGhlYXJ0IGZ1bmN0aW9uIGJ5IGhlbHBpbmcgdG8gbWFpbnRhaW4gaGVhbHRoeSBibG9vZCBwcmVzc3VyZSBsZXZlbHMuCgojIyMgU291cmNpbmcgYW5kIFF1YWxpdHkgQXNzdXJhbmNlCgpWYXJuaSBFeHBvcnRzIGVuc3VyZXMgdGhhdCBvdXIgR29sZGVuIFJhaXNpbnMgYXJlIHNvdXJjZWQgZnJvbSB0cnVzdGVkIGZhcm1lcnMgd2hvIGZvbGxvdyBzdXN0YWluYWJsZSBhZ3JpY3VsdHVyYWwgcHJhY3RpY2VzLiBPdXIgcHJvY2Vzc2luZyBmYWNpbGl0aWVzIGFyZSBlcXVpcHBlZCB3aXRoIG1vZGVybiB0ZWNobm9sb2d5IHRvIGNsZWFuLCBkcnksIGFuZCBwYWNrIHJhaXNpbnMgaHlnaWVuaWNhbGx5LCBwcmVzZXJ2aW5nIHRoZWlyIG5hdHVyYWwgc3dlZXRuZXNzIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4KCiMjIyBFeHBvcnRpbmcgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIEdvbGRlbiBSYWlzaW5zIGZyb20gSW5kaWEsIFZhcm5pIEV4cG9ydHMgY2F0ZXJzIHRvIGdsb2JhbCBtYXJrZXRzIHdpdGggYSBjb21taXRtZW50IHRvIGRlbGl2ZXJpbmcgcHJlbWl1bSBxdWFsaXR5IHByb2R1Y3RzLiBXZSBhZGhlcmUgdG8gaW50ZXJuYXRpb25hbCBmb29kIHNhZmV0eSBzdGFuZGFyZHMgYW5kIGVuc3VyZSB0aW1lbHkgZGVsaXZlcnkgdG8gbWVldCBvdXIgY3VzdG9tZXJzJyByZXF1aXJlbWVudHMuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBHb2xkZW4gUmFpc2lucyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3Qgb3VyIGRlZGljYXRlZCB0ZWFtIGF0IFZhcm5pIEV4cG9ydHMuIFdlIGFyZSBjb21taXR0ZWQgdG8gcHJvdmlkaW5nIHN1cGVyaW9yIGN1c3RvbWVyIHNlcnZpY2UgYW5kIHJlbGlhYmxlIHNvdXJjaW5nIHNvbHV0aW9ucy4gRXhwZXJpZW5jZSB0aGUgcXVhbGl0eSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Golden Raisins Supplier</strong></h1>
+            <br />
+
+            <h2><strong>About Golden Raisins</strong></h2>
+            <br />
+            <p>Golden Raisins are dried grapes that undergo a specific drying process to retain their golden color and distinct sweetness. They are popular in various cuisines and are prized for their taste and versatility in culinary applications.</p>
+            <br />
+
+            <h2><strong>Premium Quality Golden Raisins</strong></h2>
+            <br />
+            <p>At Varni Exports, we source the finest Golden Raisins from the fertile regions of western India, particularly from the Nasik and Sangli regions of Maharashtra. Our raisins are known for their plumpness, juiciness, and natural sweetness. They are carefully cleaned and processed to maintain a high purity level, ensuring they meet stringent quality standards.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Golden Raisins</strong></h2>
+            <br />
+            <li><strong>Snacking:</strong> Golden Raisins are enjoyed as a healthy snack on their own due to their sweet flavor and chewy texture.</li>
+            <li><strong>Baking:</strong> They are used in baking a variety of desserts such as cakes, cookies, bread, and muffins, adding natural sweetness and texture.</li>
+            <li><strong>Cooking:</strong> Golden Raisins are incorporated into savory dishes like rice pilafs, couscous, and tagines to add a subtle sweetness and depth of flavor.</li>
+            <li><strong>Confectionery:</strong> They are a key ingredient in confectionery products such as chocolates, candies, and trail mixes, enhancing their taste and nutritional profile.</li>
+            <br />
+
+            <h2><strong>Health Benefits of Golden Raisins</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Golden Raisins are packed with essential nutrients including fiber, vitamins, and minerals like potassium. They provide a quick source of energy and support digestive health.</li>
+            <li><strong>Antioxidants:</strong> They contain antioxidants that help protect cells from damage caused by free radicals, promoting overall health and well-being.</li>
+            <li><strong>Weight Management:</strong> Despite being naturally sweet, Golden Raisins are low in fat and can be a satisfying snack option for those watching their weight.</li>
+            <li><strong>Heart Health:</strong> Potassium in Golden Raisins supports heart function by helping to maintain healthy blood pressure levels.</li>
+            <br />
+
+            <h2><strong>Sourcing and Quality Assurance</strong></h2>
+            <br />
+            <p>Varni Exports ensures that our Golden Raisins are sourced from trusted farmers who follow sustainable agricultural practices. Our processing facilities are equipped with modern technology to clean, dry, and pack raisins hygienically, preserving their natural sweetness and nutritional benefits.</p>
+            <br />
+
+            <h2><strong>Exporting Excellence</strong></h2>
+            <br />
+            <p>As a leading exporter of Golden Raisins from India, Varni Exports caters to global markets with a commitment to delivering premium quality products. We adhere to international food safety standards and ensure timely delivery to meet our customers' requirements.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our premium Golden Raisins or to place an order, please contact our dedicated team at Varni Exports. We are committed to providing superior customer service and reliable sourcing solutions. Experience the quality of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -2578,7 +2622,51 @@ export const catagories = [
         Loading: "25 to 60 Tons",
         "Self-Life": "2 years",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIEdvbGRlbiBMb25nIFJhaXNpbnMgU3VwcGxpZXIKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgR29sZGVuIExvbmcgUmFpc2lucyBnbG9iYWxseS4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcmFpc2lucyB0aGF0IGFyZSBrbm93biBmb3IgdGhlaXIgc3VwZXJpb3IgcXVhbGl0eSwgc3dlZXRuZXNzLCBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMuCgojIyMgQWJvdXQgR29sZGVuIExvbmcgUmFpc2lucwoKR29sZGVuIExvbmcgUmFpc2lucyBhcmUgYSBzcGVjaWFsIHZhcmlldHkgb2YgcmFpc2lucyBrbm93biBmb3IgdGhlaXIgZWxvbmdhdGVkIHNoYXBlIGFuZCBnb2xkZW4gY29sb3IuIFRoZXkgYXJlIHByb2R1Y2VkIGZyb20gZHJpZWQgZ3JhcGVzIHRoYXQgdW5kZXJnbyBhIG1ldGljdWxvdXMgZHJ5aW5nIHByb2Nlc3MgdG8gcmV0YWluIHRoZWlyIGRpc3RpbmN0aXZlIGFwcGVhcmFuY2UgYW5kIGZsYXZvci4gVGhlc2UgcmFpc2lucyBhcmUgaGlnaGx5IHNvdWdodCBhZnRlciBmb3IgdGhlaXIgdW5pcXVlIHRleHR1cmUgYW5kIHZlcnNhdGlsaXR5IGluIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KCiMjIyBQcmVtaXVtIFF1YWxpdHkgR29sZGVuIExvbmcgUmFpc2lucwoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJvY3VyZSB0aGUgZmluZXN0IEdvbGRlbiBMb25nIFJhaXNpbnMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEsIHBhcnRpY3VsYXJseSBmcm9tIHRoZSBOYXNpayBhbmQgU2FuZ2xpIHJlZ2lvbnMgb2YgTWFoYXJhc2h0cmEuIE91ciByYWlzaW5zIGFyZSBjYXJlZnVsbHkgY2xlYW5lZCBhbmQgcHJvY2Vzc2VkIHRvIG1haW50YWluIGEgaGlnaCBwdXJpdHkgbGV2ZWwsIGVuc3VyaW5nIHRoZXkgbWVldCBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMuIFRoZXkgYXJlIG5hdHVyYWxseSBzd2VldCwgcGx1bXAsIGFuZCBidXJzdGluZyB3aXRoIGZsYXZvciwgbWFraW5nIHRoZW0gYSBwcmVmZXJyZWQgY2hvaWNlIGFtb25nIGRpc2Nlcm5pbmcgYnV5ZXJzLgoKIyMjIEN1bGluYXJ5IFVzZXMgb2YgR29sZGVuIExvbmcgUmFpc2lucwoKMS4gKipTbmFja2luZyoqOiBHb2xkZW4gTG9uZyBSYWlzaW5zIGFyZSBlbmpveWVkIGFzIGEgbnV0cml0aW91cyBzbmFjayBvbiB0aGVpciBvd24gZHVlIHRvIHRoZWlyIHN3ZWV0IGZsYXZvciBhbmQgY2hld3kgdGV4dHVyZS4KICAgCjIuICoqQmFraW5nKio6IFRoZXkgYXJlIGlkZWFsIGZvciBiYWtpbmcgYSB2YXJpZXR5IG9mIHBhc3RyaWVzLCBjYWtlcywgYnJlYWQsIGFuZCBjb29raWVzLCBhZGRpbmcgYSBkZWxpZ2h0ZnVsIHN3ZWV0bmVzcyBhbmQgdGV4dHVyZS4KCjMuICoqQ29va2luZyoqOiBHb2xkZW4gTG9uZyBSYWlzaW5zIGFyZSB1c2VkIGluIHNhdm9yeSBkaXNoZXMgc3VjaCBhcyByaWNlIHBpbGFmcywgY3VycmllcywgYW5kIHNhbGFkcyB0byBlbmhhbmNlIGZsYXZvciBhbmQgcHJvdmlkZSBhIHN1YnRsZSBzd2VldG5lc3MuCgo0LiAqKkNvbmZlY3Rpb25lcnkqKjogVGhleSBhcmUgYSBwb3B1bGFyIGluZ3JlZGllbnQgaW4gY29uZmVjdGlvbmVyeSBwcm9kdWN0cyBsaWtlIGNob2NvbGF0ZXMsIGNhbmRpZXMsIGFuZCBlbmVyZ3kgYmFycywgb2ZmZXJpbmcgYSBuYXR1cmFsIHNvdXJjZSBvZiBzd2VldG5lc3MgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgoKIyMjIEhlYWx0aCBCZW5lZml0cyBvZiBHb2xkZW4gTG9uZyBSYWlzaW5zCgoxLiAqKk51dHJpZW50LVJpY2gqKjogR29sZGVuIExvbmcgUmFpc2lucyBhcmUgcmljaCBpbiBlc3NlbnRpYWwgbnV0cmllbnRzIGluY2x1ZGluZyBmaWJlciwgdml0YW1pbnMsIGFuZCBtaW5lcmFscyBzdWNoIGFzIHBvdGFzc2l1bS4gVGhleSBwcm92aWRlIGEgcXVpY2sgZW5lcmd5IGJvb3N0IGFuZCBzdXBwb3J0IGRpZ2VzdGl2ZSBoZWFsdGguCgoyLiAqKkFudGlveGlkYW50cyoqOiBUaGV5IGNvbnRhaW4gYW50aW94aWRhbnRzIHRoYXQgaGVscCBjb21iYXQgb3hpZGF0aXZlIHN0cmVzcyBhbmQgcHJvbW90ZSBvdmVyYWxsIGhlYWx0aC4KCjMuICoqSGVhcnQgSGVhbHRoKio6IFBvdGFzc2l1bSBpbiBHb2xkZW4gTG9uZyBSYWlzaW5zIHN1cHBvcnRzIGhlYXJ0IGZ1bmN0aW9uIGJ5IGhlbHBpbmcgdG8gcmVndWxhdGUgYmxvb2QgcHJlc3N1cmUgbGV2ZWxzLgoKNC4gKipXZWlnaHQgTWFuYWdlbWVudCoqOiBEZXNwaXRlIHRoZWlyIG5hdHVyYWwgc3dlZXRuZXNzLCBHb2xkZW4gTG9uZyBSYWlzaW5zIGFyZSBsb3cgaW4gZmF0IGFuZCBjYW4gYmUgcGFydCBvZiBhIGJhbGFuY2VkIGRpZXQgZm9yIHdlaWdodCBtYW5hZ2VtZW50LgoKIyMjIFNvdXJjaW5nIGFuZCBRdWFsaXR5IEFzc3VyYW5jZQoKVmFybmkgRXhwb3J0cyBlbnN1cmVzIHRoYXQgb3VyIEdvbGRlbiBMb25nIFJhaXNpbnMgYXJlIHNvdXJjZWQgZnJvbSByZXB1dGFibGUgZmFybWVycyB3aG8gYWRoZXJlIHRvIHN1c3RhaW5hYmxlIGFncmljdWx0dXJhbCBwcmFjdGljZXMuIE91ciBzdGF0ZS1vZi10aGUtYXJ0IHByb2Nlc3NpbmcgZmFjaWxpdGllcyBtYWludGFpbiBzdHJpY3QgaHlnaWVuZSBzdGFuZGFyZHMgdG8gcHJlc2VydmUgdGhlIG5hdHVyYWwgc3dlZXRuZXNzIGFuZCBxdWFsaXR5IG9mIHRoZSByYWlzaW5zIHRocm91Z2hvdXQgdGhlIHByb2R1Y3Rpb24gcHJvY2Vzcy4KCiMjIyBFeHBvcnRpbmcgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIEdvbGRlbiBMb25nIFJhaXNpbnMgZnJvbSBJbmRpYSwgVmFybmkgRXhwb3J0cyBjYXRlcnMgdG8gZ2xvYmFsIG1hcmtldHMgd2l0aCBhIGNvbW1pdG1lbnQgdG8gZGVsaXZlcmluZyBwcmVtaXVtIHF1YWxpdHkgcHJvZHVjdHMuIFdlIHByaW9yaXRpemUgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGFuZCBzdHJpdmUgdG8gZXhjZWVkIGV4cGVjdGF0aW9ucyB3aXRoIGV2ZXJ5IHNoaXBtZW50LgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gR29sZGVuIExvbmcgUmFpc2lucyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIGV4Y2VsbGVuY2Ugb2YgVmFybmkgRXhwb3J0cyB0b2RheSE=",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Golden Long Raisins Supplier</strong></h1>
+            <br />
+
+            <h2><strong>About Golden Long Raisins</strong></h2>
+            <br />
+            <p>Golden Long Raisins are a special variety of raisins known for their elongated shape and golden color. They are produced from dried grapes that undergo a meticulous drying process to retain their distinctive appearance and flavor. These raisins are highly sought after for their unique texture and versatility in culinary applications.</p>
+            <br />
+
+            <h2><strong>Premium Quality Golden Long Raisins</strong></h2>
+            <br />
+            <p>At Varni Exports, we procure the finest Golden Long Raisins from the fertile regions of western India, particularly from the Nasik and Sangli regions of Maharashtra. Our raisins are carefully cleaned and processed to maintain a high purity level, ensuring they meet stringent quality standards. They are naturally sweet, plump, and bursting with flavor, making them a preferred choice among discerning buyers.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Golden Long Raisins</strong></h2>
+            <br />
+            <li><strong>Snacking:</strong> Golden Long Raisins are enjoyed as a nutritious snack on their own due to their sweet flavor and chewy texture.</li>
+            <li><strong>Baking:</strong> They are ideal for baking a variety of pastries, cakes, bread, and cookies, adding a delightful sweetness and texture.</li>
+            <li><strong>Cooking:</strong> Golden Long Raisins are used in savory dishes such as rice pilafs, curries, and salads to enhance flavor and provide a subtle sweetness.</li>
+            <li><strong>Confectionery:</strong> They are a popular ingredient in confectionery products like chocolates, candies, and energy bars, offering a natural source of sweetness and nutritional value.</li>
+            <br />
+
+            <h2><strong>Health Benefits of Golden Long Raisins</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Golden Long Raisins are rich in essential nutrients including fiber, vitamins, and minerals such as potassium. They provide a quick energy boost and support digestive health.</li>
+            <li><strong>Antioxidants:</strong> They contain antioxidants that help combat oxidative stress and promote overall health.</li>
+            <li><strong>Heart Health:</strong> Potassium in Golden Long Raisins supports heart function by helping to regulate blood pressure levels.</li>
+            <li><strong>Weight Management:</strong> Despite their natural sweetness, Golden Long Raisins are low in fat and can be part of a balanced diet for weight management.</li>
+            <br />
+
+            <h2><strong>Sourcing and Quality Assurance</strong></h2>
+            <br />
+            <p>Varni Exports ensures that our Golden Long Raisins are sourced from reputable farmers who adhere to sustainable agricultural practices. Our state-of-the-art processing facilities maintain strict hygiene standards to preserve the natural sweetness and quality of the raisins throughout the production process.</p>
+            <br />
+
+            <h2><strong>Exporting Excellence</strong></h2>
+            <br />
+            <p>As a leading exporter of Golden Long Raisins from India, Varni Exports caters to global markets with a commitment to delivering premium quality products. We prioritize customer satisfaction and strive to exceed expectations with every shipment.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our premium Golden Long Raisins or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the excellence of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -2600,7 +2688,51 @@ export const catagories = [
         Loading: "25 to 60 Tons",
         "Self-Life": "2 years",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIEdvbGRlbiBSb3VuZCBSYWlzaW5zCgpWYXJuaSBFeHBvcnRzIHRha2VzIHByaWRlIGluIG9mZmVyaW5nIHByZW1pdW0gR29sZGVuIFJvdW5kIFJhaXNpbnMgc291cmNlZCBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygd2VzdGVybiBJbmRpYSwgaW5jbHVkaW5nIE5hc2lrIGFuZCBTYW5nbGkgaW4gTWFoYXJhc2h0cmEuIE91ciBjb21taXRtZW50IHRvIHF1YWxpdHkgZW5zdXJlcyB0aGF0IGVhY2ggcmFpc2luIGlzIGNhcmVmdWxseSBzZWxlY3RlZCwgcHJvY2Vzc2VkLCBhbmQgZXhwb3J0ZWQgdG8gbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcy4KCiMjIyBBYm91dCBHb2xkZW4gUm91bmQgUmFpc2lucwoKR29sZGVuIFJvdW5kIFJhaXNpbnMgYXJlIHJlbm93bmVkIGZvciB0aGVpciByb3VuZCBzaGFwZSBhbmQgZ29sZGVuIGh1ZSwgbWFraW5nIHRoZW0gdmlzdWFsbHkgYXBwZWFsaW5nIGFuZCB2ZXJzYXRpbGUgaW4gdmFyaW91cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuIFRoZXNlIHJhaXNpbnMgYXJlIHByb2R1Y2VkIGZyb20gZHJpZWQgZ3JhcGVzIHVzaW5nIHRyYWRpdGlvbmFsIGRyeWluZyBtZXRob2RzLCBwcmVzZXJ2aW5nIHRoZWlyIG5hdHVyYWwgc3dlZXRuZXNzIGFuZCBudXRyaXRpb25hbCB2YWx1ZS4KCiMjIyBQcmVtaXVtIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBwcmlvcml0aXplIHF1YWxpdHkgYXQgZXZlcnkgc3RlcC4gT3VyIEdvbGRlbiBSb3VuZCBSYWlzaW5zIHVuZGVyZ28gcmlnb3JvdXMgY2xlYW5pbmcgYW5kIHNvcnRpbmcgcHJvY2Vzc2VzIHRvIGFjaGlldmUgYSBwdXJpdHkgbGV2ZWwgb2YgOTAgdG8gOTUlLiBUaGlzIG1ldGljdWxvdXMgYXBwcm9hY2ggZ3VhcmFudGVlcyB0aGF0IG91ciByYWlzaW5zIGFyZSBmcmVlIGZyb20gaW1wdXJpdGllcyBhbmQgbWFpbnRhaW4gdGhlaXIgcGx1bXAgdGV4dHVyZSBhbmQgcmljaCBmbGF2b3IuCgojIyMgQ3VsaW5hcnkgVXNlcyBvZiBHb2xkZW4gUm91bmQgUmFpc2lucwoKMS4gKipTbmFja2luZyoqOiBFbmpveSBHb2xkZW4gUm91bmQgUmFpc2lucyBhcyBhIHdob2xlc29tZSBhbmQgZGVsaWNpb3VzIHNuYWNrIHN0cmFpZ2h0IG91dCBvZiB0aGUgcGFjay4KICAgCjIuICoqQmFraW5nKio6IEluY29ycG9yYXRlIHRoZW0gaW50byBiYWtlZCBnb29kcyBzdWNoIGFzIGNha2VzLCBtdWZmaW5zLCBhbmQgY29va2llcyB0byBhZGQgbmF0dXJhbCBzd2VldG5lc3MgYW5kIHRleHR1cmUuCgozLiAqKkNvb2tpbmcqKjogVXNlIEdvbGRlbiBSb3VuZCBSYWlzaW5zIGluIGJvdGggc3dlZXQgYW5kIHNhdm9yeSBkaXNoZXMsIGluY2x1ZGluZyByaWNlIGRpc2hlcywgc2FsYWRzLCBhbmQgdGFnaW5lcywgZm9yIGEgZGVsaWdodGZ1bCBidXJzdCBvZiBmbGF2b3IuCgo0LiAqKkNvbmZlY3Rpb25lcnkqKjogVGhleSBhcmUgYSBwb3B1bGFyIGNob2ljZSBmb3IgbWFraW5nIGNhbmRpZXMsIGNob2NvbGF0ZXMsIGFuZCBlbmVyZ3kgYmFycyBkdWUgdG8gdGhlaXIgbmF0dXJhbCBzdWdhcnMgYW5kIGNoZXd5IHRleHR1cmUuCgojIyMgSGVhbHRoIEJlbmVmaXRzIG9mIEdvbGRlbiBSb3VuZCBSYWlzaW5zCgoxLiAqKk51dHJpZW50LVJpY2gqKjogR29sZGVuIFJvdW5kIFJhaXNpbnMgYXJlIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHMsIGluY2x1ZGluZyBmaWJlciwgdml0YW1pbnMgKHN1Y2ggYXMgQiB2aXRhbWlucyksIGFuZCBtaW5lcmFscyAobGlrZSBpcm9uIGFuZCBwb3Rhc3NpdW0pLCBwcm9tb3Rpbmcgb3ZlcmFsbCB3ZWxsLWJlaW5nLgoKMi4gKipFbmVyZ3kgQm9vc3QqKjogVGhleSBwcm92aWRlIGEgcXVpY2sgZW5lcmd5IGJvb3N0LCBtYWtpbmcgdGhlbSBhbiBpZGVhbCBzbmFjayBmb3IgYWN0aXZlIGxpZmVzdHlsZXMuCgozLiAqKkRpZ2VzdGl2ZSBIZWFsdGgqKjogVGhlIGZpYmVyIGNvbnRlbnQgaW4gR29sZGVuIFJvdW5kIFJhaXNpbnMgc3VwcG9ydHMgZGlnZXN0aXZlIGhlYWx0aCBieSBhaWRpbmcgaW4gZGlnZXN0aW9uIGFuZCBwcm9tb3RpbmcgcmVndWxhciBib3dlbCBtb3ZlbWVudHMuCgo0LiAqKkFudGlveGlkYW50cyoqOiBUaGVzZSByYWlzaW5zIGNvbnRhaW4gYW50aW94aWRhbnRzIHRoYXQgaGVscCBwcm90ZWN0IGNlbGxzIGZyb20gZGFtYWdlIGNhdXNlZCBieSBmcmVlIHJhZGljYWxzLCBjb250cmlidXRpbmcgdG8gbG9uZy10ZXJtIGhlYWx0aC4KCiMjIyBTb3VyY2luZyBhbmQgU3VzdGFpbmFiaWxpdHkKClZhcm5pIEV4cG9ydHMgc291cmNlcyBHb2xkZW4gUm91bmQgUmFpc2lucyBmcm9tIHRydXN0ZWQgZmFybWVycyB3aG8gZm9sbG93IHN1c3RhaW5hYmxlIGFncmljdWx0dXJhbCBwcmFjdGljZXMuIE91ciBwYXJ0bmVyc2hpcHMgZW5zdXJlIHJlbGlhYmxlIGFuZCBjb25zaXN0ZW50IHF1YWxpdHksIG1lZXRpbmcgdGhlIGRlbWFuZHMgb2Ygb3VyIGdsb2JhbCBjdXN0b21lcnMuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBHb2xkZW4gUm91bmQgUmFpc2lucywgVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyBzdXBlcmlvciBwcm9kdWN0cyB0aGF0IGV4Y2VlZCBjdXN0b21lciBleHBlY3RhdGlvbnMuIE91ciBlZmZpY2llbnQgbG9naXN0aWNzIGFuZCBjdXN0b21lci1jZW50cmljIGFwcHJvYWNoIGVuc3VyZSB0aW1lbHkgZGVsaXZlcnkgYW5kIHNhdGlzZmFjdGlvbi4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIEdvbGRlbiBSb3VuZCBSYWlzaW5zIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZGVkaWNhdGVkIHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0IHlvdSB3aXRoIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBwcm92aWRlIHJlbGlhYmxlIHNvdXJjaW5nIHNvbHV0aW9ucy4gRXhwZXJpZW5jZSB0aGUgZXhjZWxsZW5jZSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Supplier of Golden Round Raisins</strong></h1>
+            <br />
+
+            <h2><strong>About Golden Round Raisins</strong></h2>
+            <br />
+            <p>Golden Round Raisins are renowned for their round shape and golden hue, making them visually appealing and versatile in various culinary applications. These raisins are produced from dried grapes using traditional drying methods, preserving their natural sweetness and nutritional value.</p>
+            <br />
+
+            <h2><strong>Premium Quality Assurance</strong></h2>
+            <br />
+            <p>At Varni Exports, we prioritize quality at every step. Our Golden Round Raisins undergo rigorous cleaning and sorting processes to achieve a purity level of 90 to 95%. This meticulous approach guarantees that our raisins are free from impurities and maintain their plump texture and rich flavor.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Golden Round Raisins</strong></h2>
+            <br />
+            <li><strong>Snacking:</strong> Enjoy Golden Round Raisins as a wholesome and delicious snack straight out of the pack.</li>
+            <li><strong>Baking:</strong> Incorporate them into baked goods such as cakes, muffins, and cookies to add natural sweetness and texture.</li>
+            <li><strong>Cooking:</strong> Use Golden Round Raisins in both sweet and savory dishes, including rice dishes, salads, and tagines, for a delightful burst of flavor.</li>
+            <li><strong>Confectionery:</strong> They are a popular choice for making candies, chocolates, and energy bars due to their natural sugars and chewy texture.</li>
+            <br />
+
+            <h2><strong>Health Benefits of Golden Round Raisins</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Golden Round Raisins are packed with essential nutrients, including fiber, vitamins (such as B vitamins), and minerals (like iron and potassium), promoting overall well-being.</li>
+            <li><strong>Energy Boost:</strong> They provide a quick energy boost, making them an ideal snack for active lifestyles.</li>
+            <li><strong>Digestive Health:</strong> The fiber content in Golden Round Raisins supports digestive health by aiding in digestion and promoting regular bowel movements.</li>
+            <li><strong>Antioxidants:</strong> These raisins contain antioxidants that help protect cells from damage caused by free radicals, contributing to long-term health.</li>
+            <br />
+
+            <h2><strong>Sourcing and Sustainability</strong></h2>
+            <br />
+            <p>Varni Exports sources Golden Round Raisins from trusted farmers who follow sustainable agricultural practices. Our partnerships ensure reliable and consistent quality, meeting the demands of our global customers.</p>
+            <br />
+
+            <h2><strong>Export Excellence</strong></h2>
+            <br />
+            <p>As a leading exporter of Golden Round Raisins, Varni Exports is committed to delivering superior products that exceed customer expectations. Our efficient logistics and customer-centric approach ensure timely delivery and satisfaction.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our premium Golden Round Raisins or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the excellence of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -2622,7 +2754,55 @@ export const catagories = [
         Loading: "25 to 60 Tons",
         "Self-Life": "2 years",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBTdXBwbGllciBvZiBHcmVlbiBSYWlzaW5zCgpWYXJuaSBFeHBvcnRzIHByb3VkbHkgb2ZmZXJzIGhpZ2gtcXVhbGl0eSBHcmVlbiBSYWlzaW5zIHNvdXJjZWQgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEsIGluY2x1ZGluZyBNYWhhcmFzaHRyYS4gT3VyIGRlZGljYXRpb24gdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgZWFjaCByYWlzaW4gbWVldHMgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzIGFuZCBpcyBwcmVwYXJlZCBmb3IgZXhwb3J0IHRvIGdsb2JhbCBtYXJrZXRzLgoKIyMjIEFib3V0IEdyZWVuIFJhaXNpbnMKCkdyZWVuIFJhaXNpbnMsIGFsc28ga25vd24gYXMgZ3JlZW4gb3IgZ29sZGVuIGdyZWVuIHJhaXNpbnMsIGFyZSBkaXN0aW5jdCBmb3IgdGhlaXIgdmlicmFudCBjb2xvciBhbmQgdW5pcXVlIGZsYXZvciBwcm9maWxlLiBUaGV5IGFyZSBwcm9kdWNlZCBmcm9tIGdyZWVuIGdyYXBlcyB0aGF0IHVuZGVyZ28gYSBkcnlpbmcgcHJvY2VzcywgY29uY2VudHJhdGluZyB0aGVpciBuYXR1cmFsIHN3ZWV0bmVzcyBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMuCgojIyMgUHJlbWl1bSBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IHRocm91Z2hvdXQgb3VyIHByb2R1Y3Rpb24gcHJvY2Vzcy4gT3VyIEdyZWVuIFJhaXNpbnMgdW5kZXJnbyB0aG9yb3VnaCBjbGVhbmluZyBhbmQgc29ydGluZyB0byBhY2hpZXZlIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4gVGhpcyBtZXRpY3Vsb3VzIHByb2Nlc3MgZW5zdXJlcyB0aGF0IG91ciByYWlzaW5zIGFyZSBmcmVlIGZyb20gaW1wdXJpdGllcyBhbmQgbWFpbnRhaW4gdGhlaXIgcGx1bXAgdGV4dHVyZSBhbmQgcmljaCB0YXN0ZS4KCiMjIyBDdWxpbmFyeSBVc2VzIG9mIEdyZWVuIFJhaXNpbnMKCjEuICoqU25hY2tpbmcqKjogRW5qb3kgR3JlZW4gUmFpc2lucyBhcyBhIG51dHJpdGlvdXMgYW5kIGZsYXZvcmZ1bCBzbmFjayBvbiB0aGVpciBvd24gb3IgbWl4ZWQgd2l0aCBudXRzIGFuZCBzZWVkcy4KICAgCjIuICoqQmFraW5nKio6IEluY29ycG9yYXRlIHRoZW0gaW50byBiYWtlZCBnb29kcyBzdWNoIGFzIGJyZWFkLCBjYWtlcywgYW5kIGNvb2tpZXMgdG8gYWRkIG5hdHVyYWwgc3dlZXRuZXNzIGFuZCB0ZXh0dXJlLgoKMy4gKipDb29raW5nKio6IFVzZSBHcmVlbiBSYWlzaW5zIGluIHZhcmlvdXMgc2F2b3J5IGRpc2hlcyBzdWNoIGFzIHJpY2UgcGlsYWZzLCBzYWxhZHMsIGFuZCBjdXJyaWVzIHRvIGVuaGFuY2UgZmxhdm9yIGFuZCBwcm92aWRlIGEgZGVsaWdodGZ1bCBjb250cmFzdC4KCjQuICoqQ29uZmVjdGlvbmVyeSoqOiBUaGV5IGFyZSBwb3B1bGFyIGZvciBtYWtpbmcgY2FuZGllcywgY2hvY29sYXRlcywgYW5kIGVuZXJneSBiYXJzIGR1ZSB0byB0aGVpciBjaGV3eSB0ZXh0dXJlIGFuZCBuYXR1cmFsIHN1Z2Fycy4KCiMjIyBIZWFsdGggQmVuZWZpdHMgb2YgR3JlZW4gUmFpc2lucwoKMS4gKipSaWNoIGluIE51dHJpZW50cyoqOiBHcmVlbiBSYWlzaW5zIGFyZSBhIGdvb2Qgc291cmNlIG9mIGRpZXRhcnkgZmliZXIsIHZpdGFtaW5zIChpbmNsdWRpbmcgdml0YW1pbiBDKSwgYW5kIG1pbmVyYWxzIChzdWNoIGFzIHBvdGFzc2l1bSBhbmQgaXJvbiksIHN1cHBvcnRpbmcgb3ZlcmFsbCBoZWFsdGggYW5kIHdlbGwtYmVpbmcuCgoyLiAqKkVuZXJneSBCb29zdCoqOiBUaGV5IHByb3ZpZGUgYSBxdWljayBhbmQgbmF0dXJhbCBlbmVyZ3kgYm9vc3QsIG1ha2luZyB0aGVtIGFuIGlkZWFsIHNuYWNrIGNob2ljZSBmb3IgYWN0aXZlIGxpZmVzdHlsZXMuCgozLiAqKkRpZ2VzdGl2ZSBIZWFsdGgqKjogVGhlIGZpYmVyIGNvbnRlbnQgaW4gR3JlZW4gUmFpc2lucyBzdXBwb3J0cyBkaWdlc3RpdmUgaGVhbHRoIGJ5IGFpZGluZyBkaWdlc3Rpb24gYW5kIHByb21vdGluZyByZWd1bGFyIGJvd2VsIG1vdmVtZW50cy4KCjQuICoqQW50aW94aWRhbnRzKio6IFRoZXNlIHJhaXNpbnMgY29udGFpbiBhbnRpb3hpZGFudHMgdGhhdCBoZWxwIHByb3RlY3QgY2VsbHMgZnJvbSBveGlkYXRpdmUgc3RyZXNzIGFuZCBjb250cmlidXRlIHRvIG92ZXJhbGwgYW50aW94aWRhbnQgZGVmZW5zZS4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBwYXJ0bmVycyB3aXRoIGxvY2FsIGZhcm1lcnMgd2hvIGFkaGVyZSB0byBzdXN0YWluYWJsZSBmYXJtaW5nIHByYWN0aWNlcywgZW5zdXJpbmcgcmVzcG9uc2libGUgc291cmNpbmcgYW5kIGVudmlyb25tZW50YWwgc3Rld2FyZHNoaXAuIE91ciBjb21taXRtZW50IHRvIHN1c3RhaW5hYmlsaXR5IGV4dGVuZHMgdG8gZXZlcnkgYXNwZWN0IG9mIG91ciBwcm9kdWN0aW9uIGFuZCBleHBvcnQgcHJvY2Vzc2VzLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpBcyBhIHRydXN0ZWQgZXhwb3J0ZXIgb2YgR3JlZW4gUmFpc2lucywgVmFybmkgRXhwb3J0cyBpcyBkZWRpY2F0ZWQgdG8gZGVsaXZlcmluZyBzdXBlcmlvciBwcm9kdWN0cyB0aGF0IG1lZXQgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuIFdlIHByaW9yaXRpemUgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGFuZCBlbnN1cmUgdGltZWx5IGRlbGl2ZXJ5IG9mIG9yZGVycyB3aXRoIGVmZmljaWVudCBsb2dpc3RpY3MuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBHcmVlbiBSYWlzaW5zIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIgZXhwZXJpZW5jZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBxdWFsaXR5IGFuZCByZWxpYWJpbGl0eSBvZiBWYXJuaSBFeHBvcnRzIHRvZGF5IQ==   ",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Reliable Supplier of Green Raisins</strong></h1>
+            <br />
+
+            <h2><strong>About Green Raisins</strong></h2>
+            <br />
+            <p>Green Raisins, also known as green or golden green raisins, are distinct for their vibrant color and unique flavor profile. They are produced from green grapes that undergo a drying process, concentrating their natural sweetness and nutritional benefits.</p>
+            <br />
+
+            <h2><strong>Premium Quality Assurance</strong></h2>
+            <br />
+            <p>At Varni Exports, we prioritize quality throughout our production process. Our Green Raisins undergo thorough cleaning and sorting to achieve a purity level of 90 to 95%. This meticulous process ensures that our raisins are free from impurities and maintain their plump texture and rich taste.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Green Raisins</strong></h2>
+            <br />
+
+            <li><strong>Snacking:</strong> Enjoy Green Raisins as a nutritious and flavorful snack on their own or mixed with nuts and seeds.</li>
+            <li><strong>Baking:</strong> Incorporate them into baked goods such as bread, cakes, and cookies to add natural sweetness and texture.</li>
+            <li><strong>Cooking:</strong> Use Green Raisins in various savory dishes such as rice pilafs, salads, and curries to enhance flavor and provide a delightful contrast.</li>
+            <li><strong>Confectionery:</strong> They are popular for making candies, chocolates, and energy bars due to their chewy texture and natural sugars.</li>
+
+            <br />
+
+            <h2><strong>Health Benefits of Green Raisins</strong></h2>
+            <br />
+
+            <li><strong>Rich in Nutrients:</strong> Green Raisins are a good source of dietary fiber, vitamins (including vitamin C), and minerals (such as potassium and iron), supporting overall health and well-being.</li>
+            <li><strong>Energy Boost:</strong> They provide a quick and natural energy boost, making them an ideal snack choice for active lifestyles.</li>
+            <li><strong>Digestive Health:</strong> The fiber content in Green Raisins supports digestive health by aiding digestion and promoting regular bowel movements.</li>
+            <li><strong>Antioxidants:</strong> These raisins contain antioxidants that help protect cells from oxidative stress and contribute to overall antioxidant defense.</li>
+
+            <br />
+
+            <h2><strong>Sustainable Sourcing</strong></h2>
+            <br />
+            <p>Varni Exports partners with local farmers who adhere to sustainable farming practices, ensuring responsible sourcing and environmental stewardship. Our commitment to sustainability extends to every aspect of our production and export processes.</p>
+            <br />
+
+            <h2><strong>Export Excellence</strong></h2>
+            <br />
+            <p>As a trusted exporter of Green Raisins, Varni Exports is dedicated to delivering superior products that meet the diverse needs of our global clientele. We prioritize customer satisfaction and ensure timely delivery of orders with efficient logistics.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our premium Green Raisins or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -2644,7 +2824,55 @@ export const catagories = [
         Loading: "25 to 60 Tons",
         "Self-Life": "2 years",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIFN1bHRhbmFzIFJhaXNpbnMKClZhcm5pIEV4cG9ydHMgaXMgeW91ciBpZGVhbCBwYXJ0bmVyIGZvciBzb3VyY2luZyBwcmVtaXVtLXF1YWxpdHkgU3VsdGFuYXMgUmFpc2lucyBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygd2VzdGVybiBJbmRpYSwgaW5jbHVkaW5nIE1haGFyYXNodHJhLiBPdXIgY29tbWl0bWVudCB0byBleGNlbGxlbmNlIGVuc3VyZXMgdGhhdCBlYWNoIHJhaXNpbiBtZWV0cyBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMgYW5kIGlzIHByZXBhcmVkIG1ldGljdWxvdXNseSBmb3IgZXhwb3J0IHRvIGdsb2JhbCBtYXJrZXRzLgoKIyMjIEFib3V0IFN1bHRhbmFzIFJhaXNpbnMKClN1bHRhbmFzIFJhaXNpbnMgYXJlIGEgcG9wdWxhciB2YXJpZXR5IGtub3duIGZvciB0aGVpciBnb2xkZW4gY29sb3IsIGRlbGljYXRlIHN3ZWV0bmVzcywgYW5kIHZlcnNhdGlsZSBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuIFRoZXkgYXJlIGRyaWVkIGZyb20gc2VlZGxlc3MgZ3JlZW4gZ3JhcGVzLCB3aGljaCBhcmUgY2FyZWZ1bGx5IHNlbGVjdGVkIGFuZCBwcm9jZXNzZWQgdG8gcHJlc2VydmUgdGhlaXIgbmF0dXJhbCBmbGF2b3IgYW5kIG51dHJpdGlvbmFsIGJlbmVmaXRzLgoKIyMjIFByZW1pdW0gUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHVwaG9sZCB0aGUgaGlnaGVzdCBzdGFuZGFyZHMgb2YgcXVhbGl0eSB0aHJvdWdob3V0IG91ciBwcm9kdWN0aW9uIHByb2Nlc3MuIE91ciBTdWx0YW5hcyBSYWlzaW5zIHVuZGVyZ28gcmlnb3JvdXMgY2xlYW5pbmcgYW5kIHNvcnRpbmcgcHJvY2VkdXJlcyB0byBhY2hpZXZlIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4gVGhpcyBtZXRpY3Vsb3VzIGFwcHJvYWNoIGd1YXJhbnRlZXMgdGhhdCBvdXIgcmFpc2lucyBhcmUgZnJlZSBmcm9tIGltcHVyaXRpZXMgYW5kIG1haW50YWluIHRoZWlyIHBsdW1wIHRleHR1cmUgYW5kIGRlbGljaW91cyB0YXN0ZS4KCiMjIyBDdWxpbmFyeSBVc2VzIG9mIFN1bHRhbmFzIFJhaXNpbnMKCjEuICoqU25hY2tpbmcqKjogRW5qb3kgU3VsdGFuYXMgUmFpc2lucyBhcyBhIGhlYWx0aHkgYW5kIGNvbnZlbmllbnQgc25hY2sgb24gdGhlaXIgb3duIG9yIG1peGVkIHdpdGggbnV0cyBhbmQgc2VlZHMuCiAgIAoyLiAqKkJha2luZyoqOiBJbmNvcnBvcmF0ZSB0aGVtIGludG8gYnJlYWQsIGNha2VzLCBjb29raWVzLCBhbmQgZGVzc2VydHMgdG8gYWRkIG5hdHVyYWwgc3dlZXRuZXNzIGFuZCB0ZXh0dXJlLgoKMy4gKipDb29raW5nKio6IFVzZSBTdWx0YW5hcyBSYWlzaW5zIGluIHNhdm9yeSBkaXNoZXMgc3VjaCBhcyByaWNlIHBpbGFmcywgc2FsYWRzLCBhbmQgdGFnaW5lcyBmb3IgYSB0b3VjaCBvZiBzd2VldG5lc3MgYW5kIGRlcHRoIG9mIGZsYXZvci4KCjQuICoqQ29uZmVjdGlvbmVyeSoqOiBUaGV5IGFyZSB3aWRlbHkgdXNlZCBpbiBtYWtpbmcgY2FuZGllcywgY2hvY29sYXRlcywgYW5kIGVuZXJneSBiYXJzIGR1ZSB0byB0aGVpciBuYXR1cmFsIHN1Z2FycyBhbmQgY2hld3kgdGV4dHVyZS4KCiMjIyBIZWFsdGggQmVuZWZpdHMgb2YgU3VsdGFuYXMgUmFpc2lucwoKMS4gKipOdXRyaWVudC1SaWNoKio6IFN1bHRhbmFzIFJhaXNpbnMgYXJlIHBhY2tlZCB3aXRoIGRpZXRhcnkgZmliZXIsIHZpdGFtaW5zIChpbmNsdWRpbmcgdml0YW1pbiBDKSwgYW5kIGVzc2VudGlhbCBtaW5lcmFscyAoc3VjaCBhcyBwb3Rhc3NpdW0gYW5kIGlyb24pLCBzdXBwb3J0aW5nIG92ZXJhbGwgaGVhbHRoIGFuZCB3ZWxsLWJlaW5nLgoKMi4gKipFbmVyZ3kgQm9vc3QqKjogVGhleSBwcm92aWRlIGEgcXVpY2sgYW5kIG5hdHVyYWwgZW5lcmd5IGJvb3N0LCBtYWtpbmcgdGhlbSBhbiBpZGVhbCBzbmFjayBjaG9pY2UgZm9yIGFjdGl2ZSBsaWZlc3R5bGVzLgoKMy4gKipEaWdlc3RpdmUgSGVhbHRoKio6IFRoZSBmaWJlciBjb250ZW50IGluIFN1bHRhbmFzIFJhaXNpbnMgc3VwcG9ydHMgZGlnZXN0aW9uIGFuZCBoZWxwcyBtYWludGFpbiByZWd1bGFyIGJvd2VsIG1vdmVtZW50cy4KCjQuICoqQW50aW94aWRhbnRzKio6IFRoZXNlIHJhaXNpbnMgY29udGFpbiBhbnRpb3hpZGFudHMgdGhhdCBjb250cmlidXRlIHRvIGNlbGx1bGFyIGhlYWx0aCBhbmQgbWF5IGhlbHAgcHJvdGVjdCBhZ2FpbnN0IG94aWRhdGl2ZSBzdHJlc3MuCgojIyMgU3VzdGFpbmFibGUgU291cmNpbmcKClZhcm5pIEV4cG9ydHMgcGFydG5lcnMgd2l0aCBsb2NhbCBmYXJtZXJzIHdobyBlbXBsb3kgc3VzdGFpbmFibGUgYWdyaWN1bHR1cmFsIHByYWN0aWNlcywgZW5zdXJpbmcgcmVzcG9uc2libGUgc291cmNpbmcgYW5kIGVudmlyb25tZW50YWwgc3Rld2FyZHNoaXAuIFdlIGFyZSBjb21taXR0ZWQgdG8gcHJvbW90aW5nIHN1c3RhaW5hYmlsaXR5IGluIGV2ZXJ5IGFzcGVjdCBvZiBvdXIgcHJvZHVjdGlvbiBhbmQgZXhwb3J0IG9wZXJhdGlvbnMuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgcmVwdXRhYmxlIGV4cG9ydGVyIG9mIFN1bHRhbmFzIFJhaXNpbnMsIFZhcm5pIEV4cG9ydHMgaXMgZGVkaWNhdGVkIHRvIGRlbGl2ZXJpbmcgc3VwZXJpb3IgcHJvZHVjdHMgdGhhdCBtZWV0IHRoZSBkaXZlcnNlIG5lZWRzIG9mIG91ciBnbG9iYWwgY2xpZW50ZWxlLiBXZSBwcmlvcml0aXplIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBhbmQgZW5zdXJlIHRpbWVseSBkZWxpdmVyeSBvZiBvcmRlcnMgd2l0aCBlZmZpY2llbnQgbG9naXN0aWNzIHNvbHV0aW9ucy4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIFN1bHRhbmFzIFJhaXNpbnMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBrbm93bGVkZ2VhYmxlIHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0IHlvdSB3aXRoIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBwcm92aWRlIHJlbGlhYmxlIHNvdXJjaW5nIHNvbHV0aW9ucy4gRXhwZXJpZW5jZSB0aGUgcXVhbGl0eSBhbmQgcmVsaWFiaWxpdHkgb2YgVmFybmkgRXhwb3J0cyB0b2RheSE=",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Supplier of Sultanas Raisins</strong></h1>
+            <br />
+
+            <h2><strong>About Sultanas Raisins</strong></h2>
+            <br />
+            <p>Sultanas Raisins are a popular variety known for their golden color, delicate sweetness, and versatile culinary applications. They are dried from seedless green grapes, which are carefully selected and processed to preserve their natural flavor and nutritional benefits.</p>
+            <br />
+
+            <h2><strong>Premium Quality Assurance</strong></h2>
+            <br />
+            <p>At Varni Exports, we uphold the highest standards of quality throughout our production process. Our Sultanas Raisins undergo rigorous cleaning and sorting procedures to achieve a purity level of 90 to 95%. This meticulous approach guarantees that our raisins are free from impurities and maintain their plump texture and delicious taste.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Sultanas Raisins</strong></h2>
+            <br />
+
+            <li><strong>Snacking:</strong> Enjoy Sultanas Raisins as a healthy and convenient snack on their own or mixed with nuts and seeds.</li>
+            <li><strong>Baking:</strong> Incorporate them into bread, cakes, cookies, and desserts to add natural sweetness and texture.</li>
+            <li><strong>Cooking:</strong> Use Sultanas Raisins in savory dishes such as rice pilafs, salads, and tagines for a touch of sweetness and depth of flavor.</li>
+            <li><strong>Confectionery:</strong> They are widely used in making candies, chocolates, and energy bars due to their natural sugars and chewy texture.</li>
+
+            <br />
+
+            <h2><strong>Health Benefits of Sultanas Raisins</strong></h2>
+            <br />
+
+            <li><strong>Nutrient-Rich:</strong> Sultanas Raisins are packed with dietary fiber, vitamins (including vitamin C), and essential minerals (such as potassium and iron), supporting overall health and well-being.</li>
+            <li><strong>Energy Boost:</strong> They provide a quick and natural energy boost, making them an ideal snack choice for active lifestyles.</li>
+            <li><strong>Digestive Health:</strong> The fiber content in Sultanas Raisins supports digestion and helps maintain regular bowel movements.</li>
+            <li><strong>Antioxidants:</strong> These raisins contain antioxidants that contribute to cellular health and may help protect against oxidative stress.</li>
+
+            <br />
+
+            <h2><strong>Sustainable Sourcing</strong></h2>
+            <br />
+            <p>Varni Exports partners with local farmers who employ sustainable agricultural practices, ensuring responsible sourcing and environmental stewardship. We are committed to promoting sustainability in every aspect of our production and export operations.</p>
+            <br />
+
+            <h2><strong>Export Excellence</strong></h2>
+            <br />
+            <p>As a reputable exporter of Sultanas Raisins, Varni Exports is dedicated to delivering superior products that meet the diverse needs of our global clientele. We prioritize customer satisfaction and ensure timely delivery of orders with efficient logistics solutions.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our premium Sultanas Raisins or to place an order, please contact Varni Exports. Our knowledgeable team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -2666,7 +2894,51 @@ export const catagories = [
         Loading: "25 to 60 Tons",
         "Self-Life": "2 years",
         description:
-          "IyMjIERpc2NvdmVyIFByZW1pdW0gQmxhY2sgUmFpc2lucyB3aXRoIFZhcm5pIEV4cG9ydHMKCkFyZSB5b3UgaW4gc2VhcmNoIG9mIGEgcmVsaWFibGUgcmFpc2lucyBleHBvcnRlcj8gTG9vayBubyBmdXJ0aGVyIHRoYW4gVmFybmkgRXhwb3J0cywgeW91ciBnYXRld2F5IHRvIHN1cGVyaW9yIHF1YWxpdHkgYmxhY2sgcmFpc2lucyBzb3VyY2VkIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiB3ZXN0ZXJuIEluZGlhLCBpbmNsdWRpbmcgdGhlIEluZG8tR2FuZ2V0aWMgcGxhaW5zLiBXZSBwcmlkZSBvdXJzZWx2ZXMgb24gZGVsaXZlcmluZyByYWlzaW5zIHRoYXQgYXJlIG5vdCBvbmx5IHJpY2ggaW4gZmxhdm9yIGJ1dCBhbHNvIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHMuCgojIyMgQWJvdXQgQmxhY2sgUmFpc2lucwoKQmxhY2sgcmFpc2lucyBhcmUgZHJpZWQgZ3JhcGVzIHRoYXQgdW5kZXJnbyBhIG5hdHVyYWwgZHJ5aW5nIHByb2Nlc3MsIHJlc3VsdGluZyBpbiB0aGVpciBkaXN0aW5jdGl2ZSB3cmlua2xlZCB0ZXh0dXJlIGFuZCBkZWVwLCBkYXJrIGNvbG9yLiBLbm93biBmb3IgdGhlaXIgaW50ZW5zZSBzd2VldG5lc3MgYW5kIHZlcnNhdGlsaXR5LCBibGFjayByYWlzaW5zIGFyZSBhIGZhdm9yaXRlIGluZ3JlZGllbnQgaW4gYm90aCBzd2VldCBhbmQgc2F2b3J5IGRpc2hlcyBhcm91bmQgdGhlIHdvcmxkLgoKIyMjIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgYmxhY2sgcmFpc2lucyBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBvZiBxdWFsaXR5IGFuZCBoeWdpZW5lLiBFYWNoIHJhaXNpbiB1bmRlcmdvZXMgbWV0aWN1bG91cyBjbGVhbmluZyBhbmQgZ3JhZGluZyB0byBhY2hpZXZlIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4gVGhpcyBlbnN1cmVzIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIHJhaXNpbnMgdGhhdCBhcmUgZnJlZSBmcm9tIGltcHVyaXRpZXMgYW5kIG1haW50YWluIHRoZWlyIG5hdHVyYWwgZ29vZG5lc3MuCgojIyMgQ3VsaW5hcnkgVXNlcyBvZiBCbGFjayBSYWlzaW5zCgoxLiAqKlNuYWNraW5nKio6IEVuam95IGJsYWNrIHJhaXNpbnMgYXMgYSBudXRyaXRpb3VzIGFuZCBlbmVyZ3ktYm9vc3Rpbmcgc25hY2sgb24gdGhlaXIgb3duIG9yIGNvbWJpbmVkIHdpdGggbnV0cyBhbmQgc2VlZHMuCiAgIAoyLiAqKkJha2luZyoqOiBJbmNvcnBvcmF0ZSB0aGVtIGludG8gYnJlYWQsIGNha2VzLCBjb29raWVzLCBhbmQgbXVmZmlucyB0byBhZGQgbmF0dXJhbCBzd2VldG5lc3MsIHRleHR1cmUsIGFuZCBmbGF2b3IuCgozLiAqKkNvb2tpbmcqKjogVXNlIGJsYWNrIHJhaXNpbnMgaW4gc2F2b3J5IGRpc2hlcyBzdWNoIGFzIHJpY2UgcGlsYWZzLCBjb3VzY291cywgYW5kIGN1cnJpZXMgZm9yIGEgdG91Y2ggb2YgbmF0dXJhbCBzd2VldG5lc3MgYW5kIGRlcHRoIG9mIGZsYXZvci4KCjQuICoqQ29uZmVjdGlvbmVyeSoqOiBUaGV5IGFyZSB3aWRlbHkgdXNlZCBpbiBtYWtpbmcgY2FuZGllcywgY2hvY29sYXRlcywgYW5kIGVuZXJneSBiYXJzIGR1ZSB0byB0aGVpciBuYXR1cmFsIHN1Z2FycyBhbmQgY2hld3kgdGV4dHVyZS4KCiMjIyBIZWFsdGggQmVuZWZpdHMgb2YgQmxhY2sgUmFpc2lucwoKMS4gKipOdXRyaWVudC1SaWNoKio6IEJsYWNrIHJhaXNpbnMgYXJlIGEgY29uY2VudHJhdGVkIHNvdXJjZSBvZiBkaWV0YXJ5IGZpYmVyLCB2aXRhbWlucyAoaW5jbHVkaW5nIHZpdGFtaW4gQyksIGFuZCBlc3NlbnRpYWwgbWluZXJhbHMgKHN1Y2ggYXMgcG90YXNzaXVtIGFuZCBpcm9uKSwgc3VwcG9ydGluZyBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KCjIuICoqRW5lcmd5IEJvb3N0Kio6IFRoZXkgcHJvdmlkZSBhIHF1aWNrIGFuZCBuYXR1cmFsIGVuZXJneSBib29zdCwgbWFraW5nIHRoZW0gYW4gaWRlYWwgY2hvaWNlIGZvciBhY3RpdmUgaW5kaXZpZHVhbHMgYW5kIGF0aGxldGVzLgoKMy4gKipEaWdlc3RpdmUgSGVhbHRoKio6IFRoZSBmaWJlciBjb250ZW50IGluIGJsYWNrIHJhaXNpbnMgc3VwcG9ydHMgZGlnZXN0aXZlIGhlYWx0aCBhbmQgYWlkcyBpbiBtYWludGFpbmluZyByZWd1bGFyIGJvd2VsIG1vdmVtZW50cy4KCjQuICoqQW50aW94aWRhbnRzKio6IEJsYWNrIHJhaXNpbnMgY29udGFpbiBhbnRpb3hpZGFudHMgdGhhdCBoZWxwIHByb3RlY3QgY2VsbHMgZnJvbSBkYW1hZ2UgY2F1c2VkIGJ5IGZyZWUgcmFkaWNhbHMsIGNvbnRyaWJ1dGluZyB0byBvdmVyYWxsIGNlbGx1bGFyIGhlYWx0aC4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzIGFuZCBwYXJ0bmVycyB3aXRoIGxvY2FsIGZhcm1lcnMgd2hvIGFkaGVyZSB0byBlY28tZnJpZW5kbHkgYWdyaWN1bHR1cmFsIG1ldGhvZHMuIFdlIHByaW9yaXRpemUgZW52aXJvbm1lbnRhbCBzdGV3YXJkc2hpcCBhbmQgZW5zdXJlIHJlc3BvbnNpYmxlIHByb2R1Y3Rpb24gcHJvY2Vzc2VzIGZyb20gdmluZSB0byBleHBvcnQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgdHJ1c3RlZCBleHBvcnRlciBvZiBibGFjayByYWlzaW5zLCBWYXJuaSBFeHBvcnRzIGlzIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcHJlbWl1bS1xdWFsaXR5IHByb2R1Y3RzIHRoYXQgZXhjZWVkIGN1c3RvbWVyIGV4cGVjdGF0aW9ucy4gV2UgZ3VhcmFudGVlIHRpbWVseSBkZWxpdmVyeSBhbmQgc3VwZXJpb3IgY3VzdG9tZXIgc2VydmljZSwgZW5zdXJpbmcgYSBzZWFtbGVzcyBleHBlcmllbmNlIGZvciBvdXIgZ2xvYmFsIGNsaWVudGVsZS4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIGJsYWNrIHJhaXNpbnMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBrbm93bGVkZ2VhYmxlIHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0IHlvdSB3aXRoIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBwcm92aWRlIHJlbGlhYmxlIHNvdXJjaW5nIHNvbHV0aW9ucy4gRXhwZXJpZW5jZSB0aGUgcXVhbGl0eSBhbmQgcmVsaWFiaWxpdHkgb2YgVmFybmkgRXhwb3J0cyB0b2RheSE=",
+          <div>
+            <h1><strong>Discover Premium Black Raisins with Varni Exports</strong></h1>
+            <br />
+
+            <h2><strong>About Black Raisins</strong></h2>
+            <br />
+            <p>Black raisins are dried grapes that undergo a natural drying process, resulting in their distinctive wrinkled texture and deep, dark color. Known for their intense sweetness and versatility, black raisins are a favorite ingredient in both sweet and savory dishes around the world.</p>
+            <br />
+
+            <h2><strong>Quality Assurance</strong></h2>
+            <br />
+            <p>At Varni Exports, we ensure that our black raisins meet the highest standards of quality and hygiene. Each raisin undergoes meticulous cleaning and grading to achieve a purity level of 90 to 95%. This ensures that our customers receive raisins that are free from impurities and maintain their natural goodness.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Black Raisins</strong></h2>
+            <br />
+            <li><strong>Snacking:</strong> Enjoy black raisins as a nutritious and energy-boosting snack on their own or combined with nuts and seeds.</li>
+            <li><strong>Baking:</strong> Incorporate them into bread, cakes, cookies, and muffins to add natural sweetness, texture, and flavor.</li>
+            <li><strong>Cooking:</strong> Use black raisins in savory dishes such as rice pilafs, couscous, and curries for a touch of natural sweetness and depth of flavor.</li>
+            <li><strong>Confectionery:</strong> They are widely used in making candies, chocolates, and energy bars due to their natural sugars and chewy texture.</li>
+            <br />
+
+            <h2><strong>Health Benefits of Black Raisins</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Black raisins are a concentrated source of dietary fiber, vitamins (including vitamin C), and essential minerals (such as potassium and iron), supporting overall health and well-being.</li>
+            <li><strong>Energy Boost:</strong> They provide a quick and natural energy boost, making them an ideal choice for active individuals and athletes.</li>
+            <li><strong>Digestive Health:</strong> The fiber content in black raisins supports digestive health and aids in maintaining regular bowel movements.</li>
+            <li><strong>Antioxidants:</strong> Black raisins contain antioxidants that help protect cells from damage caused by free radicals, contributing to overall cellular health.</li>
+            <br />
+
+            <h2><strong>Sustainable Sourcing</strong></h2>
+            <br />
+            <p>Varni Exports is committed to sustainable sourcing practices and partners with local farmers who adhere to eco-friendly agricultural methods. We prioritize environmental stewardship and ensure responsible production processes from vine to export.</p>
+            <br />
+
+            <h2><strong>Export Excellence</strong></h2>
+            <br />
+            <p>As a trusted exporter of black raisins, Varni Exports is dedicated to providing premium-quality products that exceed customer expectations. We guarantee timely delivery and superior customer service, ensuring a seamless experience for our global clientele.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our premium black raisins or to place an order, please contact Varni Exports. Our knowledgeable team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -2689,7 +2961,55 @@ export const catagories = [
         Certification: "FSSAI Certified",
         "Self-Life": "2 years",
         description:
-          "IyMjIEV4cGxvcmUgUXVhbGl0eSBCcm93biBSYWlzaW5zIHdpdGggVmFybmkgRXhwb3J0cwoKQXJlIHlvdSBzZWFyY2hpbmcgZm9yIGEgcmVwdXRhYmxlIGV4cG9ydGVyIG9mIHJhaXNpbnM/IFZhcm5pIEV4cG9ydHMgaXMgeW91ciB0cnVzdGVkIHBhcnRuZXIgZm9yIHNvdXJjaW5nIHByZW1pdW0tcXVhbGl0eSBicm93biByYWlzaW5zIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiB3ZXN0ZXJuIEluZGlhLCBpbmNsdWRpbmcgdGhlIEluZG8tR2FuZ2V0aWMgcGxhaW5zLiBXZSB0YWtlIHByaWRlIGluIG9mZmVyaW5nIHJhaXNpbnMgdGhhdCBhcmUgbm90IG9ubHkgZGVsaWNpb3VzIGJ1dCBhbHNvIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHMuCgojIyMgQWJvdXQgQnJvd24gUmFpc2lucwoKQnJvd24gcmFpc2lucyBhcmUgZHJpZWQgZ3JhcGVzIHRoYXQgdW5kZXJnbyBuYXR1cmFsIHN1bi1kcnlpbmcgcHJvY2Vzc2VzLCByZXN1bHRpbmcgaW4gdGhlaXIgZGlzdGluY3RpdmUgY2hld3kgdGV4dHVyZSBhbmQgcmljaCBicm93biBjb2xvci4gS25vd24gZm9yIHRoZWlyIGJhbGFuY2VkIHN3ZWV0bmVzcyBhbmQgdmVyc2F0aWxpdHksIGJyb3duIHJhaXNpbnMgYXJlIGEgcG9wdWxhciBjaG9pY2UgaW4gdmFyaW91cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnMgd29ybGR3aWRlLgoKIyMjIFF1YWxpdHkgQXNzdXJhbmNlCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSB1cGhvbGQgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzIHRvIGVuc3VyZSB0aGF0IG91ciBicm93biByYWlzaW5zIG1lZXQgdGhlIGhpZ2hlc3QgbGV2ZWxzIG9mIHB1cml0eSBhbmQgY2xlYW5saW5lc3MuIEVhY2ggcmFpc2luIHVuZGVyZ29lcyBtZXRpY3Vsb3VzIGNsZWFuaW5nIGFuZCBncmFkaW5nIHByb2Nlc3NlcywgYWNoaWV2aW5nIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4gVGhpcyBtZXRpY3Vsb3VzIGFwcHJvYWNoIGd1YXJhbnRlZXMgdGhhdCBvdXIgY3VzdG9tZXJzIHJlY2VpdmUgcmFpc2lucyB0aGF0IGFyZSBmcmVlIGZyb20gY29udGFtaW5hbnRzIGFuZCByZXRhaW4gdGhlaXIgbmF0dXJhbCBnb29kbmVzcy4KCiMjIyBDdWxpbmFyeSBVc2VzIG9mIEJyb3duIFJhaXNpbnMKCjEuICoqU25hY2tpbmcqKjogRW5qb3kgYnJvd24gcmFpc2lucyBhcyBhIHdob2xlc29tZSBhbmQgZW5lcmdpemluZyBzbmFjayBvbiB0aGVpciBvd24gb3IgbWl4ZWQgd2l0aCBudXRzIGFuZCBzZWVkcy4KICAgCjIuICoqQmFraW5nKio6IEluY29ycG9yYXRlIHRoZW0gaW50byBicmVhZCwgbXVmZmlucywgY29va2llcywgYW5kIGNha2VzIHRvIGFkZCBuYXR1cmFsIHN3ZWV0bmVzcywgdGV4dHVyZSwgYW5kIGRlcHRoIG9mIGZsYXZvci4KCjMuICoqQ29va2luZyoqOiBVc2UgYnJvd24gcmFpc2lucyBpbiBzYXZvcnkgZGlzaGVzIHN1Y2ggYXMgcmljZSBwaWxhZnMsIGNvdXNjb3VzLCBhbmQgdGFnaW5lcyB0byBlbmhhbmNlIHRoZWlyIGZsYXZvciBwcm9maWxlIGFuZCBhZGQgYSB0b3VjaCBvZiBzd2VldG5lc3MuCgo0LiAqKkNvbmZlY3Rpb25lcnkqKjogVGhleSBhcmUgY29tbW9ubHkgdXNlZCBpbiBtYWtpbmcgY2hvY29sYXRlcywgY2FuZGllcywgYW5kIGVuZXJneSBiYXJzIGR1ZSB0byB0aGVpciBuYXR1cmFsIHN1Z2FycyBhbmQgY2hld3kgdGV4dHVyZS4KCiMjIyBIZWFsdGggQmVuZWZpdHMgb2YgQnJvd24gUmFpc2lucwoKMS4gKipOdXRyaWVudC1SaWNoKio6IEJyb3duIHJhaXNpbnMgYXJlIGEgY29uY2VudHJhdGVkIHNvdXJjZSBvZiBkaWV0YXJ5IGZpYmVyLCB2aXRhbWlucyAoaW5jbHVkaW5nIHZpdGFtaW4gQyksIGFuZCBlc3NlbnRpYWwgbWluZXJhbHMgKHN1Y2ggYXMgcG90YXNzaXVtIGFuZCBpcm9uKSwgcHJvbW90aW5nIG92ZXJhbGwgaGVhbHRoIGFuZCB2aXRhbGl0eS4KCjIuICoqRW5lcmd5IEJvb3N0Kio6IFRoZXkgcHJvdmlkZSBhIHF1aWNrIGFuZCBuYXR1cmFsIGVuZXJneSBib29zdCwgbWFraW5nIHRoZW0gYW4gaWRlYWwgY2hvaWNlIGZvciBhY3RpdmUgaW5kaXZpZHVhbHMgYW5kIGF0aGxldGVzLgoKMy4gKipEaWdlc3RpdmUgSGVhbHRoKio6IFRoZSBmaWJlciBjb250ZW50IGluIGJyb3duIHJhaXNpbnMgc3VwcG9ydHMgZGlnZXN0aXZlIHJlZ3VsYXJpdHkgYW5kIGhlbHBzIG1haW50YWluIGEgaGVhbHRoeSBndXQuCgo0LiAqKkFudGlveGlkYW50cyoqOiBCcm93biByYWlzaW5zIGNvbnRhaW4gYW50aW94aWRhbnRzIHRoYXQgaGVscCBwcm90ZWN0IGNlbGxzIGZyb20gb3hpZGF0aXZlIGRhbWFnZSwgY29udHJpYnV0aW5nIHRvIG92ZXJhbGwgY2VsbHVsYXIgaGVhbHRoLgoKIyMjIFN1c3RhaW5hYmxlIFNvdXJjaW5nCgpWYXJuaSBFeHBvcnRzIGlzIGNvbW1pdHRlZCB0byBzdXN0YWluYWJsZSBzb3VyY2luZyBwcmFjdGljZXMgYW5kIHBhcnRuZXJzIHdpdGggbG9jYWwgZmFybWVycyB3aG8gZW1wbG95IGVjby1mcmllbmRseSBhZ3JpY3VsdHVyYWwgbWV0aG9kcy4gV2UgcHJpb3JpdGl6ZSBlbnZpcm9ubWVudGFsIHN0ZXdhcmRzaGlwIGFuZCBlbnN1cmUgcmVzcG9uc2libGUgcHJvZHVjdGlvbiBwcm9jZXNzZXMgZnJvbSB2aW5lIHRvIGV4cG9ydC4KCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIGJyb3duIHJhaXNpbnMsIFZhcm5pIEV4cG9ydHMgaXMgZGVkaWNhdGVkIHRvIGRlbGl2ZXJpbmcgcHJlbWl1bS1xdWFsaXR5IHByb2R1Y3RzIHRoYXQgZXhjZWVkIGN1c3RvbWVyIGV4cGVjdGF0aW9ucy4gV2UgZ3VhcmFudGVlIHRpbWVseSBkZWxpdmVyeSBhbmQgZXhjZXB0aW9uYWwgY3VzdG9tZXIgc2VydmljZSwgZW5zdXJpbmcgYSBzZWFtbGVzcyBleHBlcmllbmNlIGZvciBvdXIgZ2xvYmFsIGNsaWVudGVsZS4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBzdXBlcmlvciBicm93biByYWlzaW5zIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIga25vd2xlZGdlYWJsZSB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIHF1YWxpdHkgYW5kIHJlbGlhYmlsaXR5IG9mIFZhcm5pIEV4cG9ydHMgdG9kYXkh",
+          <div>
+            <h1><strong>Explore Quality Brown Raisins with Varni Exports</strong></h1>
+            <br />
+
+            <h2><strong>About Brown Raisins</strong></h2>
+            <br />
+            <p>Brown raisins are dried grapes that undergo natural sun-drying processes, resulting in their distinctive chewy texture and rich brown color. Known for their balanced sweetness and versatility, brown raisins are a popular choice in various culinary applications worldwide.</p>
+            <br />
+
+            <h2><strong>Quality Assurance</strong></h2>
+            <br />
+            <p>At Varni Exports, we uphold stringent quality standards to ensure that our brown raisins meet the highest levels of purity and cleanliness. Each raisin undergoes meticulous cleaning and grading processes, achieving a purity level of 90 to 95%. This meticulous approach guarantees that our customers receive raisins that are free from contaminants and retain their natural goodness.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Brown Raisins</strong></h2>
+            <br />
+
+            <li><strong>Snacking:</strong> Enjoy brown raisins as a wholesome and energizing snack on their own or mixed with nuts and seeds.</li>
+            <li><strong>Baking:</strong> Incorporate them into bread, muffins, cookies, and cakes to add natural sweetness, texture, and depth of flavor.</li>
+            <li><strong>Cooking:</strong> Use brown raisins in savory dishes such as rice pilafs, couscous, and tagines to enhance their flavor profile and add a touch of sweetness.</li>
+            <li><strong>Confectionery:</strong> They are commonly used in making chocolates, candies, and energy bars due to their natural sugars and chewy texture.</li>
+
+            <br />
+
+            <h2><strong>Health Benefits of Brown Raisins</strong></h2>
+            <br />
+
+            <li><strong>Nutrient-Rich:</strong> Brown raisins are a concentrated source of dietary fiber, vitamins (including vitamin C), and essential minerals (such as potassium and iron), promoting overall health and vitality.</li>
+            <li><strong>Energy Boost:</strong> They provide a quick and natural energy boost, making them an ideal choice for active individuals and athletes.</li>
+            <li><strong>Digestive Health:</strong> The fiber content in brown raisins supports digestive regularity and helps maintain a healthy gut.</li>
+            <li><strong>Antioxidants:</strong> Brown raisins contain antioxidants that help protect cells from oxidative damage, contributing to overall cellular health.</li>
+
+            <br />
+
+            <h2><strong>Sustainable Sourcing</strong></h2>
+            <br />
+            <p>Varni Exports is committed to sustainable sourcing practices and partners with local farmers who employ eco-friendly agricultural methods. We prioritize environmental stewardship and ensure responsible production processes from vine to export.</p>
+            <br />
+
+            <h2><strong>Export Excellence</strong></h2>
+            <br />
+            <p>As a leading exporter of brown raisins, Varni Exports is dedicated to delivering premium-quality products that exceed customer expectations. We guarantee timely delivery and exceptional customer service, ensuring a seamless experience for our global clientele.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our superior brown raisins or to place an order, please contact Varni Exports. Our knowledgeable team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
 
       {
@@ -2711,7 +3031,51 @@ export const catagories = [
         Loading: "25 to 60 Tons",
         "Self-Life": "2 years",
         description:
-          "IyMjIERpc2NvdmVyIFByZW1pdW0gWWVsbG93IFJhaXNpbnMgd2l0aCBWYXJuaSBFeHBvcnRzCgpBcmUgeW91IGluIHNlYXJjaCBvZiBhIHJlbGlhYmxlIGV4cG9ydGVyIG9mIHJhaXNpbnM/IExvb2sgbm8gZnVydGhlciB0aGFuIFZhcm5pIEV4cG9ydHMsIHlvdXIgdHJ1c3RlZCBwYXJ0bmVyIGZvciBzb3VyY2luZyB0b3AtcXVhbGl0eSB5ZWxsb3cgcmFpc2lucyBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2Ygd2VzdGVybiBJbmRpYSwgaW5jbHVkaW5nIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gV2UgcHJpZGUgb3Vyc2VsdmVzIG9uIG9mZmVyaW5nIHJhaXNpbnMgdGhhdCBhcmUgbm90IG9ubHkgZGVsaWNpb3VzIGJ1dCBhbHNvIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHMuCgojIyMgQWJvdXQgWWVsbG93IFJhaXNpbnMKClllbGxvdyByYWlzaW5zLCBhbHNvIGtub3duIGFzIGdvbGRlbiByYWlzaW5zLCBhcmUgZHJpZWQgZ3JhcGVzIHRoYXQgdW5kZXJnbyBhIGNhcmVmdWwgZHJ5aW5nIHByb2Nlc3MgdG8gcHJlc2VydmUgdGhlaXIgZ29sZGVuIGh1ZSBhbmQgc3dlZXQgZmxhdm9yLiBUaGV5IGFyZSBjaGFyYWN0ZXJpemVkIGJ5IHRoZWlyIHBsdW1wIHRleHR1cmUgYW5kIGFyZSBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IGluIHZhcmlvdXMgY3VsaW5hcnkgYXBwbGljYXRpb25zIHdvcmxkd2lkZS4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2UgYWRoZXJlIHRvIHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcyB0byBlbnN1cmUgdGhhdCBvdXIgeWVsbG93IHJhaXNpbnMgbWVldCB0aGUgaGlnaGVzdCBsZXZlbHMgb2YgcHVyaXR5IGFuZCBjbGVhbmxpbmVzcy4gRWFjaCByYWlzaW4gdW5kZXJnb2VzIG1ldGljdWxvdXMgY2xlYW5pbmcgYW5kIGdyYWRpbmcgcHJvY2Vzc2VzLCBhY2hpZXZpbmcgYSBwdXJpdHkgbGV2ZWwgb2YgOTAgdG8gOTUlLiBUaGlzIG1ldGljdWxvdXMgYXBwcm9hY2ggZW5zdXJlcyB0aGF0IG91ciBjdXN0b21lcnMgcmVjZWl2ZSByYWlzaW5zIHRoYXQgYXJlIGZyZWUgZnJvbSBjb250YW1pbmFudHMgYW5kIG1haW50YWluIHRoZWlyIG5hdHVyYWwgc3dlZXRuZXNzLgoKIyMjIEN1bGluYXJ5IFVzZXMgb2YgWWVsbG93IFJhaXNpbnMKCjEuICoqU25hY2tpbmcqKjogRW5qb3kgeWVsbG93IHJhaXNpbnMgYXMgYSBudXRyaXRpb3VzIGFuZCBlbmVyZ2l6aW5nIHNuYWNrIG9uIHRoZWlyIG93biBvciBjb21iaW5lZCB3aXRoIG51dHMgYW5kIHNlZWRzLgogICAKMi4gKipCYWtpbmcqKjogSW5jb3Jwb3JhdGUgdGhlbSBpbnRvIGJyZWFkLCBjb29raWVzLCBtdWZmaW5zLCBhbmQgY2FrZXMgdG8gYWRkIG5hdHVyYWwgc3dlZXRuZXNzLCB0ZXh0dXJlLCBhbmQgZmxhdm9yLgoKMy4gKipDb29raW5nKio6IFVzZSB5ZWxsb3cgcmFpc2lucyBpbiBib3RoIHN3ZWV0IGFuZCBzYXZvcnkgZGlzaGVzIHN1Y2ggYXMgcGlsYWZzLCBzYWxhZHMsIHRhZ2luZXMsIGFuZCBjdXJyaWVzIGZvciBhIGRlbGlnaHRmdWwgYnVyc3Qgb2Ygc3dlZXRuZXNzLgoKNC4gKipDb25mZWN0aW9uZXJ5Kio6IFRoZXkgYXJlIHBvcHVsYXJseSB1c2VkIGluIG1ha2luZyBjaG9jb2xhdGVzLCBjYW5kaWVzLCBhbmQgZGVzc2VydHMgZHVlIHRvIHRoZWlyIG5hdHVyYWwgc3VnYXJzIGFuZCBhcHBlYWxpbmcgY29sb3IuCgojIyMgSGVhbHRoIEJlbmVmaXRzIG9mIFllbGxvdyBSYWlzaW5zCgoxLiAqKk51dHJpZW50LVJpY2gqKjogWWVsbG93IHJhaXNpbnMgYXJlIHBhY2tlZCB3aXRoIGRpZXRhcnkgZmliZXIsIHZpdGFtaW5zIChpbmNsdWRpbmcgdml0YW1pbiBDKSwgYW5kIGVzc2VudGlhbCBtaW5lcmFscyAoc3VjaCBhcyBwb3Rhc3NpdW0gYW5kIGlyb24pLCBzdXBwb3J0aW5nIG92ZXJhbGwgaGVhbHRoIGFuZCB3ZWxsLWJlaW5nLgoKMi4gKipFbmVyZ3kgQm9vc3QqKjogVGhleSBwcm92aWRlIGEgcXVpY2sgYW5kIG5hdHVyYWwgZW5lcmd5IGJvb3N0LCBtYWtpbmcgdGhlbSBpZGVhbCBmb3IgYXRobGV0ZXMgYW5kIGluZGl2aWR1YWxzIHdpdGggYWN0aXZlIGxpZmVzdHlsZXMuCgozLiAqKkRpZ2VzdGl2ZSBIZWFsdGgqKjogVGhlIGZpYmVyIGNvbnRlbnQgaW4geWVsbG93IHJhaXNpbnMgcHJvbW90ZXMgZGlnZXN0aXZlIHJlZ3VsYXJpdHkgYW5kIGhlbHBzIG1haW50YWluIGEgaGVhbHRoeSBndXQuCgo0LiAqKkFudGlveGlkYW50cyoqOiBZZWxsb3cgcmFpc2lucyBjb250YWluIGFudGlveGlkYW50cyB0aGF0IGhlbHAgcHJvdGVjdCBjZWxscyBmcm9tIG94aWRhdGl2ZSBkYW1hZ2UsIGNvbnRyaWJ1dGluZyB0byBvdmVyYWxsIGNlbGx1bGFyIGhlYWx0aC4KCiMjIyBTdXN0YWluYWJsZSBTb3VyY2luZwoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gc3VzdGFpbmFibGUgc291cmNpbmcgcHJhY3RpY2VzIGFuZCBwYXJ0bmVycyB3aXRoIGxvY2FsIGZhcm1lcnMgd2hvIGVtcGxveSBlY28tZnJpZW5kbHkgYWdyaWN1bHR1cmFsIG1ldGhvZHMuIFdlIHByaW9yaXRpemUgZW52aXJvbm1lbnRhbCBzdGV3YXJkc2hpcCBhbmQgZW5zdXJlIHJlc3BvbnNpYmxlIHByb2R1Y3Rpb24gcHJvY2Vzc2VzIGZyb20gdmluZSB0byBleHBvcnQuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiB5ZWxsb3cgcmFpc2lucywgVmFybmkgRXhwb3J0cyBpcyBkZWRpY2F0ZWQgdG8gZGVsaXZlcmluZyBwcmVtaXVtLXF1YWxpdHkgcHJvZHVjdHMgdGhhdCBleGNlZWQgY3VzdG9tZXIgZXhwZWN0YXRpb25zLiBXZSBndWFyYW50ZWUgdGltZWx5IGRlbGl2ZXJ5IGFuZCBleGNlcHRpb25hbCBjdXN0b21lciBzZXJ2aWNlLCBlbnN1cmluZyBhIHNlYW1sZXNzIGV4cGVyaWVuY2UgZm9yIG91ciBnbG9iYWwgY2xpZW50ZWxlLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHN1cGVyaW9yIHllbGxvdyByYWlzaW5zIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBPdXIga25vd2xlZGdlYWJsZSB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIHF1YWxpdHkgYW5kIHJlbGlhYmlsaXR5IG9mIFZhcm5pIEV4cG9ydHMgdG9kYXkh",
+          <div>
+            <h1><strong>Discover Premium Yellow Raisins with Varni Exports</strong></h1>
+            <br />
+
+            <h2><strong>About Yellow Raisins</strong></h2>
+            <br />
+            <p>Yellow raisins, also known as golden raisins, are dried grapes that undergo a careful drying process to preserve their golden hue and sweet flavor. They are characterized by their plump texture and are a versatile ingredient in various culinary applications worldwide.</p>
+            <br />
+
+            <h2><strong>Quality Assurance</strong></h2>
+            <br />
+            <p>At Varni Exports, we adhere to stringent quality standards to ensure that our yellow raisins meet the highest levels of purity and cleanliness. Each raisin undergoes meticulous cleaning and grading processes, achieving a purity level of 90 to 95%. This meticulous approach ensures that our customers receive raisins that are free from contaminants and maintain their natural sweetness.</p>
+            <br />
+
+            <h2><strong>Culinary Uses of Yellow Raisins</strong></h2>
+            <br />
+            <li><strong>Snacking:</strong> Enjoy yellow raisins as a nutritious and energizing snack on their own or combined with nuts and seeds.</li>
+            <li><strong>Baking:</strong> Incorporate them into bread, cookies, muffins, and cakes to add natural sweetness, texture, and flavor.</li>
+            <li><strong>Cooking:</strong> Use yellow raisins in both sweet and savory dishes such as pilafs, salads, tagines, and curries for a delightful burst of sweetness.</li>
+            <li><strong>Confectionery:</strong> They are popularly used in making chocolates, candies, and desserts due to their natural sugars and appealing color.</li>
+            <br />
+
+            <h2><strong>Health Benefits of Yellow Raisins</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Yellow raisins are packed with dietary fiber, vitamins (including vitamin C), and essential minerals (such as potassium and iron), supporting overall health and well-being.</li>
+            <li><strong>Energy Boost:</strong> They provide a quick and natural energy boost, making them ideal for athletes and individuals with active lifestyles.</li>
+            <li><strong>Digestive Health:</strong> The fiber content in yellow raisins promotes digestive regularity and helps maintain a healthy gut.</li>
+            <li><strong>Antioxidants:</strong> Yellow raisins contain antioxidants that help protect cells from oxidative damage, contributing to overall cellular health.</li>
+            <br />
+
+            <h2><strong>Sustainable Sourcing</strong></h2>
+            <br />
+            <p>Varni Exports is committed to sustainable sourcing practices and partners with local farmers who employ eco-friendly agricultural methods. We prioritize environmental stewardship and ensure responsible production processes from vine to export.</p>
+            <br />
+
+            <h2><strong>Export Excellence</strong></h2>
+            <br />
+            <p>As a leading exporter of yellow raisins, Varni Exports is dedicated to delivering premium-quality products that exceed customer expectations. We guarantee timely delivery and exceptional customer service, ensuring a seamless experience for our global clientele.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>For inquiries about our superior yellow raisins or to place an order, please contact Varni Exports. Our knowledgeable team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
+          </div>
+        ,
       },
     ],
   },
@@ -2741,7 +3105,58 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag, Etc",
         Loading: "10 to 50 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFNvdXJjZSBmb3IgSGlnaC1RdWFsaXR5IFNlc2FtZSBTZWVkcwoKVmFybmkgRXhwb3J0cyBpcyByZW5vd25lZCBmb3IgcHJvZHVjaW5nIGFuZCBleHBvcnRpbmcgYSB3aWRlIHZhcmlldHkgb2Ygc2VzYW1lIHNlZWRzIGdsb2JhbGx5LiBPdXIgb2ZmZXJpbmdzIGluY2x1ZGUgZm91ciBtYWluIHR5cGVzIG9mIHNlc2FtZSBzZWVkczogd2hpdGUgc2VzYW1lIHNlZWRzLCBicm93biBzZXNhbWUgc2VlZHMsIGh1bGxlZCBzZXNhbWUgc2VlZHMsIGFuZCBibGFjayBzZXNhbWUgc2VlZHMuCgojIyMgUHJlbWl1bSBCcm93biBTZXNhbWUgU2VlZHMKCkJyb3duIHNlc2FtZSBzZWVkcyBhcmUgcHJlZG9taW5hbnRseSBncm93biBpbiBHdWphcmF0LCBmb2xsb3dlZCBieSBXZXN0IEJlbmdhbCwgS2FybmF0YWthLCBhbmQgUmFqYXN0aGFuLiBWYXJuaSBFeHBvcnRzIGlzIGEgbWFqb3IgZXhwb3J0ZXIgb2YgYnJvd24gc2VzYW1lIHNlZWRzLCBrbm93biBmb3IgdGhlaXIgcmljaCBmbGF2b3IgYW5kIG51dHJpdGlvbmFsIGJlbmVmaXRzLgoKIyMjIEN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0aW5nCgpTZXNhbWUgc2VlZHMgY2FuIGJlIHBsYW50ZWQgbWFudWFsbHkgb3IgdXNpbmcgdHJhY3RvcnMuIFRoZSBsaWZlIGN5Y2xlIG9mIHNlc2FtZSBwbGFudHMgaXMgYXBwcm94aW1hdGVseSBmb3VyIG1vbnRocyB0byBhY2hpZXZlIGEgaGlnaC1xdWFsaXR5IGhhcnZlc3QuIFRoZSBoYXJ2ZXN0aW5nIHByb2Nlc3MgaXMgbWFudWFsLCBlbnN1cmluZyB0aGF0IHdlIG9idGFpbiBkaXJ0IGFuZCBzdG9uZS1mcmVlIGh1bGxlZCBzZWVkcyBhbmQgcHJvZHVjdHMuCgojIyMgU291cmNpbmcgYW5kIFByb2Nlc3NpbmcKClZhcm5pIEV4cG9ydHMgc291cmNlcyB0b3AtcXVhbGl0eSBzZXNhbWUgc2VlZHMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIEd1amFyYXQgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gVGhlc2Ugc2VzYW1lIHNlZWRzIGFyZSByaWNoIGluIHByb3RlaW4gYW5kIG9pbCBjb250ZW50LiBBZnRlciBzb3VyY2luZywgdGhlIHNlZWRzIHVuZGVyZ28gbWV0aWN1bG91cyBjbGVhbmluZyB0byBhY2hpZXZlIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4KCiMjIyBTdGF0ZS1vZi10aGUtQXJ0IFByb2Nlc3NpbmcgUGxhbnQKCk91ciBwcm9jZXNzaW5nIHBsYW50IGZlYXR1cmVzIHRoZSBsYXRlc3QgbWFjaGluZXJ5IGFuZCBlbXBsb3lzIGN1dHRpbmctZWRnZSB0ZWNobm9sb2d5LiBXZSBwcmlvcml0aXplIGVudmlyb25tZW50YWxseSBmcmllbmRseSBwcmFjdGljZXMgYW5kIGVmZmVjdGl2ZSB3YXN0ZSBtYW5hZ2VtZW50IHN5c3RlbXMuIFRoZSBodWxsZWQgc2VzYW1lIHNlZWRzIHByb2R1Y2VkIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIGFuZCBhcmUgcmVhZHkgZm9yIGV4cG9ydC4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgd2UgY29uc2lzdGVudGx5IGltcHJvdmUgb3VyIHByb2Nlc3NlcyB0byBzZXJ2ZSB5b3UgYmV0dGVyLgoKIyMjIExlYWRpbmcgRXhwb3J0ZXIgb2YgQnJvd24gU2VzYW1lIFNlZWRzCgpWYXJuaSBFeHBvcnRzIGlzIGEgbGVhZGluZyBleHBvcnRlciBvZiBicm93biBzZXNhbWUgc2VlZHMuIFRoZSBwcmltYXJ5IGRpZmZlcmVuY2UgYmV0d2VlbiBodWxsZWQgYW5kIHVuaHVsbGVkIHNlc2FtZSBzZWVkcyBpcyB0aGUgb3V0ZXIgc2hlbGwuIEh1bGxlZCBzZXNhbWUgc2VlZHMgaGF2ZSB0aGUgb3V0ZXIgY292ZXIgcmVtb3ZlZCBieSBtYWNoaW5lLCB3aGljaCBjYW4gcmVzdWx0IGluIGEgc2xpZ2h0IGxvc3Mgb2YgbnV0cml0aW9uYWwgY29udGVudCBmb3VuZCBpbiB0aGUgb3V0ZXIgc2hlbGwuCgojIyMgR2xvYmFsIEV4cG9ydCBhbmQgU3VwcGx5CgpNYW55IHBlb3BsZSB3b25kZXIgd2hlcmUgdG8gYnV5IGhpZ2gtcXVhbGl0eSBodWxsZWQgc2VzYW1lIHNlZWRzLiBWYXJuaSBFeHBvcnRzIGlzIGEgcmVsaWFibGUgZXhwb3J0ZXIgb2YgaHVsbGVkIHNlc2FtZSBzZWVkcyBmcm9tIEluZGlhLCBzaGlwcGluZyBzZXNhbWUgc2VlZHMgd29ybGR3aWRlLgoKIyMjIFVzZXMgYW5kIEJlbmVmaXRzIG9mIEJyb3duIFNlc2FtZSBTZWVkcwoKMS4gKipOdXRyaWVudC1SaWNoKio6IFNlc2FtZSBzZWVkcyBhcmUgcGFja2VkIHdpdGggbnV0cml0aW9uLCBtYWtpbmcgdGhlbSBhIHZhbHVhYmxlIGFkZGl0aW9uIHRvIHlvdXIgZGlldC4KMi4gKipIYWlyIEdyb3d0aCoqOiBIaWdoIGluIFZpdGFtaW4gQiwgaHVsbGVkIHNlc2FtZSBzZWVkcyBjYW4gcHJvbW90ZSBoYWlyIGdyb3d0aC4KMy4gKipBbnRpLUFnaW5nIFByb3BlcnRpZXMqKjogQmVuZWZpY2lhbCBmb3IgZWFybHkgY2hpbGRob29kIGRldmVsb3BtZW50IGFuZCBhZ2luZyBpbmRpdmlkdWFscyBkdWUgdG8gdGhlaXIgYW50aS1hZ2luZyBwcm9wZXJ0aWVzLgo0LiAqKlNraW4gSGVhbHRoKio6IFZpdGFtaW5zIGluIGh1bGxlZCBzZXNhbWUgc2VlZHMgYm9vc3Qgc2tpbiBoZWFsdGgsIGhlbHBpbmcgdG8gcmVkdWNlIHBpbXBsZXMsIGRhcmsgc3BvdHMsIHdyaW5rbGVzLCBhbmQgaW1wcm92ZSBza2luIGxpZ2h0ZW5pbmcuCjUuICoqSGVhcnQgSGVhbHRoKio6IFJpY2ggaW4gZmliZXIsIHNlc2FtZSBzZWVkcyBoZWxwIHBhdGllbnRzIHdpdGggaGVhcnQgZGlzZWFzZS4KNi4gKipCbG9vZCBQcmVzc3VyZSoqOiBIdWxsZWQgc2VzYW1lIHNlZWRzIGNhbiBoZWxwIG1hbmFnZSBsb3dlciBibG9vZCBwcmVzc3VyZSBpc3N1ZXMuCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCB0aGUgYmVzdCBodWxsZWQgc2VzYW1lIHNlZWRzLiBPdXIgZm9jdXMgb24gcXVhbGl0eSBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGhhcyBtYWRlIHVzIGEgdHJ1c3RlZCBuYW1lIGluIHRoZSBpbmR1c3RyeS4KCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciBwcmVtaXVtIHNlc2FtZSBzZWVkcyBhbmQgZXhwZXJpZW5jZSB0aGUgc3VwZXJpb3IgcXVhbGl0eSBhbmQgaGVhbHRoIGJlbmVmaXRzIHRoZXkgb2ZmZXIuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhbmQgcGxhY2UgeW91ciBvcmRlci4gRGlzY292ZXIgdGhlIGRpZmZlcmVuY2Ugd2l0aCBWYXJuaSBFeHBvcnRzIQ==",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Trusted Source for High-Quality Sesame Seeds</strong></h1>
+            <br />
+
+            <p>Varni Exports is renowned for producing and exporting a wide variety of sesame seeds globally. Our offerings include four main types of sesame seeds: white sesame seeds, brown sesame seeds, hulled sesame seeds, and black sesame seeds.</p>
+            <br />
+
+            <h2><strong>Premium Brown Sesame Seeds</strong></h2>
+            <br />
+            <p>Brown sesame seeds are predominantly grown in Gujarat, followed by West Bengal, Karnataka, and Rajasthan. Varni Exports is a major exporter of brown sesame seeds, known for their rich flavor and nutritional benefits.</p>
+            <br />
+
+            <h2><strong>Cultivation and Harvesting</strong></h2>
+            <br />
+            <p>Sesame seeds can be planted manually or using tractors. The life cycle of sesame plants is approximately four months to achieve a high-quality harvest. The harvesting process is manual, ensuring that we obtain dirt and stone-free hulled seeds and products.</p>
+            <br />
+
+            <h2><strong>Sourcing and Processing</strong></h2>
+            <br />
+            <p>Varni Exports sources top-quality sesame seeds from the fertile regions of Gujarat and the Indo-Gangetic plains. These sesame seeds are rich in protein and oil content. After sourcing, the seeds undergo meticulous cleaning to achieve a purity level of 90 to 95%.</p>
+            <br />
+
+            <h2><strong>State-of-the-Art Processing Plant</strong></h2>
+            <br />
+            <p>Our processing plant features the latest machinery and employs cutting-edge technology. We prioritize environmentally friendly practices and effective waste management systems. The hulled sesame seeds produced meet the highest standards and are ready for export. Our commitment to excellence ensures that we consistently improve our processes to serve you better.</p>
+            <br />
+
+            <h2><strong>Leading Exporter of Brown Sesame Seeds</strong></h2>
+            <br />
+            <p>Varni Exports is a leading exporter of brown sesame seeds. The primary difference between hulled and unhulled sesame seeds is the outer shell. Hulled sesame seeds have the outer cover removed by machine, which can result in a slight loss of nutritional content found in the outer shell.</p>
+            <br />
+
+            <h2><strong>Global Export and Supply</strong></h2>
+            <br />
+            <p>Many people wonder where to buy high-quality hulled sesame seeds. Varni Exports is a reliable exporter of hulled sesame seeds from India, shipping sesame seeds worldwide.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of Brown Sesame Seeds</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Sesame seeds are packed with nutrition, making them a valuable addition to your diet.</li>
+            <li><strong>Hair Growth:</strong> High in Vitamin B, hulled sesame seeds can promote hair growth.</li>
+            <li><strong>Anti-Aging Properties:</strong> Beneficial for early childhood development and aging individuals due to their anti-aging properties.</li>
+            <li><strong>Skin Health:</strong> Vitamins in hulled sesame seeds boost skin health, helping to reduce pimples, dark spots, wrinkles, and improve skin lightening.</li>
+            <li><strong>Heart Health:</strong> Rich in fiber, sesame seeds help patients with heart disease.</li>
+            <li><strong>Blood Pressure:</strong> Hulled sesame seeds can help manage lower blood pressure issues.</li>
+            <br />
+
+            <p>At Varni Exports, we are dedicated to providing you with the best hulled sesame seeds. Our focus on quality and customer satisfaction has made us a trusted name in the industry.</p>
+            <br />
+
+            <p>Choose Varni Exports for premium sesame seeds and experience the superior quality and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>,
       },
 
       {
@@ -2762,7 +3177,61 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag, Etc",
         Loading: "10 to 50 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBQcmVtaWVyIFNvdXJjZSBmb3IgSHVsbGVkIFNlc2FtZSBTZWVkcwoKVmFybmkgRXhwb3J0cyBpcyByZW5vd25lZCBmb3IgcHJvZHVjaW5nIGFuZCBleHBvcnRpbmcgYSB3aWRlIHZhcmlldHkgb2Ygc2VzYW1lIHNlZWRzIHdvcmxkd2lkZS4gT3VyIG9mZmVyaW5ncyBpbmNsdWRlIGZvdXIgbWFpbiB0eXBlcyBvZiBzZXNhbWUgc2VlZHM6IHdoaXRlIHNlc2FtZSBzZWVkcywgYnJvd24gc2VzYW1lIHNlZWRzLCBodWxsZWQgc2VzYW1lIHNlZWRzLCBhbmQgYmxhY2sgc2VzYW1lIHNlZWRzLgoKIyMjIFByZW1pdW0gSHVsbGVkIFNlc2FtZSBTZWVkcwoKV2hpdGUgc2VzYW1lIHNlZWRzLCB3aGljaCBhcmUgbWFqb3JseSBwcm9kdWNlZCBpbiBHdWphcmF0LCBmb2xsb3dlZCBieSBXZXN0IEJlbmdhbCwgS2FybmF0YWthLCBhbmQgUmFqYXN0aGFuLCBhcmUgYW1vbmcgb3VyIHRvcCBwcm9kdWN0cy4gVmFybmkgRXhwb3J0cyBpcyBhbHNvIGEgc2lnbmlmaWNhbnQgcGxheWVyIGluIHRoZSBleHBvcnQgb2YgYmxhY2sgc2VzYW1lIHNlZWRzLgoKIyMjIEN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0aW5nCgpTZXNhbWUgc2VlZHMgY2FuIGJlIHBsYW50ZWQgbWFudWFsbHkgb3IgdXNpbmcgdHJhY3RvcnMuIFRoZSBsaWZlIGN5Y2xlIG9mIHNlc2FtZSBwbGFudHMgaXMgYXBwcm94aW1hdGVseSBmb3VyIG1vbnRocyB0byBhY2hpZXZlIGEgaGlnaC1xdWFsaXR5IGhhcnZlc3QuIFRoZSBoYXJ2ZXN0aW5nIHByb2Nlc3MgaXMgbWFudWFsLCBlbnN1cmluZyB0aGF0IHdlIG9idGFpbiBkaXJ0IGFuZCBzdG9uZS1mcmVlIHByb2R1Y3RzLgoKIyMjIFNvdXJjaW5nIGFuZCBQcm9jZXNzaW5nCgpWYXJuaSBFeHBvcnRzIHNvdXJjZXMgdGhlIGZpbmVzdCBxdWFsaXR5IHNlc2FtZSBzZWVkcyBmcm9tIHRoZSBmZXJ0aWxlIHJlZ2lvbnMgb2YgR3VqYXJhdCBhbmQgdGhlIEluZG8tR2FuZ2V0aWMgcGxhaW5zLiBUaGVzZSBzZXNhbWUgc2VlZHMgYXJlIGV4Y2VwdGlvbmFsbHkgcmljaCBpbiBwcm90ZWluIGFuZCBvaWwgY29udGVudC4gQWZ0ZXIgc291cmNpbmcsIHRoZSBzZWVkcyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcgdG8gYWNoaWV2ZSBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUuCgojIyMgU3RhdGUtb2YtdGhlLUFydCBQcm9jZXNzaW5nIFBsYW50CgpPdXIgcHJvY2Vzc2luZyBwbGFudCBmZWF0dXJlcyB0aGUgbGF0ZXN0IG1hY2hpbmVyeSBhbmQgZW1wbG95cyBjdXR0aW5nLWVkZ2UgdGVjaG5vbG9neS4gV2UgcHJpb3JpdGl6ZSBlbnZpcm9ubWVudGFsbHkgZnJpZW5kbHkgcHJhY3RpY2VzIGFuZCBlZmZlY3RpdmUgd2FzdGUgbWFuYWdlbWVudCBzeXN0ZW1zLiBUaGUgaHVsbGVkIHNlc2FtZSBzZWVkcyB3ZSBwcm9kdWNlIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIGFuZCBhcmUgcmVhZHkgZm9yIGV4cG9ydC4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgd2UgY29uc2lzdGVudGx5IGltcHJvdmUgb3VyIHByb2Nlc3NlcyB0byBzZXJ2ZSB5b3UgYmV0dGVyLgoKIyMjIExlYWRpbmcgRXhwb3J0ZXIgb2YgSHVsbGVkIFNlc2FtZSBTZWVkcwoKVmFybmkgRXhwb3J0cyBpcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgaHVsbGVkIHNlc2FtZSBzZWVkcy4gVGhlIHByaW1hcnkgZGlmZmVyZW5jZSBiZXR3ZWVuIGh1bGxlZCBhbmQgdW5odWxsZWQgc2VzYW1lIHNlZWRzIGlzIHRoZSBvdXRlciBzaGVsbC4gSHVsbGVkIHNlc2FtZSBzZWVkcyBoYXZlIHRoZSBvdXRlciBjb3ZlciByZW1vdmVkIGJ5IG1hY2hpbmUsIHdoaWNoIGNhbiByZXN1bHQgaW4gYSBzbGlnaHQgbG9zcyBvZiBudXRyaXRpb25hbCBjb250ZW50IGZvdW5kIGluIHRoZSBvdXRlciBzaGVsbC4KCiMjIyBHbG9iYWwgRXhwb3J0IGFuZCBTdXBwbHkKCk1hbnkgcGVvcGxlIHdvbmRlciB3aGVyZSB0byBidXkgaGlnaC1xdWFsaXR5IGh1bGxlZCBzZXNhbWUgc2VlZHMuIFZhcm5pIEV4cG9ydHMgaXMgYSByZWxpYWJsZSBleHBvcnRlciBvZiBodWxsZWQgc2VzYW1lIHNlZWRzIGZyb20gSW5kaWEsIHNoaXBwaW5nIHNlc2FtZSBzZWVkcyB3b3JsZHdpZGUuCgojIyMgVXNlcyBhbmQgQmVuZWZpdHMgb2YgSHVsbGVkIFNlc2FtZSBTZWVkcwoKMS4gKipOdXRyaWVudC1SaWNoKio6IEh1bGxlZCBzZXNhbWUgc2VlZHMgYXJlIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHMsIG1ha2luZyB0aGVtIGEgdmFsdWFibGUgYWRkaXRpb24gdG8geW91ciBkaWV0LgoyLiAqKkhhaXIgR3Jvd3RoKio6IEhpZ2ggaW4gVml0YW1pbiBCLCBodWxsZWQgc2VzYW1lIHNlZWRzIGNhbiBwcm9tb3RlIGhhaXIgZ3Jvd3RoLgozLiAqKkFudGktQWdpbmcgUHJvcGVydGllcyoqOiBCZW5lZmljaWFsIGZvciBlYXJseSBjaGlsZGhvb2QgZGV2ZWxvcG1lbnQgYW5kIGFnaW5nIGluZGl2aWR1YWxzIGR1ZSB0byB0aGVpciBhbnRpLWFnaW5nIHByb3BlcnRpZXMuCjQuICoqU2tpbiBIZWFsdGgqKjogVml0YW1pbnMgaW4gaHVsbGVkIHNlc2FtZSBzZWVkcyBib29zdCBza2luIGhlYWx0aCwgaGVscGluZyB0byByZWR1Y2UgcGltcGxlcywgZGFyayBzcG90cywgd3JpbmtsZXMsIGFuZCBpbXByb3ZlIHNraW4gbGlnaHRlbmluZy4KNS4gKipIZWFydCBIZWFsdGgqKjogUmljaCBpbiBmaWJlciwgaHVsbGVkIHNlc2FtZSBzZWVkcyBoZWxwIHBhdGllbnRzIHdpdGggaGVhcnQgZGlzZWFzZS4KNi4gKipCbG9vZCBQcmVzc3VyZSoqOiBIdWxsZWQgc2VzYW1lIHNlZWRzIGNhbiBoZWxwIG1hbmFnZSBsb3dlciBibG9vZCBwcmVzc3VyZSBpc3N1ZXMuCjcuICoqQ3VsaW5hcnkgVXNlcyoqOiBVc2VkIGZvciBjb29raW5nLCBzZWFzb25pbmcsIGFuZCBiYWtpbmcsIGFkZGluZyBhIG51dHR5IGZsYXZvciBhbmQgY3J1bmNoIHRvIGRpc2hlcy4KOC4gKipNZWRpY2luYWwgVXNlcyoqOiBTZXNhbWUgb2lsIGRlcml2ZWQgZnJvbSBodWxsZWQgc2VlZHMgaXMgdXNlZCBmb3IgaXRzIHRoZXJhcGV1dGljIHByb3BlcnRpZXMgaW4gdGhlIG1lZGljYWwgZmllbGQuCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCB0aGUgYmVzdCBodWxsZWQgc2VzYW1lIHNlZWRzLiBPdXIgZm9jdXMgb24gcXVhbGl0eSBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGhhcyBtYWRlIHVzIGEgdHJ1c3RlZCBuYW1lIGluIHRoZSBpbmR1c3RyeS4KCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciBwcmVtaXVtIGh1bGxlZCBzZXNhbWUgc2VlZHMgYW5kIGV4cGVyaWVuY2UgdGhlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGhlYWx0aCBiZW5lZml0cyB0aGV5IG9mZmVyLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYW5kIHBsYWNlIHlvdXIgb3JkZXIuIERpc2NvdmVyIHRoZSBkaWZmZXJlbmNlIHdpdGggVmFybmkgRXhwb3J0cyE=",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Premier Source for Hulled Sesame Seeds</strong></h1>
+            <br />
+
+            <p>Varni Exports is renowned for producing and exporting a wide variety of sesame seeds worldwide. Our offerings include four main types of sesame seeds: white sesame seeds, brown sesame seeds, hulled sesame seeds, and black sesame seeds.</p>
+            <br />
+
+            <h2><strong>Premium Hulled Sesame Seeds</strong></h2>
+            <br />
+            <p>White sesame seeds, which are majorly produced in Gujarat, followed by West Bengal, Karnataka, and Rajasthan, are among our top products. Varni Exports is also a significant player in the export of black sesame seeds.</p>
+            <br />
+
+            <h2><strong>Cultivation and Harvesting</strong></h2>
+            <br />
+            <p>Sesame seeds can be planted manually or using tractors. The life cycle of sesame plants is approximately four months to achieve a high-quality harvest. The harvesting process is manual, ensuring that we obtain dirt and stone-free products.</p>
+            <br />
+
+            <h2><strong>Sourcing and Processing</strong></h2>
+            <br />
+            <p>Varni Exports sources the finest quality sesame seeds from the fertile regions of Gujarat and the Indo-Gangetic plains. These sesame seeds are exceptionally rich in protein and oil content. After sourcing, the seeds undergo meticulous cleaning to achieve a purity level of 90 to 95%.</p>
+            <br />
+
+            <h2><strong>State-of-the-Art Processing Plant</strong></h2>
+            <br />
+            <p>Our processing plant features the latest machinery and employs cutting-edge technology. We prioritize environmentally friendly practices and effective waste management systems. The hulled sesame seeds we produce meet the highest standards and are ready for export. Our commitment to excellence ensures that we consistently improve our processes to serve you better.</p>
+            <br />
+
+            <h2><strong>Leading Exporter of Hulled Sesame Seeds</strong></h2>
+            <br />
+            <p>Varni Exports is a leading exporter of hulled sesame seeds. The primary difference between hulled and unhulled sesame seeds is the outer shell. Hulled sesame seeds have the outer cover removed by machine, which can result in a slight loss of nutritional content found in the outer shell.</p>
+            <br />
+
+            <h2><strong>Global Export and Supply</strong></h2>
+            <br />
+            <p>Many people wonder where to buy high-quality hulled sesame seeds. Varni Exports is a reliable exporter of hulled sesame seeds from India, shipping sesame seeds worldwide.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of Hulled Sesame Seeds</strong></h2>
+            <br />
+            <li><strong>Nutrient-Rich:</strong> Hulled sesame seeds are packed with essential nutrients, making them a valuable addition to your diet.</li>
+            <li><strong>Hair Growth:</strong> High in Vitamin B, hulled sesame seeds can promote hair growth.</li>
+            <li><strong>Anti-Aging Properties:</strong> Beneficial for early childhood development and aging individuals due to their anti-aging properties.</li>
+            <li><strong>Skin Health:</strong> Vitamins in hulled sesame seeds boost skin health, helping to reduce pimples, dark spots, wrinkles, and improve skin lightening.</li>
+            <li><strong>Heart Health:</strong> Rich in fiber, hulled sesame seeds help patients with heart disease.</li>
+            <li><strong>Blood Pressure:</strong> Hulled sesame seeds can help manage lower blood pressure issues.</li>
+            <li><strong>Culinary Uses:</strong> Used for cooking, seasoning, and baking, adding a nutty flavor and crunch to dishes.</li>
+            <li><strong>Medicinal Uses:</strong> Sesame oil derived from hulled seeds is used for its therapeutic properties in the medical field.</li>
+            <br />
+
+            <p>At Varni Exports, we are dedicated to providing you with the best hulled sesame seeds. Our focus on quality and customer satisfaction has made us a trusted name in the industry.</p>
+            <br />
+
+            <p>Choose Varni Exports for premium hulled sesame seeds and experience the superior quality and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -2782,7 +3251,66 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag, Etc",
         Loading: "10 to 50 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBQcmVtaWVyIFNvdXJjZSBmb3IgQmxhY2sgU2VzYW1lIFNlZWRzCgpWYXJuaSBFeHBvcnRzIGlzIHJlbm93bmVkIGZvciBwcm9kdWNpbmcgYW5kIGV4cG9ydGluZyBhIHdpZGUgdmFyaWV0eSBvZiBzZXNhbWUgc2VlZHMgZ2xvYmFsbHkuIE91ciBvZmZlcmluZ3MgaW5jbHVkZSBmb3VyIG1haW4gdHlwZXMgb2Ygc2VzYW1lIHNlZWRzOiB3aGl0ZSBzZXNhbWUgc2VlZHMsIGJyb3duIHNlc2FtZSBzZWVkcywgaHVsbGVkIHNlc2FtZSBzZWVkcywgYW5kIGJsYWNrIHNlc2FtZSBzZWVkcy4gQmxhY2sgc2VzYW1lIHNlZWRzIGFyZSBlc3BlY2lhbGx5IHByaXplZCBmb3IgdGhlaXIgaGlnaCBudXRyaXRpb25hbCB2YWx1ZSBhbmQgZGlzdGluY3RpdmUgYmxhY2sgY29sb3IuCgojIyMgSGlnaC1RdWFsaXR5IEJsYWNrIFNlc2FtZSBTZWVkcwoKQmxhY2sgc2VzYW1lIHNlZWRzIGFyZSBwcmltYXJpbHkgcHJvZHVjZWQgaW4gR3VqYXJhdCwgZm9sbG93ZWQgYnkgV2VzdCBCZW5nYWwsIEthcm5hdGFrYSwgYW5kIFJhamFzdGhhbi4gVmFybmkgRXhwb3J0cyBpcyBhIG1ham9yIHBsYXllciBpbiB0aGUgZXhwb3J0IG9mIGJsYWNrIHNlc2FtZSBzZWVkcywga25vd24gZm9yIHRoZWlyIG51dHR5IGFuZCBjcnVuY2h5IHRleHR1cmUgYW5kIHJpY2ggZmxhdm9yLCBtYWtpbmcgdGhlbSBhIHBvcHVsYXIgaW5ncmVkaWVudCBpbiBtYW55IHJlY2lwZXMgYWNyb3NzIGRpZmZlcmVudCBjdWlzaW5lcy4KCiMjIyBOdXRyaXRpb25hbCBQb3dlcmhvdXNlCgpCbGFjayBzZXNhbWUgc2VlZHMgYXJlIHBhY2tlZCB3aXRoIHZpdGFtaW5zLCBtaW5lcmFscywgYW5kIG51dHJpZW50cywgbWFraW5nIHRoZW0gc29tZSBvZiB0aGUgaGVhbHRoaWVzdCBzZWVkcyBpbiB0aGUgd29ybGQuIFRoZWlyIG51dHJpdGlvbmFsIHByb2ZpbGUgaW5jbHVkZXM6Ci0gKipBbnRpb3hpZGFudHMqKjogSGVscCBwcmV2ZW50IG9yIHNsb3cgY2VsbCBkYW1hZ2UgaW4gdGhlIGJvZHkuCi0gKipOdXRyaWVudHMqKjogSGlnaCBpbiBlc3NlbnRpYWwgdml0YW1pbnMgYW5kIG1pbmVyYWxzLgotICoqUHJvdGVpbiBTb3VyY2UqKjogQSBjb25jZW50cmF0ZWQgc291cmNlIG9mIHByb3RlaW4gYW5kIGNhbG9yaWVzLgoKIyMjIEN1bGluYXJ5IGFuZCBNZWRpY2luYWwgVXNlcwoKQmxhY2sgc2VzYW1lIHNlZWRzIGFyZSB2ZXJzYXRpbGUgYW5kIHdpZGVseSB1c2VkIGluOgotICoqQXNpYW4gUmVjaXBlcyoqOiBCbGFjayBzZXNhbWUgcGFzdGUgYW5kIGRlc3NlcnRzIGFyZSBjb21tb24gaW4gQXNpYW4gY3Vpc2luZS4KLSAqKkJha2luZyBhbmQgQ29va2luZyoqOiBBZGRzIGZsYXZvciBhbmQgY3J1bmNoIHRvIGJha2VyeSBwcm9kdWN0cyBhbmQgdmFyaW91cyBkaXNoZXMuCi0gKipPaWwgRXh0cmFjdGlvbioqOiBTZXNhbWUgb2lsIGZyb20gYmxhY2sgc2VlZHMgaXMgdXNlZCBmb3IgaGVhbHRoeSBjb29raW5nLgotICoqRGVjb3JhdGl2ZSBVc2VzKio6IEJsYWNrIHNlc2FtZSBwb3dkZXIgaXMgdXNlZCBmb3IgZGVjb3JhdGlvbiBpbiBkaXNoZXMgd29ybGR3aWRlLgoKIyMjIExlYWRpbmcgRXhwb3J0ZXIgb2YgQmxhY2sgU2VzYW1lIFNlZWRzCgpWYXJuaSBFeHBvcnRzIGlzIGEgbGVhZGluZyBleHBvcnRlciBhbmQgcHJvZHVjZXIgb2YgYmxhY2sgc2VzYW1lIHNlZWRzLCB0cmFkaW5nIGF0IGluZHVzdHJ5LWxlYWRpbmcgcHJpY2VzLiBPdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb24gZW5zdXJlcyB0aGF0IHdlIGRlbGl2ZXIgdGhlIGJlc3QgcHJvZHVjdHMgdG8gb3VyIGNsaWVudHMgd29ybGR3aWRlLgoKIyMjIFN0YXRlLW9mLXRoZS1BcnQgUHJvY2Vzc2luZwoKT3VyIGFkdmFuY2VkIHByb2Nlc3NpbmcgcGxhbnQgZmVhdHVyZXMgdGhlIGxhdGVzdCBtYWNoaW5lcnkgYW5kIGVtcGxveXMgY3V0dGluZy1lZGdlIHRlY2hub2xvZ3kuIFdlIHByaW9yaXRpemUgZW52aXJvbm1lbnRhbGx5IGZyaWVuZGx5IHByYWN0aWNlcyBhbmQgZWZmZWN0aXZlIHdhc3RlIG1hbmFnZW1lbnQgc3lzdGVtcy4gVGhlIGJsYWNrIHNlc2FtZSBzZWVkcyB3ZSBwcm9kdWNlIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIGFuZCBhcmUgcmVhZHkgZm9yIGV4cG9ydC4KCiMjIyBVc2VzIGFuZCBCZW5lZml0cyBvZiBCbGFjayBTZXNhbWUgU2VlZHMKCjEuICoqQW50aW94aWRhbnRzKio6IFBsYXkgYSBjcnVjaWFsIHJvbGUgaW4gcHJldmVudGluZyBvciBzbG93aW5nIHZhcmlvdXMgdHlwZXMgb2YgY2VsbCBkYW1hZ2UuCjIuICoqQmxvb2QgUHJlc3N1cmUqKjogQ2FuIGhlbHAgaW1wcm92ZSBibG9vZCBwcmVzc3VyZSBsZXZlbHMuCjMuICoqTWVkaWNpbmFsIEJlbmVmaXRzKio6IEtub3duIGZvciB0aGVpciBvdmVyYWxsIGhlYWx0aCBiZW5lZml0cy4KNC4gKipOdXRyaWVudC1SaWNoKio6IEEgZ29vZCBzb3VyY2Ugb2YgY29uY2VudHJhdGVkIGNhbG9yaWVzIGFuZCBwcm90ZWlucy4KNS4gKipBbnRpLUFnaW5nKio6IEJlbmVmaXRzIHRoZSBza2luIGFuZCBib25lcyBkdWUgdG8gdGhlIHByZXNlbmNlIG9mIGNhbGNpdW0gYW5kIHppbmMuCjYuICoqVmVyc2F0aWxlIEFwcGxpY2F0aW9ucyoqOiBVc2VkIGluIGJha2luZywgY29va2luZywgYW5kIG1ha2luZyBwYXN0ZXMuCgojIyMgQ29udGFjdCBVcwoKQXQgVmFybmkgRXhwb3J0cywgd2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgdGhlIGJlc3QgbmF0dXJhbCBibGFjayBzZXNhbWUgc2VlZHMuIE91ciBmb2N1cyBvbiBxdWFsaXR5IGFuZCBleGNlbGxlbmNlIGhhcyBtYWRlIHVzIGEgdHJ1c3RlZCBuYW1lIGluIHRoZSBpbmR1c3RyeS4gVG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcHJvZHVjdHMgYW5kIGF2YWlsYWJsZSB2YXJpZXRpZXMsIGZlZWwgZnJlZSB0byBjb250YWN0IG91ciBleHBlcnQgdGVhbS4KCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciBwcmVtaXVtIGJsYWNrIHNlc2FtZSBzZWVkcyBhbmQgZXhwZXJpZW5jZSB0aGUgc3VwZXJpb3IgcXVhbGl0eSBhbmQgaGVhbHRoIGJlbmVmaXRzIHRoZXkgb2ZmZXIuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhbmQgcGxhY2UgeW91ciBvcmRlci4gRGlzY292ZXIgdGhlIGRpZmZlcmVuY2Ugd2l0aCBWYXJuaSBFeHBvcnRzIQ==",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Premier Source for Black Sesame Seeds</strong></h1>
+            <br />
+
+            <p>Varni Exports is renowned for producing and exporting a wide variety of sesame seeds globally. Our offerings include four main types of sesame seeds: white sesame seeds, brown sesame seeds, hulled sesame seeds, and black sesame seeds. Black sesame seeds are especially prized for their high nutritional value and distinctive black color.</p>
+            <br />
+
+            <h2><strong>High-Quality Black Sesame Seeds</strong></h2>
+            <br />
+            <p>Black sesame seeds are primarily produced in Gujarat, followed by West Bengal, Karnataka, and Rajasthan. Varni Exports is a major player in the export of black sesame seeds, known for their nutty and crunchy texture and rich flavor, making them a popular ingredient in many recipes across different cuisines.</p>
+            <br />
+
+            <h2><strong>Nutritional Powerhouse</strong></h2>
+            <br />
+            <p>Black sesame seeds are packed with vitamins, minerals, and nutrients, making them some of the healthiest seeds in the world. Their nutritional profile includes:</p>
+            <li><strong>Antioxidants:</strong> Help prevent or slow cell damage in the body.</li>
+            <li><strong>Nutrients:</strong> High in essential vitamins and minerals.</li>
+            <li><strong>Protein Source:</strong> A concentrated source of protein and calories.</li>
+
+            <br />
+
+            <h2><strong>Culinary and Medicinal Uses</strong></h2>
+            <br />
+            <p>Black sesame seeds are versatile and widely used in:</p>
+            <li><strong>Asian Recipes:</strong> Black sesame paste and desserts are common in Asian cuisine.</li>
+            <li><strong>Baking and Cooking:</strong> Adds flavor and crunch to bakery products and various dishes.</li>
+            <li><strong>Oil Extraction:</strong> Sesame oil from black seeds is used for healthy cooking.</li>
+            <li><strong>Decorative Uses:</strong> Black sesame powder is used for decoration in dishes worldwide.</li>
+
+            <br />
+
+            <h2><strong>Leading Exporter of Black Sesame Seeds</strong></h2>
+            <br />
+            <p>Varni Exports is a leading exporter and producer of black sesame seeds, trading at industry-leading prices. Our commitment to quality and customer satisfaction ensures that we deliver the best products to our clients worldwide.</p>
+            <br />
+
+            <h2><strong>State-of-the-Art Processing</strong></h2>
+            <br />
+            <p>Our advanced processing plant features the latest machinery and employs cutting-edge technology. We prioritize environmentally friendly practices and effective waste management systems. The black sesame seeds we produce meet the highest standards and are ready for export.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of Black Sesame Seeds</strong></h2>
+            <br />
+            <li><strong>Antioxidants:</strong> Play a crucial role in preventing or slowing various types of cell damage.</li>
+            <li><strong>Blood Pressure:</strong> Can help improve blood pressure levels.</li>
+            <li><strong>Medicinal Benefits:</strong> Known for their overall health benefits.</li>
+            <li><strong>Nutrient-Rich:</strong> A good source of concentrated calories and proteins.</li>
+            <li><strong>Anti-Aging:</strong> Benefits the skin and bones due to the presence of calcium and zinc.</li>
+            <li><strong>Versatile Applications:</strong> Used in baking, cooking, and making pastes.</li>
+
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>At Varni Exports, we are dedicated to providing the best natural black sesame seeds. Our focus on quality and excellence has made us a trusted name in the industry. To learn more about our products and available varieties, feel free to contact our expert team.</p>
+            <br />
+
+            <p>Choose Varni Exports for premium black sesame seeds and experience the superior quality and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -2804,7 +3332,60 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag, Etc",
         Loading: "10 to 50 tons",
         description:
-          "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBQcmVtaWVyIFNvdXJjZSBmb3IgUm9hc3RlZCBTZXNhbWUgU2VlZHMKClZhcm5pIEV4cG9ydHMgaXMgcmVub3duZWQgZm9yIHByb2R1Y2luZyBhbmQgZXhwb3J0aW5nIGEgd2lkZSB2YXJpZXR5IG9mIHNlc2FtZSBzZWVkcyBnbG9iYWxseS4gT3VyIG9mZmVyaW5ncyBpbmNsdWRlIHdoaXRlIHNlc2FtZSBzZWVkcywgYnJvd24gc2VzYW1lIHNlZWRzLCBodWxsZWQgc2VzYW1lIHNlZWRzLCBibGFjayBzZXNhbWUgc2VlZHMsIGFuZCByb2FzdGVkIHNlc2FtZSBzZWVkcy4gCgojIyMgSGlnaC1RdWFsaXR5IFJvYXN0ZWQgU2VzYW1lIFNlZWRzCgpSb2FzdGVkIHNlc2FtZSBzZWVkcyBhcmUgY2VsZWJyYXRlZCBmb3IgdGhlaXIgcmljaCwgbnV0dHkgZmxhdm9yIGFuZCBjcnVuY2h5IHRleHR1cmUuIFRoZXNlIHNlZWRzIGFyZSBtZXRpY3Vsb3VzbHkgcHJvY2Vzc2VkIHRvIGVuc3VyZSB0aGV5IHJldGFpbiB0aGVpciBuYXR1cmFsIHRhc3RlIGFuZCBudXRyaXRpb25hbCB2YWx1ZS4gT3VyIHJvYXN0ZWQgc2VzYW1lIHNlZWRzIGFyZSBzb3VyY2VkIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiBHdWphcmF0IGFuZCB0aGUgSW5kby1HYW5nZXRpYyBwbGFpbnMsIGtub3duIGZvciBwcm9kdWNpbmcgc2VzYW1lIHNlZWRzIG9mIGV4Y2VwdGlvbmFsIHF1YWxpdHkuCgojIyMgV2h5IENob29zZSBSb2FzdGVkIFNlc2FtZSBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHM/CgoxLiAqKlN1cGVyaW9yIEZsYXZvcioqOiBSb2FzdGluZyBlbmhhbmNlcyB0aGUgbmF0dXJhbCBudXR0eSBmbGF2b3Igb2Ygc2VzYW1lIHNlZWRzLCBtYWtpbmcgdGhlbSBhIGRlbGljaW91cyBhZGRpdGlvbiB0byB2YXJpb3VzIGRpc2hlcy4KMi4gKipOdXRyaWVudC1SaWNoKio6IFJvYXN0ZWQgc2VzYW1lIHNlZWRzIGFyZSBwYWNrZWQgd2l0aCBlc3NlbnRpYWwgdml0YW1pbnMsIG1pbmVyYWxzLCBhbmQgaGVhbHRoeSBmYXRzLgozLiAqKlZlcnNhdGlsZSBVc2UqKjogSWRlYWwgZm9yIGFkZGluZyB0byBzYWxhZHMsIGJha2luZywgY29va2luZywgYW5kIGFzIGEgdG9wcGluZyBmb3IgdmFyaW91cyBkaXNoZXMuCgojIyMgU291cmNpbmcgYW5kIFByb2Nlc3NpbmcKClZhcm5pIEV4cG9ydHMgc291cmNlcyB0b3AtcXVhbGl0eSBzZXNhbWUgc2VlZHMgZnJvbSB0aGUgbW9zdCBmZXJ0aWxlIHJlZ2lvbnMuIFRoZXNlIHNlZWRzIGFyZSB0aGVuIGNhcmVmdWxseSByb2FzdGVkIHVzaW5nIGFkdmFuY2VkIHRlY2hub2xvZ3kgdG8gZW5zdXJlIGNvbnNpc3RlbnQgcXVhbGl0eSBhbmQgZmxhdm9yLiBPdXIgc3RhdGUtb2YtdGhlLWFydCBwcm9jZXNzaW5nIHBsYW50IGVtcGxveXMgZW52aXJvbm1lbnRhbGx5IGZyaWVuZGx5IHByYWN0aWNlcyBhbmQgZWZmZWN0aXZlIHdhc3RlIG1hbmFnZW1lbnQgc3lzdGVtcy4KCiMjIyBMZWFkaW5nIEV4cG9ydGVyIG9mIFJvYXN0ZWQgU2VzYW1lIFNlZWRzCgpWYXJuaSBFeHBvcnRzIGlzIGEgbGVhZGluZyBleHBvcnRlciBhbmQgcHJvZHVjZXIgb2Ygcm9hc3RlZCBzZXNhbWUgc2VlZHMsIGtub3duIGZvciB0aGVpciByaWNoIGZsYXZvciBhbmQgaGlnaCBudXRyaXRpb25hbCB2YWx1ZS4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGVuc3VyZXMgdGhhdCB3ZSBkZWxpdmVyIHRoZSBiZXN0IHByb2R1Y3RzIHRvIG91ciBjbGllbnRzIHdvcmxkd2lkZS4KCiMjIyBVc2VzIGFuZCBCZW5lZml0cyBvZiBSb2FzdGVkIFNlc2FtZSBTZWVkcwoKMS4gKipOdXRyaWVudC1EZW5zZSoqOiBSaWNoIGluIGVzc2VudGlhbCBudXRyaWVudHMsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIGluY2x1ZGluZyBjYWxjaXVtLCBpcm9uLCBhbmQgbWFnbmVzaXVtLgoyLiAqKkhlYXJ0IEhlYWx0aCoqOiBDb250YWlucyBoZWFsdGh5IGZhdHMgdGhhdCBzdXBwb3J0IGNhcmRpb3Zhc2N1bGFyIGhlYWx0aC4KMy4gKipEaWdlc3RpdmUgSGVhbHRoKio6IEhpZ2ggaW4gZGlldGFyeSBmaWJlciwgcHJvbW90aW5nIGhlYWx0aHkgZGlnZXN0aW9uLgo0LiAqKkFudGlveGlkYW50cyoqOiBQYWNrZWQgd2l0aCBhbnRpb3hpZGFudHMgdGhhdCBoZWxwIHJlZHVjZSBpbmZsYW1tYXRpb24gYW5kIHByb3RlY3QgYWdhaW5zdCBjZWxsdWxhciBkYW1hZ2UuCjUuICoqQm9uZSBIZWFsdGgqKjogSGlnaCBpbiBjYWxjaXVtLCBzdXBwb3J0aW5nIHN0cm9uZyBib25lcyBhbmQgdGVldGguCjYuICoqQ3VsaW5hcnkgQXBwbGljYXRpb25zKio6IFBlcmZlY3QgZm9yIHNwcmlua2xpbmcgb24gc2FsYWRzLCBhZGRpbmcgdG8gYmFrZWQgZ29vZHMsIGNvb2tpbmcsIGFuZCBnYXJuaXNoaW5nIGRpc2hlcy4KCiMjIyBDb21taXRtZW50IHRvIFF1YWxpdHkKCk91ciBhZHZhbmNlZCBwcm9jZXNzaW5nIHBsYW50IGZlYXR1cmVzIHRoZSBsYXRlc3QgbWFjaGluZXJ5IGFuZCBlbXBsb3lzIGN1dHRpbmctZWRnZSB0ZWNobm9sb2d5IHRvIGVuc3VyZSB0aGUgaGlnaGVzdCBxdWFsaXR5IHJvYXN0ZWQgc2VzYW1lIHNlZWRzLiBXZSBwcmlvcml0aXplIGVudmlyb25tZW50YWxseSBmcmllbmRseSBwcmFjdGljZXMgYW5kIGVmZmVjdGl2ZSB3YXN0ZSBtYW5hZ2VtZW50IHN5c3RlbXMsIGVuc3VyaW5nIG91ciBwcm9kdWN0cyBhcmUgYm90aCBoaWdoLXF1YWxpdHkgYW5kIHN1c3RhaW5hYmxlLgoKIyMjIENvbnRhY3QgVXMKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGFyZSBkZWRpY2F0ZWQgdG8gcHJvdmlkaW5nIHRoZSBmaW5lc3Qgcm9hc3RlZCBzZXNhbWUgc2VlZHMuIE91ciBmb2N1cyBvbiBxdWFsaXR5IGFuZCBleGNlbGxlbmNlIGhhcyBtYWRlIHVzIGEgdHJ1c3RlZCBuYW1lIGluIHRoZSBpbmR1c3RyeS4gVG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcHJvZHVjdHMgYW5kIGF2YWlsYWJsZSB2YXJpZXRpZXMsIGZlZWwgZnJlZSB0byBjb250YWN0IG91ciBleHBlcnQgdGVhbS4KCkNob29zZSBWYXJuaSBFeHBvcnRzIGZvciBwcmVtaXVtIHJvYXN0ZWQgc2VzYW1lIHNlZWRzIGFuZCBleHBlcmllbmNlIHRoZSBzdXBlcmlvciBxdWFsaXR5IGFuZCBoZWFsdGggYmVuZWZpdHMgdGhleSBvZmZlci4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFuZCBwbGFjZSB5b3VyIG9yZGVyLiBEaXNjb3ZlciB0aGUgZGlmZmVyZW5jZSB3aXRoIFZhcm5pIEV4cG9ydHMh",
+          <div>
+            <h1><strong>Welcome to Varni Exports: Your Premier Source for Roasted Sesame Seeds</strong></h1>
+            <br />
+
+            <p>Varni Exports is renowned for producing and exporting a wide variety of sesame seeds globally. Our offerings include white sesame seeds, brown sesame seeds, hulled sesame seeds, black sesame seeds, and roasted sesame seeds.</p>
+            <br />
+
+            <h2><strong>High-Quality Roasted Sesame Seeds</strong></h2>
+            <br />
+            <p>Roasted sesame seeds are celebrated for their rich, nutty flavor and crunchy texture. These seeds are meticulously processed to ensure they retain their natural taste and nutritional value. Our roasted sesame seeds are sourced from the fertile regions of Gujarat and the Indo-Gangetic plains, known for producing sesame seeds of exceptional quality.</p>
+            <br />
+
+            <h2><strong>Why Choose Roasted Sesame Seeds from Varni Exports?</strong></h2>
+            <br />
+            <li><strong>Superior Flavor:</strong> Roasting enhances the natural nutty flavor of sesame seeds, making them a delicious addition to various dishes.</li>
+            <li><strong>Nutrient-Rich:</strong> Roasted sesame seeds are packed with essential vitamins, minerals, and healthy fats.</li>
+            <li><strong>Versatile Use:</strong> Ideal for adding to salads, baking, cooking, and as a topping for various dishes.</li>
+
+            <br />
+
+            <h2><strong>Sourcing and Processing</strong></h2>
+            <br />
+            <p>Varni Exports sources top-quality sesame seeds from the most fertile regions. These seeds are then carefully roasted using advanced technology to ensure consistent quality and flavor. Our state-of-the-art processing plant employs environmentally friendly practices and effective waste management systems.</p>
+            <br />
+
+            <h2><strong>Leading Exporter of Roasted Sesame Seeds</strong></h2>
+            <br />
+            <p>Varni Exports is a leading exporter and producer of roasted sesame seeds, known for their rich flavor and high nutritional value. Our commitment to excellence and customer satisfaction ensures that we deliver the best products to our clients worldwide.</p>
+            <br />
+
+            <h2><strong>Uses and Benefits of Roasted Sesame Seeds</strong></h2>
+            <br />
+            <li><strong>Nutrient-Dense:</strong> Rich in essential nutrients, vitamins, and minerals, including calcium, iron, and magnesium.</li>
+            <li><strong>Heart Health:</strong> Contains healthy fats that support cardiovascular health.</li>
+            <li><strong>Digestive Health:</strong> High in dietary fiber, promoting healthy digestion.</li>
+            <li><strong>Antioxidants:</strong> Packed with antioxidants that help reduce inflammation and protect against cellular damage.</li>
+            <li><strong>Bone Health:</strong> High in calcium, supporting strong bones and teeth.</li>
+            <li><strong>Culinary Applications:</strong> Perfect for sprinkling on salads, adding to baked goods, cooking, and garnishing dishes.</li>
+
+            <br />
+
+            <h2><strong>Commitment to Quality</strong></h2>
+            <br />
+            <p>Our advanced processing plant features the latest machinery and employs cutting-edge technology to ensure the highest quality roasted sesame seeds. We prioritize environmentally friendly practices and effective waste management systems, ensuring our products are both high-quality and sustainable.</p>
+            <br />
+
+            <h2><strong>Contact Us</strong></h2>
+            <br />
+            <p>At Varni Exports, we are dedicated to providing the finest roasted sesame seeds. Our focus on quality and excellence has made us a trusted name in the industry. To learn more about our products and available varieties, feel free to contact our expert team.</p>
+            <br />
+
+            <p>Choose Varni Exports for premium roasted sesame seeds and experience the superior quality and health benefits they offer. Contact us today to learn more and place your order. Discover the difference with Varni Exports!</p>
+          </div>
+        ,
       },
     ],
   },
@@ -2839,7 +3420,68 @@ export const catagories = [
             "Storage Condition": "Cool And Dry",
             Application: "Food Products, Seasonings",
             description:
-              "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBUcnVzdGVkIFN1cHBsaWVyIG9mIFByZW1pdW0gQ3VtaW4gU2VlZHMKCkFyZSB5b3UgbG9va2luZyBmb3IgYSByZWxpYWJsZSBjdW1pbiBzZWVkcyBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB5b3VyIGlkZWFsIHBhcnRuZXIgZm9yIGJ1aWxkaW5nIHN0cm9uZyB0cmFkZSByZWxhdGlvbnNoaXBzIGZvciBmdXR1cmUgZW5kZWF2b3JzLiBXZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgdGhlIGhpZ2hlc3QgcXVhbGl0eSBjdW1pbiBzZWVkcywgcmVub3duZWQgZm9yIHRoZWlyIGRpc3RpbmN0aXZlIGFyb21hIGFuZCByb2J1c3QgZmxhdm9yLgoKIyMjIEFib3V0IEN1bWluIFNlZWRzCgpDdW1pbiBzZWVkcyBhcmUgYSB2aXRhbCBpbmdyZWRpZW50IGluIG51bWVyb3VzIHNwaWNlIGJsZW5kcywgY2h1dG5leXMsIGNoaWxpLCBhbmQgY3VycnkgcG93ZGVycywgcGFydGljdWxhcmx5IHBvcHVsYXIgaW4gQXNpYW4sIE1pZGRsZSBFYXN0ZXJuLCBhbmQgTGF0aW4gQW1lcmljYW4gY3Vpc2luZXMuIEtub3duIGZvciB0aGVpciB3YXJtIGFuZCBlYXJ0aHkgZmxhdm9yLCBjdW1pbiBzZWVkcyBhZGQgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gYSB3aWRlIHJhbmdlIG9mIGRpc2hlcy4gSW4gSW5kaWEsIGN1bWluIHNlZWRzIGFyZSBjb21tb25seSByZWZlcnJlZCB0byBhcyDigJxKZWVyYeKAnSBhbmQgYXJlIG9mdGVuIHVzZWQgaW4gYm90aCB3aG9sZSBhbmQgcG93ZGVyZWQgZm9ybXMgaW4gY29va2luZy4KCiMjIyBWYXJpZXRpZXMgb2YgQ3VtaW4gU2VlZHMKCi0gKipCbGFjayBDdW1pbiBTZWVkcyoqOiBLbm93biBmb3IgdGhlaXIgdW5pcXVlLCBzbGlnaHRseSBiaXR0ZXIgdGFzdGUgYW5kIGludGVuc2UgYXJvbWEuCi0gKipHcmVlbiBDdW1pbiBTZWVkcyoqOiBWYWx1ZWQgZm9yIHRoZWlyIG1pbGRlciBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3IuCgojIyMgUXVhbGl0eSBBc3N1cmFuY2UKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNvdXJjZSB0aGUgZmluZXN0IHF1YWxpdHkgY3VtaW4gc2VlZHMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gT3VyIGN1bWluIHNlZWRzIGFyZSByaWNoIGluIHByb3RlaW4gYW5kIG1pbmVyYWxzLiBBZnRlciBzb3VyY2luZywgdGhlIGN1bWluIHNlZWRzIHVuZGVyZ28gbWV0aWN1bG91cyBjbGVhbmluZyB0byBhY2hpZXZlIGEgcHVyaXR5IGxldmVsIG9mIDkwIHRvIDk1JS4gVGhpcyBlbnN1cmVzIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBjdW1pbiBzZWVkcyBhbmQgY3VtaW4gcG93ZGVyLgoKIyMjIEN1bGluYXJ5IFVzZXMKCkN1bWluIHNlZWRzIGFyZSBpbmNyZWRpYmx5IHZlcnNhdGlsZSBhbmQgY2FuIGJlIHVzZWQgaW4gdmFyaW91cyBmb3JtczoKLSAqKldob2xlIFNlZWRzKio6IFVzZWQgaW4gdGVtcGVyaW5nIGFuZCBzcGljZSBibGVuZHMuCi0gKipQb3dkZXJlZCoqOiBBZGRlZCB0byBzb3Vwcywgc3Rld3MsIGN1cnJpZXMsIGFuZCBtYXJpbmFkZXMgdG8gZW5oYW5jZSBmbGF2b3IuCgojIyMgSGVhbHRoIEJlbmVmaXRzIG9mIEN1bWluIFNlZWRzCgpDdW1pbiBzZWVkcyBhcmUgbm90IG9ubHkgZmxhdm9yZnVsIGJ1dCBhbHNvIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKMS4gKipEaWdlc3RpdmUgQWlkKio6IEN1bWluIHNlZWRzIGNvbnRhaW4gY29tcG91bmRzIHRoYXQgaGVscCBwcm9tb3RlIGRpZ2VzdGlvbiwgbWFraW5nIHRoZW0gaWRlYWwgZm9yIGhlYXZ5IG9yIGRhaWx5IG1lYWxzLgoyLiAqKlJpY2ggaW4gSXJvbioqOiBBIHZpdGFsIHNvdXJjZSBvZiBpcm9uLCBlc3NlbnRpYWwgZm9yIHRoZSBkZXZlbG9wbWVudCBvZiB0aGUgYm9keSBhbmQgYnJhaW4sIHBhcnRpY3VsYXJseSBpbiB5b3VuZyBjaGlsZHJlbi4KMy4gKipCbG9vZCBTdWdhciBDb250cm9sKio6IEJlbmVmaWNpYWwgZm9yIGRpYWJldGljIHBhdGllbnRzLCBoZWxwaW5nIHRvIGNvbnRyb2wgYmxvb2Qgc3VnYXIgbGV2ZWxzLgo0LiAqKldlaWdodCBMb3NzKio6IEN1bWluIHNlZWRzIGNhbiBhaWQgaW4gd2VpZ2h0IGxvc3M7IGNvbnN1bWluZyBmaXZlIGdyYW1zIGRhaWx5IGNhbiBzaWduaWZpY2FudGx5IHJlZHVjZSBib2R5IGZhdC4KCiMjIyBNZWRpY2FsIFVzZXMKCkN1bWluIHNlZWRzIGFuZCBwb3dkZXIgYXJlIHdpZGVseSB1c2VkIGluIHRyYWRpdGlvbmFsIG1lZGljaW5lOgotICoqQXMgYSBIZWFsZXIqKjogVXNlZCByYXcgb3IgZHJpZWQgZm9yIHRoZWlyIGhlYWxpbmcgcHJvcGVydGllcy4KLSAqKkluIFdlaWdodCBMb3NzKio6IEtub3duIGZvciB0aGVpciBlZmZpY2FjeSBpbiBwcm9tb3RpbmcgZmF0IGxvc3MgYW5kIG1hbmFnaW5nIG9iZXNpdHkuCgojIyMgTGFuZ3VhZ2UgVmFyaWFudHMKCi0gKipDdW1pbiBTZWVkcyBpbiBNYWxheWFsYW0qKjog4LSc4LWA4LSw4LSV4LSCCi0gKipDdW1pbiBTZWVkcyBpbiBVcmR1Kio6INiy24zYsduSINqp25Ig2KjbjNisCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKClZhcm5pIEV4cG9ydHMgc2hpcHMgZnJlc2ggcXVhbGl0eSBjdW1pbiBzZWVkcyBhbmQgY3VtaW4gcG93ZGVyIGFjY29yZGluZyB0byBidXllciByZXF1aXJlbWVudHMgd29ybGR3aWRlLiBPdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb24gZW5zdXJlcyB0aGF0IHlvdSByZWNlaXZlIHRoZSBiZXN0IHByb2R1Y3RzIGZvciB5b3VyIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgbmVlZHMuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBjdW1pbiBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIGV4Y2VwdGlvbmFsIHF1YWxpdHkgYW5kIGZsYXZvciBvZiBWYXJuaSBFeHBvcnRz4oCZIGN1bWluIHNlZWRzIHRvZGF5IQ==",
+              <div>
+                <h1><strong>Welcome to Varni Exports: Your Trusted Supplier of Premium Cumin Seeds</strong></h1>
+                <br />
+
+                <p>Are you looking for a reliable cumin seeds exporter? Varni Exports is your ideal partner for building strong trade relationships for future endeavors. We specialize in sourcing and exporting the highest quality cumin seeds, renowned for their distinctive aroma and robust flavor.</p>
+                <br />
+
+                <h2><strong>About Cumin Seeds</strong></h2>
+                <br />
+                <p>Cumin seeds are a vital ingredient in numerous spice blends, chutneys, chili, and curry powders, particularly popular in Asian, Middle Eastern, and Latin American cuisines. Known for their warm and earthy flavor, cumin seeds add depth and complexity to a wide range of dishes. In India, cumin seeds are commonly referred to as “Jeera” and are often used in both whole and powdered forms in cooking.</p>
+                <br />
+
+                <h2><strong>Varieties of Cumin Seeds</strong></h2>
+                <br />
+                <li><strong>Black Cumin Seeds:</strong> Known for their unique, slightly bitter taste and intense aroma.</li>
+                <li><strong>Green Cumin Seeds:</strong> Valued for their milder flavor and vibrant color.</li>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we source the finest quality cumin seeds from the fertile regions of western India and the Indo-Gangetic plains. Our cumin seeds are rich in protein and minerals. After sourcing, the cumin seeds undergo meticulous cleaning to achieve a purity level of 90 to 95%. This ensures that our customers receive only the best quality cumin seeds and cumin powder.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Cumin seeds are incredibly versatile and can be used in various forms:</p>
+                <li><strong>Whole Seeds:</strong> Used in tempering and spice blends.</li>
+                <li><strong>Powdered:</strong> Added to soups, stews, curries, and marinades to enhance flavor.</li>
+                <br />
+
+                <h2><strong>Health Benefits of Cumin Seeds</strong></h2>
+                <br />
+                <p>Cumin seeds are not only flavorful but also offer numerous health benefits:</p>
+                <li><strong>Digestive Aid:</strong> Cumin seeds contain compounds that help promote digestion, making them ideal for heavy or daily meals.</li>
+                <li><strong>Rich in Iron:</strong> A vital source of iron, essential for the development of the body and brain, particularly in young children.</li>
+                <li><strong>Blood Sugar Control:</strong> Beneficial for diabetic patients, helping to control blood sugar levels.</li>
+                <li><strong>Weight Loss:</strong> Cumin seeds can aid in weight loss; consuming five grams daily can significantly reduce body fat.</li>
+                <br />
+
+                <h2><strong>Medical Uses</strong></h2>
+                <br />
+                <p>Cumin seeds and powder are widely used in traditional medicine:</p>
+                <li><strong>As a Healer:</strong> Used raw or dried for their healing properties.</li>
+                <li><strong>In Weight Loss:</strong> Known for their efficacy in promoting fat loss and managing obesity.</li>
+                <br />
+
+                <h2><strong>Language Variants</strong></h2>
+                <br />
+                <li><strong>Cumin Seeds in Malayalam:</strong> ജീരകം</li>
+                <li><strong>Cumin Seeds in Urdu:</strong> زیرے کے بیج</li>
+                <br />
+
+                <h2><strong>Export Excellence</strong></h2>
+                <br />
+                <p>Varni Exports ships fresh quality cumin seeds and cumin powder according to buyer requirements worldwide. Our commitment to quality and customer satisfaction ensures that you receive the best products for your culinary and medicinal needs.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries about our premium cumin seeds or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the exceptional quality and flavor of Varni Exports’ cumin seeds today!</p>
+              </div>
+            ,
           },
 
           {
@@ -2857,7 +3499,67 @@ export const catagories = [
             "Storage Condition": "Cool And Dry",
             Application: "Food Products, Seasonings",
             description:
-              "IyMjIFZhcm5pIEV4cG9ydHM6IFlvdXIgVHJ1c3RlZCBTdXBwbGllciBvZiBQcmVtaXVtIENvcmlhbmRlciBTZWVkcwoKQXJlIHlvdSBsb29raW5nIGZvciBhIHJlbGlhYmxlIGNvcmlhbmRlciBleHBvcnRlcj8gVmFybmkgRXhwb3J0cyBpcyB5b3VyIGlkZWFsIHBhcnRuZXIgZm9yIGJ1aWxkaW5nIHN0cm9uZyB0cmFkZSByZWxhdGlvbnNoaXBzIGZvciBmdXR1cmUgZW5kZWF2b3JzLiBXZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgdGhlIGhpZ2hlc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMsIGtub3duIGZvciB0aGVpciBkaXN0aW5jdGl2ZSBhcm9tYSBhbmQgcmljaCBmbGF2b3IuCgojIyMgQWJvdXQgQ29yaWFuZGVyCgpDb3JpYW5kZXIgKENvcmlhbmRydW0gc2F0aXZ1bSkgaXMgYSB2ZXJzYXRpbGUgaGVyYiBhbmQgc3BpY2UgdXNlZCBleHRlbnNpdmVseSBpbiB2YXJpb3VzIGN1aXNpbmVzIHdvcmxkd2lkZS4gSW4gZm9vZCBwcmVwYXJhdGlvbiwgdGhlIHRlcm0gImNvcmlhbmRlciIgb2Z0ZW4gcmVmZXJzIHRvIHRoZSBkcmllZCBzZWVkcyBvZiB0aGUgcGxhbnQsIHdoaWxlIHRoZSBmcmVzaCBsZWF2ZXMgYXJlIGNvbW1vbmx5IGtub3duIGFzIGNpbGFudHJvLiBDb3JpYW5kZXIgc2VlZHMgYXJlIGNlbGVicmF0ZWQgZm9yIHRoZWlyIGxlbW9ueSBjaXRydXMgZmxhdm9yLCBhdHRyaWJ1dGVkIHRvIHRlcnBlbmVzIHN1Y2ggYXMgbGluYWxvb2wgYW5kIHBpbmVuZS4gVGhleSBhcmUgZGVzY3JpYmVkIGFzIHdhcm0sIG51dHR5LCBzcGljeSwgYW5kIG9yYW5nZS1mbGF2b3JlZC4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBmaW5lc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMgZnJvbSB0aGUgZmVydGlsZSByZWdpb25zIG9mIHdlc3Rlcm4gSW5kaWEgYW5kIHRoZSBJbmRvLUdhbmdldGljIHBsYWlucy4gT3VyIGNvcmlhbmRlciBpcyByaWNoIGluIHByb3RlaW4gYW5kIG1pbmVyYWxzLiBBZnRlciBzb3VyY2luZywgdGhlIGNvcmlhbmRlciBzZWVkcyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcgdG8gYWNoaWV2ZSBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBjb3JpYW5kZXIgc2VlZHMgYW5kIHBvd2Rlci4KCiMjIyBDdWxpbmFyeSBVc2VzCgpDb3JpYW5kZXIgc2VlZHMsIGxlYXZlcywgYW5kIHBvd2RlciBhcmUgaW5jcmVkaWJseSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSB1c2VkIGluIHZhcmlvdXMgZm9ybXM6Ci0gKipXaG9sZSBTZWVkcyoqOiBVc2VkIGluIHBpY2tsaW5nLCBicmluaW5nLCBhbmQgYXMgYSBzcGljZSBpbiB2YXJpb3VzIGRpc2hlcy4KLSAqKkdyb3VuZCBDb3JpYW5kZXIqKjogQWRkZWQgdG8gc291cHMsIHN0ZXdzLCBjdXJyaWVzLCBhbmQgbWFyaW5hZGVzIHRvIGVuaGFuY2UgZmxhdm9yLgotICoqQ2lsYW50cm8qKjogRnJlc2ggY29yaWFuZGVyIGxlYXZlcyBhcmUgdXNlZCBpbiBzYWxhZHMsIHNhbHNhcywgYW5kIGdhcm5pc2hpbmcgZGlzaGVzLgoKIyMjIEhlYWx0aCBCZW5lZml0cyBvZiBDb3JpYW5kZXIgU2VlZHMKCkNvcmlhbmRlciBzZWVkcyBhcmUgbm90IG9ubHkgZmxhdm9yZnVsIGJ1dCBhbHNvIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKMS4gKipDaG9sZXN0ZXJvbCBSZWR1Y3Rpb24qKjogSGVscHMgcmVkdWNlIGNob2xlc3Rlcm9sIGxldmVscywgcHJvdmlkaW5nIHJlbGllZiBpbiBoZWFydCBkaXNlYXNlLgoyLiAqKkRpYWJldGVzIE1hbmFnZW1lbnQqKjogQXNzaXN0cyBpbiByZWR1Y2luZyBibG9vZCBnbHVjb3NlIGxldmVscywgYWlkaW5nIGluIGRpYWJldGVzIHRyZWF0bWVudC4KMy4gKipEaWdlc3RpdmUgSGVhbHRoKio6IEltcHJvdmVzIGRpZ2VzdGlvbiBieSBlbmhhbmNpbmcgdGhlIG1vdmVtZW50IG9mIHRyeXBzaW4sIGEgcGFuY3JlYXRpYyBlbnp5bWUgdGhhdCBicmVha3MgZG93biBwcm90ZWlucyBpbiB0aGUgaW50ZXN0aW5lcy4KNC4gKipBbnhpZXR5IFJlbGllZioqOiBMaW5hbG9vbCwgYSBrZXkgY29tcG91bmQgaW4gY29yaWFuZGVyIHNlZWRzLCBjYW4gZGVjcmVhc2UgYW54aWV0eSBhbmQgcHJvbW90ZSBuZXVyb2xvZ2ljYWwgYW5kIGJyYWluIGhlYWx0aC4KCiMjIyBNZWRpY2FsIFVzZXMKCkNvcmlhbmRlciBzZWVkcyBhbmQgcG93ZGVyIGFyZSB3aWRlbHkgdXNlZCBpbiB0cmFkaXRpb25hbCBtZWRpY2luZToKLSAqKkFzIGEgRGlnZXN0aXZlIEFpZCoqOiBVc2VkIHRvIGltcHJvdmUgZGlnZXN0aW9uIGFuZCByZWxpZXZlIHN0b21hY2ggYWlsbWVudHMuCi0gKipJbiBEaWFiZXRlcyBNYW5hZ2VtZW50Kio6IEhlbHBzIHJlZ3VsYXRlIGJsb29kIHN1Z2FyIGxldmVscy4KCiMjIyBMYW5ndWFnZSBWYXJpYW50cwoKLSAqKkNvcmlhbmRlciBpbiBIaW5kaSoqOiDgpKfgpKjgpL/gpK/gpL4gKERoYW5peWEpCi0gKipDb3JpYW5kZXIgaW4gU3BhbmlzaCoqOiBDaWxhbnRybwotICoqQ29yaWFuZGVyIGluIEZyZW5jaCoqOiBDb3JpYW5kcmUKCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKVmFybmkgRXhwb3J0cyBpcyBhIGxlYWRpbmcgZXhwb3J0ZXIgb2YgY29yaWFuZGVyIHNlZWRzIGZyb20gSW5kaWEsIGVuc3VyaW5nIHRoZSBoaWdoZXN0IHF1YWxpdHkgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbjoKLSAqKkdsb2JhbCBSZWFjaCoqOiBTZXJ2aW5nIG1hcmtldHMgd29ybGR3aWRlIHdpdGggcmVsaWFiaWxpdHkgYW5kIGV4Y2VsbGVuY2UuCi0gKipDdXN0b21pemVkIFNvbHV0aW9ucyoqOiBUYWlsb3JlZCBzb2x1dGlvbnMgdG8gbWVldCB0aGUgc3BlY2lmaWMgcmVxdWlyZW1lbnRzIG9mIG91ciBpbnRlcm5hdGlvbmFsIGNsaWVudGVsZS4KLSAqKkxvZ2lzdGljcyBFeHBlcnRpc2UqKjogRWZmaWNpZW50IGxvZ2lzdGljcyBuZXR3b3JrIHRvIGRlbGl2ZXIgZnJlc2ggY29yaWFuZGVyIHNlZWRzIGFuZCBwb3dkZXIgc2FmZWx5IGFuZCB0aW1lbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBjb3JpYW5kZXIgc2VlZHMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBkZWRpY2F0ZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBjb3JpYW5kZXIgc2VlZHMgdG9kYXkh",
+              <div>
+                <h1><strong>Varni Exports: Your Trusted Supplier of Premium Coriander Seeds</strong></h1>
+                <br />
+
+                <p>Are you looking for a reliable coriander exporter? Varni Exports is your ideal partner for building strong trade relationships for future endeavors. We specialize in sourcing and exporting the highest quality coriander seeds, known for their distinctive aroma and rich flavor.</p>
+                <br />
+
+                <h2><strong>About Coriander</strong></h2>
+                <br />
+                <p>Coriander (Coriandrum sativum) is a versatile herb and spice used extensively in various cuisines worldwide. In food preparation, the term "coriander" often refers to the dried seeds of the plant, while the fresh leaves are commonly known as cilantro. Coriander seeds are celebrated for their lemony citrus flavor, attributed to terpenes such as linalool and pinene. They are described as warm, nutty, spicy, and orange-flavored.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we source the finest quality coriander seeds from the fertile regions of western India and the Indo-Gangetic plains. Our coriander is rich in protein and minerals. After sourcing, the coriander seeds undergo meticulous cleaning to achieve a purity level of 90 to 95%, ensuring that our customers receive only the best quality coriander seeds and powder.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Coriander seeds, leaves, and powder are incredibly versatile and can be used in various forms:</p>
+                <li><strong>Whole Seeds:</strong> Used in pickling, brining, and as a spice in various dishes.</li>
+                <li><strong>Ground Coriander:</strong> Added to soups, stews, curries, and marinades to enhance flavor.</li>
+                <li><strong>Cilantro:</strong> Fresh coriander leaves are used in salads, salsas, and garnishing dishes.</li>
+                <br />
+
+                <h2><strong>Health Benefits of Coriander Seeds</strong></h2>
+                <br />
+                <p>Coriander seeds are not only flavorful but also offer numerous health benefits:</p>
+                <li><strong>Cholesterol Reduction:</strong> Helps reduce cholesterol levels, providing relief in heart disease.</li>
+                <li><strong>Diabetes Management:</strong> Assists in reducing blood glucose levels, aiding in diabetes treatment.</li>
+                <li><strong>Digestive Health:</strong> Improves digestion by enhancing the movement of trypsin, a pancreatic enzyme that breaks down proteins in the intestines.</li>
+                <li><strong>Anxiety Relief:</strong> Linalool, a key compound in coriander seeds, can decrease anxiety and promote neurological and brain health.</li>
+                <br />
+
+                <h2><strong>Medical Uses</strong></h2>
+                <br />
+                <p>Coriander seeds and powder are widely used in traditional medicine:</p>
+                <li><strong>As a Digestive Aid:</strong> Used to improve digestion and relieve stomach ailments.</li>
+                <li><strong>In Diabetes Management:</strong> Helps regulate blood sugar levels.</li>
+                <br />
+
+                <h2><strong>Language Variants</strong></h2>
+                <br />
+                <li><strong>Coriander in Hindi:</strong> धनिया (Dhaniya)</li>
+                <li><strong>Coriander in Spanish:</strong> Cilantro</li>
+                <li><strong>Coriander in French:</strong> Coriandre</li>
+                <br />
+
+                <h2><strong>Export Excellence</strong></h2>
+                <br />
+                <p>Varni Exports is a leading exporter of coriander seeds from India, ensuring the highest quality and customer satisfaction:</p>
+                <li><strong>Global Reach:</strong> Serving markets worldwide with reliability and excellence.</li>
+                <li><strong>Customized Solutions:</strong> Tailored solutions to meet the specific requirements of our international clientele.</li>
+                <li><strong>Logistics Expertise:</strong> Efficient logistics network to deliver fresh coriander seeds and powder safely and timely.</li>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries about our premium coriander seeds or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the exceptional quality and flavor of Varni Exports’ coriander seeds today!</p>
+              </div>
+            ,
           },
 
           {
@@ -2875,7 +3577,69 @@ export const catagories = [
             Application: "Food Products, Seasonings",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBTb3VyY2UgZm9yIFByZW1pdW0gRmVudWdyZWVrIFNlZWRzCgojIyMgQWJvdXQgRmVudWdyZWVrCgpGZW51Z3JlZWssIHNjaWVudGlmaWNhbGx5IGtub3duIGFzICoqRm9lbnVtLUdyYWVjdW0qKiAoTGF0aW4gZm9yICJHcmVlayBIYXkiKSwgaXMgYSBzbGVuZGVyIGFubnVhbCBoZXJiIGJlbG9uZ2luZyB0byB0aGUgcGVhIGZhbWlseSAoRmFiYWNlYWUpLiBUaGUgcGxhbnQgYmVhcnMgYSBzdHJvbmcgcmVzZW1ibGFuY2UgdG8gd2lsZCBjbG92ZXIsIHdoaWNoIGlzIHJlZmxlY3RlZCBpbiBpdHMgU3dlZGlzaCBhbmQgR2VybWFuIG5hbWVzOiAiQm9ja2hvcm5za2zDtnZlciIgYW5kICJCb2Nrc2hvcm5rbGVlLCIgcmVzcGVjdGl2ZWx5LCBib3RoIG1lYW5pbmcgIlJhbeKAmXMgSG9ybiBDbG92ZXIuIgoKIyMjIENoYXJhY3RlcmlzdGljcyBvZiBGZW51Z3JlZWsKCkZlbnVncmVlayBzZWVkcyBhcmUgaGFyZCwgeWVsbG93aXNoLWJyb3duLCBhbmQgYW5ndWxhciwgd2l0aCBzb21lIGJlaW5nIG9ibG9uZywgcmhvbWJpYywgb3IgdmlydHVhbGx5IGN1YmljIGluIHNoYXBlLCBlYWNoIHNpZGUgbWVhc3VyaW5nIGFib3V0IDMgbW0gKDEvOOKAsykuIFRoZSBzZWVkcyBhcmUgYXZhaWxhYmxlIGJvdGggd2hvbGUgYW5kIGRyaWVkLCBvciBncm91bmQgaW50byBhIGR1bGwgeWVsbG93IHBvd2RlciBmcm9tIHJvYXN0ZWQgc2VlZHMuIFRoZXkgaGF2ZSBhIHdhcm0sIHBlbmV0cmF0aW5nIGFyb21hIHRoYXQgaW50ZW5zaWZpZXMgd2hlbiByb2FzdGVkLiBGZW51Z3JlZWsgbGVhdmVzIGFyZSBhbHNvIHVzZWQgYXMgaGVyYnMuCgojIyMgQ3VsdGl2YXRpb24gYW5kIFByb2Nlc3NpbmcKClRoZSB3aG9sZSBmZW51Z3JlZWsgcGxhbnQgaXMgdXByb290ZWQgYW5kIGFsbG93ZWQgdG8gZHJ5LiBUaGUgc2VlZHMgYXJlIHRoZW4gdGhyZXNoZWQgb3V0IGFuZCBkcmllZCBzZXBhcmF0ZWx5IGZvciBhIGxvbmdlciBkdXJhdGlvbi4gRmVudWdyZWVrIHByZWZlcnMgZnVsbCBzdW4gYW5kIGZlcnRpbGUsIHdlbGwtZHJhaW5lZCBhbGthbGluZSBzb2lsLiBUaGUgcGxhbnQgaXMgcmVzaXN0YW50IHRvIG1vc3QgaW5mZXN0YXRpb25zLCBzcHJvdXRzIGluIHRocmVlIGRheXMsIGZsb3dlcnMgaW4gZm91ciBtb250aHMsIGFuZCB0aGUgc2VlZHMgYXJlIGhhcnZlc3RlZCBhYm91dCBmaXZlIG1vbnRocyBhZnRlciBzb3dpbmcuCgojIyMgR2xvYmFsIFVzZXMKCkZlbnVncmVlayBzZWVkcyBhbmQgbGVhdmVzIGFyZSBpbnRlZ3JhbCB0byB2YXJpb3VzIGdsb2JhbCBjdWlzaW5lcywgcmFuZ2luZyBmcm9tIHBpY2tsZXMgdG8gbWFwbGUgc3lydXAuIEluIEluZGlhLCBmZW51Z3JlZWsgaXMgYSBzdGFwbGUgc3BpY2UgYW5kIGhlcmIsIG9mdGVuIHVzZWQgaW4gdHJhZGl0aW9uYWwgZGlzaGVzLgoKIyMjIEhlYWx0aCBCZW5lZml0cwoKRmVudWdyZWVrIGlzIHZhbHVlZCBmb3IgaXRzIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKkdhbGFjdGFnb2d1ZSoqOiBXaWRlbHkgdXNlZCBieSBudXJzaW5nIG1vdGhlcnMgdG8gaW5jcmVhc2UgYnJlYXN0IG1pbGsgc3VwcGx5LgotICoqRGlhYmV0ZXMgTWFuYWdlbWVudCoqOiBIZWxwcyBjb250cm9sIFR5cGUgSSBhbmQgVHlwZSBJSSBkaWFiZXRlcy4KLSAqKkNob2xlc3Rlcm9sIFJlZHVjdGlvbioqOiBSZWR1Y2VzIGhpZ2ggc2VydW0gY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqRGlnZXN0aXZlIEFpZCoqOiBLbm93biB0byByZWxpZXZlIGNvbnN0aXBhdGlvbi4KLSAqKk1lbnN0cnVhbCBhbmQgTWVub3BhdXNhbCBSZWxpZWYqKjogQ29udGFpbnMgZGlvc2dlbmluIGFuZCBlc3Ryb2dlbi1saWtlIGlzb2ZsYXZvbmVzLCBtYWtpbmcgaXQgZWZmZWN0aXZlIGluIHByb21vdGluZyBtZW5zdHJ1YXRpb24gYW5kIG1pbmltaXppbmcgbWVub3BhdXNlIHN5bXB0b21zLgoKIyMjIEhvbWUgUmVtZWRpZXMKCkZlbnVncmVlayBzZWVkcyBoYXZlIGJlZW4gdXNlZCBpbiB2YXJpb3VzIGhvbWUgcmVtZWRpZXM6Ci0gKipEaWFiZXRlcyBDb250cm9sKio6IEluY29ycG9yYXRlIGZlbnVncmVlayBzZWVkcyB0byBoZWxwIG1hbmFnZSBkaWFiZXRlcy4KLSAqKkNob2xlc3Rlcm9sIFJlZHVjdGlvbioqOiBSZWd1bGFyIGNvbnN1bXB0aW9uIGhlbHBzIGxvd2VyIGNob2xlc3Rlcm9sIGxldmVscy4KLSAqKkNvbnN0aXBhdGlvbiBSZWxpZWYqKjogQWN0cyBhcyBhIG5hdHVyYWwgbGF4YXRpdmUuCi0gKipNaWxrIFByb2R1Y3Rpb24qKjogRW5oYW5jZXMgbWlsayBzdXBwbHkgaW4gbnVyc2luZyBtb3RoZXJzLgotICoqTWVuc3RydWFsIEhlYWx0aCoqOiBQcm9tb3RlcyBtZW5zdHJ1YXRpb24gYW5kIGFsbGV2aWF0ZXMgbWVub3BhdXNlIHN5bXB0b21zLgoKRmVudWdyZWVrIHNwcm91dHMgY2FuIGJlIGFkZGVkIHRvIHNhbGFkcyBmb3IgYW4gZXh0cmEgbnV0cml0aW9uYWwgYm9vc3QgYW5kIHRvIGhlbHAgbWl0aWdhdGUgaGVhbHRoIGlzc3Vlcy4KCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBoaWdoZXN0IHF1YWxpdHkgZmVudWdyZWVrIHNlZWRzIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiB3ZXN0ZXJuIEluZGlhIGFuZCB0aGUgSW5kby1HYW5nZXRpYyBwbGFpbnMuIE91ciBmZW51Z3JlZWsgaXMgcmljaCBpbiBwcm90ZWluIGFuZCBtaW5lcmFscy4gQWZ0ZXIgc291cmNpbmcsIHRoZSBzZWVkcyB1bmRlcmdvIG1ldGljdWxvdXMgY2xlYW5pbmcgdG8gYWNoaWV2ZSBhIHB1cml0eSBsZXZlbCBvZiA5MCB0byA5NSUsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgcXVhbGl0eSBwcm9kdWN0cy4KCiMjIyBFeHBvcnQgRXhjZWxsZW5jZQoKQXMgYSBsZWFkaW5nIGV4cG9ydGVyIG9mIGZlbnVncmVlayBzZWVkcywgVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyBzdXBlcmlvciBxdWFsaXR5IGFuZCBjdXN0b21lciBzYXRpc2ZhY3Rpb246Ci0gKipHbG9iYWwgUmVhY2gqKjogU2VydmluZyBtYXJrZXRzIHdvcmxkd2lkZSB3aXRoIHJlbGlhYmlsaXR5IGFuZCBleGNlbGxlbmNlLgotICoqQ3VzdG9taXplZCBTb2x1dGlvbnMqKjogVGFpbG9yZWQgc29sdXRpb25zIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgaW50ZXJuYXRpb25hbCBjbGllbnRlbGUuCi0gKipMb2dpc3RpY3MgRXhwZXJ0aXNlKio6IEVmZmljaWVudCBsb2dpc3RpY3MgbmV0d29yayB0byBkZWxpdmVyIGZyZXNoIGZlbnVncmVlayBzZWVkcyBzYWZlbHkgYW5kIHRpbWVseS4KCiMjIyBDb250YWN0IFVzCgpGb3IgaW5xdWlyaWVzIGFib3V0IG91ciBwcmVtaXVtIGZlbnVncmVlayBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gT3VyIGRlZGljYXRlZCB0ZWFtIGlzIHJlYWR5IHRvIGFzc2lzdCB5b3Ugd2l0aCB5b3VyIHJlcXVpcmVtZW50cyBhbmQgcHJvdmlkZSByZWxpYWJsZSBzb3VyY2luZyBzb2x1dGlvbnMuIEV4cGVyaWVuY2UgdGhlIGV4Y2VwdGlvbmFsIHF1YWxpdHkgYW5kIGJlbmVmaXRzIG9mIFZhcm5pIEV4cG9ydHPigJkgZmVudWdyZWVrIHNlZWRzIHRvZGF5IQ==",
+              <div>
+                <h1><strong>Welcome to Varni Exports: Your Reliable Source for Premium Fenugreek Seeds</strong></h1>
+                <br />
+
+                <h2><strong>About Fenugreek</strong></h2>
+                <br />
+                <p>Fenugreek, scientifically known as <strong>Foenum-Graecum</strong> (Latin for "Greek Hay"), is a slender annual herb belonging to the pea family (Fabaceae). The plant bears a strong resemblance to wild clover, which is reflected in its Swedish and German names: "Bockhornsklöver" and "Bockshornklee," respectively, both meaning "Ram’s Horn Clover."</p>
+                <br />
+
+                <h2><strong>Characteristics of Fenugreek</strong></h2>
+                <br />
+                <p>Fenugreek seeds are hard, yellowish-brown, and angular, with some being oblong, rhombic, or virtually cubic in shape, each side measuring about 3 mm (1/8″). The seeds are available both whole and dried, or ground into a dull yellow powder from roasted seeds. They have a warm, penetrating aroma that intensifies when roasted. Fenugreek leaves are also used as herbs.</p>
+                <br />
+
+                <h2><strong>Cultivation and Processing</strong></h2>
+                <br />
+                <p>The whole fenugreek plant is uprooted and allowed to dry. The seeds are then threshed out and dried separately for a longer duration. Fenugreek prefers full sun and fertile, well-drained alkaline soil. The plant is resistant to most infestations, sprouts in three days, flowers in four months, and the seeds are harvested about five months after sowing.</p>
+                <br />
+
+                <h2><strong>Global Uses</strong></h2>
+                <br />
+                <p>Fenugreek seeds and leaves are integral to various global cuisines, ranging from pickles to maple syrup. In India, fenugreek is a staple spice and herb, often used in traditional dishes.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Fenugreek is valued for its numerous health benefits:</p>
+                <li><strong>Galactagogue:</strong> Widely used by nursing mothers to increase breast milk supply.</li>
+                <li><strong>Diabetes Management:</strong> Helps control Type I and Type II diabetes.</li>
+                <li><strong>Cholesterol Reduction:</strong> Reduces high serum cholesterol levels.</li>
+                <li><strong>Digestive Aid:</strong> Known to relieve constipation.</li>
+                <li><strong>Menstrual and Menopausal Relief:</strong> Contains diosgenin and estrogen-like isoflavones, making it effective in promoting menstruation and minimizing menopause symptoms.</li>
+                <br />
+
+                <h2><strong>Home Remedies</strong></h2>
+                <br />
+                <p>Fenugreek seeds have been used in various home remedies:</p>
+                <li><strong>Diabetes Control:</strong> Incorporate fenugreek seeds to help manage diabetes.</li>
+                <li><strong>Cholesterol Reduction:</strong> Regular consumption helps lower cholesterol levels.</li>
+                <li><strong>Constipation Relief:</strong> Acts as a natural laxative.</li>
+                <li><strong>Milk Production:</strong> Enhances milk supply in nursing mothers.</li>
+                <li><strong>Menstrual Health:</strong> Promotes menstruation and alleviates menopause symptoms.</li>
+                <p>Fenugreek sprouts can be added to salads for an extra nutritional boost and to help mitigate health issues.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we source the highest quality fenugreek seeds from the fertile regions of western India and the Indo-Gangetic plains. Our fenugreek is rich in protein and minerals. After sourcing, the seeds undergo meticulous cleaning to achieve a purity level of 90 to 95%, ensuring that our customers receive only the best quality products.</p>
+                <br />
+
+                <h2><strong>Export Excellence</strong></h2>
+                <br />
+                <p>As a leading exporter of fenugreek seeds, Varni Exports is committed to delivering superior quality and customer satisfaction:</p>
+                <li><strong>Global Reach:</strong> Serving markets worldwide with reliability and excellence.</li>
+                <li><strong>Customized Solutions:</strong> Tailored solutions to meet the specific requirements of our international clientele.</li>
+                <li><strong>Logistics Expertise:</strong> Efficient logistics network to deliver fresh fenugreek seeds safely and timely.</li>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries about our premium fenugreek seeds or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the exceptional quality and benefits of Varni Exports’ fenugreek seeds today!</p>
+              </div>
+            ,
           },
 
           {
@@ -2892,7 +3656,74 @@ export const catagories = [
             Application: "Food Products, Seasonings",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "IyMjIFdlbGNvbWUgdG8gVmFybmkgRXhwb3J0czogWW91ciBSZWxpYWJsZSBTb3VyY2UgZm9yIFByZW1pdW0gRmVubmVsIFNlZWRzCgojIyMgQWJvdXQgRmVubmVsIFNlZWRzCgpGZW5uZWwgc2VlZHMgKEZvZW5pY3VsdW0gdnVsZ2FyZSkgYXJlIHNtYWxsLCBncmVlbiB0byBicm93biBzZWVkcyB3aXRoIGEgc3dlZXQsIGxpY29yaWNlLWxpa2UgZmxhdm9yIGFuZCBhIHJlZnJlc2hpbmcgYXJvbWEuIFRoZXkgYXJlIGFuIGVzc2VudGlhbCBpbmdyZWRpZW50IGluIG1hbnkgY3VsaW5hcnkgdHJhZGl0aW9ucyB3b3JsZHdpZGUgYW5kIGFyZSBjZWxlYnJhdGVkIGZvciB0aGVpciB2ZXJzYXRpbGl0eSBhbmQgaGVhbHRoIGJlbmVmaXRzLiAKCiMjIyBRdWFsaXR5IEFzc3VyYW5jZQoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc291cmNlIHRoZSBmaW5lc3QgcXVhbGl0eSBmZW5uZWwgc2VlZHMgZnJvbSB0aGUgbW9zdCBmZXJ0aWxlIHJlZ2lvbnMgb2YgSW5kaWEuIE91ciBmZW5uZWwgc2VlZHMgYXJlIHJpY2ggaW4gZmxhdm9yIGFuZCBudXRyaWVudHMsIG1ldGljdWxvdXNseSBjbGVhbmVkLCBhbmQgcHJvY2Vzc2VkIHRvIGFjaGlldmUgdGhlIGhpZ2hlc3QgcHVyaXR5IHN0YW5kYXJkcy4gT3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBlbnN1cmVzIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGJlc3QgZmVubmVsIHNlZWRzIGZvciB0aGVpciBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIHVzZXMuCgojIyMgQ3VsaW5hcnkgVXNlcwoKRmVubmVsIHNlZWRzIGFyZSB3aWRlbHkgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKkNvb2tpbmcqKjogQ29tbW9ubHkgdXNlZCBpbiBJbmRpYW4gY3Vpc2luZSwgZmVubmVsIHNlZWRzIGFkZCBhIHN3ZWV0IGFuZCBhcm9tYXRpYyBmbGF2b3IgdG8gZGlzaGVzLiBUaGV5IGFyZSBvZnRlbiBpbmNsdWRlZCBpbiBzcGljZSBibGVuZHMsIHBpY2tsZXMsIGFuZCBtYXJpbmFkZXMuCi0gKipHYXJuaXNoaW5nKio6IFNwcmlua2xlIGZlbm5lbCBzZWVkcyBvbiBzYWxhZHMsIHNvdXBzLCBhbmQgc2F1Y2VzIGZvciBhIGJ1cnN0IG9mIGZsYXZvci4KLSAqKkJha2luZyoqOiBBZGQgZmVubmVsIHNlZWRzIHRvIGJyZWFkLCBjYWtlcywgYW5kIHBhc3RyaWVzIGZvciBhIHVuaXF1ZSB0YXN0ZS4KLSAqKkJldmVyYWdlcyoqOiBCcmV3IGZlbm5lbCB0ZWEgYnkgc3RlZXBpbmcgMSB0ZWFzcG9vbiBvZiBzZWVkcyBwZXIgY3VwIG9mIGJvaWxpbmcgd2F0ZXIgZm9yIGEgc29vdGhpbmcgYW5kIGRpZ2VzdGl2ZSBkcmluay4KLSAqKk1vdXRoIEZyZXNoZW5lcnMqKjogQ2hldyBmZW5uZWwgc2VlZHMgYWZ0ZXIgbWVhbHMgdG8gZnJlc2hlbiBicmVhdGggYW5kIGFpZCBkaWdlc3Rpb24uIAoKIyMjIE1lZGljaW5hbCBVc2VzCgpGZW5uZWwgc2VlZHMgaGF2ZSBiZWVuIHVzZWQgaW4gdHJhZGl0aW9uYWwgbWVkaWNpbmUgZm9yIGNlbnR1cmllcyBkdWUgdG8gdGhlaXIgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEFpZCoqOiBGZW5uZWwgc2VlZHMgaGVscCB0cmVhdCBzdG9tYWNoIHBhaW4sIGJsb2F0aW5nLCBhbmQgaW5kaWdlc3Rpb24uIFRoZXkgYXJlIGVmZmVjdGl2ZSBpbiByZWxpZXZpbmcgZ2FzIGFuZCBjaHJvbmljIGNvdWdocy4KLSAqKkJsb29kIFByZXNzdXJlIFJlZ3VsYXRpb24qKjogUmVndWxhciBjb25zdW1wdGlvbiBvZiBmZW5uZWwgc2VlZHMgY2FuIGhlbHAgcmVndWxhdGUgYmxvb2QgcHJlc3N1cmUgbGV2ZWxzLgotICoqQW50aS1pbmZsYW1tYXRvcnkgUHJvcGVydGllcyoqOiBGZW5uZWwgc2VlZHMgaGF2ZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIHRoYXQgY2FuIHJlZHVjZSBhc3RobWEgc3ltcHRvbXMuCi0gKipCbG9vZCBQdXJpZmljYXRpb24qKjogRmVubmVsIHNlZWRzIGhlbHAgcHVyaWZ5IHRoZSBibG9vZCBhbmQgaW1wcm92ZSBvdmVyYWxsIGhlYWx0aC4KLSAqKkV5ZSBIZWFsdGgqKjogUmljaCBpbiBhbnRpb3hpZGFudHMgYW5kIG51dHJpZW50cywgZmVubmVsIHNlZWRzIGNhbiBoZWxwIGltcHJvdmUgZXllc2lnaHQuCi0gKipDYW5jZXIgUHJldmVudGlvbioqOiBUaGUgYW50aW94aWRhbnRzIGluIGZlbm5lbCBzZWVkcyBtYXkgaGVscCBrZWVwIGNhbmNlciBhdCBiYXkuCgojIyMgSG9tZSBSZW1lZGllcwoKRmVubmVsIHNlZWRzIGNhbiBiZSB1c2VkIGluIHZhcmlvdXMgaG9tZSByZW1lZGllczoKLSAqKkZvciBCYWQgQnJlYXRoKio6IENoZXcgYSBjb3VwbGUgb2YgZmVubmVsIHNlZWRzIGFmdGVyIG1lYWxzLgotICoqRm9yIFN0b21hY2ggQ3JhbXBzKio6IEJyZXcgYSB0ZWEgYnkgc3RlZXBpbmcgZmVubmVsIHNlZWRzIGluIGJvaWxpbmcgd2F0ZXIuCi0gKipGb3IgRGlnZXN0aW9uKio6IENvbnN1bWUgZmVubmVsIHNlZWRzIHJhdywgcm9hc3RlZCwgb3IgZmxhdm9yZWQgdG8gYWlkIGRpZ2VzdGlvbiBhbmQgcmVsaWV2ZSBzdG9tYWNoIGlzc3Vlcy4KCiMjIyBIZWFsdGggQmVuZWZpdHMKCkZlbm5lbCBzZWVkcyBvZmZlciBhIHJhbmdlIG9mIGhlYWx0aCBiZW5lZml0czoKLSAqKlJlZ3VsYXRlIEJsb29kIFByZXNzdXJlKio6IEZlbm5lbCBzZWVkcyBjb250YWluIHBvdGFzc2l1bSwgd2hpY2ggaGVscHMgY29udHJvbCBibG9vZCBwcmVzc3VyZS4KLSAqKlJlZHVjZSBXYXRlciBSZXRlbnRpb24qKjogVGhleSBoYXZlIGRpdXJldGljIHByb3BlcnRpZXMgdGhhdCBoZWxwIHJlZHVjZSB3YXRlciByZXRlbnRpb24uCi0gKipSZWxpZXZlIENvbnN0aXBhdGlvbiBhbmQgQmxvYXRpbmcqKjogRmVubmVsIHRlYSBpcyBlZmZlY3RpdmUgaW4gdHJlYXRpbmcgY29uc3RpcGF0aW9uLCBpbmRpZ2VzdGlvbiwgSUJTLCBhbmQgYmxvYXRpbmcuCi0gKipBc3RobWEgUmVsaWVmKio6IFRoZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIG9mIGZlbm5lbCBzZWVkcyBoZWxwIHJlZHVjZSBhc3RobWEgc3ltcHRvbXMuCi0gKipCbG9vZCBQdXJpZmljYXRpb24qKjogRmVubmVsIHNlZWRzIGhlbHAgZGV0b3hpZnkgYW5kIHB1cmlmeSB0aGUgYmxvb2QuCi0gKipJbXByb3ZlIEV5ZXNpZ2h0Kio6IFJlZ3VsYXIgY29uc3VtcHRpb24gb2YgZmVubmVsIHNlZWRzIGNhbiBpbXByb3ZlIHZpc2lvbiBkdWUgdG8gdGhlaXIgaGlnaCBudXRyaWVudCBjb250ZW50LgotICoqQ2FuY2VyIFByZXZlbnRpb24qKjogQW50aW94aWRhbnRzIGluIGZlbm5lbCBzZWVkcyBoZWxwIHByb3RlY3QgYWdhaW5zdCBjYW5jZXIuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBmZW5uZWwgc2VlZHMsIFZhcm5pIEV4cG9ydHMgaXMgY29tbWl0dGVkIHRvIGRlbGl2ZXJpbmcgc3VwZXJpb3IgcXVhbGl0eSBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uOgotICoqR2xvYmFsIFJlYWNoKio6IFNlcnZpbmcgbWFya2V0cyB3b3JsZHdpZGUgd2l0aCByZWxpYWJpbGl0eSBhbmQgZXhjZWxsZW5jZS4KLSAqKkN1c3RvbWl6ZWQgU29sdXRpb25zKio6IFRhaWxvcmVkIHNvbHV0aW9ucyB0byBtZWV0IHRoZSBzcGVjaWZpYyByZXF1aXJlbWVudHMgb2Ygb3VyIGludGVybmF0aW9uYWwgY2xpZW50ZWxlLgotICoqTG9naXN0aWNzIEV4cGVydGlzZSoqOiBFZmZpY2llbnQgbG9naXN0aWNzIG5ldHdvcmsgdG8gZGVsaXZlciBmcmVzaCBmZW5uZWwgc2VlZHMgc2FmZWx5IGFuZCB0aW1lbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBmZW5uZWwgc2VlZHMgb3IgdG8gcGxhY2UgYW4gb3JkZXIsIHBsZWFzZSBjb250YWN0IFZhcm5pIEV4cG9ydHMuIE91ciBkZWRpY2F0ZWQgdGVhbSBpcyByZWFkeSB0byBhc3Npc3QgeW91IHdpdGggeW91ciByZXF1aXJlbWVudHMgYW5kIHByb3ZpZGUgcmVsaWFibGUgc291cmNpbmcgc29sdXRpb25zLiBFeHBlcmllbmNlIHRoZSBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBmbGF2b3Igb2YgVmFybmkgRXhwb3J0c+KAmSBmZW5uZWwgc2VlZHMgdG9kYXkh",
+              <div>
+                <h1><strong>Welcome to Varni Exports: Your Reliable Source for Premium Fennel Seeds</strong></h1>
+                <br />
+
+                <h2><strong>About Fennel Seeds</strong></h2>
+                <br />
+                <p>Fennel seeds (<strong>Foeniculum vulgare</strong>) are small, green to brown seeds with a sweet, licorice-like flavor and a refreshing aroma. They are an essential ingredient in many culinary traditions worldwide and are celebrated for their versatility and health benefits.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we source the finest quality fennel seeds from the most fertile regions of India. Our fennel seeds are rich in flavor and nutrients, meticulously cleaned, and processed to achieve the highest purity standards. Our commitment to quality ensures that our customers receive only the best fennel seeds for their culinary and medicinal uses.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Fennel seeds are widely used in various culinary applications:</p>
+                <li><strong>Cooking:</strong> Commonly used in Indian cuisine, fennel seeds add a sweet and aromatic flavor to dishes. They are often included in spice blends, pickles, and marinades.</li>
+                <li><strong>Garnishing:</strong> Sprinkle fennel seeds on salads, soups, and sauces for a burst of flavor.</li>
+                <li><strong>Baking:</strong> Add fennel seeds to bread, cakes, and pastries for a unique taste.</li>
+                <li><strong>Beverages:</strong> Brew fennel tea by steeping 1 teaspoon of seeds per cup of boiling water for a soothing and digestive drink.</li>
+                <li><strong>Mouth Fresheners:</strong> Chew fennel seeds after meals to freshen breath and aid digestion.</li>
+                <br />
+
+                <h2><strong>Medicinal Uses</strong></h2>
+                <br />
+                <p>Fennel seeds have been used in traditional medicine for centuries due to their numerous health benefits:</p>
+                <li><strong>Digestive Aid:</strong> Fennel seeds help treat stomach pain, bloating, and indigestion. They are effective in relieving gas and chronic coughs.</li>
+                <li><strong>Blood Pressure Regulation:</strong> Regular consumption of fennel seeds can help regulate blood pressure levels.</li>
+                <li><strong>Anti-inflammatory Properties:</strong> Fennel seeds have anti-inflammatory properties that can reduce asthma symptoms.</li>
+                <li><strong>Blood Purification:</strong> Fennel seeds help purify the blood and improve overall health.</li>
+                <li><strong>Eye Health:</strong> Rich in antioxidants and nutrients, fennel seeds can help improve eyesight.</li>
+                <li><strong>Cancer Prevention:</strong> The antioxidants in fennel seeds may help keep cancer at bay.</li>
+                <br />
+
+                <h2><strong>Home Remedies</strong></h2>
+                <br />
+                <p>Fennel seeds can be used in various home remedies:</p>
+                <li><strong>For Bad Breath:</strong> Chew a couple of fennel seeds after meals.</li>
+                <li><strong>For Stomach Cramps:</strong> Brew a tea by steeping fennel seeds in boiling water.</li>
+                <li><strong>For Digestion:</strong> Consume fennel seeds raw, roasted, or flavored to aid digestion and relieve stomach issues.</li>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Fennel seeds offer a range of health benefits:</p>
+                <li><strong>Regulate Blood Pressure:</strong> Fennel seeds contain potassium, which helps control blood pressure.</li>
+                <li><strong>Reduce Water Retention:</strong> They have diuretic properties that help reduce water retention.</li>
+                <li><strong>Relieve Constipation and Bloating:</strong> Fennel tea is effective in treating constipation, indigestion, IBS, and bloating.</li>
+                <li><strong>Asthma Relief:</strong> The anti-inflammatory properties of fennel seeds help reduce asthma symptoms.</li>
+                <li><strong>Blood Purification:</strong> Fennel seeds help detoxify and purify the blood.</li>
+                <li><strong>Improve Eyesight:</strong> Regular consumption of fennel seeds can improve vision due to their high nutrient content.</li>
+                <li><strong>Cancer Prevention:</strong> Antioxidants in fennel seeds help protect against cancer.</li>
+                <br />
+
+                <h2><strong>Export Excellence</strong></h2>
+                <br />
+                <p>As a leading exporter of fennel seeds, Varni Exports is committed to delivering superior quality and customer satisfaction:</p>
+                <li><strong>Global Reach:</strong> Serving markets worldwide with reliability and excellence.</li>
+                <li><strong>Customized Solutions:</strong> Tailored solutions to meet the specific requirements of our international clientele.</li>
+                <li><strong>Logistics Expertise:</strong> Efficient logistics network to deliver fresh fennel seeds safely and timely.</li>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries about our premium fennel seeds or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the exceptional quality and flavor of Varni Exports’ fennel seeds today!</p>
+              </div>
+            ,
           },
 
           {
@@ -2912,7 +3743,50 @@ export const catagories = [
             Application: "Food Products, Seasonings",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "IyMjIFByZW1pdW0gTXVzdGFyZCBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gTXVzdGFyZCBTZWVkcwoKTXVzdGFyZCBzZWVkcyBhcmUgYSBzdGFwbGUgc3BpY2UgcmVub3duZWQgZm9yIHRoZWlyIHB1bmdlbnQgZmxhdm9yIGFuZCBkaXZlcnNlIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4gQXQgVmFybmkgRXhwb3J0cywgd2Ugb2ZmZXIgYSB3aWRlIHJhbmdlIG9mIG11c3RhcmQgc2VlZHMgdGhhdCBhcmUgaW50ZWdyYWwgdG8gSW5kaWFuIGN1aXNpbmUgYW5kIGdsb2JhbCBjdWxpbmFyeSBwcmFjdGljZXMuIFRoZXNlIHNtYWxsLCByb3VuZCBzZWVkcyBjb21lIGluIHZhcmlvdXMgY29sb3JzIHJhbmdpbmcgZnJvbSB5ZWxsb3dpc2gtd2hpdGUgdG8gYmxhY2sgYW5kIGFyZSBoYXJ2ZXN0ZWQgZnJvbSBkaWZmZXJlbnQgbXVzdGFyZCBwbGFudCBzcGVjaWVzLgoKIyMjIFF1YWxpdHkgYW5kIFZhcmlldGllcwoKT3VyIG11c3RhcmQgc2VlZHMgYXJlIGNhcmVmdWxseSBzb3VyY2VkIGZyb20gdGhlIGZlcnRpbGUgcmVnaW9ucyBvZiBJbmRpYSwgcGFydGljdWxhcmx5IEd1amFyYXQsIGVuc3VyaW5nIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcy4gVGhlIHNlZWRzIGFyZSBhdmFpbGFibGUgaW4gc2V2ZXJhbCB2YXJpZXRpZXM6CgotICoqQmxhY2sgTXVzdGFyZCBTZWVkcyAoQnJhc3NpY2EgbmlncmEpKio6IEtub3duIGZvciB0aGVpciBpbnRlbnNlIHB1bmdlbmN5LCB0aGVzZSBzZWVkcyBhcmUgcG9wdWxhcmx5IHVzZWQgaW4gSW5kaWFuIGNvb2tpbmcuIFRoZXkgYXJlIG9mdGVuIGNvbWJpbmVkIHdpdGggY3VtaW4gc2VlZHMgYW5kIGZyaWVkIHRvIHJlbGVhc2UgdGhlaXIgYm9sZCBmbGF2b3IgYW5kIGFyb21hLgoKLSAqKkJyb3duIEluZGlhbiBNdXN0YXJkIFNlZWRzIChCcmFzc2ljYSBqdW5jZWEpKio6IFRoZXNlIHNlZWRzIGhhdmUgYSBkYXJrIHllbGxvdyBjb2xvciBhbmQgb2ZmZXIgYSByb2J1c3QsIGFjcmlkIHRhc3RlLiBUaGV5IGFyZSB3aWRlbHkgdXNlZCBpbiBwaWNrbGluZywgc2F1Y2VzLCBhbmQgc3BpY2UgYmxlbmRzLgoKLSAqKldoaXRlIE11c3RhcmQgU2VlZHMgKFNpbmFwaXMgYWxiYSkqKjogRGVzcGl0ZSB0aGVpciBuYW1lLCB0aGVzZSBzZWVkcyBhcmUgeWVsbG93IGFuZCBhcmUgdGhlIG1pbGRlc3QgYW1vbmcgdGhlIG11c3RhcmQgdmFyaWV0aWVzLiBUaGV5IGFyZSB1c2VkIHRvIG1ha2UgdHJhZGl0aW9uYWwgbXVzdGFyZCBwYXN0ZXMgYW5kIHNhdWNlcy4KCiMjIyBDdWxpbmFyeSBVc2VzCgpNdXN0YXJkIHNlZWRzIGFyZSB2ZXJzYXRpbGUgYW5kIGFkZCBhIGRpc3RpbmN0IGZsYXZvciB0byBkaXNoZXM6Ci0gKipTcGljZSBCbGVuZHMqKjogR3JvdW5kIG11c3RhcmQgc2VlZHMgYXJlIGVzc2VudGlhbCBpbiBzcGljZSBtaXhlcywgYWRkaW5nIGRlcHRoIGFuZCBoZWF0IHRvIGN1cnJpZXMsIHN0ZXdzLCBhbmQgbWFyaW5hZGVzLgotICoqQ29uZGltZW50cyoqOiBNdXN0YXJkIHNlZWRzIGFyZSBjcnVzaGVkIGFuZCBtaXhlZCB3aXRoIHdhdGVyLCB2aW5lZ2FyLCBvciBvdGhlciBsaXF1aWRzIHRvIGNyZWF0ZSBtdXN0YXJkIHBhc3RlIG9yIHNhdWNlLCByYW5naW5nIGZyb20gbWlsZCB0byBob3QgdmFyaWV0aWVzLgotICoqUGlja2xpbmcqKjogTXVzdGFyZCBzZWVkcyBhcmUgYSBrZXkgaW5ncmVkaWVudCBpbiBwaWNrbGluZyBzb2x1dGlvbnMsIGVuaGFuY2luZyB0aGUgZmxhdm9yIGFuZCBwcmVzZXJ2aW5nIHRoZSBpbmdyZWRpZW50cy4KCiMjIyBIZWFsdGggQmVuZWZpdHMgYW5kIEhvbWUgUmVtZWRpZXMKCkFwYXJ0IGZyb20gY3VsaW5hcnkgdXNlcywgbXVzdGFyZCBzZWVkcyBvZmZlciB2YXJpb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKlNraW4gQ2FyZSoqOiBZZWxsb3cgbXVzdGFyZCBwYXN0ZSBpcyB1c2VkIHRyYWRpdGlvbmFsbHkgdG8gdHJlYXQgZnJlY2tsZXMgYW5kIGNhbiBiZSBhcHBsaWVkIHRvcGljYWxseSBvdmVybmlnaHQuCi0gKipNdXNjdWxhciBQYWlucyoqOiBNdXN0YXJkIGlzIGEgcnViZWZhY2llbnQgdGhhdCBjYW4gYWxsZXZpYXRlIG11c2N1bGFyIHBhaW5zIHdoZW4gYXBwbGllZCBleHRlcm5hbGx5IHdpdGggY2F1dGlvbi4KLSAqKlBvaXNvbmluZyoqOiBNdXN0YXJkIHNlZWRzIGhhdmUgZW1ldGljIHByb3BlcnRpZXMgYW5kIGNhbiBpbmR1Y2Ugdm9taXRpbmcsIHdoaWNoIGlzIGJlbmVmaWNpYWwgaW4gY2FzZXMgb2YgcG9pc29uaW5nIG9yIGludG94aWNhdGlvbi4KLSAqKkNvbnZ1bHNpb25zKio6IE11c3RhcmQgc2VlZCBiYXRocyBhcmUgdXNlZCBpbiBjaGlsZHJlbidzIGNvbnZ1bHNpb25zIGNhdXNlZCBieSBoaWdoIGZldmVyLgoKIyMjIEV4cG9ydCBFeGNlbGxlbmNlCgpWYXJuaSBFeHBvcnRzIGlzIGEgbGVhZGluZyBzdXBwbGllciBhbmQgZXhwb3J0ZXIgb2YgbXVzdGFyZCBzZWVkcywgZW5zdXJpbmcgcHJlbWl1bSBxdWFsaXR5IGFuZCB0aW1lbHkgZGVsaXZlcnkgdG8gZ2xvYmFsIG1hcmtldHMuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbiBtYWtlcyB1cyBhIHByZWZlcnJlZCBjaG9pY2UgZm9yIGN1bGluYXJ5IGJ1c2luZXNzZXMgd29ybGR3aWRlLgoKIyMjIENvbnRhY3QgVXMKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIHByZW1pdW0gbXVzdGFyZCBzZWVkcyBvciB0byBwbGFjZSBhbiBvcmRlciwgcGxlYXNlIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgeW91IHdpdGggdGhlIGZpbmVzdCBxdWFsaXR5IHNwaWNlcyBhbmQgc2VlZHMsIHRhaWxvcmVkIHRvIG1lZXQgeW91ciBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIG5lZWRzLg==",
+              <div>
+                <h1><strong>Premium Mustard Seeds from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Mustard Seeds</strong></h2>
+                <br />
+                <p>Mustard seeds are a staple spice renowned for their pungent flavor and diverse culinary applications. At Varni Exports, we offer a wide range of mustard seeds that are integral to Indian cuisine and global culinary practices. These small, round seeds come in various colors ranging from yellowish-white to black and are harvested from different mustard plant species.</p>
+                <br />
+
+                <h2><strong>Quality and Varieties</strong></h2>
+                <br />
+                <p>Our mustard seeds are carefully sourced from the fertile regions of India, particularly Gujarat, ensuring superior quality and freshness. The seeds are available in several varieties:</p>
+                <li><strong>Black Mustard Seeds (Brassica nigra):</strong> Known for their intense pungency, these seeds are popularly used in Indian cooking. They are often combined with cumin seeds and fried to release their bold flavor and aroma.</li>
+                <li><strong>Brown Indian Mustard Seeds (Brassica juncea):</strong> These seeds have a dark yellow color and offer a robust, acrid taste. They are widely used in pickling, sauces, and spice blends.</li>
+                <li><strong>White Mustard Seeds (Sinapis alba):</strong> Despite their name, these seeds are yellow and are the mildest among the mustard varieties. They are used to make traditional mustard pastes and sauces.</li>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Mustard seeds are versatile and add a distinct flavor to dishes:</p>
+                <li><strong>Spice Blends:</strong> Ground mustard seeds are essential in spice mixes, adding depth and heat to curries, stews, and marinades.</li>
+                <li><strong>Condiments:</strong> Mustard seeds are crushed and mixed with water, vinegar, or other liquids to create mustard paste or sauce, ranging from mild to hot varieties.</li>
+                <li><strong>Pickling:</strong> Mustard seeds are a key ingredient in pickling solutions, enhancing the flavor and preserving the ingredients.</li>
+                <br />
+
+                <h2><strong>Health Benefits and Home Remedies</strong></h2>
+                <br />
+                <p>Apart from culinary uses, mustard seeds offer various health benefits:</p>
+                <li><strong>Skin Care:</strong> Yellow mustard paste is used traditionally to treat freckles and can be applied topically overnight.</li>
+                <li><strong>Muscular Pains:</strong> Mustard is a rubefacient that can alleviate muscular pains when applied externally with caution.</li>
+                <li><strong>Poisoning:</strong> Mustard seeds have emetic properties and can induce vomiting, which is beneficial in cases of poisoning or intoxication.</li>
+                <li><strong>Convulsions:</strong> Mustard seed baths are used in children's convulsions caused by high fever.</li>
+                <br />
+
+                <h2><strong>Export Excellence</strong></h2>
+                <br />
+                <p>Varni Exports is a leading supplier and exporter of mustard seeds, ensuring premium quality and timely delivery to global markets. Our commitment to excellence and customer satisfaction makes us a preferred choice for culinary businesses worldwide.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries about our premium mustard seeds or to place an order, please contact Varni Exports. We are dedicated to providing you with the finest quality spices and seeds, tailored to meet your culinary and medicinal needs.</p>
+              </div>
+            ,
           },
 
           {
@@ -2928,7 +3802,38 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "IyMjIFByZW1pdW0gVHVybWVyaWMgKEhhbGRpKSBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gVHVybWVyaWMKClR1cm1lcmljLCBvZnRlbiByZWZlcnJlZCB0byBhcyB0aGUgIlF1ZWVuIG9mIFNwaWNlcywiIGlzIGEgcGxhbnQgYmVsb25naW5nIHRvIHRoZSBnaW5nZXIgZmFtaWx5LiBXaWRlbHkgY3VsdGl2YXRlZCBmb3IgaXRzIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgdXNlcywgdHVybWVyaWMgaGFzIGEgcmljaCBoaXN0b3J5IHNwYW5uaW5nIHRob3VzYW5kcyBvZiB5ZWFycyBpbiBFYXN0IEluZGlhIGFuZCB0aGUgTWlkZGxlIEVhc3QuIFRvZGF5LCBpdCBzdGFuZHMgYXMgb25lIG9mIHRoZSBtb3N0IHBvcHVsYXIgc3BpY2VzIGdsb2JhbGx5LCB2YWx1ZWQgZm9yIGl0cyB2aWJyYW50IGNvbG9yIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuCgojIyMgQ3VsaW5hcnkgYW5kIE1lZGljaW5hbCBVc2VzCgpUdXJtZXJpYyBpcyB0aGUgZHJpZWQgcm9vdCBvZiBDdXJjdW1hIGxvbmdhLCBjaGFyYWN0ZXJpemVkIGJ5IGl0cyB0b3VnaCBicm93biBza2luIGFuZCBicmlnaHQgb3JhbmdlIGZsZXNoLiBJdCBpcyBhIHN0YXBsZSBpbmdyZWRpZW50IGluIGN1cnJ5IHBvd2RlcnMsIGltcGFydGluZyBib3RoIGNvbG9yIGFuZCBhIGRpc3RpbmN0aXZlIGZsYXZvciBwcm9maWxlIHRvIGRpc2hlcy4gQmV5b25kIGl0cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnMsIHR1cm1lcmljIGhvbGRzIGEgc2lnbmlmaWNhbnQgcGxhY2UgaW4gQXl1cnZlZGljIHByYWN0aWNlcyBhbmQgdHJhZGl0aW9uYWwgbWVkaWNpbmU6CgotICoqSGVhbHRoIEJlbmVmaXRzKio6IFR1cm1lcmljIGlzIHJlbm93bmVkIGZvciBpdHMgbWVkaWNpbmFsIHByb3BlcnRpZXMsIGluY2x1ZGluZyBhbnRpLWluZmxhbW1hdG9yeSwgYW50aW94aWRhbnQsIGFuZCBhbnRpbWljcm9iaWFsIGVmZmVjdHMuIEl0IGhlbHBzIGVhc2Ugc3ltcHRvbXMgb2YgYXJ0aHJpdGlzLCBzdXBwb3J0cyBoZWFydCBoZWFsdGgsIGFpZHMgaW4gY2hvbGVzdGVyb2wgcmVkdWN0aW9uLCBhbmQgYm9vc3RzIHRoZSBpbW11bmUgc3lzdGVtLgotICoqU2tpbiBDYXJlKio6IFR1cm1lcmljIGlzIHVzZWQgdG9waWNhbGx5IHRvIGNsZWFuc2Ugd291bmRzLCB0cmVhdCBza2luIHNvcmVzLCBhbmQgcHJvbW90ZSBhIGhlYWx0aHkgZ2xvdy4gSXRzIGFudGlzZXB0aWMgcHJvcGVydGllcyBtYWtlIGl0IGEgdmFsdWFibGUgY29tcG9uZW50IGluIHNraW5jYXJlIHJvdXRpbmVzLgotICoqRGlnZXN0aXZlIEhlYWx0aCoqOiBJdCBpcyBlZmZlY3RpdmUgaW4gdHJlYXRpbmcgZGlnZXN0aXZlIHByb2JsZW1zIHN1Y2ggYXMgdWxjZXJzIGFuZCBkeXNlbnRlcnksIG93aW5nIHRvIGl0cyBzb290aGluZyBhbmQgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcy4KCiMjIyBRdWFsaXR5IGFuZCBQcm9kdWN0aW9uCgpJbmRpYSBpcyB0aGUgbGVhZGluZyBwcm9kdWNlciBvZiB0dXJtZXJpYyBnbG9iYWxseSwga25vd24gZm9yIGl0cyBoaWdoIGN1cmN1bWluIGNvbnRlbnQuIEN1cmN1bWluIGlzIHRoZSBhY3RpdmUgY29tcG91bmQgcmVzcG9uc2libGUgZm9yIG1hbnkgb2YgdHVybWVyaWMncyBoZWFsdGggYmVuZWZpdHMuIFZhcm5pIEV4cG9ydHMgc291cmNlcyBwcmVtaXVtIHR1cm1lcmljIGZyb20gc2VsZWN0IHJlZ2lvbnMgaW4gSW5kaWEsIGVuc3VyaW5nIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcyBmb3Igb3VyIGN1c3RvbWVycyB3b3JsZHdpZGUuCgojIyMgRXhwb3J0IEV4Y2VsbGVuY2UKCkFzIGEgbGVhZGluZyBleHBvcnRlciBvZiBzcGljZXMsIGluY2x1ZGluZyB0dXJtZXJpYywgVmFybmkgRXhwb3J0cyBtYWludGFpbnMgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyB0byBkZWxpdmVyIHByb2R1Y3RzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcy4gT3VyIHR1cm1lcmljIGlzIHBhY2thZ2VkIHRvIHByZXNlcnZlIGl0cyBmcmVzaG5lc3MgYW5kIHBvdGVuY3ksIG1ha2luZyBpdCBhIHByZWZlcnJlZCBjaG9pY2UgYW1vbmcgY3VsaW5hcnkgcHJvZmVzc2lvbmFscyBhbmQgaGVhbHRoLWNvbnNjaW91cyBjb25zdW1lcnMgZ2xvYmFsbHkuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSB0dXJtZXJpYyAoSGFsZGkpIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgY29tbWl0dGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCB0aGUgZmluZXN0IHF1YWxpdHkgc3BpY2VzIHRoYXQgZW5yaWNoIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBwcm9tb3RlIHdlbGwtYmVpbmcu",
+              <div>
+                <h1><strong>Premium Turmeric (Haldi) from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Turmeric</strong></h2>
+                <br />
+                <p>Turmeric, often referred to as the "Queen of Spices," is a plant belonging to the ginger family. Widely cultivated for its culinary and medicinal uses, turmeric has a rich history spanning thousands of years in East India and the Middle East. Today, it stands as one of the most popular spices globally, valued for its vibrant color and numerous health benefits.</p>
+                <br />
+
+                <h2><strong>Culinary and Medicinal Uses</strong></h2>
+                <br />
+                <p>Turmeric is the dried root of <em>Curcuma longa</em>, characterized by its tough brown skin and bright orange flesh. It is a staple ingredient in curry powders, imparting both color and a distinctive flavor profile to dishes. Beyond its culinary applications, turmeric holds a significant place in Ayurvedic practices and traditional medicine:</p>
+                <li><strong>Health Benefits:</strong> Turmeric is renowned for its medicinal properties, including anti-inflammatory, antioxidant, and antimicrobial effects. It helps ease symptoms of arthritis, supports heart health, aids in cholesterol reduction, and boosts the immune system.</li>
+                <li><strong>Skin Care:</strong> Turmeric is used topically to cleanse wounds, treat skin sores, and promote a healthy glow. Its antiseptic properties make it a valuable component in skincare routines.</li>
+                <li><strong>Digestive Health:</strong> It is effective in treating digestive problems such as ulcers and dysentery, owing to its soothing and anti-inflammatory properties.</li>
+                <br />
+
+                <h2><strong>Quality and Production</strong></h2>
+                <br />
+                <p>India is the leading producer of turmeric globally, known for its high curcumin content. Curcumin is the active compound responsible for many of turmeric's health benefits. Varni Exports sources premium turmeric from select regions in India, ensuring superior quality and freshness for our customers worldwide.</p>
+                <br />
+
+                <h2><strong>Export Excellence</strong></h2>
+                <br />
+                <p>As a leading exporter of spices, including turmeric, Varni Exports maintains stringent quality control measures to deliver products that meet international standards. Our turmeric is packaged to preserve its freshness and potency, making it a preferred choice among culinary professionals and health-conscious consumers globally.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries about our premium turmeric (Haldi) or to place an order, please contact Varni Exports. We are committed to providing you with the finest quality spices that enrich culinary experiences and promote well-being.</p>
+              </div>
+            ,
           },
 
           {
@@ -2948,7 +3853,56 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "IyMjIFByZW1pdW0gSW5kaWFuIENoaWxsaSBmcm9tIFZhcm5pIEV4cG9ydHMKCiMjIyBJbnRyb2R1Y3Rpb24gdG8gQ2hpbGxpCgpDaGlsbGksIGJlbG9uZ2luZyB0byB0aGUgQ2Fwc2ljdW0gZ2VudXMsIGlzIGEgdmVyc2F0aWxlIGZydWl0IHJlbm93bmVkIGZvciBpdHMgcHVuZ2VudCBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3JzLiBXaGVuIHJpcGVuZWQgYW5kIGRyaWVkLCBpdCB0cmFuc2Zvcm1zIGludG8gcmVkIGNoaWxsaSwgd2hpY2ggaXMgdGhlbiBncm91bmQgdG8gcHJvZHVjZSByZWQgY2hpbGxpIHBvd2RlcuKAlGEgc3RhcGxlIHNwaWNlIGluIGdsb2JhbCBjdWlzaW5lcy4KCiMjIyBMZWFkaW5nIFByb2R1Y2VyIGFuZCBFeHBvcnRlcgoKSW5kaWEgc3RhbmRzIGFzIHRoZSB3b3JsZOKAmXMgbGFyZ2VzdCBwcm9kdWNlciwgY29uc3VtZXIsIGFuZCBleHBvcnRlciBvZiBjaGlsbGkuIFdpdGggc2lnbmlmaWNhbnQgaW52ZXN0bWVudHMgaW4gY29sZCBzdG9yYWdlIGZhY2lsaXRpZXMgYWNyb3NzIGNoaWxsaS1ncm93aW5nIHJlZ2lvbnMsIEluZGlhIGVuc3VyZXMgc3VzdGFpbmVkIHByb2R1Y3Rpb24gYW5kIG1haW50YWlucyBhIGRvbWluYW50IG1hcmtldCBzaGFyZSBpbiB0aGUgZ2xvYmFsIGNoaWxsaSB0cmFkZS4KCiMjIyBWYXJpZXRpZXMgYW5kIFVzZXMKCkluZGlhbiBjaGlsbGllcyBhcmUga25vd24gZm9yIHRoZWlyIGRpdmVyc2UgcmFuZ2Ugb2Ygc3BpY2luZXNzLCBmcm9tIG1pbGQgdG8gaW50ZW5zZWx5IGhvdCwgYW5kIGNvbWUgaW4gc2hhZGVzIHJhbmdpbmcgZnJvbSBkZWVwIHJlZCB0byBsaWdodCByZWQuIFRoZXkgZmluZCBleHRlbnNpdmUgYXBwbGljYXRpb24gaW46Ci0gKipGb29kIEluZHVzdHJ5Kio6IFVzZWQgaW4gZm9vZCBwcmVwYXJhdGlvbiwgY29uZmVjdGlvbmVyeSwgYW5kIHNhdWNlcy4KLSAqKkNvc21ldGljcyBhbmQgUGhhcm1hY2V1dGljYWxzKio6IEV4dHJhY3RzIGFyZSB1c2VkIGluIGNvc21ldGljcyBmb3IgdGhlaXIgY29sb3IgYW5kIGluIHBoYXJtYWNldXRpY2FscyBmb3IgdGhlaXIgbWVkaWNpbmFsIHByb3BlcnRpZXMuCi0gKipJbmR1c3RyaWFsIEFwcGxpY2F0aW9ucyoqOiBJbnRlZ3JhbCBpbiBtYW51ZmFjdHVyaW5nIHBhaW50cywgbGlxdW9yLCBhbmQgc2VsZi1kZWZlbnNlIHByb2R1Y3RzLgoKIyMjIFF1YWxpdHkgYW5kIEhhcnZlc3QKCkNoaWxsaWVzIGFyZSBoYXJ2ZXN0ZWQgYmV0d2VlbiBKYW51YXJ5IGFuZCBBcHJpbCBpbiBJbmRpYSwgZW5zdXJpbmcgb3B0aW1hbCBxdWFsaXR5IGFuZCBmbGF2b3IuIEludGVncmF0ZWQgUGVzdCBNYW5hZ2VtZW50IChJUE0pIHByYWN0aWNlcyBhcmUgZW1wbG95ZWQgdG8gbWluaW1pemUgcGVzdGljaWRlIHVzZSwgcHJvbW90aW5nIHN1c3RhaW5hYmxlIGFuZCBlY28tZnJpZW5kbHkgZmFybWluZyBtZXRob2RzLgoKIyMjIE51dHJpdGlvbmFsIFZhbHVlCgpSZWQgY2hpbGxpZXMgYXJlIHJpY2ggaW4gdml0YW1pbiBDLCBjYXJvdGVuZSAocHJvdml0YW1pbiBBKSwgYW5kIG1vc3QgQiB2aXRhbWlucywgZXNwZWNpYWxseSB2aXRhbWluIEI2LiBUaGV5IGFyZSBhbHNvIGhpZ2ggaW4gcG90YXNzaXVtLCBtYWduZXNpdW0sIGFuZCBpcm9uLCBlbmhhbmNpbmcgdGhlaXIgbnV0cml0aW9uYWwgcHJvZmlsZSBhbmQgaGVhbHRoIGJlbmVmaXRzLgoKIyMjIEhlYWx0aCBCZW5lZml0cwoKLSAqKkFudGktaW5mbGFtbWF0b3J5IFByb3BlcnRpZXMqKjogUmVkIGNoaWxsaWVzIGFpZCBpbiByZWR1Y2luZyBpbmZsYW1tYXRpb24gYW5kIHByb3ZpZGUgbmF0dXJhbCBwYWluIHJlbGllZi4KLSAqKkltbXVuZSBTeXN0ZW0gQm9vc3QqKjogVGhleSBoZWxwIHN0cmVuZ3RoZW4gdGhlIGltbXVuZSBzeXN0ZW0gYW5kIGNsZWFyIGNvbmdlc3Rpb24uCi0gKipDaG9sZXN0ZXJvbCBSZWd1bGF0aW9uKio6IENvbnN1bXB0aW9uIG1heSBhc3Npc3QgaW4gbG93ZXJpbmcgYmxvb2QgY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqTWV0YWJvbGlzbSBhbmQgV2VpZ2h0IExvc3MqKjogQ2hpbGxpIHBlcHBlcnMgYWNjZWxlcmF0ZSBkaWdlc3Rpb24gYW5kIG1ldGFib2xpc20sIGNvbnRyaWJ1dGluZyB0byB3ZWlnaHQgbWFuYWdlbWVudC4KCiMjIyBDb21taXRtZW50IHRvIFF1YWxpdHkKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNwZWNpYWxpemUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgSW5kaWFuIGNoaWxsaWVzIHRoYXQgbWVldCBkaXZlcnNlIGdsb2JhbCBzcGVjaWZpY2F0aW9ucy4gT3VyIGNoaWxsaWVzIGFyZSByZW5vd25lZCBmb3IgdGhlaXIgZXhjZXB0aW9uYWwgZmxhdm9yLCBjb2xvciwgYW5kIG51dHJpdGlvbmFsIGJlbmVmaXRzLCBtYWtpbmcgdGhlbSBhIHByZWZlcnJlZCBjaG9pY2UgYW1vbmcgY2hlZnMsIG1hbnVmYWN0dXJlcnMsIGFuZCBoZWFsdGgtY29uc2Npb3VzIGNvbnN1bWVycyB3b3JsZHdpZGUuCgojIyMgQ29udGFjdCBVcwoKRm9yIGlucXVpcmllcyBhYm91dCBvdXIgcHJlbWl1bSBJbmRpYW4gY2hpbGxpIHByb2R1Y3RzIG9yIHRvIHBsYWNlIGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBWYXJuaSBFeHBvcnRzLiBXZSBhcmUgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB5b3Ugd2l0aCBzdXBlcmlvciBzcGljZXMgdGhhdCBlbGV2YXRlIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBwcm9tb3RlIHdlbGwtYmVpbmcuCg==",
+              <div>
+                <h1><strong>Premium Indian Chilli from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Chilli</strong></h2>
+                <br />
+                <p>Chilli, belonging to the <em>Capsicum</em> genus, is a versatile fruit renowned for its pungent flavor and vibrant colors. When ripened and dried, it transforms into red chilli, which is then ground to produce red chilli powder—a staple spice in global cuisines.</p>
+                <br />
+
+                <h2><strong>Leading Producer and Exporter</strong></h2>
+                <br />
+                <p>India stands as the world’s largest producer, consumer, and exporter of chilli. With significant investments in cold storage facilities across chilli-growing regions, India ensures sustained production and maintains a dominant market share in the global chilli trade.</p>
+                <br />
+
+                <h2><strong>Varieties and Uses</strong></h2>
+                <br />
+                <p>Indian chillies are known for their diverse range of spiciness, from mild to intensely hot, and come in shades ranging from deep red to light red. They find extensive application in:</p>
+                <li><strong>Food Industry:</strong> Used in food preparation, confectionery, and sauces.</li>
+                <li><strong>Cosmetics and Pharmaceuticals:</strong> Extracts are used in cosmetics for their color and in pharmaceuticals for their medicinal properties.</li>
+                <li><strong>Industrial Applications:</strong> Integral in manufacturing paints, liquor, and self-defense products.</li>
+                <br />
+
+                <h2><strong>Quality and Harvest</strong></h2>
+                <br />
+                <p>Chillies are harvested between January and April in India, ensuring optimal quality and flavor. Integrated Pest Management (IPM) practices are employed to minimize pesticide use, promoting sustainable and eco-friendly farming methods.</p>
+                <br />
+
+                <h2><strong>Nutritional Value</strong></h2>
+                <br />
+                <p>Red chillies are rich in vitamin C, carotene (provitamin A), and most B vitamins, especially vitamin B6. They are also high in potassium, magnesium, and iron, enhancing their nutritional profile and health benefits.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <li><strong>Anti-inflammatory Properties:</strong> Red chillies aid in reducing inflammation and provide natural pain relief.</li>
+                <li><strong>Immune System Boost:</strong> They help strengthen the immune system and clear congestion.</li>
+                <li><strong>Cholesterol Regulation:</strong> Consumption may assist in lowering blood cholesterol levels.</li>
+                <li><strong>Metabolism and Weight Loss:</strong> Chilli peppers accelerate digestion and metabolism, contributing to weight management.</li>
+                <br />
+
+                <h2><strong>Commitment to Quality</strong></h2>
+                <br />
+                <p>At Varni Exports, we specialize in sourcing and exporting premium quality Indian chillies that meet diverse global specifications. Our chillies are renowned for their exceptional flavor, color, and nutritional benefits, making them a preferred choice among chefs, manufacturers, and health-conscious consumers worldwide.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries about our premium Indian chilli products or to place an order, please contact Varni Exports. We are dedicated to providing you with superior spices that elevate culinary experiences and promote well-being.</p>
+              </div>
+            ,
           },
 
           {
@@ -2967,7 +3921,43 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipWYXJuaSBFeHBvcnRzOiBQcmVtaXVtIFJlZCBDaGlsbGkgRmxha2VzKioKCioqSW50cm9kdWN0aW9uIHRvIFJlZCBDaGlsbGkgRmxha2VzKioKClJlZCBjaGlsbGkgZmxha2VzLCBhbHNvIGtub3duIGFzIHJlZCBwZXBwZXIgZmxha2VzLCBhcmUgdGhlIGNydXNoZWQgZm9ybSBvZiBkcmllZCByZWQgcGVwcGVycyBvciBjaGlsbGllcy4gVGhlc2UgZmxha2VzIGFyZSBjaGVyaXNoZWQgd29ybGR3aWRlIGZvciB0aGVpciBhYmlsaXR5IHRvIGltcGFydCBhIHNwaWN5IGtpY2sgYW5kIHJvYnVzdCBwZXBwZXJ5IGZsYXZvciB0byB2YXJpb3VzIGN1bGluYXJ5IGNyZWF0aW9ucy4gVGhleSBhcmUgYSBwb3B1bGFyIGNob2ljZSBpbiBzYXVjZXMsIHNvdXBzLCBwaWNrbGVzLCBjdXJyaWVzLCBhbmQgbnVtZXJvdXMgb3RoZXIgZGlzaGVzIHdoZXJlIGEgdG91Y2ggb2YgaGVhdCBpcyBkZXNpcmVkLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gZXhwb3J0aW5nIHRoZSBmaW5lc3QgcXVhbGl0eSByZWQgY2hpbGxpIGZsYWtlcyBnbG9iYWxseS4gQmFzZWQgaW4gSW5kaWEsIGtub3duIGZvciBpdHMgcmljaCBjaGlsbGkgY3VsdGl2YXRpb24sIHdlIGVuc3VyZSB0aGF0IG91ciBjaGlsbGkgZmxha2VzIG1lZXQgdGhlIGhpZ2hlc3Qgc3RhbmRhcmRzIG9mIHF1YWxpdHksIGZsYXZvciwgYW5kIHB1cml0eS4gT3VyIHByb2R1Y3RzIGFyZSBlc3BlY2lhbGx5IGZhdm9yZWQgYnkgY3VzdG9tZXJzIGluIHRoZSBVU0EgYW5kIEV1cm9wZSBmb3IgdGhlaXIgY29uc2lzdGVudCBob3RuZXNzLCB2aWJyYW50IGNvbG9yLCBhbmQgZGlzdGluY3RpdmUgZmxhdm9yIHByb2ZpbGVzLgoKKipQcm9kdWN0IFNwZWNpZmljYXRpb25zKioKCi0gKipWYXJpZXR5Kio6IFdlIG9mZmVyIGEgcmFuZ2Ugb2YgcmVkIGNoaWxsaSBmbGFrZXMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBwcmVmZXJlbmNlcyBpbiB0ZXJtcyBvZiBob3RuZXNzIGxldmVscywgY29sb3IgaW50ZW5zaXRpZXMsIGFuZCBmbGF2b3IgcHJvZmlsZXMuCiAgCi0gKipQYWNrYWdpbmcqKjogVHlwaWNhbGx5IHNvdXJjZWQgaW4gMTAgdG8gMjUga2cgYmFncywgd2UgYWxzbyBwcm92aWRlIGN1c3RvbWl6ZWQgcGFja2FnaW5nIG9wdGlvbnMgdG8gbWVldCBzcGVjaWZpYyBjdXN0b21lciByZXF1aXJlbWVudHMgYW5kIGVuc3VyZSBmcmVzaG5lc3MgYW5kIHF1YWxpdHkgZHVyaW5nIHRyYW5zaXQuCgoqKlVzYWdlIGFuZCBBcHBsaWNhdGlvbioqCgpSZWQgY2hpbGxpIGZsYWtlcyBhcmUgaW5jcmVkaWJseSB2ZXJzYXRpbGUgaW4gdGhlIGtpdGNoZW46CiAgCi0gKipFbmhhbmNpbmcgRmxhdm9yKio6IFRoZXkgYWRkIGEgcHVuY2ggb2Ygc3BpY2luZXNzIGFuZCBkZXB0aCB0byBkaXNoZXMgbGlrZSBwaXp6YSwgcGFzdGEsIHN0aXItZnJpZXMsIHNvdXBzLCBhbmQgc2FsYWRzLgogIAotICoqQ29va2luZyBWZXJzYXRpbGl0eSoqOiBUaGV5IGNhbiBiZSBzcHJpbmtsZWQgb3ZlciBmaW5pc2hlZCBkaXNoZXMsIGluY29ycG9yYXRlZCBpbnRvIGNvb2tpbmcgc2F1Y2VzIGFuZCBtYXJpbmFkZXMsIG9yIHVzZWQgYXMgYSBnYXJuaXNoIHRvIGVsZXZhdGUgdGhlIHZpc3VhbCBhcHBlYWwgYW5kIGZsYXZvciBjb21wbGV4aXR5LgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgpPdXIgY29tbWl0bWVudCB0byBxdWFsaXR5IGV4dGVuZHMgZnJvbSBzb3VyY2luZyB0aGUgYmVzdCBjaGlsbGllcyB0byBtZXRpY3Vsb3VzIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZy4gV2UgcHJpb3JpdGl6ZSBkZWxpdmVyaW5nIGltcHVyaXR5LWZyZWUsIGZsYXZvcmZ1bCBjaGlsbGkgZmxha2VzIHRoYXQgbWVldCBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHN0YW5kYXJkcy4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSByZWQgY2hpbGxpIGZsYWtlcywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSBlc3NlbmNlIG9mIGF1dGhlbnRpYyBJbmRpYW4gc3BpY2VzIHRoYXQgZW5oYW5jZSB0aGUgY3VsaW5hcnkgam91cm5leSB3b3JsZHdpZGUuICA=",
+              <div>
+                <h1><strong>Varni Exports: Premium Red Chilli Flakes</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Red Chilli Flakes</strong></h2>
+                <br />
+                <p>Red chilli flakes, also known as red pepper flakes, are the crushed form of dried red peppers or chillies. These flakes are cherished worldwide for their ability to impart a spicy kick and robust peppery flavor to various culinary creations. They are a popular choice in sauces, soups, pickles, curries, and numerous other dishes where a touch of heat is desired.</p>
+                <br />
+
+                <h2><strong>Export Excellence by Varni Exports</strong></h2>
+                <br />
+                <p>At Varni Exports, we take pride in exporting the finest quality red chilli flakes globally. Based in India, known for its rich chilli cultivation, we ensure that our chilli flakes meet the highest standards of quality, flavor, and purity. Our products are especially favored by customers in the USA and Europe for their consistent hotness, vibrant color, and distinctive flavor profiles.</p>
+                <br />
+
+                <h2><strong>Product Specifications</strong></h2>
+                <br />
+                <li><strong>Variety:</strong> We offer a range of red chilli flakes to cater to diverse preferences in terms of hotness levels, color intensities, and flavor profiles.</li>
+                <li><strong>Packaging:</strong> Typically sourced in 10 to 25 kg bags, we also provide customized packaging options to meet specific customer requirements and ensure freshness and quality during transit.</li>
+                <br />
+
+                <h2><strong>Usage and Application</strong></h2>
+                <br />
+                <p>Red chilli flakes are incredibly versatile in the kitchen:</p>
+                <li><strong>Enhancing Flavor:</strong> They add a punch of spiciness and depth to dishes like pizza, pasta, stir-fries, soups, and salads.</li>
+                <li><strong>Cooking Versatility:</strong> They can be sprinkled over finished dishes, incorporated into cooking sauces and marinades, or used as a garnish to elevate the visual appeal and flavor complexity.</li>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>Our commitment to quality extends from sourcing the best chillies to meticulous processing and packaging. We prioritize delivering impurity-free, flavorful chilli flakes that meet international food safety standards.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries or to place an order for our premium red chilli flakes, contact Varni Exports today. Experience the essence of authentic Indian spices that enhance the culinary journey worldwide.</p>
+              </div>
+            ,
           },
 
           {
@@ -2986,7 +3976,43 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipWYXJuaSBFeHBvcnRzOiBQcmVtaXVtIERyeSBHaW5nZXIqKgoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdpbmdlcioqCgpEcnkgZ2luZ2VyLCBkZXJpdmVkIGZyb20gZnJlc2ggZ2luZ2VyIHJvb3RzIHRoYXQgaGF2ZSBiZWVuIGRyaWVkIGFuZCBwcm9jZXNzZWQsIGlzIGEgdmVyc2F0aWxlIHNwaWNlIGtub3duIGZvciBpdHMgZGlzdGluY3Qgc3BpY3kgYW5kIGFyb21hdGljIHF1YWxpdGllcy4gV2lkZWx5IHVzZWQgaW4gY3VsaW5hcnkgYXBwbGljYXRpb25zIGFuZCB2YWx1ZWQgZm9yIGl0cyBtZWRpY2luYWwgcHJvcGVydGllcywgZHJ5IGdpbmdlciBhZGRzIGEgd2FybSwgcHVuZ2VudCBmbGF2b3IgdG8gYSB2YXJpZXR5IG9mIGRpc2hlcyBhbmQgYmV2ZXJhZ2VzLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgdGFrZXMgcHJpZGUgaW4gZXhwb3J0aW5nIHRoZSBmaW5lc3QgcXVhbGl0eSBkcnkgZ2luZ2VyIGdsb2JhbGx5LiBTaXR1YXRlZCBpbiBJbmRpYSwgcmVub3duZWQgZm9yIGl0cyByaWNoIGdpbmdlciBjdWx0aXZhdGlvbiwgd2UgZW5zdXJlIG91ciBkcnkgZ2luZ2VyIG1lZXRzIHN0cmluZ2VudCBzdGFuZGFyZHMgZm9yIHF1YWxpdHksIGZsYXZvciwgYW5kIHB1cml0eS4gT3VyIHByb2R1Y3RzIGFyZSBmYXZvcmVkIGJ5IGRpc2Nlcm5pbmcgY3VzdG9tZXJzIHdvcmxkd2lkZSBmb3IgdGhlaXIgY29uc2lzdGVudCBxdWFsaXR5IGFuZCBleGNlcHRpb25hbCBhcm9tYS4KCioqUHJvZHVjdCBTcGVjaWZpY2F0aW9ucyoqCgotICoqVmFyaWV0eSoqOiBXZSBvZmZlciBhIHJhbmdlIG9mIGRyeSBnaW5nZXIgcHJvZHVjdHMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIG5lZWRzLCBlbnN1cmluZyBvcHRpb25zIHRoYXQgdmFyeSBpbiBzaXplLCB0ZXh0dXJlLCBhbmQgZmxhdm9yIGludGVuc2l0eS4KICAKLSAqKlBhY2thZ2luZyoqOiBUeXBpY2FsbHkgc291cmNlZCBpbiBjb252ZW5pZW50IHBhY2thZ2luZyBzaXplcyB0YWlsb3JlZCB0byBjdXN0b21lciBwcmVmZXJlbmNlcywgZW5zdXJpbmcgZnJlc2huZXNzIGFuZCBxdWFsaXR5IHByZXNlcnZhdGlvbiBkdXJpbmcgc2hpcG1lbnQuCgoqKlVzYWdlIGFuZCBBcHBsaWNhdGlvbioqCgpEcnkgZ2luZ2VyIGlzIHJlbm93bmVkIGZvciBpdHMgdmVyc2F0aWxpdHk6CiAgCi0gKipDdWxpbmFyeSBEZWxpZ2h0Kio6IEl0IGVuaGFuY2VzIHRoZSBmbGF2b3IgYW5kIGFyb21hIG9mIHZhcmlvdXMgZGlzaGVzLCBpbmNsdWRpbmcgY3Vycmllcywgc3Rpci1mcmllcywgbWFyaW5hZGVzLCBhbmQgYmFrZWQgZ29vZHMuCiAgCi0gKipNZWRpY2luYWwgQmVuZWZpdHMqKjogS25vd24gZm9yIGl0cyBkaWdlc3RpdmUgYW5kIGFudGktaW5mbGFtbWF0b3J5IHByb3BlcnRpZXMsIGRyeSBnaW5nZXIgaXMgYWxzbyB1c2VkIGluIHRyYWRpdGlvbmFsIHJlbWVkaWVzIGFuZCBoZXJiYWwgdGVhcy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgdXBob2xkIHJpZ29yb3VzIHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyBmcm9tIHNvdXJjaW5nIHRvIHBhY2thZ2luZy4gT3VyIGNvbW1pdG1lbnQgaXMgdG8gZGVsaXZlciBwcmVtaXVtIGRyeSBnaW5nZXIgdGhhdCBleGNlZWRzIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBlbnN1cmluZyBwdXJpdHkgYW5kIGZyZXNobmVzcyBpbiBldmVyeSBiYXRjaC4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBkcnkgZ2luZ2VyIHByb2R1Y3RzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIERpc2NvdmVyIHRoZSBlc3NlbmNlIG9mIGF1dGhlbnRpYyBJbmRpYW4gc3BpY2VzIHRoYXQgZWxldmF0ZSBjdWxpbmFyeSBleHBlcmllbmNlcyB3b3JsZHdpZGUu",
+              <div>
+                <h1><strong>Varni Exports: Premium Dry Ginger</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Dry Ginger</strong></h2>
+                <br />
+                <p>Dry ginger, derived from fresh ginger roots that have been dried and processed, is a versatile spice known for its distinct spicy and aromatic qualities. Widely used in culinary applications and valued for its medicinal properties, dry ginger adds a warm, pungent flavor to a variety of dishes and beverages.</p>
+                <br />
+
+                <h2><strong>Export Excellence by Varni Exports</strong></h2>
+                <br />
+                <p>Varni Exports takes pride in exporting the finest quality dry ginger globally. Situated in India, renowned for its rich ginger cultivation, we ensure our dry ginger meets stringent standards for quality, flavor, and purity. Our products are favored by discerning customers worldwide for their consistent quality and exceptional aroma.</p>
+                <br />
+
+                <h2><strong>Product Specifications</strong></h2>
+                <br />
+                <li><strong>Variety:</strong> We offer a range of dry ginger products to cater to diverse culinary and medicinal needs, ensuring options that vary in size, texture, and flavor intensity.</li>
+                <li><strong>Packaging:</strong> Typically sourced in convenient packaging sizes tailored to customer preferences, ensuring freshness and quality preservation during shipment.</li>
+                <br />
+
+                <h2><strong>Usage and Application</strong></h2>
+                <br />
+                <p>Dry ginger is renowned for its versatility:</p>
+                <li><strong>Culinary Delight:</strong> It enhances the flavor and aroma of various dishes, including curries, stir-fries, marinades, and baked goods.</li>
+                <li><strong>Medicinal Benefits:</strong> Known for its digestive and anti-inflammatory properties, dry ginger is also used in traditional remedies and herbal teas.</li>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we uphold rigorous quality control measures from sourcing to packaging. Our commitment is to deliver premium dry ginger that exceeds international food safety standards, ensuring purity and freshness in every batch.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries or to place an order for our premium dry ginger products, contact Varni Exports today. Discover the essence of authentic Indian spices that elevate culinary experiences worldwide.</p>
+              </div>
+            ,
           },
 
           {
@@ -3003,7 +4029,46 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipWYXJuaSBFeHBvcnRzOiBOdXRtZWcqKgoKKipJbnRyb2R1Y3Rpb24gdG8gTnV0bWVnKioKCk51dG1lZywgc2NpZW50aWZpY2FsbHkga25vd24gYXMgTXlyaXN0aWNhIGZyYWdyYW5zLCBpcyBhIHVuaXF1ZSBzcGljZSBkZXJpdmVkIGZyb20gdGhlIHNlZWQgb2YgYW4gZXZlcmdyZWVuIHRyZWUgbmF0aXZlIHRvIHRoZSBNb2x1Y2NhcyAoU3BpY2UgSXNsYW5kcykgb2YgSW5kb25lc2lhLiBJdCBpcyByZW5vd25lZCBmb3IgaXRzIHdhcm0sIHN3ZWV0LCBhbmQgbnV0dHkgZmxhdm9yLCB3aGljaCBhZGRzIGRlcHRoIHRvIGJvdGggc3dlZXQgYW5kIHNhdm9yeSBkaXNoZXMuIFRoZSBzcGljZSBpcyBoYXJ2ZXN0ZWQgYnkgZHJ5aW5nIHRoZSBzZWVkIGtlcm5lbCBhZnRlciByZW1vdmluZyB0aGUgbWFjZSwgYSByZWQsIGxhY3kgc3Vic3RhbmNlIGNvdmVyaW5nIHRoZSBzZWVkLgoKKipFeHBvcnQgRXhjZWxsZW5jZSBieSBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgdGFrZXMgcHJpZGUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyB0aGUgaGlnaGVzdCBxdWFsaXR5IG51dG1lZyBmcm9tIHRydXN0ZWQgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGNvbW1pdG1lbnQgdG8gZXhjZWxsZW5jZSBlbnN1cmVzIHRoYXQgb3VyIG51dG1lZyBwcm9kdWN0cyBtZWV0IHN0cmljdCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgZGVsaXZlciBleGNlcHRpb25hbCBmbGF2b3IgYW5kIGFyb21hIHRvIG91ciBjdXN0b21lcnMgd29ybGR3aWRlLgoKKipQcm9kdWN0IFNwZWNpZmljYXRpb25zKioKCi0gKipWYXJpZXRpZXMqKjogV2Ugb2ZmZXIgd2hvbGUgbnV0bWVnIGFzIHdlbGwgYXMgZ3JvdW5kIG51dG1lZywgY2F0ZXJpbmcgdG8gZGlmZmVyZW50IGN1bGluYXJ5IHByZWZlcmVuY2VzIGFuZCBhcHBsaWNhdGlvbnMuCiAgCi0gKipQYWNrYWdpbmcqKjogT3VyIG51dG1lZyBpcyBjYXJlZnVsbHkgcGFja2VkIHRvIHByZXNlcnZlIGZyZXNobmVzcyBhbmQgcXVhbGl0eSwgYXZhaWxhYmxlIGluIHZhcmlvdXMgcGFja2FnaW5nIHNpemVzIHRvIG1lZXQgY3VzdG9tZXIgcmVxdWlyZW1lbnRzLgoKKipVc2FnZSBhbmQgQXBwbGljYXRpb24qKgoKTnV0bWVnIGlzIGEgdmVyc2F0aWxlIHNwaWNlIHVzZWQgaW4gdmFyaW91cyB3YXlzOgogIAotICoqQ3VsaW5hcnkgVXNlcyoqOiBJdCBpcyBhIHBvcHVsYXIgc3BpY2UgaW4gYmFraW5nLCBwYXJ0aWN1bGFybHkgaW4gY2FrZXMsIGNvb2tpZXMsIHBpZXMsIGFuZCBwYXN0cmllcy4gSXQgYWxzbyBlbmhhbmNlcyB0aGUgZmxhdm9yIG9mIHNhdm9yeSBkaXNoZXMgc3VjaCBhcyBzb3Vwcywgc3Rld3MsIHNhdWNlcywgYW5kIG1lYXQgZGlzaGVzLgogIAotICoqQmV2ZXJhZ2UqKjogTnV0bWVnIGlzIHVzZWQgdG8gZmxhdm9yIGJldmVyYWdlcyBsaWtlIGVnZ25vZywgbXVsbGVkIHdpbmUsIGFuZCBjaGFpIHRlYS4KICAKLSAqKk1lZGljaW5hbCBQcm9wZXJ0aWVzKio6IEluIHRyYWRpdGlvbmFsIG1lZGljaW5lLCBudXRtZWcgaXMgYmVsaWV2ZWQgdG8gaGF2ZSBkaWdlc3RpdmUgYmVuZWZpdHMgYW5kIGlzIHVzZWQgaW4gc21hbGwgcXVhbnRpdGllcyBhcyBhIHJlbWVkeSBmb3IgaW5zb21uaWEgYW5kIGFueGlldHkuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhbmQgc2FmZXR5OgogIAotICoqU3RyaWN0IFN0YW5kYXJkcyoqOiBXZSBhZGhlcmUgdG8gc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyBmcm9tIHNvdXJjaW5nIHRvIHBhY2thZ2luZyB0byBlbnN1cmUgb3VyIG51dG1lZyBtZWV0cyBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHJlZ3VsYXRpb25zLgogIAotICoqRnJlc2huZXNzIEd1YXJhbnRlZWQqKjogT3VyIG51dG1lZyBpcyBzb3VyY2VkIGFuZCBwcm9jZXNzZWQgdG8gcHJlc2VydmUgaXRzIG5hdHVyYWwgZmxhdm9yIGFuZCBhcm9tYSwgcHJvdmlkaW5nIG91ciBjdXN0b21lcnMgd2l0aCBhIHByZW1pdW0gcHJvZHVjdC4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBudXRtZWcgcHJvZHVjdHMsIGNvbnRhY3QgVmFybmkgRXhwb3J0cyB0b2RheS4gRXhwZXJpZW5jZSB0aGUgcmljaG5lc3MgYW5kIHZlcnNhdGlsaXR5IG9mIG51dG1lZyB0aGF0IGVuaGFuY2VzIGN1bGluYXJ5IGNyZWF0aW9ucyB3b3JsZHdpZGUu",
+              <div>
+                <h1><strong>Varni Exports: Nutmeg</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Nutmeg</strong></h2>
+                <br />
+                <p>Nutmeg, scientifically known as Myristica fragrans, is a unique spice derived from the seed of an evergreen tree native to the Moluccas (Spice Islands) of Indonesia. It is renowned for its warm, sweet, and nutty flavor, which adds depth to both sweet and savory dishes. The spice is harvested by drying the seed kernel after removing the mace, a red, lacy substance covering the seed.</p>
+                <br />
+
+                <h2><strong>Export Excellence by Varni Exports</strong></h2>
+                <br />
+                <p>Varni Exports takes pride in sourcing and exporting the highest quality nutmeg from trusted cultivation regions. Our commitment to excellence ensures that our nutmeg products meet strict quality standards and deliver exceptional flavor and aroma to our customers worldwide.</p>
+                <br />
+
+                <h2><strong>Product Specifications</strong></h2>
+                <br />
+                <li><strong>Varieties:</strong> We offer whole nutmeg as well as ground nutmeg, catering to different culinary preferences and applications.</li>
+                <li><strong>Packaging:</strong> Our nutmeg is carefully packed to preserve freshness and quality, available in various packaging sizes to meet customer requirements.</li>
+                <br />
+
+                <h2><strong>Usage and Application</strong></h2>
+                <br />
+                <p>Nutmeg is a versatile spice used in various ways:</p>
+                <li><strong>Culinary Uses:</strong> It is a popular spice in baking, particularly in cakes, cookies, pies, and pastries. It also enhances the flavor of savory dishes such as soups, stews, sauces, and meat dishes.</li>
+                <li><strong>Beverage:</strong> Nutmeg is used to flavor beverages like eggnog, mulled wine, and chai tea.</li>
+                <li><strong>Medicinal Properties:</strong> In traditional medicine, nutmeg is believed to have digestive benefits and is used in small quantities as a remedy for insomnia and anxiety.</li>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we prioritize quality and safety:</p>
+                <li><strong>Strict Standards:</strong> We adhere to stringent quality control measures from sourcing to packaging to ensure our nutmeg meets international food safety regulations.</li>
+                <li><strong>Freshness Guaranteed:</strong> Our nutmeg is sourced and processed to preserve its natural flavor and aroma, providing our customers with a premium product.</li>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries or to place an order for our premium nutmeg products, contact Varni Exports today. Experience the richness and versatility of nutmeg that enhances culinary creations worldwide.</p>
+              </div>
+            ,
           },
 
           {
@@ -3021,7 +4086,49 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipCbGFjayBQZXBwZXIgYnkgVmFybmkgRXhwb3J0cyoqCgoqKkludHJvZHVjdGlvbiB0byBCbGFjayBQZXBwZXIqKgoKQmxhY2sgcGVwcGVyLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBQaXBlciBuaWdydW0sIGlzIGEgZmxvd2VyaW5nIHZpbmUgaW4gdGhlIFBpcGVyYWNlYWUgZmFtaWx5LCBwcml6ZWQgZm9yIGl0cyBkcmllZCBmcnVpdCwga25vd24gYXMgcGVwcGVyY29ybi4gVGhlc2Ugc21hbGwsIHNwaGVyaWNhbCBmcnVpdHMgYXJlIGFib3V0IDUgbWlsbGltZXRlcnMgaW4gZGlhbWV0ZXIgd2hlbiBmdWxseSBtYXR1cmUsIGRhcmsgcmVkIGluIGNvbG9yLCBhbmQgY29udGFpbiBhIHNpbmdsZSBzZWVkLiBCbGFjayBwZXBwZXIgaXMgb25lIG9mIHRoZSBtb3N0IHdpZGVseSB1c2VkIHNwaWNlcyBnbG9iYWxseSwgdmFsdWVkIGZvciBpdHMgcHVuZ2VudCBmbGF2b3IgYW5kIGN1bGluYXJ5IHZlcnNhdGlsaXR5LgoKKipWYXJuaSBFeHBvcnRzJyBDb21taXRtZW50KioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHNwZWNpYWxpemUgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIHF1YWxpdHkgYmxhY2sgcGVwcGVyIGZyb20gdGhlIGJlc3QgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGV4cGVydGlzZSBlbnN1cmVzIHRoYXQgd2UgZGVsaXZlciB0b3Atbm90Y2ggYmxhY2sgcGVwcGVyIHByb2R1Y3RzIHRoYXQgbWVldCB0aGUgZGl2ZXJzZSBuZWVkcyBvZiBvdXIgZ2xvYmFsIGNsaWVudGVsZS4KCioqUHJvZHVjdCBEZXRhaWxzKioKCi0gKipWYXJpZXRpZXMqKjogV2Ugb2ZmZXIgdmFyaW91cyBmb3JtcyBvZiBibGFjayBwZXBwZXIsIGluY2x1ZGluZyB3aG9sZSBwZXBwZXJjb3JucyBhbmQgZ3JvdW5kIHBlcHBlciwgY2F0ZXJpbmcgdG8gZGlmZmVyZW50IGN1bGluYXJ5IHByZWZlcmVuY2VzIGFuZCBhcHBsaWNhdGlvbnMuCiAgCi0gKipRdWFsaXR5IEFzc3VyYW5jZSoqOiBPdXIgYmxhY2sgcGVwcGVyIGlzIG1ldGljdWxvdXNseSBzZWxlY3RlZCwgcHJvY2Vzc2VkLCBhbmQgcGFja2VkIHRvIHByZXNlcnZlIGl0cyBuYXR1cmFsIGFyb21hLCBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4KICAKLSAqKlBhY2thZ2luZyoqOiBBdmFpbGFibGUgaW4gY29udmVuaWVudCBwYWNrYWdpbmcgc2l6ZXMgdG8gbWVldCB0aGUgcmVxdWlyZW1lbnRzIG9mIG91ciBjdXN0b21lcnMsIGVuc3VyaW5nIGZyZXNobmVzcyBhbmQgcXVhbGl0eS4KCioqQ3VsaW5hcnkgVXNlcyoqCgpCbGFjayBwZXBwZXIgaXMgYW4gZXNzZW50aWFsIHNwaWNlIGluOgogIAotICoqQ29va2luZyoqOiBVc2VkIGluIG1lYXQgbWFyaW5hZGVzLCBzb3Vwcywgc3Rld3MsIHNhdWNlcywgYW5kIGdyYXZpZXMgdG8gZW5oYW5jZSBmbGF2b3IuCiAgCi0gKipTZWFzb25pbmcqKjogQWRkcyBhIGZpbmFsIHRvdWNoIHRvIGRpc2hlcywgYWRqdXN0aW5nIGFuZCBlbGV2YXRpbmcgdGhlaXIgdGFzdGUgcHJvZmlsZXMuCiAgCi0gKipDb21tZXJjaWFsIEZvb2QgUHJvZHVjdGlvbioqOiBJbnRlZ3JhbCBpbiBmb29kIHByb2Nlc3NpbmcgYW5kIHByZXNlcnZhdGlvbiwgYWRkaW5nIGJvdGggZmxhdm9yIGFuZCBwcmVzZXJ2YXRpdmUgdmFsdWUuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpCZXlvbmQgaXRzIGN1bGluYXJ5IHVzZXMsIGJsYWNrIHBlcHBlciBvZmZlcnMgdmFyaW91cyBoZWFsdGggYmVuZWZpdHM6CiAgCi0gKipBbnRpb3hpZGFudCBQcm9wZXJ0aWVzKio6IENvbnRhaW5zIGFudGlveGlkYW50cyB0aGF0IGhlbHAgZmlnaHQgZnJlZSByYWRpY2FscyBpbiB0aGUgYm9keS4KICAKLSAqKkRpZ2VzdGl2ZSBBaWQqKjogU3VwcG9ydHMgZGlnZXN0aW9uIGFuZCBoZWxwcyBhbGxldmlhdGUgZGlnZXN0aXZlIGlzc3Vlcy4KICAKLSAqKkFudGktaW5mbGFtbWF0b3J5Kio6IFBvc3Nlc3NlcyBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIHRoYXQgbWF5IGhlbHAgcmVkdWNlIGluZmxhbW1hdGlvbi4KICAKLSAqKk90aGVyIEJlbmVmaXRzKio6IFVzZWQgdHJhZGl0aW9uYWxseSBmb3IgaXRzIHBvdGVudGlhbCBiZW5lZml0cyBpbiBpbXByb3ZpbmcgZGVudGFsIGhlYWx0aCBhbmQgc2tpbiBjb25kaXRpb25zLgoKKipDb250YWN0IFVzKioKCkZvciBpbnF1aXJpZXMgb3IgdG8gcGxhY2UgYW4gb3JkZXIgZm9yIG91ciBwcmVtaXVtIGJsYWNrIHBlcHBlciBwcm9kdWN0cywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSByaWNobmVzcyBhbmQgcXVhbGl0eSB0aGF0IG91ciBibGFjayBwZXBwZXIgYnJpbmdzIHRvIGN1bGluYXJ5IGNyZWF0aW9ucyB3b3JsZHdpZGUu",
+              <div>
+                <h1><strong>Black Pepper by Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Black Pepper</strong></h2>
+                <br />
+                <p>Black pepper, scientifically known as Piper nigrum, is a flowering vine in the Piperaceae family, prized for its dried fruit, known as peppercorn. These small, spherical fruits are about 5 millimeters in diameter when fully mature, dark red in color, and contain a single seed. Black pepper is one of the most widely used spices globally, valued for its pungent flavor and culinary versatility.</p>
+                <br />
+
+                <h2><strong>Varni Exports' Commitment</strong></h2>
+                <br />
+                <p>At Varni Exports, we specialize in sourcing and exporting premium quality black pepper from the best cultivation regions. Our expertise ensures that we deliver top-notch black pepper products that meet the diverse needs of our global clientele.</p>
+                <br />
+
+                <h2><strong>Product Details</strong></h2>
+                <br />
+                <li><strong>Varieties:</strong> We offer various forms of black pepper, including whole peppercorns and ground pepper, catering to different culinary preferences and applications.</li>
+                <li><strong>Quality Assurance:</strong> Our black pepper is meticulously selected, processed, and packed to preserve its natural aroma, flavor, and nutritional benefits.</li>
+                <li><strong>Packaging:</strong> Available in convenient packaging sizes to meet the requirements of our customers, ensuring freshness and quality.</li>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Black pepper is an essential spice in:</p>
+                <li><strong>Cooking:</strong> Used in meat marinades, soups, stews, sauces, and gravies to enhance flavor.</li>
+                <li><strong>Seasoning:</strong> Adds a final touch to dishes, adjusting and elevating their taste profiles.</li>
+                <li><strong>Commercial Food Production:</strong> Integral in food processing and preservation, adding both flavor and preservative value.</li>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Beyond its culinary uses, black pepper offers various health benefits:</p>
+                <li><strong>Antioxidant Properties:</strong> Contains antioxidants that help fight free radicals in the body.</li>
+                <li><strong>Digestive Aid:</strong> Supports digestion and helps alleviate digestive issues.</li>
+                <li><strong>Anti-inflammatory:</strong> Possesses anti-inflammatory properties that may help reduce inflammation.</li>
+                <li><strong>Other Benefits:</strong> Used traditionally for its potential benefits in improving dental health and skin conditions.</li>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries or to place an order for our premium black pepper products, contact Varni Exports today. Experience the richness and quality that our black pepper brings to culinary creations worldwide.</p>
+              </div>
+            ,
           },
 
           {
@@ -3039,7 +4146,41 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipDbG92ZSBieSBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIENsb3ZlKioKCkNsb3ZlLCBrbm93biBzY2llbnRpZmljYWxseSBhcyBTeXp5Z2l1bSBhcm9tYXRpY3VtLCBpcyBvbmUgb2YgdGhlIG9sZGVzdCBhbmQgbW9zdCB2YWx1YWJsZSBzcGljZXMgaW4gdGhlIHdvcmxkLiBJdCBpcyBkZXJpdmVkIGZyb20gdGhlIGRyaWVkLCB1bm9wZW5lZCBmbG93ZXIgYnVkcyBvZiBhIHNtYWxsIGV2ZXJncmVlbiB0cmVlIG5hdGl2ZSB0byB0aGUgTW9sdWNjYXMgSXNsYW5kcyBvZiBJbmRvbmVzaWEuIEluIEluZGlhLCBjbG92ZXMgYXJlIHByaW1hcmlseSBzb3VyY2VkIGZyb20gTWVyY2FyYSBpbiBLYXJuYXRha2EgYW5kIEtlcmFsYS4gUmVub3duZWQgZm9yIGl0cyBkaXN0aW5jdCBmbGF2b3IgYW5kIG1lZGljaW5hbCBwcm9wZXJ0aWVzLCBjbG92ZXMgaGF2ZSBiZWVuIGNoZXJpc2hlZCBmb3IgY2VudHVyaWVzIGFuZCBhcmUgaW50ZWdyYWwgdG8gdmFyaW91cyBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIGFwcGxpY2F0aW9ucyB3b3JsZHdpZGUuCgoqKlZhcm5pIEV4cG9ydHMnIEV4cGVydGlzZSoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBxdWFsaXR5IGNsb3ZlcyBmcm9tIHRoZSBmaW5lc3QgY3VsdGl2YXRpb24gcmVnaW9ucy4gT3VyIGNvbW1pdG1lbnQgaXMgdG8gZGVsaXZlciBjbG92ZXMgdGhhdCBtZWV0IHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgZXhjZWVkIHRoZSBleHBlY3RhdGlvbnMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuCgoqKlByb2R1Y3QgRGV0YWlscyoqCgotICoqVmFyaWV0aWVzKio6IFdlIG9mZmVyIGJvdGggd2hvbGUgY2xvdmVzIGFuZCBncm91bmQgY2xvdmVzLCBlbnN1cmluZyB2ZXJzYXRpbGl0eSBpbiBjdWxpbmFyeSBhcHBsaWNhdGlvbnMuCiAgCi0gKipRdWFsaXR5IEFzc3VyYW5jZSoqOiBPdXIgY2xvdmVzIGFyZSBjYXJlZnVsbHkgc2VsZWN0ZWQsIHByb2Nlc3NlZCwgYW5kIHBhY2tlZCB0byBwcmVzZXJ2ZSB0aGVpciByaWNoIGFyb21hLCBmbGF2b3IsIGFuZCBuYXR1cmFsIGdvb2RuZXNzLgogIAotICoqUGFja2FnaW5nKio6IEF2YWlsYWJsZSBpbiB2YXJpb3VzIHBhY2thZ2luZyBvcHRpb25zIHRvIHN1aXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgY3VzdG9tZXJzLCBlbnN1cmluZyBmcmVzaG5lc3MgYW5kIHF1YWxpdHkgcHJlc2VydmF0aW9uLgoKKipDdWxpbmFyeSBhbmQgTWVkaWNpbmFsIFVzZXMqKgoKQ2xvdmUgZmluZHMgZXh0ZW5zaXZlIHVzZSBpbjoKICAKLSAqKkN1bGluYXJ5IERlbGlnaHRzKio6IEFkZHMgZmxhdm9yIGFuZCBhcm9tYSB0byBiYWtlZCBnb29kcywgY2FrZXMsIGNvbmZlY3Rpb25lcnksIGNob2NvbGF0ZSwgcHVkZGluZ3MsIGRlc3NlcnRzLCBzd2VldHMsIHN5cnVwcywgcHJlc2VydmVzLCBhbmQgbW9yZS4KICAKLSAqKkNvb2tpbmcqKjogRXNzZW50aWFsIGluIGZsYXZvcmluZyBjdXJyaWVzLCBncmF2aWVzLCBwaWNrbGVzLCBrZXRjaHVwLCBzYXVjZXMsIGFuZCBzcGljZSBtaXh0dXJlcywgZW5oYW5jaW5nIHRoZSB0YXN0ZSBwcm9maWxlIG9mIGRpc2hlcy4KICAKLSAqKk1lZGljaW5hbCBCZW5lZml0cyoqOiBLbm93biBmb3IgaXRzIHBvd2VyZnVsIGxvY2FsIGFudGlzZXB0aWMgcHJvcGVydGllcyBhbmQgbWlsZCBhbmFlc3RoZXRpYyBhY3Rpb25zLiBJdCBpcyB1c2VkIGluIGJldmVyYWdlcywgbWVkaWNpbmVzLCBjb3NtZXRpY3MsIHBlcmZ1bWVyeSwgYW5kIHRvaWxldHJpZXMuCiAgCi0gKipIZWFsdGggQmVuZWZpdHMqKjogQ29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgaGVscCBwcmV2ZW50IGNlbGwgZGFtYWdlLCBwb3RlbnRpYWxseSByZWR1Y2luZyB0aGUgcmlzayBvZiBjZXJ0YWluIGRpc2Vhc2VzIGxpa2UgY2FuY2VyLiBVc2VkIGluIG9yYWwgY2FyZSBwcm9kdWN0cyBzdWNoIGFzIHRvb3RocGFzdGUgYW5kIG1vdXRod2FzaGVzIGZvciBpdHMgY2xlYW5zaW5nIGFuZCByZWZyZXNoaW5nIHByb3BlcnRpZXMuCgoqKkNvbnRhY3QgVXMqKgoKRm9yIGlucXVpcmllcyBvciB0byBwbGFjZSBhbiBvcmRlciBmb3Igb3VyIHByZW1pdW0gY2xvdmVzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIEV4cGVyaWVuY2UgdGhlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIHZlcnNhdGlsaXR5IHRoYXQgb3VyIGNsb3ZlcyBicmluZyB0byBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhlYWx0aC1lbmhhbmNpbmcgcHJvZHVjdHMgd29ybGR3aWRlLg==",
+              <div>
+                <h1><strong>Clove by Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Clove</strong></h2>
+                <br />
+                <p>Clove, known scientifically as Syzygium aromaticum, is one of the oldest and most valuable spices in the world. It is derived from the dried, unopened flower buds of a small evergreen tree native to the Moluccas Islands of Indonesia. In India, cloves are primarily sourced from Mercara in Karnataka and Kerala. Renowned for its distinct flavor and medicinal properties, cloves have been cherished for centuries and are integral to various culinary and medicinal applications worldwide.</p>
+                <br />
+
+                <h2><strong>Varni Exports' Expertise</strong></h2>
+                <br />
+                <p>At Varni Exports, we specialize in sourcing and exporting premium quality cloves from the finest cultivation regions. Our commitment is to deliver cloves that meet stringent quality standards and exceed the expectations of our global clientele.</p>
+                <br />
+
+                <h2><strong>Product Details</strong></h2>
+                <br />
+                <li><strong>Varieties:</strong> We offer both whole cloves and ground cloves, ensuring versatility in culinary applications.</li>
+                <li><strong>Quality Assurance:</strong> Our cloves are carefully selected, processed, and packed to preserve their rich aroma, flavor, and natural goodness.</li>
+                <li><strong>Packaging:</strong> Available in various packaging options to suit the specific requirements of our customers, ensuring freshness and quality preservation.</li>
+                <br />
+
+                <h2><strong>Culinary and Medicinal Uses</strong></h2>
+                <br />
+                <p>Clove finds extensive use in:</p>
+                <li><strong>Culinary Delights:</strong> Adds flavor and aroma to baked goods, cakes, confectionery, chocolate, puddings, desserts, sweets, syrups, preserves, and more.</li>
+                <li><strong>Cooking:</strong> Essential in flavoring curries, gravies, pickles, ketchup, sauces, and spice mixtures, enhancing the taste profile of dishes.</li>
+                <li><strong>Medicinal Benefits:</strong> Known for its powerful local antiseptic properties and mild anaesthetic actions. It is used in beverages, medicines, cosmetics, perfumery, and toiletries.</li>
+                <li><strong>Health Benefits:</strong> Contains antioxidants that help prevent cell damage, potentially reducing the risk of certain diseases like cancer. Used in oral care products such as toothpaste and mouthwashes for its cleansing and refreshing properties.</li>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries or to place an order for our premium cloves, contact Varni Exports today. Experience the superior quality and versatility that our cloves bring to culinary creations and health-enhancing products worldwide.</p>
+              </div>
+            ,
           },
 
           {
@@ -3055,7 +4196,39 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipDYXJkYW1vbSBieSBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIENhcmRhbW9tKioKClJlZ2FyZGVkIGFzIHRoZSAnUXVlZW4gb2YgU3BpY2VzJywgY2FyZGFtb20gaG9sZHMgYSBwcmVzdGlnaW91cyBwbGFjZSBhbW9uZyBzcGljZXMgZ2xvYmFsbHkuIEl0IGlzIGN1bHRpdmF0ZWQgcHJpbWFyaWx5IGluIEtlcmFsYSwgVGFtaWwgTmFkdSwgYW5kIEthcm5hdGFrYSBpbiBJbmRpYS4gQ2FyZGFtb20gaXMgdGhlIGRyaWVkIGZydWl0IG9mIGEgaGVyYmFjZW91cyBwZXJlbm5pYWwgcGxhbnQgYW5kIHRocml2ZXMgaW4gd2FybSwgaHVtaWQgY2xpbWF0ZXMgd2l0aCBsb2FteSBzb2lsIHJpY2ggaW4gb3JnYW5pYyBtYXR0ZXIuIFRoZSBjdWx0aXZhdGlvbiBhbmQgcHJvY2Vzc2luZyBtZXRob2RzIGNvbnRyaWJ1dGUgdG8gaXRzIHVuaXF1ZSBhcm9tYSwgZmxhdm9yLCBzaXplLCBhbmQgY29sb3IsIG1ha2luZyBJbmRpYW4gY2FyZGFtb20gaGlnaGx5IHByaXplZCBpbiBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIGFwcGxpY2F0aW9ucy4KCioqVmFybmkgRXhwb3J0cycgQ29tbWl0bWVudCoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSB0YWtlIHByaWRlIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBxdWFsaXR5IGNhcmRhbW9tIHRvIG1lZXQgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuIE91ciBjYXJkYW1vbSBzdGFuZHMgb3V0IGZvciBpdHMgZXhjZXB0aW9uYWwgcXVhbGl0eSwgYXJvbWEsIGFuZCBmbGF2b3IgcHJvZmlsZSwgY2F0ZXJpbmcgdG8gdmFyaW91cyBpbmR1c3RyaWVzIGluY2x1ZGluZyBjdWxpbmFyeSwgbWVkaWNpbmFsLCBhbmQgcGVyZnVtZXJ5LgoKKipQcm9kdWN0IERldGFpbHMqKgoKLSAqKlR5cGVzIG9mIENhcmRhbW9tKio6IFdlIG9mZmVyIGJvdGggTGFyZ2UgQ2FyZGFtb20gKE1hbGFiYXIgQ2FyZGFtb20pIGFuZCBTbWFsbCBDYXJkYW1vbSAoQWxsZXBwZXkgR3JlZW4gRXh0cmEgQm9sZCAtIEFHRUIsIEFsbGVwcGV5IEdyZWVuIEJvbGQgLSBBR0IsIGFuZCBBbGxlcHBleSBHcmVlbiBTdXBlcmlvciAtIEFHUykuIEVhY2ggdHlwZSBpcyBjYXJlZnVsbHkgc2VsZWN0ZWQgdG8gZW5zdXJlIHN1cGVyaW9yIHF1YWxpdHkgYW5kIGZyZXNobmVzcy4KICAKLSAqKkN1bGluYXJ5IFVzZXMqKjogV2lkZWx5IHVzZWQgaW4gc3dlZXRzLCBjb25mZWN0aW9uZXJ5LCBzYXZvcnkgZGlzaGVzLCBiZXZlcmFnZXMsIGFuZCBhcyBhIGZsYXZvciBlbmhhbmNlciBpbiBib3RoIHN3ZWV0IGFuZCBzYWx0eSBmb29kcy4KICAKLSAqKk1lZGljaW5hbCBhbmQgUGVyZnVtZXJ5Kio6IFJlY29nbml6ZWQgZm9yIGl0cyBtZWRpY2luYWwgcHJvcGVydGllcywgY2FyZGFtb20gaXMgdXNlZCBpbiB0cmFkaXRpb25hbCBtZWRpY2luZXMsIGhlcmJhbCByZW1lZGllcywgYW5kIHBlcmZ1bWVzIGZvciBpdHMgYXJvbWF0aWMgYW5kIHRoZXJhcGV1dGljIGJlbmVmaXRzLgogIAotICoqR2xvYmFsIERlbWFuZCoqOiBJbmRpYW4gY2FyZGFtb20sIGtub3duIGZvciBpdHMgZGlzdGluY3RpdmUgYXJvbWEgYW5kIGZsYXZvciwgZW5qb3lzIHNpZ25pZmljYW50IGRlbWFuZCBpbiBpbnRlcm5hdGlvbmFsIG1hcmtldHMsIHBhcnRpY3VsYXJseSBpbiBBc2lhIGFuZCB0aGUgTWlkZGxlIEVhc3QuCgoqKlF1YWxpdHkgQXNzdXJhbmNlIGFuZCBQYWNrYWdpbmcqKgoKLSAqKlF1YWxpdHkgQ29udHJvbCoqOiBPdXIgY2FyZGFtb20gdW5kZXJnb2VzIHJpZ29yb3VzIHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcyB0byBtYWludGFpbiBmcmVzaG5lc3MsIGZsYXZvciwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgogIAotICoqUGFja2FnaW5nKio6IEF2YWlsYWJsZSBpbiB2YXJpb3VzIHBhY2thZ2luZyBvcHRpb25zIHRhaWxvcmVkIHRvIG1lZXQgdGhlIHNwZWNpZmljIHJlcXVpcmVtZW50cyBvZiBvdXIgY3VzdG9tZXJzLCBlbnN1cmluZyBvcHRpbWFsIHNoZWxmIGxpZmUgYW5kIGN1c3RvbWVyIHNhdGlzZmFjdGlvbi4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBjYXJkYW1vbSBwcm9kdWN0cywgY29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5LiBFeHBlcmllbmNlIHRoZSByaWNobmVzcyBhbmQgdmVyc2F0aWxpdHkgb2Ygb3VyIGNhcmRhbW9tIHRoYXQgYWRkcyB1bm1hdGNoZWQgZmxhdm9yIGFuZCBhcm9tYSB0byB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyBhbmQgcHJvZHVjdHMgd29ybGR3aWRlLg==",
+              <div>
+                <h1><strong>Cardamom by Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Cardamom</strong></h2>
+                <br />
+                <p>Regarded as the 'Queen of Spices', cardamom holds a prestigious place among spices globally. It is cultivated primarily in Kerala, Tamil Nadu, and Karnataka in India. Cardamom is the dried fruit of a herbaceous perennial plant and thrives in warm, humid climates with loamy soil rich in organic matter. The cultivation and processing methods contribute to its unique aroma, flavor, size, and color, making Indian cardamom highly prized in culinary and medicinal applications.</p>
+                <br />
+
+                <h2><strong>Varni Exports' Commitment</strong></h2>
+                <br />
+                <p>At Varni Exports, we take pride in sourcing and exporting premium quality cardamom to meet the diverse needs of our global clientele. Our cardamom stands out for its exceptional quality, aroma, and flavor profile, catering to various industries including culinary, medicinal, and perfumery.</p>
+                <br />
+
+                <h2><strong>Product Details</strong></h2>
+                <br />
+                <li><strong>Types of Cardamom:</strong> We offer both Large Cardamom (Malabar Cardamom) and Small Cardamom (Alleppey Green Extra Bold - AGEB, Alleppey Green Bold - AGB, and Alleppey Green Superior - AGS). Each type is carefully selected to ensure superior quality and freshness.</li>
+                <li><strong>Culinary Uses:</strong> Widely used in sweets, confectionery, savory dishes, beverages, and as a flavor enhancer in both sweet and salty foods.</li>
+                <li><strong>Medicinal and Perfumery:</strong> Recognized for its medicinal properties, cardamom is used in traditional medicines, herbal remedies, and perfumes for its aromatic and therapeutic benefits.</li>
+                <li><strong>Global Demand:</strong> Indian cardamom, known for its distinctive aroma and flavor, enjoys significant demand in international markets, particularly in Asia and the Middle East.</li>
+                <br />
+
+                <h2><strong>Quality Assurance and Packaging</strong></h2>
+                <br />
+                <li><strong>Quality Control:</strong> Our cardamom undergoes rigorous quality control measures to maintain freshness, flavor, and nutritional value.</li>
+                <li><strong>Packaging:</strong> Available in various packaging options tailored to meet the specific requirements of our customers, ensuring optimal shelf life and customer satisfaction.</li>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries or to place an order for our premium cardamom products, contact Varni Exports today. Experience the richness and versatility of our cardamom that adds unmatched flavor and aroma to your culinary creations and products worldwide.</p>
+              </div>
+            ,
           },
 
           {
@@ -3072,7 +4245,44 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipOaWdlbGxhIFNlZWRzIChLYWxvbmppIFNlZWRzKSoqCgoqKk92ZXJ2aWV3KioKCk5pZ2VsbGEgc2VlZHMsIHBvcHVsYXJseSBrbm93biBhcyBLYWxvbmppIHNlZWRzIGluIHRoZSBJbmRpYW4gbWFya2V0LCBhcmUgY2VsZWJyYXRlZCBmb3IgdGhlaXIgZWFydGh5IGFuZCBzbW9reSB0YXN0ZS4gVGhlc2Ugc21hbGwsIG1hdHRlLWJsYWNrIGdyYWlucyB3aXRoIGEgcm91Z2ggc3VyZmFjZSBhbmQgb2lseSB3aGl0ZSBpbnRlcmlvciBhcmUgZGVyaXZlZCBmcm9tIHRoZSBwbGFudCBOaWdlbGxhIHNhdGl2YSwgb2Z0ZW4gcmVmZXJyZWQgdG8gYXMgYmxhY2sgY3VtaW4uIFRoZXkgaGF2ZSBiZWVuIHByaXplZCBmb3IgY2VudHVyaWVzIGZvciBib3RoIHRoZWlyIGN1bGluYXJ5IGFuZCBjdXJhdGl2ZSBwcm9wZXJ0aWVzLCBtYWtpbmcgdGhlbSBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IGluIHZhcmlvdXMgY3Vpc2luZXMgYW5kIHRyYWRpdGlvbmFsIG1lZGljaW5lIHByYWN0aWNlcy4KCioqTWVkaWNpbmFsIFByb3BlcnRpZXMqKgoKUmljaCBpbiBudXRyaWVudHMgYW5kIGJpb2FjdGl2ZSBjb21wb3VuZHMsIG5pZ2VsbGEgc2VlZHMgY29udGFpbiB0aHltb3F1aW5vbmUsIGEgcG90ZW50IGJpb2FjdGl2ZSBrbm93biBmb3IgaXRzIHBvdGVudGlhbCBpbiB0cmVhdGluZyBjb25kaXRpb25zIHN1Y2ggYXMgZXBpbGVwc3ksIGFsbGVyZ2llcywgYW5kIGZvciBib29zdGluZyB0aGUgaW1tdW5lIHN5c3RlbS4gVGhlIG9pbCBleHRyYWN0ZWQgZnJvbSB0aGVzZSBzZWVkcyBoYXMgYmVlbiBleHRlbnNpdmVseSB1c2VkIGluIHRoZSBNaWRkbGUgRWFzdCBhbmQgU291dGggQXNpYSBmb3IgaXRzIHRoZXJhcGV1dGljIGJlbmVmaXRzIGluIGNvc21ldGljcywgaGVyYmFsIHJlbWVkaWVzLCBhbmQgbWVkaWNpbmFsIHByb2R1Y3RzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKTmlnZWxsYSBzZWVkcyBhcmUgYXNzb2NpYXRlZCB3aXRoIGEgd2lkZSByYW5nZSBvZiBoZWFsdGggYmVuZWZpdHM6Ci0gKipDYW5jZXIgUHJldmVudGlvbioqOiBTdHVkaWVzIHN1Z2dlc3QgcG90ZW50aWFsIGJlbmVmaXRzIGluIGNvbWJhdGluZyBjZXJ2aWNhbCBjYW5jZXIgYW5kIG90aGVyIHR5cGVzIG9mIGNhbmNlcm91cyBjZWxscy4KLSAqKkNhcmRpb3Zhc2N1bGFyIEhlYWx0aCoqOiBIZWxwcyBpbiBtYW5hZ2luZyBoaWdoIGJsb29kIHByZXNzdXJlIGFuZCBwcm9tb3RpbmcgaGVhcnQgaGVhbHRoLgotICoqUmVzcGlyYXRvcnkgU3VwcG9ydCoqOiBFZmZlY3RpdmUgaW4gcmVsaWV2aW5nIGFzdGhtYSBzeW1wdG9tcyBhbmQgc29vdGhpbmcgc29yZSB0aHJvYXRzLgotICoqSW1tdW5lIEJvb3N0aW5nKio6IFN0cmVuZ3RoZW5zIHRoZSBpbW11bmUgc3lzdGVtIGFuZCBhaWRzIGluIHBvc3Qtc3VyZ2ljYWwgc2NhciBwcmV2ZW50aW9uIGFuZCByYWRpYXRpb24gZGFtYWdlIGNvbnRyb2wuCgoqKlVzZXMqKgoKLSAqKkN1bGluYXJ5Kio6IFVzZWQgYXMgc3BpY2VzIGluIGNvb2tpbmcsIHBhcnRpY3VsYXJseSBpbiBJbmRpYW4gYW5kIE1pZGRsZSBFYXN0ZXJuIGN1aXNpbmVzLiBUaGV5IGFkZCBkZXB0aCBvZiBmbGF2b3IgdG8gYnJlYWRzLCBwYXN0cmllcywgYW5kIGRlc3NlcnRzIGxpa2UgRW5nbGlzaCBzZWVkIGNha2UuCiAgCi0gKipNZWRpY2luYWwqKjogR3JvdW5kIGludG8gcG93ZGVyIGZvcm0gZm9yIGNyZWF0aW5nIEF5dXJ2ZWRpYyBtZWRpY2luZXMgb3IgdXNlZCB0b3BpY2FsbHkgYW5kIGNvbnN1bWVkIGFzIG9pbCBmb3IgdmFyaW91cyBoZWFsdGggYmVuZWZpdHMuCiAgCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHN1cGVyaW9yIHF1YWxpdHkgbmlnZWxsYSBzZWVkcyAoS2Fsb25qaSkgZnJvbSBvdXIgcHJvZHVjdGlvbiBmYWNpbGl0eS4gT3VyIHByb2R1Y3RzIGFyZSBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IGh5Z2llbmUgY29uZGl0aW9ucyB0byBlbnN1cmUgcHVyaXR5LCBhY2N1cmF0ZSBmb3JtdWxhdGlvbnMsIGFuZCBtYXhpbXVtIGZyZXNobmVzcy4KCioqQ29udGFjdCBVcyoqCgpGb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNlIGFuIG9yZGVyIGZvciBvdXIgcHJlbWl1bSBuaWdlbGxhIHNlZWRzLCBjb250YWN0IFZhcm5pIEV4cG9ydHMgdG9kYXkuIERpc2NvdmVyIHRoZSByaWNoIGFyb21hLCBkaXN0aW5jdGl2ZSBmbGF2b3IsIGFuZCBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMgb2YgbmlnZWxsYSBzZWVkcyB0aGF0IGVuaGFuY2UgYm90aCBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIHdlbGxuZXNzIHByYWN0aWNlcyBnbG9iYWxseS4K",
+              <div>
+                <h1><strong>Nigella Seeds (Kalonji Seeds)</strong></h1>
+                <br />
+
+                <h2><strong>Overview</strong></h2>
+                <br />
+                <p>Nigella seeds, popularly known as Kalonji seeds in the Indian market, are celebrated for their earthy and smoky taste. These small, matte-black grains with a rough surface and oily white interior are derived from the plant <i>Nigella sativa</i>, often referred to as black cumin. They have been prized for centuries for both their culinary and curative properties, making them a versatile ingredient in various cuisines and traditional medicine practices.</p>
+                <br />
+
+                <h2><strong>Medicinal Properties</strong></h2>
+                <br />
+                <p>Rich in nutrients and bioactive compounds, nigella seeds contain thymoquinone, a potent bioactive known for its potential in treating conditions such as epilepsy, allergies, and for boosting the immune system. The oil extracted from these seeds has been extensively used in the Middle East and South Asia for its therapeutic benefits in cosmetics, herbal remedies, and medicinal products.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <li><strong>Cancer Prevention:</strong> Studies suggest potential benefits in combating cervical cancer and other types of cancerous cells.</li>
+                <li><strong>Cardiovascular Health:</strong> Helps in managing high blood pressure and promoting heart health.</li>
+                <li><strong>Respiratory Support:</strong> Effective in relieving asthma symptoms and soothing sore throats.</li>
+                <li><strong>Immune Boosting:</strong> Strengthens the immune system and aids in post-surgical scar prevention and radiation damage control.</li>
+                <br />
+
+                <h2><strong>Uses</strong></h2>
+                <br />
+                <li><strong>Culinary:</strong> Used as spices in cooking, particularly in Indian and Middle Eastern cuisines. They add depth of flavor to breads, pastries, and desserts like English seed cake.</li>
+                <li><strong>Medicinal:</strong> Ground into powder form for creating Ayurvedic medicines or used topically and consumed as oil for various health benefits.</li>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we are committed to delivering superior quality nigella seeds (Kalonji) from our production facility. Our products are processed under stringent hygiene conditions to ensure purity, accurate formulations, and maximum freshness.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>For inquiries or to place an order for our premium nigella seeds, contact Varni Exports today. Discover the rich aroma, distinctive flavor, and numerous health benefits of nigella seeds that enhance both culinary creations and wellness practices globally.</p>
+              </div>
+            ,
           },
 
           {
@@ -3088,7 +4298,42 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "IyMjIERpc2NvdmVyIHRoZSBFc3NlbmNlIG9mIERpbGwgU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzCgpWYXJuaSBFeHBvcnRzIHByb3VkbHkgaW50cm9kdWNlcyBEaWxsIFNlZWRzLCBrbm93biBhcyAiU293YSIgaW4gSGluZGksIHNvdXJjZWQgZnJvbSB0aGUgZmluZXN0IG9yaWdpbnMgdG8gZW5oYW5jZSB5b3VyIGN1bGluYXJ5IGV4cGVyaWVuY2VzIGFuZCBoZWFsdGggYmVuZWZpdHMuCgojIyMgT3JpZ2luIGFuZCBIaXN0b3J5CgpEaWxsIG9yaWdpbmF0ZWQgYXJvdW5kIHRoZSBNZWRpdGVycmFuZWFuIGFuZCBzb3V0aGVybiBSdXNzaWEuIFpvaGFyeSBhbmQgSG9wZiBub3RlZCBpdHMgd2lkZXNwcmVhZCBwcmVzZW5jZSBpbiB0aGUgTWVkaXRlcnJhbmVhbiBCYXNpbiBhbmQgV2VzdCBBc2lhLiBBcmNoYWVvbG9naWNhbCBldmlkZW5jZSB0cmFjZXMgaXRzIGN1bHRpdmF0aW9uIHRvIGxhdGUgTmVvbGl0aGljIHNldHRsZW1lbnRzIGluIFN3aXR6ZXJsYW5kLCB3aXRoIHJlbW5hbnRzIGZvdW5kIGluIFJvbWFuIHJ1aW5zIGluIEdyZWF0IEJyaXRhaW4uCgojIyMgQ3VsaW5hcnkgRGVsaWdodAoKRGlsbCBzZWVkcyBhcmUgYSBjaGVyaXNoZWQgYW5jaWVudCBJbmRpYW4gc3BpY2UsIHZhbHVlZCBmb3IgdGhlaXIgZmxhdCwgb3ZhbCBzaGFwZSBhbmQgZGVsaWdodGZ1bCBhcm9tYS4gVGhleSBhcmUgdXNlZCB3aG9sZSBvciBjcnVzaGVkLCBlbnJpY2hpbmcgYnJlYWQsIHNvdXBzLCB2ZWdldGFibGUgZGlzaGVzLCBhbmQgcGlja2xlcy4gQWRkaXRpb25hbGx5LCB0aGV5IGVsZXZhdGUgc2FsYWQgZHJlc3NpbmdzIGFuZCBhcmUgZXNzZW50aWFsIGluIGNyZWF0aW5nIGRpbGwgdmluZWdhci4KCiMjIyBOdXRyaXRpb25hbCBQb3dlcmhvdXNlCgpSaWNoIGluIGNhbGNpdW0sIGlyb24sIG1hZ25lc2l1bSwgcG90YXNzaXVtLCB6aW5jLCBhbmQgdml0YW1pbiBBLCBkaWxsIHNlZWRzIGFsc28gYm9hc3QgZXNzZW50aWFsIGFtaW5vIGFjaWRzIGxpa2UgdGhyZW9uaW5lLCBpc29sZXVjaW5lLCBsZXVjaW5lLCBseXNpbmUsIG1ldGhpb25pbmUsIHBoZW55bGFsYW5pbmUsIHZhbGluZSwgYXJnaW5pbmUsIGFuZCBoaXN0aWRpbmUuCgojIyMgSGVhbHRoIEJlbmVmaXRzCgoxLiAqKkRpZ2VzdGl2ZSBBaWQqKjogRGlsbCBzZWVkcyBhcmUgcmVub3duZWQgZm9yIGVhc2luZyBkaWdlc3RpdmUgZGlzY29tZm9ydHMgbGlrZSB1cHNldCBzdG9tYWNoIGFuZCBkaWFycmhlYS4KICAgCjIuICoqV29tZW7igJlzIEhlYWx0aCoqOiBCZW5lZmljaWFsIGZvciBtZW5zdHJ1YWwgcGFpbiBhbmQgbGFjdGF0aW9uLCBkaWxsIHNlZWRzIGFpZCBpbiBtaWxrIHByb2R1Y3Rpb24gZm9yIG51cnNpbmcgbW90aGVycy4KCjMuICoqUmVzcGlyYXRvcnkgU3VwcG9ydCoqOiBEaWxsIHRlYSBvZmZlcnMgcmVsaWVmIGZyb20gY291Z2hzLCBmbHUgc3ltcHRvbXMsIGFuZCBiYWQgYnJlYXRoLCBhY3RpbmcgYXMgYSBuYXR1cmFsIHJlbWVkeS4KCiMjIyBDdWxpbmFyeSBhbmQgQmV5b25kCgpEaWxsJ3MgdmVyc2F0aWxpdHkgZXh0ZW5kcyBiZXlvbmQgY29va2luZzsgaXRzIHNlZWRzIGFuZCBsZWF2ZXMgZW5oYW5jZSBwaWNrbGVzLCBtZWF0LCBmaXNoLCBlZ2cgZGlzaGVzLCBhbmQgYnJlYWQuIERpbGwtaW5mdXNlZCB2aW5lZ2FyIGFuZCBvaWxzIGVucmljaCBwZXJmdW1lcyBhbmQgc29hcHMsIHNob3djYXNpbmcgaXRzIGFyb21hdGljIGVzc2VuY2UuCgojIyMgRW5qb3kgRGlsbCB3aXRoIFZhcm5pIEV4cG9ydHMKClZhcm5pIEV4cG9ydHMgaXMgZGVkaWNhdGVkIHRvIGRlbGl2ZXJpbmcgcHJlbWl1bS1xdWFsaXR5IERpbGwgU2VlZHMgdGhhdCBlbnJpY2ggY3Vpc2luZXMgd29ybGR3aWRlLiBDb250YWN0IHVzIHRvIGV4cGxvcmUgb3VyIG9mZmVyaW5ncyBhbmQgZWxldmF0ZSB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyB3aXRoIHRoZSBlc3NlbmNlIG9mIGRpbGwuIEV4cGVyaWVuY2UgdGhlIHF1YWxpdHkgYW5kIGNvbW1pdG1lbnQgb2YgVmFybmkgRXhwb3J0cyB0b2RheSE=",
+              <div>
+                <h1><strong>Discover the Essence of Dill Seeds with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Origin and History</strong></h2>
+                <br />
+                <p>Dill originated around the Mediterranean and southern Russia. Zohary and Hopf noted its widespread presence in the Mediterranean Basin and West Asia. Archaeological evidence traces its cultivation to late Neolithic settlements in Switzerland, with remnants found in Roman ruins in Great Britain.</p>
+                <br />
+
+                <h2><strong>Culinary Delight</strong></h2>
+                <br />
+                <p>Dill seeds are a cherished ancient Indian spice, valued for their flat, oval shape and delightful aroma. They are used whole or crushed, enriching bread, soups, vegetable dishes, and pickles. Additionally, they elevate salad dressings and are essential in creating dill vinegar.</p>
+                <br />
+
+                <h2><strong>Nutritional Powerhouse</strong></h2>
+                <br />
+                <p>Rich in calcium, iron, magnesium, potassium, zinc, and vitamin A, dill seeds also boast essential amino acids like threonine, isoleucine, leucine, lysine, methionine, phenylalanine, valine, arginine, and histidine.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <li><strong>Digestive Aid:</strong> Dill seeds are renowned for easing digestive discomforts like upset stomach and diarrhea.</li>
+                <li><strong>Women’s Health:</strong> Beneficial for menstrual pain and lactation, dill seeds aid in milk production for nursing mothers.</li>
+                <li><strong>Respiratory Support:</strong> Dill tea offers relief from coughs, flu symptoms, and bad breath, acting as a natural remedy.</li>
+                <br />
+
+                <h2><strong>Culinary and Beyond</strong></h2>
+                <br />
+                <p>Dill's versatility extends beyond cooking; its seeds and leaves enhance pickles, meat, fish, egg dishes, and bread. Dill-infused vinegar and oils enrich perfumes and soaps, showcasing its aromatic essence.</p>
+                <br />
+
+                <h2><strong>Enjoy Dill with Varni Exports</strong></h2>
+                <br />
+                <p>Varni Exports is dedicated to delivering premium-quality Dill Seeds that enrich cuisines worldwide. Contact us to explore our offerings and elevate your culinary creations with the essence of dill. Experience the quality and commitment of Varni Exports today!</p>
+              </div>
+            ,
           },
 
           {
@@ -3106,7 +4351,35 @@ export const catagories = [
             Packaging: "10 Kg, 15 Kg, 25 Kg",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipFeHBsb3JlIHRoZSBFc3NlbmNlIG9mIEluZGlhbiBCYXkgTGVhZiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKKipPcmlnaW4gYW5kIE5hbWUqKgoKTmF0aXZlIHRvIEFzaWEgTWlub3IsIHRoZSBJbmRpYW4gQmF5IExlYWYgaXMga25vd24gYnkgc2V2ZXJhbCBuYW1lcyBzdWNoIGFzICdTd2VldCBCYXknLCAnQmF5IExhdXJlbCcsICdOb2JsZSBMYXVyZWwnLCBhbmQgJ1RydWUgTGF1cmVsJy4gSXQgc2hhcmVzIGEgZnJhZ3JhbmNlIGFuZCB0YXN0ZSBha2luIHRvIGNpbm5hbW9uIGJhcmsgYnV0IG1pbGRlciwgY2xvc2VseSByZWxhdGVkIHRvIGNhc3NpYS4gVG8gZW5oYW5jZSBmbGF2b3IgYW5kIHJlZHVjZSBiaXR0ZXJuZXNzLCBhIGNhcmVmdWwgZHJ5aW5nIHByb2NlZHVyZSBpcyBlbXBsb3llZCBpbW1lZGlhdGVseSBhZnRlciBtYW51YWwgcGx1Y2tpbmcgYW5kIHNvcnRpbmcsIGVuc3VyaW5nIHRoZSBsZWF2ZXMgcmV0YWluIHRoZWlyIGJyaWdodCBncmVlbiBjb2xvciwgYSBoYWxsbWFyayBvZiBzdXBlcmlvciBxdWFsaXR5LgoKKipBcm9tYXRpYyBQcm9maWxlKioKCkluZGlhbiBCYXkgTGVhZiBib2FzdHMgYSBmcmFncmFuY2UgcmVtaW5pc2NlbnQgb2YgY2lubmFtb24gYmFyaywgYWxiZWl0IGdlbnRsZXIuIEl0cyB0YXN0ZSBwcm9maWxlIGlzIGFsc28gYWtpbiB0byBjYXNzaWEsIHdpdGggdGhlIGJpdHRlcm5lc3Mgc2lnbmlmaWNhbnRseSBkaW1pbmlzaGVkIHRocm91Z2ggbWV0aWN1bG91cyBkcnlpbmcgdGVjaG5pcXVlcy4gVGhlIGxlYXZlcycgYnJpZ2h0IGdyZWVuIGh1ZSBzZXJ2ZXMgYXMgYSB2aXN1YWwgaW5kaWNhdG9yIG9mIHRoZWlyIHByZW1pdW0gcXVhbGl0eSwgbWFraW5nIHRoZW0gaWRlYWwgZm9yIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgYXBwbGljYXRpb25zLgoKKipDdWxpbmFyeSBhbmQgTWVkaWNpbmFsIFVzZXMqKgoKSW5kaWFuIEJheSBMZWFmIGlzIGEgdmVyc2F0aWxlIGhlcmIgdXNlZCB0byBlbmhhbmNlIHRoZSBmbGF2b3Igb2YgdmFyaW91cyBkaXNoZXMsIGltcGFydGluZyBhIG1pbGQsIGFyb21hdGljIGVzc2VuY2UgdG8gc3Rld3MsIHNvdXBzLCBzYXVjZXMsIGFuZCBtYXJpbmFkZXMuIEJleW9uZCBpdHMgY3VsaW5hcnkgYXBwZWFsLCB0aGUgbGVhZiBvZmZlcnMgbWVkaWNpbmFsIGJlbmVmaXRzLCBjb250cmlidXRpbmcgdG8gZGlnZXN0aXZlIGhlYWx0aCBhbmQgb3ZlcmFsbCB3ZWxsbmVzcy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGluIGV2ZXJ5IGJhdGNoIG9mIEluZGlhbiBCYXkgTGVhdmVzIHdlIG9mZmVyLiBPdXIgbGVhdmVzIGFyZSBjYXJlZnVsbHkgc2VsZWN0ZWQsIG1hbnVhbGx5IHBsdWNrZWQsIGFuZCBwcm9tcHRseSBkcmllZCB0byBwcmVzZXJ2ZSB0aGVpciBhcm9tYSwgdGFzdGUsIGFuZCB2aWJyYW50IGdyZWVuIGNvbG9yLiBUaGlzIGVuc3VyZXMgdGhhdCBlYWNoIGxlYWYgcmV0YWlucyBpdHMgZnJlc2huZXNzIGFuZCBwb3RlbmN5LCByZWFkeSB0byBlbnJpY2ggeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhvbGlzdGljIHdlbGwtYmVpbmcuCgoqKkRpc2NvdmVyIEluZGlhbiBCYXkgTGVhZiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKVmFybmkgRXhwb3J0cyBpcyBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyBwcmVtaXVtLXF1YWxpdHkgSW5kaWFuIEJheSBMZWF2ZXMgdGhhdCBtZWV0IHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBvZiBmcmVzaG5lc3MgYW5kIGZsYXZvci4gQ29udGFjdCB1cyB0byBleHBsb3JlIG91ciByYW5nZSBvZiBhcm9tYXRpYyBoZXJicyBhbmQgc3BpY2VzLCBhbmQgZXhwZXJpZW5jZSB0aGUgZXNzZW5jZSBvZiBJbmRpYW4gQmF5IExlYWYgaW4geW91ciBraXRjaGVuIGFuZCBiZXlvbmQuIFBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzIGZvciBleGNlcHRpb25hbCBxdWFsaXR5IGFuZCBzZXJ2aWNlLg==",
+              <div>
+                <h1><strong>Explore the Essence of Indian Bay Leaf with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Origin and Name</strong></h2>
+                <br />
+                <p>Native to Asia Minor, the Indian Bay Leaf is known by several names such as 'Sweet Bay', 'Bay Laurel', 'Noble Laurel', and 'True Laurel'. It shares a fragrance and taste akin to cinnamon bark but milder, closely related to cassia. To enhance flavor and reduce bitterness, a careful drying procedure is employed immediately after manual plucking and sorting, ensuring the leaves retain their bright green color, a hallmark of superior quality.</p>
+                <br />
+
+                <h2><strong>Aromatic Profile</strong></h2>
+                <br />
+                <p>Indian Bay Leaf boasts a fragrance reminiscent of cinnamon bark, albeit gentler. Its taste profile is also akin to cassia, with the bitterness significantly diminished through meticulous drying techniques. The leaves' bright green hue serves as a visual indicator of their premium quality, making them ideal for culinary and medicinal applications.</p>
+                <br />
+
+                <h2><strong>Culinary and Medicinal Uses</strong></h2>
+                <br />
+                <p>Indian Bay Leaf is a versatile herb used to enhance the flavor of various dishes, imparting a mild, aromatic essence to stews, soups, sauces, and marinades. Beyond its culinary appeal, the leaf offers medicinal benefits, contributing to digestive health and overall wellness.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we prioritize quality in every batch of Indian Bay Leaves we offer. Our leaves are carefully selected, manually plucked, and promptly dried to preserve their aroma, taste, and vibrant green color. This ensures that each leaf retains its freshness and potency, ready to enrich your culinary creations and holistic well-being.</p>
+                <br />
+
+                <h2><strong>Discover Indian Bay Leaf with Varni Exports</strong></h2>
+                <br />
+                <p>Varni Exports is committed to delivering premium-quality Indian Bay Leaves that meet the highest standards of freshness and flavor. Contact us to explore our range of aromatic herbs and spices, and experience the essence of Indian Bay Leaf in your kitchen and beyond. Partner with Varni Exports for exceptional quality and service.</p>
+              </div>
+            ,
           },
 
           {
@@ -3125,7 +4398,40 @@ export const catagories = [
             Packaging: "1 to 50 kg, PP Bags, Jute Bags",
             Loading: "15 to 30 Tons",
             description:
-              "KipEaXNjb3ZlciBBandhaW4gU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqT3JpZ2luIGFuZCBOYW1lKioKCkFqd2FpbiBzZWVkcywgYWxzbyBrbm93biBhcyBjYXJvbSBzZWVkcyBvciBiaXNob3AncyB3ZWVkLCBvcmlnaW5hdGUgZnJvbSB0aGUgRWFzdGVybiBNZWRpdGVycmFuZWFuIGFuZCBhcmUgY3VsdGl2YXRlZCBhY3Jvc3MgSW5kaWEuIEtub3duIGZvciB0aGVpciBwdW5nZW50IGFyb21hIGFuZCBkaXN0aW5jdCB0YXN0ZSwgYWp3YWluIHNlZWRzIGhhdmUgYmVlbiBpbnRlZ3JhbCB0byBJbmRpYW4gY3VsaW5hcnkgYW5kIG1lZGljaW5hbCBwcmFjdGljZXMgZm9yIGNlbnR1cmllcy4KCioqQXJvbWF0aWMgUHJvZmlsZSoqCgpBandhaW4gc2VlZHMgaGF2ZSBhIHN0cm9uZywgYXJvbWF0aWMgc2NlbnQgcmVtaW5pc2NlbnQgb2YgdGh5bWUsIHdpdGggYSBmbGF2b3IgdGhhdCBjb21iaW5lcyBiaXR0ZXJuZXNzIGFuZCBzbGlnaHQgcGVwcGVyeSB1bmRlcnRvbmVzLiBUaGUgc2VlZHMgYXJlIHNtYWxsIGFuZCBvdmFsLXNoYXBlZCwgd2l0aCByaWRnZXMgdGhhdCBjb250cmlidXRlIHRvIHRoZWlyIHVuaXF1ZSB0ZXh0dXJlIGFuZCBhcHBlYXJhbmNlLgoKKipDdWxpbmFyeSBVc2VzKioKCkluIEluZGlhbiBjdWlzaW5lLCBhandhaW4gc2VlZHMgYXJlIGEgcG9wdWxhciBzcGljZSB1c2VkIHRvIGVuaGFuY2UgdGhlIGZsYXZvciBvZiB2YXJpb3VzIGRpc2hlcy4gVGhleSBhcmUgb2Z0ZW4gYWRkZWQgdG8gYnJlYWQsIHN1Y2ggYXMgcGFyYXRoYXMgYW5kIHB1cmlzLCB0byBpbXBhcnQgYSBkaXN0aW5jdGl2ZSB0YXN0ZSBhbmQgYWlkIGluIGRpZ2VzdGlvbi4gQWRkaXRpb25hbGx5LCB0aGV5IGFyZSB1c2VkIGluIHBpY2tsZXMsIHNuYWNrcywgY3VycmllcywgYW5kIHNwaWNlIGJsZW5kcywgb2ZmZXJpbmcgYSB3YXJtLCBlYXJ0aHkgZmxhdm9yIHRoYXQgY29tcGxlbWVudHMgYm90aCB2ZWdldGFyaWFuIGFuZCBub24tdmVnZXRhcmlhbiBkaXNoZXMuCgoqKk1lZGljaW5hbCBCZW5lZml0cyoqCgpBandhaW4gc2VlZHMgYXJlIHJlbm93bmVkIGZvciB0aGVpciBtZWRpY2luYWwgcHJvcGVydGllcy4gVGhleSBhcmUgdmFsdWVkIGZvciB0aGVpciBhYmlsaXR5IHRvIGFpZCBkaWdlc3Rpb24sIGFsbGV2aWF0ZSBzdG9tYWNoIGRpc2NvbWZvcnRzIHN1Y2ggYXMgZ2FzIGFuZCBibG9hdGluZywgYW5kIGVuaGFuY2UgYXBwZXRpdGUuIFRoZSBzZWVkcyBjb250YWluIGVzc2VudGlhbCBvaWxzIGxpa2UgdGh5bW9sLCB3aGljaCBoYXZlIGFudGltaWNyb2JpYWwgYW5kIGFudGlmdW5nYWwgcHJvcGVydGllcywgbWFraW5nIGFqd2FpbiBhIHBvcHVsYXIgcmVtZWR5IGZvciByZXNwaXJhdG9yeSBpc3N1ZXMgbGlrZSBjb3VnaHMgYW5kIGFzdGhtYS4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIHRoYXQgb3VyIGFqd2FpbiBzZWVkcyBhcmUgc291cmNlZCBmcm9tIHJlcHV0YWJsZSBncm93ZXJzIGFuZCBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbCBtZWFzdXJlcy4gRWFjaCBiYXRjaCBpcyBjYXJlZnVsbHkgaW5zcGVjdGVkIHRvIG1haW50YWluIGZyZXNobmVzcywgYXJvbWEsIGFuZCBmbGF2b3IsIGVuc3VyaW5nIHRoYXQgb3VyIGN1c3RvbWVycyByZWNlaXZlIG9ubHkgdGhlIGhpZ2hlc3QgcXVhbGl0eSBhandhaW4gc2VlZHMuCgoqKkV4cGxvcmUgQWp3YWluIFNlZWRzIHdpdGggVmFybmkgRXhwb3J0cyoqCgpQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyB0byBleHBlcmllbmNlIHRoZSBhcm9tYXRpYyBhbmQgZmxhdm9yZnVsIGFqd2FpbiBzZWVkcyB0aGF0IGFkZCBhIGRpc3RpbmN0aXZlIHRvdWNoIHRvIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zLiBDb250YWN0IHVzIHRvIGRpc2NvdmVyIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIHNwaWNlcyBhbmQgaGVyYnMsIGFuZCBob3cgd2UgY2FuIGNhdGVyIHRvIHlvdXIgc291cmNpbmcgbmVlZHMgd2l0aCByZWxpYWJpbGl0eSBhbmQgZXhjZWxsZW5jZS4gVHJ1c3QgVmFybmkgRXhwb3J0cyBmb3IgcHJlbWl1bSBxdWFsaXR5IGFqd2FpbiBzZWVkcyBhbmQgZXhjZXB0aW9uYWwgc2VydmljZS4=",
+              <div>
+                <h1><strong>Discover Ajwain Seeds with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Origin and Name</strong></h2>
+                <br />
+                <p>Ajwain seeds, also known as carom seeds or bishop's weed, originate from the Eastern Mediterranean and are cultivated across India. Known for their pungent aroma and distinct taste, ajwain seeds have been integral to Indian culinary and medicinal practices for centuries.</p>
+                <br />
+
+                <h2><strong>Aromatic Profile</strong></h2>
+                <br />
+                <p>Ajwain seeds have a strong, aromatic scent reminiscent of thyme, with a flavor that combines bitterness and slight peppery undertones. The seeds are small and oval-shaped, with ridges that contribute to their unique texture and appearance.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>In Indian cuisine, ajwain seeds are a popular spice used to enhance the flavor of various dishes. They are often added to bread, such as parathas and puris, to impart a distinctive taste and aid in digestion. Additionally, they are used in pickles, snacks, curries, and spice blends, offering a warm, earthy flavor that complements both vegetarian and non-vegetarian dishes.</p>
+                <br />
+
+                <h2><strong>Medicinal Benefits</strong></h2>
+                <br />
+                <p>Ajwain seeds are renowned for their medicinal properties. They are valued for their ability to aid digestion, alleviate stomach discomforts such as gas and bloating, and enhance appetite. The seeds contain essential oils like thymol, which have antimicrobial and antifungal properties, making ajwain a popular remedy for respiratory issues like coughs and asthma.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we ensure that our ajwain seeds are sourced from reputable growers and processed under stringent quality control measures. Each batch is carefully inspected to maintain freshness, aroma, and flavor, ensuring that our customers receive only the highest quality ajwain seeds.</p>
+                <br />
+
+                <h2><strong>Explore Ajwain Seeds with Varni Exports</strong></h2>
+                <br />
+                <p>Partner with Varni Exports to experience the aromatic and flavorful ajwain seeds that add a distinctive touch to your culinary creations. Contact us to discover more about our range of spices and herbs, and how we can cater to your sourcing needs with reliability and excellence. Trust Varni Exports for premium quality ajwain seeds and exceptional service.</p>
+              </div>
+            ,
           },
 
           {
@@ -3142,7 +4448,35 @@ export const catagories = [
             Packaging: "1 to 50 kg, PP Bags, Jute Bags",
             Loading: "15 to 30 Tons",
             description:
-              "KipJbnRyb2R1Y2luZyBDYXJhd2F5IFNlZWRzIHdpdGggVmFybmkgRXhwb3J0cyoqCgoqKk9yaWdpbnMgYW5kIENoYXJhY3RlcmlzdGljcyoqCgpDYXJhd2F5IHNlZWRzLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBDYXJ1bSBjYXJ2aSwgYXJlIG5hdGl2ZSB0byBFdXJvcGUsIFdlc3Rlcm4gQXNpYSwgYW5kIE5vcnRoIEFmcmljYS4gVGhlc2Ugc2VlZHMgaGF2ZSBhIHdhcm0sIGFyb21hdGljIGZsYXZvciB3aXRoIGEgaGludCBvZiBjaXRydXMgYW5kIGFuaXNlLWxpa2UgdW5kZXJ0b25lcy4gVGhleSBhcmUgc21hbGwgYW5kIGNyZXNjZW50LXNoYXBlZCwgZmVhdHVyaW5nIHByb21pbmVudCByaWRnZXMgYWxvbmcgdGhlaXIgc3VyZmFjZS4KCioqQ3VsaW5hcnkgRGVsaWdodHMqKgoKQ2FyYXdheSBzZWVkcyBhcmUgYSB2ZXJzYXRpbGUgc3BpY2UgdXNlZCBpbiBjdWlzaW5lcyB3b3JsZHdpZGUuIEluIEV1cm9wZWFuIGNvb2tpbmcsIHRoZXkgYXJlIGEga2V5IGluZ3JlZGllbnQgaW4gcnllIGJyZWFkLCBpbXBhcnRpbmcgYSBkaXN0aW5jdGl2ZSBmbGF2b3IuIFRoZXkgYWxzbyBlbmhhbmNlIHRoZSB0YXN0ZSBvZiBzYXVlcmtyYXV0LCBjYWJiYWdlIGRpc2hlcywgYW5kIHZhcmlvdXMgY2hlZXNlcy4gSW4gTWlkZGxlIEVhc3Rlcm4gYW5kIEluZGlhbiBjdWlzaW5lcywgY2FyYXdheSBzZWVkcyBhcmUgdXNlZCBpbiBtZWF0IGRpc2hlcywgc3Rld3MsIGFuZCBhcyBhIGZsYXZvcmluZyBhZ2VudCBpbiBzcGljZSBibGVuZHMgbGlrZSBnYXJhbSBtYXNhbGEuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpCZXlvbmQgdGhlaXIgY3VsaW5hcnkgdXNlcywgY2FyYXdheSBzZWVkcyBvZmZlciBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuIFRoZXkgYXJlIHJpY2ggaW4gZXNzZW50aWFsIG9pbHMsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIGluY2x1ZGluZyBmaWJlciwgY2FsY2l1bSwgaXJvbiwgYW5kIG1hZ25lc2l1bS4gQ2FyYXdheSBzZWVkcyBhcmUga25vd24gZm9yIHRoZWlyIGRpZ2VzdGl2ZSBwcm9wZXJ0aWVzLCBhaWRpbmcgaW4gcmVsaWV2aW5nIGJsb2F0aW5nLCBpbmRpZ2VzdGlvbiwgYW5kIGZsYXR1bGVuY2UuIFRoZXkgYWxzbyBwb3NzZXNzIGFudGlveGlkYW50IGFuZCBhbnRpbWljcm9iaWFsIHByb3BlcnRpZXMgdGhhdCBjb250cmlidXRlIHRvIG92ZXJhbGwgd2VsbC1iZWluZy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGluIGV2ZXJ5IGJhdGNoIG9mIGNhcmF3YXkgc2VlZHMgd2Ugc291cmNlIGFuZCBleHBvcnQuIE91ciBzZWVkcyBhcmUgbWV0aWN1bG91c2x5IHNlbGVjdGVkIGZyb20gdHJ1c3RlZCBncm93ZXJzIHRvIGVuc3VyZSBmcmVzaG5lc3MsIGZsYXZvciwgYW5kIG51dHJpdGlvbmFsIHZhbHVlLiBSaWdvcm91cyBxdWFsaXR5IGNvbnRyb2wgbWVhc3VyZXMgYXJlIGVtcGxveWVkIHRocm91Z2hvdXQgdGhlIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZyBzdGFnZXMgdG8gbWVldCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBhbmQgZXhjZWVkIGN1c3RvbWVyIGV4cGVjdGF0aW9ucy4KCioqUGFydG5lciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgd29ybGQgb2YgY2FyYXdheSBzZWVkcyB3aXRoIFZhcm5pIEV4cG9ydHMsIHlvdXIgcmVsaWFibGUgcGFydG5lciBpbiBzb3VyY2luZyBwcmVtaXVtIHNwaWNlcyBhbmQgaGVyYnMuIENvbnRhY3QgdXMgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZGl2ZXJzZSByYW5nZSBvZiBwcm9kdWN0cyBhbmQgaG93IHdlIGNhbiBtZWV0IHlvdXIgc3BlY2lmaWMgcmVxdWlyZW1lbnRzIHdpdGggcHJvZmVzc2lvbmFsaXNtIGFuZCBlZmZpY2llbmN5LiBUcnVzdCBWYXJuaSBFeHBvcnRzIGZvciBzdXBlcmlvciBxdWFsaXR5IGNhcmF3YXkgc2VlZHMgYW5kIGV4Y2VwdGlvbmFsIHNlcnZpY2UgaW4gZXZlcnkgc2hpcG1lbnQu",
+              <div>
+                <h1><strong>Introducing Caraway Seeds with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Origins and Characteristics</strong></h2>
+                <br />
+                <p>Caraway seeds, scientifically known as <em>Carum carvi</em>, are native to Europe, Western Asia, and North Africa. These seeds have a warm, aromatic flavor with a hint of citrus and anise-like undertones. They are small and crescent-shaped, featuring prominent ridges along their surface.</p>
+                <br />
+
+                <h2><strong>Culinary Delights</strong></h2>
+                <br />
+                <p>Caraway seeds are a versatile spice used in cuisines worldwide. In European cooking, they are a key ingredient in rye bread, imparting a distinctive flavor. They also enhance the taste of sauerkraut, cabbage dishes, and various cheeses. In Middle Eastern and Indian cuisines, caraway seeds are used in meat dishes, stews, and as a flavoring agent in spice blends like garam masala.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Beyond their culinary uses, caraway seeds offer numerous health benefits. They are rich in essential oils, vitamins, and minerals, including fiber, calcium, iron, and magnesium. Caraway seeds are known for their digestive properties, aiding in relieving bloating, indigestion, and flatulence. They also possess antioxidant and antimicrobial properties that contribute to overall well-being.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we prioritize quality in every batch of caraway seeds we source and export. Our seeds are meticulously selected from trusted growers to ensure freshness, flavor, and nutritional value. Rigorous quality control measures are employed throughout the processing and packaging stages to meet international standards and exceed customer expectations.</p>
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>Explore the world of caraway seeds with Varni Exports, your reliable partner in sourcing premium spices and herbs. Contact us to discover more about our diverse range of products and how we can meet your specific requirements with professionalism and efficiency. Trust Varni Exports for superior quality caraway seeds and exceptional service in every shipment.</p>
+              </div>
+            ,
           },
 
           {
@@ -3160,7 +4494,40 @@ export const catagories = [
             Packaging: "1 to 50 kg, PP Bags, Jute Bags",
             Loading: "15 to 30 Tons",
             description:
-              "KipJbnRyb2R1Y2luZyBDZWxlcnkgU2VlZHMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqT3JpZ2lucyBhbmQgQ2hhcmFjdGVyaXN0aWNzKioKCkNlbGVyeSBzZWVkcywgZGVyaXZlZCBmcm9tIHRoZSBjZWxlcnkgcGxhbnQgKEFwaXVtIGdyYXZlb2xlbnMpLCBhcmUgc21hbGwgYW5kIGRhcmsgYnJvd24gd2l0aCBhIHN0cm9uZyBhcm9tYSBhbmQgaW50ZW5zZSBmbGF2b3IuIE5hdGl2ZSB0byB0aGUgTWVkaXRlcnJhbmVhbiByZWdpb24gYW5kIHdpZGVseSBjdWx0aXZhdGVkIGdsb2JhbGx5LCBjZWxlcnkgc2VlZHMgYXJlIGtub3duIGZvciB0aGVpciBkaXN0aW5jdCB0YXN0ZSB0aGF0IGNvbWJpbmVzIGVhcnRoaW5lc3Mgd2l0aCBhIGhpbnQgb2YgYml0dGVybmVzcyBhbmQgcGVwcGVyaW5lc3MuCgoqKkN1bGluYXJ5IFVzZXMqKgoKQ2VsZXJ5IHNlZWRzIGFyZSBhIHZlcnNhdGlsZSBzcGljZSB1c2VkIGluIHZhcmlvdXMgY3Vpc2luZXMgYXJvdW5kIHRoZSB3b3JsZC4gVGhleSBhcmUgYSBjb21tb24gaW5ncmVkaWVudCBpbiBwaWNrbGluZyBicmluZXMsIGltcGFydGluZyBhIHJvYnVzdCBmbGF2b3IgdG8gcGlja2xlZCB2ZWdldGFibGVzIGxpa2UgY3VjdW1iZXJzIGFuZCBjYXJyb3RzLiBJbiBjb29raW5nLCBjZWxlcnkgc2VlZHMgYXJlIHVzZWQgdG8gc2Vhc29uIHNvdXBzLCBzdGV3cywgc2F1Y2VzLCBhbmQgc2FsYWQgZHJlc3NpbmdzLCBhZGRpbmcgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gZGlzaGVzLiBUaGV5IGFyZSBhbHNvIHBvcHVsYXIgaW4gc3BpY2UgYmxlbmRzLCBzdWNoIGFzIGN1cnJ5IHBvd2RlcnMgYW5kIHNwaWNlIHJ1YnMgZm9yIG1lYXRzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIHRoZWlyIGN1bGluYXJ5IGFwcGxpY2F0aW9ucywgY2VsZXJ5IHNlZWRzIGFyZSB2YWx1ZWQgZm9yIHRoZWlyIHBvdGVudGlhbCBoZWFsdGggYmVuZWZpdHMuIFRoZXkgY29udGFpbiBlc3NlbnRpYWwgb2lscywgYW50aW94aWRhbnRzLCB2aXRhbWlucywgYW5kIG1pbmVyYWxzIHRoYXQgc3VwcG9ydCBkaWdlc3RpdmUgaGVhbHRoIGFuZCBvdmVyYWxsIHdlbGwtYmVpbmcuIENlbGVyeSBzZWVkcyBhcmUgYmVsaWV2ZWQgdG8gaGF2ZSBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIGFuZCBtYXkgaGVscCBpbiByZWR1Y2luZyBpbmZsYW1tYXRpb24tcmVsYXRlZCBhaWxtZW50cy4gQWRkaXRpb25hbGx5LCB0aGV5IGFyZSBrbm93biB0byBhaWQgaW4gbG93ZXJpbmcgYmxvb2QgcHJlc3N1cmUgYW5kIGltcHJvdmluZyBjYXJkaW92YXNjdWxhciBoZWFsdGguCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHVwaG9sZCBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMgdG8gZGVsaXZlciBwcmVtaXVtIGNlbGVyeSBzZWVkcyB0byBvdXIgY3VzdG9tZXJzIHdvcmxkd2lkZS4gV2Ugc291cmNlIG91ciBzZWVkcyBmcm9tIHJlcHV0YWJsZSBncm93ZXJzIGFuZCBlbnN1cmUgdGhleSB1bmRlcmdvIHJpZ29yb3VzIHF1YWxpdHkgY2hlY2tzIHRocm91Z2hvdXQgdGhlIHByb2Nlc3NpbmcgYW5kIHBhY2thZ2luZyBzdGFnZXMuIE91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyB0aGF0IGVhY2ggYmF0Y2ggb2YgY2VsZXJ5IHNlZWRzIG1lZXRzIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgYW5kIHF1YWxpdHkgcmVndWxhdGlvbnMuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkV4cGxvcmUgdGhlIGN1bGluYXJ5IGFuZCBoZWFsdGggYmVuZWZpdHMgb2YgY2VsZXJ5IHNlZWRzIHdpdGggVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gc291cmNpbmcgaGlnaC1xdWFsaXR5IHNwaWNlcyBhbmQgaGVyYnMuIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIGZvciBidWxrIHF1YW50aXRpZXMgb3Igc3BlY2lhbGl6ZWQgYmxlbmRzLCB3ZSBhcmUgZGVkaWNhdGVkIHRvIG1lZXRpbmcgeW91ciBuZWVkcyB3aXRoIHJlbGlhYmlsaXR5IGFuZCBwcm9mZXNzaW9uYWxpc20uIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZGl2ZXJzZSBwcm9kdWN0IG9mZmVyaW5ncyBhbmQgaG93IHdlIGNhbiBhc3Npc3QgeW91IGluIGFjaGlldmluZyB5b3VyIGJ1c2luZXNzIG9iamVjdGl2ZXMuCgoqKlRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIEV4Y2VwdGlvbmFsIFF1YWxpdHkgYW5kIFNlcnZpY2UqKgoKQ291bnQgb24gVmFybmkgRXhwb3J0cyBmb3Igc3VwZXJpb3IgY2VsZXJ5IHNlZWRzIGFuZCB1bnBhcmFsbGVsZWQgc2VydmljZS4gV2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIGZyZXNobmVzcywgZmxhdm9yLCBhbmQgbnV0cml0aW9uYWwgdmFsdWUgaW4gZXZlcnkgc2hpcG1lbnQsIGVuc3VyaW5nIHlvdXIgc2F0aXNmYWN0aW9uIGFuZCBzdWNjZXNzIGluIHRoZSBnbG9iYWwgbWFya2V0LiBFeHBlcmllbmNlIHRoZSBkaWZmZXJlbmNlIHdpdGggVmFybmkgRXhwb3J0cyDigJMgeW91ciBnYXRld2F5IHRvIHByZW1pdW0gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu",
+              <div>
+                <h1><strong>Introducing Celery Seeds with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Origins and Characteristics</strong></h2>
+                <br />
+                <p>Celery seeds, derived from the celery plant (<em>Apium graveolens</em>), are small and dark brown with a strong aroma and intense flavor. Native to the Mediterranean region and widely cultivated globally, celery seeds are known for their distinct taste that combines earthiness with a hint of bitterness and pepperiness.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Celery seeds are a versatile spice used in various cuisines around the world. They are a common ingredient in pickling brines, imparting a robust flavor to pickled vegetables like cucumbers and carrots. In cooking, celery seeds are used to season soups, stews, sauces, and salad dressings, adding depth and complexity to dishes. They are also popular in spice blends, such as curry powders and spice rubs for meats.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Beyond their culinary applications, celery seeds are valued for their potential health benefits. They contain essential oils, antioxidants, vitamins, and minerals that support digestive health and overall well-being. Celery seeds are believed to have anti-inflammatory properties and may help in reducing inflammation-related ailments. Additionally, they are known to aid in lowering blood pressure and improving cardiovascular health.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>At Varni Exports, we uphold stringent quality standards to deliver premium celery seeds to our customers worldwide. We source our seeds from reputable growers and ensure they undergo rigorous quality checks throughout the processing and packaging stages. Our commitment to excellence ensures that each batch of celery seeds meets international food safety and quality regulations.</p>
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>Explore the culinary and health benefits of celery seeds with Varni Exports, your trusted partner in sourcing high-quality spices and herbs. Whether you are looking for bulk quantities or specialized blends, we are dedicated to meeting your needs with reliability and professionalism. Contact us today to discover more about our diverse product offerings and how we can assist you in achieving your business objectives.</p>
+                <br />
+
+                <h2><strong>Trust Varni Exports for Exceptional Quality and Service</strong></h2>
+                <br />
+                <p>Count on Varni Exports for superior celery seeds and unparalleled service. We are committed to delivering freshness, flavor, and nutritional value in every shipment, ensuring your satisfaction and success in the global market. Experience the difference with Varni Exports – your gateway to premium spices and herbs from around the world.</p>
+              </div>
+            ,
           },
 
           {
@@ -3178,7 +4545,53 @@ export const catagories = [
             Packaging: "1 to 50 kg, PP Bags, Jute Bags",
             Loading: "15 to 30 Tons",
             description:
-              "KipEaXNjb3ZlciBDaW5uYW1vbiB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKKipJbnRyb2R1Y3Rpb24gdG8gQ2lubmFtb24qKgoKQ2lubmFtb24sIG9mdGVuIHJlZmVycmVkIHRvIGFzICJUcnVlIENpbm5hbW9uIiBvciBTcmkgTGFua2FuIENpbm5hbW9uLCBpcyB0aGUgZHJpZWQgaW5uZXIgc3RlbSBiYXJrIG9mIENpbm5hbW9tdW0gdmVydW0uIEN1bHRpdmF0ZWQgcHJpbWFyaWx5IGluIFNyaSBMYW5rYSwgdGhlIE1hbGFnYXN5IFJlcHVibGljLCBhbmQgU2V5Y2hlbGxlcywgaXQgb3JpZ2luYXRlcyBmcm9tIHRoZSBjZW50cmFsIGhpbGxzIG9mIFNyaSBMYW5rYSBhbmQgaXMgYWxzbyBncm93biBpbiBzZWxlY3QgbG9jYXRpb25zIGluIEtlcmFsYSwgSW5kaWEuIENpbm5hbW9uIHBsYW50cyBncm93IGFzIGJ1c2hlcyBhbmQgYXJlIHJlYWR5IGZvciBoYXJ2ZXN0aW5nIHdoZW4gdGhleSByZWFjaCBhYm91dCB0d28geWVhcnMgb2YgYWdlLCBzdGFuZGluZyBhcHByb3hpbWF0ZWx5IDIgbWV0ZXJzIHRhbGwgYW5kIDgtMTIgY20gaW4gZGlhbWV0ZXIgYXQgdGhlIGJhc2UuCgoqKkN1bHRpdmF0aW9uIGFuZCBDb25kaXRpb25zKioKCkNpbm5hbW9uIHRocml2ZXMgaW4gdmFyeWluZyBjb25kaXRpb25zIGZyb20gc2VtaS1kcmllZCB0byB3ZXQgem9uZXMsIHdpdGggYW4gaWRlYWwgdGVtcGVyYXR1cmUgcmFuZ2Ugb2YgMjAtMzAgZGVncmVlcyBDZWxzaXVzIGFuZCBhbm51YWwgcmFpbmZhbGwgYmV0d2VlbiAxMjUwIHRvIDI1MDAgbW0uIEl0IGZsb3VyaXNoZXMgYmVzdCBhcyBhIGZvcmVzdCB0cmVlIGF0IGVsZXZhdGlvbnMgb2YgMzAwLTM1MCBtZXRlcnMgYWJvdmUgc2VhIGxldmVsLgoKKipDb21tZXJjaWFsIFByb2R1Y3RzIGFuZCBVc2VzKioKClRoZSBjb21tZXJjaWFsIHByb2R1Y3RzIGRlcml2ZWQgZnJvbSBjaW5uYW1vbiBpbmNsdWRlOgotICoqUXVpbGxzOioqIFNjcmFwZWQgcGVlbCBvZiB0aGUgaW5uZXIgYmFyayBvZiBtYXR1cmUgY2lubmFtb24gc2hvb3RzLCByb2xsZWQgaW50byB0dWJlcyBmaWxsZWQgd2l0aCBzbWFsbGVyIHBpZWNlcywgZHJpZWQgaW4gdGhlIHN1biBhbmQgc2hhZGUuCi0gKipRdWlsbGluZ3M6KiogQnJva2VuIHBpZWNlcyBhbmQgc3BsaXRzIG9mIGNpbm5hbW9uIHF1aWxscy4KLSAqKkZlYXRoZXJpbmdzOioqIEZlYXRoZXItbGlrZSBwaWVjZXMgb2YgaW5uZXIgYmFyaywgY29uc2lzdGluZyBvZiBzaGF2aW5ncyBhbmQgc21hbGwgYmFyayBmcmFnbWVudHMuCi0gKipDaGlwczoqKiBSb3VnaCwgdW5wZWVsYWJsZSBiYXJrcyBzY3JhcGVkIGZyb20gdGhpY2tlciBzdGVtcy4KCioqQ2lubmFtb24gT2lscyoqCgpDaW5uYW1vbiBpcyBhbHNvIHZhbHVlZCBmb3IgaXRzIGVzc2VudGlhbCBvaWxzIG9idGFpbmVkIGZyb20gdGhlIGJhcmsgYW5kIGxlYXZlcyB0aHJvdWdoIGRpc3RpbGxhdGlvbjoKLSAqKkNpbm5hbW9uIEJhcmsgT2lsOioqIEtub3duIGZvciBpdHMgZGVsaWNhdGUgZnJhZ3JhbmNlIGFuZCB3YXJtLCBhZ3JlZWFibGUgdGFzdGUsIHVzZWQgaW4gZmxhdm9yaW5nIGNvbmZlY3Rpb25lcnksIGxpcXVvcnMsIHBoYXJtYWNldXRpY2FscywgYW5kIGNvc21ldGljcy4gSXQgcG9zc2Vzc2VzIGFudGktZnVuZ2FsIHByb3BlcnRpZXMgYW5kIGFpZHMgaW4gZGlnZXN0aW9uLgotICoqQ2lubmFtb24gTGVhZiBPaWw6KiogV2lkZWx5IHVzZWQgaW4gcGVyZnVtZXJ5IGFuZCBjb3NtZXRpY3MsIGNvbnRyaWJ1dGluZyB0byBpdHMgZGlzdGluY3QgYXJvbWEgcHJvZmlsZS4KCioqSGVhbHRoIEJlbmVmaXRzIGFuZCBDdWxpbmFyeSBVc2VzKioKCkNpbm5hbW9uIGlzIGNlbGVicmF0ZWQgbm90IG9ubHkgZm9yIGl0cyBjdWxpbmFyeSB1c2VzIGJ1dCBhbHNvIGZvciBpdHMgaGVhbHRoIGJlbmVmaXRzOgotIEl0IGFpZHMgaW4gZGlnZXN0aW9uLCBwYXJ0aWN1bGFybHkgZm9yIGRpYWJldGljcyBtYW5hZ2luZyBzdWdhci4KLSBJdCBleGhpYml0cyBhc3RyaW5nZW50LCBzdGltdWxhbnQsIGFuZCBjYXJtaW5hdGl2ZSBwcm9wZXJ0aWVzLCBoZWxwaW5nIHRvIGFsbGV2aWF0ZSBuYXVzZWEgYW5kIHZvbWl0aW5nLgoKKipQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzcGVjaWFsaXplIGluIHNvdXJjaW5nIGFuZCBleHBvcnRpbmcgcHJlbWl1bSBjaW5uYW1vbiBwcm9kdWN0cyB0aGF0IG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMgb2YgcXVhbGl0eSBhbmQgZnJlc2huZXNzLiBXaGV0aGVyIHlvdSBuZWVkIGNpbm5hbW9uIHF1aWxscywgcG93ZGVyLCBvciBlc3NlbnRpYWwgb2lscywgd2UgZW5zdXJlIGVhY2ggYmF0Y2ggaXMgbWV0aWN1bG91c2x5IHByb2Nlc3NlZCBhbmQgcGFja2FnZWQgdG8gcHJlc2VydmUgaXRzIGFyb21hIGFuZCBmbGF2b3IuIFBhcnRuZXIgd2l0aCB1cyB0byBkaXNjb3ZlciB0aGUgZXhjZXB0aW9uYWwgcXVhbGl0aWVzIG9mIGNpbm5hbW9uIGFuZCBleHBsb3JlIGl0cyB2ZXJzYXRpbGUgYXBwbGljYXRpb25zIGluIHZhcmlvdXMgaW5kdXN0cmllcy4KCioqQ29udGFjdCBWYXJuaSBFeHBvcnRzIFRvZGF5KioKCkZvciBpbnF1aXJpZXMgYWJvdXQgb3VyIGNpbm5hbW9uIHByb2R1Y3RzIG9yIHRvIGRpc2N1c3MgeW91ciBzcGVjaWZpYyByZXF1aXJlbWVudHMsIGNvbnRhY3QgVmFybmkgRXhwb3J0cy4gV2UgYXJlIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcmVsaWFibGUgc2VydmljZSBhbmQgc3VwZXJpb3IgcXVhbGl0eSBjaW5uYW1vbiBwcm9kdWN0cyB0aGF0IGVuaGFuY2UgeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgYW5kIGhlYWx0aCBpbml0aWF0aXZlcy4gSm9pbiBoYW5kcyB3aXRoIFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu",
+              <div>
+                <h1><strong>Discover Cinnamon with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Cinnamon</strong></h2>
+                <br />
+                <p>Cinnamon, often referred to as "True Cinnamon" or Sri Lankan Cinnamon, is the dried inner stem bark of <em>Cinnamomum verum</em>. Cultivated primarily in Sri Lanka, the Malagasy Republic, and Seychelles, it originates from the central hills of Sri Lanka and is also grown in select locations in Kerala, India. Cinnamon plants grow as bushes and are ready for harvesting when they reach about two years of age, standing approximately 2 meters tall and 8-12 cm in diameter at the base.</p>
+                <br />
+
+                <h2><strong>Cultivation and Conditions</strong></h2>
+                <br />
+                <p>Cinnamon thrives in varying conditions from semi-dried to wet zones, with an ideal temperature range of 20-30 degrees Celsius and annual rainfall between 1250 to 2500 mm. It flourishes best as a forest tree at elevations of 300-350 meters above sea level.</p>
+                <br />
+
+                <h2><strong>Commercial Products and Uses</strong></h2>
+                <br />
+                <p>The commercial products derived from cinnamon include:</p>
+                <li><strong>Quills:</strong> Scraped peel of the inner bark of mature cinnamon shoots, rolled into tubes filled with smaller pieces, dried in the sun and shade.</li>
+                <li><strong>Quillings:</strong> Broken pieces and splits of cinnamon quills.</li>
+                <li><strong>Featherings:</strong> Feather-like pieces of inner bark, consisting of shavings and small bark fragments.</li>
+                <li><strong>Chips:</strong> Rough, unpeelable barks scraped from thicker stems.</li>
+                <br />
+
+                <h2><strong>Cinnamon Oils</strong></h2>
+                <br />
+                <p>Cinnamon is also valued for its essential oils obtained from the bark and leaves through distillation:</p>
+                <li><strong>Cinnamon Bark Oil:</strong> Known for its delicate fragrance and warm, agreeable taste, used in flavoring confectionery, liquors, pharmaceuticals, and cosmetics. It possesses anti-fungal properties and aids in digestion.</li>
+                <li><strong>Cinnamon Leaf Oil:</strong> Widely used in perfumery and cosmetics, contributing to its distinct aroma profile.</li>
+                <br />
+
+                <h2><strong>Health Benefits and Culinary Uses</strong></h2>
+                <br />
+                <p>Cinnamon is celebrated not only for its culinary uses but also for its health benefits:</p>
+                <li>It aids in digestion, particularly for diabetics managing sugar.</li>
+                <li>It exhibits astringent, stimulant, and carminative properties, helping to alleviate nausea and vomiting.</li>
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>At Varni Exports, we specialize in sourcing and exporting premium cinnamon products that meet international standards of quality and freshness. Whether you need cinnamon quills, powder, or essential oils, we ensure each batch is meticulously processed and packaged to preserve its aroma and flavor. Partner with us to discover the exceptional qualities of cinnamon and explore its versatile applications in various industries.</p>
+                <br />
+
+                <h2><strong>Contact Varni Exports Today</strong></h2>
+                <br />
+                <p>For inquiries about our cinnamon products or to discuss your specific requirements, contact Varni Exports. We are dedicated to providing reliable service and superior quality cinnamon products that enhance your culinary creations and health initiatives. Join hands with Varni Exports for excellence in spices and herbs from around the world.</p>
+              </div>
+            ,
           },
 
           {
@@ -3194,7 +4607,51 @@ export const catagories = [
             Packaging: "1 to 50 kg, PP Bags, Jute Bags",
             Loading: "15 to 30 Tons",
             description:
-              "KipFeHBsb3JlIE1hY2Ugd2l0aCBWYXJuaSBFeHBvcnRzKioKCioqSW50cm9kdWN0aW9uIHRvIE1hY2UqKgoKTWFjZSwgZGVyaXZlZCBmcm9tIHRoZSBhcmlsIG9mIHRoZSBudXRtZWcgc2VlZCwgaXMgYSBwcml6ZWQgc3BpY2Uga25vd24gZm9yIGl0cyB1bmlxdWUgZmxhdm9yIGFuZCBhcm9tYXRpYyBxdWFsaXRpZXMuIEl0IGlzIG9idGFpbmVkIGZyb20gdGhlIE15cmlzdGljYSBmcmFncmFucyB0cmVlLCBuYXRpdmUgdG8gdGhlIHRyb3BpY2FsIHJlZ2lvbnMgb2YgSW5kb25lc2lhIGFuZCBhbHNvIGN1bHRpdmF0ZWQgaW4gb3RoZXIgcGFydHMgb2YgU291dGhlYXN0IEFzaWEuCgoqKkN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0KioKClRoZSBudXRtZWcgdHJlZSBwcm9kdWNlcyBib3RoIG51dG1lZyBhbmQgbWFjZS4gTWFjZSBpcyB0aGUgcmVkZGlzaCBhcmlsIHN1cnJvdW5kaW5nIHRoZSBzZWVkLCB3aGljaCBpcyBoYXJ2ZXN0ZWQgYnkgaGFuZCB3aGVuIG1hdHVyZS4gSXQgdW5kZXJnb2VzIGEgbWV0aWN1bG91cyBwcm9jZXNzIHRvIHNlcGFyYXRlIGl0IGZyb20gdGhlIG51dG1lZyBzZWVkIGFuZCBpcyB0aGVuIGRyaWVkIHRvIHByZXNlcnZlIGl0cyBmbGF2b3IgYW5kIGFyb21hLgoKKipGbGF2b3IgUHJvZmlsZSBhbmQgQ3VsaW5hcnkgVXNlcyoqCgpNYWNlIGhhcyBhIHNsaWdodGx5IHN3ZWV0ZXIgYW5kIG1vcmUgZGVsaWNhdGUgZmxhdm9yIGNvbXBhcmVkIHRvIG51dG1lZywgd2l0aCBoaW50cyBvZiBjaW5uYW1vbiBhbmQgcGVwcGVyLiBJdCBpcyB1c2VkIGFzIGEgc3BpY2UgaW4gdmFyaW91cyBjdWlzaW5lcyB3b3JsZHdpZGUsIGFkZGluZyBkZXB0aCB0byBib3RoIHNhdm9yeSBhbmQgc3dlZXQgZGlzaGVzLiBJbiBjb29raW5nLCBpdCBjb21wbGVtZW50cyBtZWF0cywgc3Rld3MsIGJha2VkIGdvb2RzLCBhbmQgZXZlbiBiZXZlcmFnZXMgbGlrZSBtdWxsZWQgd2luZS4KCioqSGVhbHRoIEJlbmVmaXRzKioKCkJleW9uZCBpdHMgY3VsaW5hcnkgdXNlcywgbWFjZSBvZmZlcnMgc2V2ZXJhbCBoZWFsdGggYmVuZWZpdHM6Ci0gKipEaWdlc3RpdmUgQWlkOioqIE1hY2UgYWlkcyBkaWdlc3Rpb24gYW5kIGlzIG9mdGVuIHVzZWQgdG8gYWxsZXZpYXRlIG5hdXNlYSBhbmQgcHJvbW90ZSBnYXN0cm9pbnRlc3RpbmFsIGhlYWx0aC4KLSAqKkFudGktaW5mbGFtbWF0b3J5IFByb3BlcnRpZXM6KiogSXQgaGFzIG5hdHVyYWwgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcyB0aGF0IG1heSBoZWxwIGluIHJlZHVjaW5nIGpvaW50IHBhaW4gYW5kIGluZmxhbW1hdGlvbi4KLSAqKkFudGlveGlkYW50IEJlbmVmaXRzOioqIE1hY2UgY29udGFpbnMgYW50aW94aWRhbnRzIHRoYXQgY29udHJpYnV0ZSB0byBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KCioqQ29tbWVyY2lhbCBVc2VzIGFuZCBQcm9kdWN0cyoqCgpNYWNlIGlzIGNvbW1lcmNpYWxseSBhdmFpbGFibGUgaW4gdmFyaW91cyBmb3JtczoKLSAqKldob2xlIE1hY2U6KiogSW50YWN0IGFyaWxzIGRyaWVkIGNhcmVmdWxseSB0byBwcmVzZXJ2ZSB0aGVpciBzdHJ1Y3R1cmUgYW5kIGFyb21hLgotICoqR3JvdW5kIE1hY2U6KiogUG93ZGVyZWQgbWFjZSB1c2VkIGZvciBjb252ZW5pZW5jZSBpbiBjb29raW5nIGFuZCBiYWtpbmcuCi0gKipNYWNlIE9pbDoqKiBFeHRyYWN0ZWQgZnJvbSBtYWNlLCB1c2VkIGluIHBlcmZ1bWVyeSBhbmQgYXMgYSBmbGF2b3JpbmcgYWdlbnQuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBwcmVtaXVtIG1hY2UgcHJvZHVjdHMgdG8gZ2xvYmFsIG1hcmtldHMuIE91ciBtYWNlIGlzIGNhcmVmdWxseSBzZWxlY3RlZCwgcHJvY2Vzc2VkLCBhbmQgcGFja2FnZWQgdG8gZW5zdXJlIG1heGltdW0gZnJlc2huZXNzIGFuZCBxdWFsaXR5LiBXZSBjYXRlciB0byBkaXZlcnNlIGluZHVzdHJpZXMgaW5jbHVkaW5nIGZvb2QsIGJldmVyYWdlLCBwaGFybWFjZXV0aWNhbHMsIGFuZCBjb3NtZXRpY3MuCgoqKkNvbnRhY3QgVmFybmkgRXhwb3J0cyBUb2RheSoqCgpFeHBsb3JlIHRoZSB3b3JsZCBvZiBtYWNlIHdpdGggVmFybmkgRXhwb3J0cy4gV2hldGhlciB5b3UgbmVlZCB3aG9sZSBtYWNlLCBncm91bmQgbWFjZSwgb3IgbWFjZSBvaWwsIHdlIHByb3ZpZGUgZXhjZXB0aW9uYWwgcHJvZHVjdHMgdGhhdCBtZWV0IHlvdXIgc3BlY2lmaWNhdGlvbnMgYW5kIGV4Y2VlZCB5b3VyIGV4cGVjdGF0aW9ucy4gUGFydG5lciB3aXRoIHVzIGZvciByZWxpYWJsZSBzZXJ2aWNlLCBjb21wZXRpdGl2ZSBwcmljaW5nLCBhbmQgc3VwZXJpb3IgcXVhbGl0eSBtYWNlIHNvdXJjZWQgZnJvbSB0cnVzdGVkIHN1cHBsaWVycy4gQ29udGFjdCBWYXJuaSBFeHBvcnRzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMgYW5kIHN0YXJ0IGEgZnJ1aXRmdWwgcGFydG5lcnNoaXAgaW4gdGhlIHNwaWNlIHRyYWRlLg==",
+              <div>
+                <h1><strong>Explore Mace with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Mace</strong></h2>
+                <br />
+                <p>Mace, derived from the aril of the nutmeg seed, is a prized spice known for its unique flavor and aromatic qualities. It is obtained from the <em>Myristica fragrans</em> tree, native to the tropical regions of Indonesia and also cultivated in other parts of Southeast Asia.</p>
+                <br />
+
+                <h2><strong>Cultivation and Harvest</strong></h2>
+                <br />
+                <p>The nutmeg tree produces both nutmeg and mace. Mace is the reddish aril surrounding the seed, which is harvested by hand when mature. It undergoes a meticulous process to separate it from the nutmeg seed and is then dried to preserve its flavor and aroma.</p>
+                <br />
+
+                <h2><strong>Flavor Profile and Culinary Uses</strong></h2>
+                <br />
+                <p>Mace has a slightly sweeter and more delicate flavor compared to nutmeg, with hints of cinnamon and pepper. It is used as a spice in various cuisines worldwide, adding depth to both savory and sweet dishes. In cooking, it complements meats, stews, baked goods, and even beverages like mulled wine.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Beyond its culinary uses, mace offers several health benefits:</p>
+                <li><strong>Digestive Aid:</strong> Mace aids digestion and is often used to alleviate nausea and promote gastrointestinal health.</li>
+                <li><strong>Anti-inflammatory Properties:</strong> It has natural anti-inflammatory properties that may help in reducing joint pain and inflammation.</li>
+                <li><strong>Antioxidant Benefits:</strong> Mace contains antioxidants that contribute to overall health and well-being.</li>
+                <br />
+
+                <h2><strong>Commercial Uses and Products</strong></h2>
+                <br />
+                <p>Mace is commercially available in various forms:</p>
+                <li><strong>Whole Mace:</strong> Intact arils dried carefully to preserve their structure and aroma.</li>
+                <li><strong>Ground Mace:</strong> Powdered mace used for convenience in cooking and baking.</li>
+                <li><strong>Mace Oil:</strong> Extracted from mace, used in perfumery and as a flavoring agent.</li>
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>Varni Exports specializes in sourcing and exporting premium mace products to global markets. Our mace is carefully selected, processed, and packaged to ensure maximum freshness and quality. We cater to diverse industries including food, beverage, pharmaceuticals, and cosmetics.</p>
+                <br />
+
+                <h2><strong>Contact Varni Exports Today</strong></h2>
+                <br />
+                <p>Explore the world of mace with Varni Exports. Whether you need whole mace, ground mace, or mace oil, we provide exceptional products that meet your specifications and exceed your expectations. Partner with us for reliable service, competitive pricing, and superior quality mace sourced from trusted suppliers. Contact Varni Exports today to discuss your requirements and start a fruitful partnership in the spice trade.</p>
+              </div>
+            ,
           },
 
           {
@@ -3211,7 +4668,54 @@ export const catagories = [
             Packaging: "15/25/50 kg Jute Bag, PP Bag",
             Loading: "20’ FCL- 16 MT & 40’ FCL- 27MT",
             description:
-              "KipEaXNjb3ZlciBTdGFyIEFuaXNlIHdpdGggVmFybmkgRXhwb3J0cyoqCgoqKkludHJvZHVjdGlvbiB0byBTdGFyIEFuaXNlKioKClN0YXIgYW5pc2UsIGRlcml2ZWQgZnJvbSB0aGUgZHJpZWQgZnJ1aXQgb2YgdGhlIElsbGljaXVtIHZlcnVtIHBsYW50LCBpcyBhIHJlbm93bmVkIHNwaWNlIHdpdGggc2lnbmlmaWNhbnQgYXBwbGljYXRpb25zIGluIGJvdGggY3VsaW5hcnkgYW5kIHBoYXJtYWNldXRpY2FsIGluZHVzdHJpZXMuCgoqKk9yaWdpbiBhbmQgQ3VsdGl2YXRpb24qKgoKSW5kaWdlbm91cyB0byB0aGUgc291dGhlYXN0ZXJuIHJlZ2lvbnMgb2YgSW5kaWEsIENoaW5hLCBhbmQgVmlldG5hbSwgc3RhciBhbmlzZSBpcyBkaXN0aW5jdGl2ZWx5IGNoYXJhY3Rlcml6ZWQgYnkgaXRzIHN0YXItc2hhcGVkIGZydWl0LiBJdCBzaGFyZXMgc2ltaWxhciBmbGF2b3IgcHJvZmlsZXMgYW5kIHVzZXMgd2l0aCB0cmFkaXRpb25hbCBhbmlzZSAoUGltcGluZWxsYSBhbmlzdW0pLCBkZXNwaXRlIGJlaW5nIGJvdGFuaWNhbGx5IHVucmVsYXRlZC4KCioqQ3VsaW5hcnkgYW5kIEFyb21hdGljIFVzZXMqKgoKU3RhciBhbmlzZSBpcyBwcml6ZWQgZm9yIGl0cyBwb3RlbnQsIHZvbGF0aWxlIGVzc2VudGlhbCBvaWwsIHByZWRvbWluYW50bHkgY29tcG9zZWQgb2YgYW5ldGhvbGUuIFRoaXMgYXJvbWF0aWMgb2lsIGlzIHdpZGVseSBlbXBsb3llZCBpbiBmbGF2b3JpbmcgdmFyaW91cyBjdWxpbmFyeSBkaXNoZXMsIGNvbmZlY3Rpb25lcmllcywgbGlxdWV1cnMsIGFuZCBwZXJmdW1lcywgaW1wYXJ0aW5nIGEgc3dlZXQgYW5kIGxpY29yaWNlLWxpa2UgYXJvbWEuCgoqKlBoYXJtYWNldXRpY2FsIFNpZ25pZmljYW5jZSoqCgpJbiB0aGUgcGhhcm1hY2V1dGljYWwgc2VjdG9yLCBzdGFyIGFuaXNlIGlzIGEgcGl2b3RhbCBzb3VyY2Ugb2Ygc2hpa2ltaWMgYWNpZC4gVGhpcyBjb21wb3VuZCBwbGF5cyBhIGNydWNpYWwgcm9sZSBpbiB0aGUgc3ludGhlc2lzIG9mIG9zZWx0YW1pdmlyIChUYW1pZmx1KSwgYW4gYW50aXZpcmFsIG1lZGljYXRpb24gdXNlZCBpbiB0aGUgdHJlYXRtZW50IG9mIGluZmx1ZW56YSBpbmZlY3Rpb25zLgoKKipQaHlzaWNhbCBDaGFyYWN0ZXJpc3RpY3MqKgoKVGhlIGRyaWVkIGZydWl0IG9mIHN0YXIgYW5pc2UgdHlwaWNhbGx5IG1lYXN1cmVzIGJldHdlZW4gMC4yNSB0byAwLjUgY20gKDAuMSB0byAwLjIgaW5jaGVzKSBpbiBkaWFtZXRlci4gRWFjaCBmcnVpdCBjb25zaXN0cyBvZiBzZXZlcmFsIGNhcnBlbHMgYXJyYW5nZWQgaW4gYSBzdGFyLWxpa2UgcGF0dGVybiBhcm91bmQgYSBjZW50cmFsIGF4aXMuIFRoZXNlIGNhcnBlbHMgYXJlIGhhcmQsIHJvdWdoLXRleHR1cmVkLCBhbmQgcmVkZGlzaC1icm93biBpbiBhcHBlYXJhbmNlLCBlbmNsb3Npbmcgc21vb3RoLCBsdXN0cm91cywgbGlnaHQgYnJvd24gc2VlZHMuCgoqKkhlYWx0aCBCZW5lZml0cyBvZiBTdGFyIEFuaXNlKioKClN0YXIgYW5pc2Ugb2ZmZXJzIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0czoKLSAqKkltbXVuaXR5IEJvb3N0ZXI6KiogSXQgbWF5IGVuaGFuY2UgaW1tdW5lIGZ1bmN0aW9uLCBoZWxwaW5nIHRoZSBib2R5IGNvbWJhdCBpbmZlY3Rpb25zLgotICoqUmVndWxhdGlvbiBvZiBCbG9vZCBTdWdhcjoqKiBJdCBoYXMgcG90ZW50aWFsIGJlbmVmaXRzIGluIGNvbnRyb2xsaW5nIGJsb29kIHN1Z2FyIGxldmVscy4KLSAqKk1lbnN0cnVhbCBQYWluIFJlbGllZjoqKiBLbm93biBmb3IgaXRzIGFudGlzcGFzbW9kaWMgcHJvcGVydGllcywgc3RhciBhbmlzZSBjYW4gYWxsZXZpYXRlIG1lbnN0cnVhbCBjcmFtcHMgYW5kIGRpc2NvbWZvcnQuCi0gKipQb3RlbnRpYWwgQ2FuY2VyLUZpZ2h0aW5nIFByb3BlcnRpZXM6KiogU3R1ZGllcyBzdWdnZXN0IGl0IG1heSBoYXZlIHByZXZlbnRpdmUgZWZmZWN0cyBhZ2FpbnN0IGNlcnRhaW4gZWFybHktc3RhZ2UgY2FuY2VycyBsaWtlIGJyZWFzdCBhbmQgc2tpbiBjYW5jZXIuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKClZhcm5pIEV4cG9ydHMgc3BlY2lhbGl6ZXMgaW4gc291cmNpbmcgYW5kIGV4cG9ydGluZyBoaWdoLXF1YWxpdHkgc3RhciBhbmlzZSB3b3JsZHdpZGUuIFdlIGVuc3VyZSBjb21wZXRpdGl2ZSBwcmljaW5nIGFuZCBzdXBlcmlvciBxdWFsaXR5IHRvIG1lZXQgdGhlIGRpdmVyc2UgbmVlZHMgb2Ygb3VyIGdsb2JhbCBjbGllbnRlbGUuIFdoZXRoZXIgZm9yIGN1bGluYXJ5LCBtZWRpY2luYWwsIG9yIHBoYXJtYWNldXRpY2FsIHVzZSwgd2UgZGVsaXZlciBzdGFyIGFuaXNlIHByb2R1Y3RzIHRoYXQgZXhjZWVkIGV4cGVjdGF0aW9ucy4KCioqQ29udGFjdCBWYXJuaSBFeHBvcnRzIFRvZGF5KioKCkV4cGxvcmUgdGhlIHZlcnNhdGlsaXR5IGFuZCBiZW5lZml0cyBvZiBzdGFyIGFuaXNlIHdpdGggVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBkaXNjb3ZlciBob3cgb3VyIHByZW1pdW0gcHJvZHVjdHMgY2FuIGVuaGFuY2UgeW91ciBidXNpbmVzcy4gUGFydG5lciB3aXRoIHVzIGZvciByZWxpYWJsZSBzdXBwbHksIGV4Y2VwdGlvbmFsIHNlcnZpY2UsIGFuZCB0b3Atbm90Y2ggcXVhbGl0eSBpbiBldmVyeSBzaGlwbWVudC4gVW5sb2NrIHRoZSBwb3RlbnRpYWwgb2Ygc3RhciBhbmlzZSB3aXRoIFZhcm5pIEV4cG9ydHMgYXMgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gdGhlIHNwaWNlIHRyYWRlLg==",
+              <div>
+                <h1><strong>Discover Star Anise with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Star Anise</strong></h2>
+                <br />
+                <p>Star anise, derived from the dried fruit of the <em>Illicium verum</em> plant, is a renowned spice with significant applications in both culinary and pharmaceutical industries.</p>
+                <br />
+
+                <h2><strong>Origin and Cultivation</strong></h2>
+                <br />
+                <p>Indigenous to the southeastern regions of India, China, and Vietnam, star anise is distinctively characterized by its star-shaped fruit. It shares similar flavor profiles and uses with traditional anise (<em>Pimpinella anisum</em>), despite being botanically unrelated.</p>
+                <br />
+
+                <h2><strong>Culinary and Aromatic Uses</strong></h2>
+                <br />
+                <p>Star anise is prized for its potent, volatile essential oil, predominantly composed of anethole. This aromatic oil is widely employed in flavoring various culinary dishes, confectioneries, liqueurs, and perfumes, imparting a sweet and licorice-like aroma.</p>
+                <br />
+
+                <h2><strong>Pharmaceutical Significance</strong></h2>
+                <br />
+                <p>In the pharmaceutical sector, star anise is a pivotal source of shikimic acid. This compound plays a crucial role in the synthesis of oseltamivir (Tamiflu), an antiviral medication used in the treatment of influenza infections.</p>
+                <br />
+
+                <h2><strong>Physical Characteristics</strong></h2>
+                <br />
+                <p>The dried fruit of star anise typically measures between 0.25 to 0.5 cm (0.1 to 0.2 inches) in diameter. Each fruit consists of several carpels arranged in a star-like pattern around a central axis. These carpels are hard, rough-textured, and reddish-brown in appearance, enclosing smooth, lustrous, light brown seeds.</p>
+                <br />
+
+                <h2><strong>Health Benefits of Star Anise</strong></h2>
+                <br />
+                <p>Star anise offers numerous health benefits:</p>
+                <li><strong>Immunity Booster:</strong> It may enhance immune function, helping the body combat infections.</li>
+                <li><strong>Regulation of Blood Sugar:</strong> It has potential benefits in controlling blood sugar levels.</li>
+                <li><strong>Menstrual Pain Relief:</strong> Known for its antispasmodic properties, star anise can alleviate menstrual cramps and discomfort.</li>
+                <li><strong>Potential Cancer-Fighting Properties:</strong> Studies suggest it may have preventive effects against certain early-stage cancers like breast and skin cancer.</li>
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>Varni Exports specializes in sourcing and exporting high-quality star anise worldwide. We ensure competitive pricing and superior quality to meet the diverse needs of our global clientele. Whether for culinary, medicinal, or pharmaceutical use, we deliver star anise products that exceed expectations.</p>
+                <br />
+
+                <h2><strong>Contact Varni Exports Today</strong></h2>
+                <br />
+                <p>Explore the versatility and benefits of star anise with Varni Exports. Contact us today to discuss your requirements and discover how our premium products can enhance your business. Partner with us for reliable supply, exceptional service, and top-notch quality in every shipment. Unlock the potential of star anise with Varni Exports as your trusted partner in the spice trade.</p>
+              </div>
+            ,
           },
 
           {
@@ -3227,7 +4731,48 @@ export const catagories = [
             Packaging: "Cartons, PP Bags, Bulk",
             Loading: "20 to 25 Tons",
             description:
-              "KipJbnRyb2R1Y2luZyBUYW1hcmluZCBTZWVkcyBmcm9tIFZhcm5pIEV4cG9ydHMqKgoKKipPdmVydmlldyBvZiBUYW1hcmluZCoqCgpUYW1hcmluZCwgdGhlIGZydWl0IG9mIGEgbGFyZ2UgdHJvcGljYWwgdHJlZSwgaXMgYSB2ZXJzYXRpbGUgcHJvZHVjdCB3aXRoIG51bWVyb3VzIGFwcGxpY2F0aW9ucy4gR3Jvd24gaW4gZm9yZXN0cywgb3JjaGFyZHMsIGFuZCBhbG9uZyByb2Fkc2lkZXMgcHJpbWFyaWx5IGluIFNvdXRoIEluZGlhIGFuZCBvdGhlciByZWdpb25zIG9mIEluZGlhLCB0YW1hcmluZCB0cmVlcyB0YWtlIG92ZXIgMTAgeWVhcnMgdG8gbWF0dXJlIGFuZCBzdGFydCB5aWVsZGluZyBmcnVpdHMuIFRoZSBoYXJ2ZXN0aW5nIHNlYXNvbiB0eXBpY2FsbHkgc3BhbnMgZnJvbSBKYW51YXJ5IHRvIEZlYnJ1YXJ5LCBmb2xsb3dpbmcgYmxvb21pbmcgaW4gSnVseS1BdWd1c3QuCgoqKlBoeXNpY2FsIENoYXJhY3RlcmlzdGljcyoqCgpUYW1hcmluZCBmcnVpdHMgYXJlIHNpemVhYmxlLCBtZWFzdXJpbmcgMTAgdG8gMTUgY20gaW4gbGVuZ3RoIGFuZCAxNSB0byAyMCBtbSBpbiB3aWR0aCwgd2l0aCBhIGRpc3RpbmN0aXZlIGN1cnZlZCBzaGFwZS4gRW5jYXNlZCBpbiBhIHByb3RlY3RpdmUgYnJvd24gcG9kLCBlYWNoIGZydWl0IGNvbnRhaW5zIDYgdG8gOCBzZWVkcyBjb3ZlcmVkIGJ5IGEgc3Ryb25nLCBibGFjay1icm93biBodWxsLgoKKipQcm9jZXNzaW5nIGFuZCBVdGlsaXphdGlvbioqCgpUaGUgZXh0cmFjdGlvbiBvZiB0YW1hcmluZCBzZWVkcyBpbnZvbHZlcyBtYW51YWwgcmVtb3ZhbCBmcm9tIHRoZSBmcnVpdCBwb2RzIHVzaW5nIHNoYXJwIGtuaXZlcy4gVGhlc2Ugc2VlZHMsIGtub3duIGZvciB0aGVpciBkdXJhYmlsaXR5LCBhcmUgdGhlbiBjb2xsZWN0ZWQgYnkgdmlsbGFnZXJzIHdobyBzZWxsIHRoZW0gdG8gbG9jYWwgbWVyY2hhbnRzLiBTdG9yZWQgaW4gd2FyZWhvdXNlcywgdGhlc2UgcmF3IHNlZWRzIGFyZSBzdWJzZXF1ZW50bHkgZGlzdHJpYnV0ZWQgdG8gdmFyaW91cyBpbmR1c3RyaWVzLCBub3RhYmx5IHRoZSBjYXR0bGUgZmVlZCBzZWN0b3Igd2l0aGluIEluZGlhLgoKKipNYXJrZXQgUG90ZW50aWFsKioKClZhcm5pIEV4cG9ydHMgYWltcyB0byBleHBvcnQgaGlnaC1xdWFsaXR5IHRhbWFyaW5kIHNlZWRzIHRvIFllbWVuLCBFZ3lwdCwgVHVya2V5LCBKb3JkYW4sIE9tYW4sIFNhdWRpIEFyYWJpYSwgVW5pdGVkIEFyYWIgRW1pcmF0ZXMsIGFuZCBMZWJhbm9uLiBXaXRoIGFuIGFubnVhbCBwcm9kdWN0aW9uIGV4Y2VlZGluZyAxMDAsMDAwIHRvbnMsIHRoZXNlIHNlZWRzIGFyZSBpbnRlZ3JhbCB0byB0aGUgYWdyaWN1bHR1cmFsIGFuZCBpbmR1c3RyaWFsIHNlY3RvcnMgaW4gdGhlc2UgY291bnRyaWVzLgoKKipBcHBsaWNhdGlvbnMgYW5kIFVzZXMqKgoKVGFtYXJpbmQgc2VlZHMgYXJlIHZhbHVlZCBmb3IgdGhlaXI6Ci0gKipDYXR0bGUgRmVlZDoqKiBXaWRlbHkgdXRpbGl6ZWQgaW4gdGhlIGNhdHRsZSBmZWVkIGluZHVzdHJ5IGR1ZSB0byB0aGVpciBudXRyaXRpb25hbCBiZW5lZml0cyBhbmQgaGlnaCBmaWJlciBjb250ZW50LgotICoqSW5kdXN0cmlhbCBBcHBsaWNhdGlvbnM6KiogUG90ZW50aWFsIHVzZXMgaW4gdmFyaW91cyBpbmR1c3RyaWFsIHByb2Nlc3NlcywgaW5jbHVkaW5nIHRoZSBwaGFybWFjZXV0aWNhbCBhbmQgdGV4dGlsZSBpbmR1c3RyaWVzLgotICoqVHJhZGl0aW9uYWwgTWVkaWNpbmU6KiogS25vd24gaW4gdHJhZGl0aW9uYWwgbWVkaWNpbmUgZm9yIGl0cyB0aGVyYXBldXRpYyBwcm9wZXJ0aWVzLCBpbmNsdWRpbmcgYW50aS1pbmZsYW1tYXRvcnkgYW5kIGRpZ2VzdGl2ZSBiZW5lZml0cy4KCioqUGFydG5lciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgYXJlIGNvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHN1cGVyaW9yIHF1YWxpdHkgdGFtYXJpbmQgc2VlZHMgdGhhdCBtZWV0IGludGVybmF0aW9uYWwgc3RhbmRhcmRzLiBPdXIgbWV0aWN1bG91cyBzb3VyY2luZyBhbmQgcGFja2FnaW5nIGVuc3VyZSBmcmVzaG5lc3MgYW5kIGR1cmFiaWxpdHkgZHVyaW5nIHRyYW5zaXQuIFdlIGludml0ZSBidXNpbmVzc2VzIGluIFllbWVuLCBFZ3lwdCwgVHVya2V5LCBKb3JkYW4sIE9tYW4sIFNhdWRpIEFyYWJpYSwgVW5pdGVkIEFyYWIgRW1pcmF0ZXMsIGFuZCBMZWJhbm9uIHRvIGNvbGxhYm9yYXRlIHdpdGggdXMgZm9yIHJlbGlhYmxlIHN1cHBseSBhbmQgY29tcGV0aXRpdmUgcHJpY2luZy4KCioqQ29udGFjdCBVcyoqCgpFeHBsb3JlIHRoZSBwb3NzaWJpbGl0aWVzIHdpdGggdGFtYXJpbmQgc2VlZHMgZnJvbSBWYXJuaSBFeHBvcnRzLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMsIGFuZCBsZXQgdXMgYmUgeW91ciB0cnVzdGVkIHBhcnRuZXIgaW4gdGhlIHN1cHBseSBjaGFpbi4gVG9nZXRoZXIsIHdlIGNhbiBjYXBpdGFsaXplIG9uIHRoZSBwb3RlbnRpYWwgb2YgdGFtYXJpbmQgc2VlZHMgYW5kIGZvc3RlciBtdXR1YWxseSBiZW5lZmljaWFsIHBhcnRuZXJzaGlwcyBhY3Jvc3MgYm9yZGVycy4=",
+              <div>
+                <h1><strong>Introducing Tamarind Seeds from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Overview of Tamarind</strong></h2>
+                <br />
+                <p>Tamarind, the fruit of a large tropical tree, is a versatile product with numerous applications. Grown in forests, orchards, and along roadsides primarily in South India and other regions of India, tamarind trees take over 10 years to mature and start yielding fruits. The harvesting season typically spans from January to February, following blooming in July-August.</p>
+                <br />
+
+                <h2><strong>Physical Characteristics</strong></h2>
+                <br />
+                <p>Tamarind fruits are sizeable, measuring 10 to 15 cm in length and 15 to 20 mm in width, with a distinctive curved shape. Encased in a protective brown pod, each fruit contains 6 to 8 seeds covered by a strong, black-brown hull.</p>
+                <br />
+
+                <h2><strong>Processing and Utilization</strong></h2>
+                <br />
+                <p>The extraction of tamarind seeds involves manual removal from the fruit pods using sharp knives. These seeds, known for their durability, are then collected by villagers who sell them to local merchants. Stored in warehouses, these raw seeds are subsequently distributed to various industries, notably the cattle feed sector within India.</p>
+                <br />
+
+                <h2><strong>Market Potential</strong></h2>
+                <br />
+                <p>Varni Exports aims to export high-quality tamarind seeds to Yemen, Egypt, Turkey, Jordan, Oman, Saudi Arabia, United Arab Emirates, and Lebanon. With an annual production exceeding 100,000 tons, these seeds are integral to the agricultural and industrial sectors in these countries.</p>
+                <br />
+
+                <h2><strong>Applications and Uses</strong></h2>
+                <br />
+                <p>Tamarind seeds are valued for their:</p>
+                <li><strong>Cattle Feed:</strong> Widely utilized in the cattle feed industry due to their nutritional benefits and high fiber content.</li>
+                <li><strong>Industrial Applications:</strong> Potential uses in various industrial processes, including the pharmaceutical and textile industries.</li>
+                <li><strong>Traditional Medicine:</strong> Known in traditional medicine for its therapeutic properties, including anti-inflammatory and digestive benefits.</li>
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>At Varni Exports, we are committed to delivering superior quality tamarind seeds that meet international standards. Our meticulous sourcing and packaging ensure freshness and durability during transit. We invite businesses in Yemen, Egypt, Turkey, Jordan, Oman, Saudi Arabia, United Arab Emirates, and Lebanon to collaborate with us for reliable supply and competitive pricing.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Explore the possibilities with tamarind seeds from Varni Exports. Contact us today to discuss your requirements, and let us be your trusted partner in the supply chain. Together, we can capitalize on the potential of tamarind seeds and foster mutually beneficial partnerships across borders.</p>
+              </div>
+            ,
           },
 
           {
@@ -3243,7 +4788,43 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "KipEcnkgR3JlYXRlciBHYWxhbmdhbCBmcm9tIFZhcm5pIEV4cG9ydHMqKgoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdyZWF0ZXIgR2FsYW5nYWwqKgoKRHJ5IEdyZWF0ZXIgR2FsYW5nYWwsIGEgcm9vdCBuYXRpdmUgdG8gU291dGhlYXN0IEFzaWEsIGlzIHJlbm93bmVkIGZvciBpdHMgZGlzdGluY3Qgc3dlZXQsIHB1bmdlbnQsIGFuZCBjaXRydXN5IGZsYXZvcnMuIFRoaXMgYXJvbWF0aWMgc3BpY2UgaXMgYSBzdGFwbGUgaW4gdmFyaW91cyBBc2lhbiBjdWlzaW5lcywgcHJvbWluZW50bHkgZmVhdHVyZWQgaW4gVGhhaSwgSW5kb25lc2lhbiwgYW5kIE1hbGF5c2lhbiBkaXNoZXMuIEl0cyB2ZXJzYXRpbGUgYXBwbGljYXRpb25zIGluY2x1ZGUgZW5oYW5jaW5nIGN1cnJpZXMsIHNvdXBzLCBzdGlyLWZyaWVzLCBhbmQgdHJhZGl0aW9uYWwgVGhhaSBjdXJyeSBwYXN0ZXMuIEFkZGl0aW9uYWxseSwgaXQgY2FuIGJlIGJyZXdlZCBpbnRvIGEgcmVmcmVzaGluZyB0ZWEuCgoqKkN1bHRpdmF0aW9uIGFuZCBIYXJ2ZXN0aW5nKioKCkdyZWF0ZXIgR2FsYW5nYWwgaXMgY3VsdGl2YXRlZCBhY3Jvc3MgU291dGhlYXN0IEFzaWEsIHRocml2aW5nIGluIHRyb3BpY2FsIGNsaW1hdGVzLiBUaGUgcm9vdCBpcyBoYXJ2ZXN0ZWQgb25jZSBtYXR1cmVkLCB0aGVuIGNhcmVmdWxseSBkcmllZCB0byBwcmVzZXJ2ZSBpdHMgcm9idXN0IGZsYXZvcnMgYW5kIG1lZGljaW5hbCBwcm9wZXJ0aWVzLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvbmx5IHRoZSBmaW5lc3QgcXVhbGl0eSBHcmVhdGVyIEdhbGFuZ2FsIHJvb3RzIGFyZSBzZWxlY3RlZCBhbmQgcHJvY2Vzc2VkLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIGl0cyBjdWxpbmFyeSB1c2VzLCBEcnkgR3JlYXRlciBHYWxhbmdhbCBvZmZlcnMgbnVtZXJvdXMgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEFpZDoqKiBLbm93biBmb3IgZWFzaW5nIGRpZ2VzdGlvbiBhbmQgcmVkdWNpbmcgZ2FzdHJvaW50ZXN0aW5hbCBkaXNjb21mb3J0LgotICoqQW50aS1pbmZsYW1tYXRvcnkgUHJvcGVydGllczoqKiBDb250YWlucyBjb21wb3VuZHMgdGhhdCBoZWxwIGFsbGV2aWF0ZSBpbmZsYW1tYXRpb24uCi0gKipBbnRpb3hpZGFudCBCZW5lZml0czoqKiBSaWNoIGluIGFudGlveGlkYW50cyB0aGF0IGNvbWJhdCBmcmVlIHJhZGljYWxzIGFuZCBwcm9tb3RlIG92ZXJhbGwgaGVhbHRoLgoKKipNYXJrZXQgUmVhY2gqKgoKVmFybmkgRXhwb3J0cyBzcGVjaWFsaXplcyBpbiBzb3VyY2luZyBhbmQgZXhwb3J0aW5nIHByZW1pdW0gRHJ5IEdyZWF0ZXIgR2FsYW5nYWwgdG8gZGlzY2VybmluZyBtYXJrZXRzIHdvcmxkd2lkZS4gT3VyIGNvbW1pdG1lbnQgdG8gcXVhbGl0eSBlbnN1cmVzIHRoYXQgb3VyIHByb2R1Y3RzIG1lZXQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMsIG1ha2luZyB1cyBhIHRydXN0ZWQgc3VwcGxpZXIgZm9yIGN1bGluYXJ5IGFuZCBtZWRpY2luYWwgcHVycG9zZXMgYWxpa2UuCgoqKlBhcnRuZXIgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkpvaW4gaGFuZHMgd2l0aCBWYXJuaSBFeHBvcnRzIHRvIGV4cGxvcmUgdGhlIGRpdmVyc2UgY3VsaW5hcnkgYW5kIGhlYWx0aCBiZW5lZml0cyBvZiBEcnkgR3JlYXRlciBHYWxhbmdhbC4gV2hldGhlciB5b3UncmUgaW4gdGhlIGZvb2QgaW5kdXN0cnksIHBoYXJtYWNldXRpY2Fscywgb3Igd2VsbG5lc3Mgc2VjdG9yLCB3ZSBwcm92aWRlIHJlbGlhYmxlIHN1cHBseSBhbmQgY29tcGV0aXRpdmUgcHJpY2luZy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIGhvdyB3ZSBjYW4gbWVldCB5b3VyIHNwZWNpZmljIHJlcXVpcmVtZW50cyBhbmQgZGVsaXZlciBleGNlbGxlbmNlIGluIGV2ZXJ5IHNoaXBtZW50LgoKKipDb250YWN0IFVzKioKCkRpc2NvdmVyIHRoZSBlc3NlbmNlIG9mIERyeSBHcmVhdGVyIEdhbGFuZ2FsIHdpdGggVmFybmkgRXhwb3J0cy4gUmVhY2ggb3V0IHRvIHVzIG5vdyBhbmQgZW1iYXJrIG9uIGEgam91cm5leSBvZiBmbGF2b3IsIGFyb21hLCBhbmQgaGVhbHRoLiBMZXQgdXMgYmUgeW91ciBnYXRld2F5IHRvIHByZW1pdW0gU291dGhlYXN0IEFzaWFuIHNwaWNlcyBhbmQgaW5ncmVkaWVudHMu",
+              <div>
+                <h1><strong>Dry Greater Galangal from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Dry Greater Galangal</strong></h2>
+                <br />
+                <p>Dry Greater Galangal, a root native to Southeast Asia, is renowned for its distinct sweet, pungent, and citrusy flavors. This aromatic spice is a staple in various Asian cuisines, prominently featured in Thai, Indonesian, and Malaysian dishes. Its versatile applications include enhancing curries, soups, stir-fries, and traditional Thai curry pastes. Additionally, it can be brewed into a refreshing tea.</p>
+                <br />
+
+                <h2><strong>Cultivation and Harvesting</strong></h2>
+                <br />
+                <p>Greater Galangal is cultivated across Southeast Asia, thriving in tropical climates. The root is harvested once matured, then carefully dried to preserve its robust flavors and medicinal properties. At Varni Exports, we ensure that only the finest quality Greater Galangal roots are selected and processed.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Beyond its culinary uses, Dry Greater Galangal offers numerous health benefits:</p>
+                <li><strong>Digestive Aid:</strong> Known for easing digestion and reducing gastrointestinal discomfort.</li>
+                <li><strong>Anti-inflammatory Properties:</strong> Contains compounds that help alleviate inflammation.</li>
+                <li><strong>Antioxidant Benefits:</strong> Rich in antioxidants that combat free radicals and promote overall health.</li>
+                <br />
+
+                <h2><strong>Market Reach</strong></h2>
+                <br />
+                <p>Varni Exports specializes in sourcing and exporting premium Dry Greater Galangal to discerning markets worldwide. Our commitment to quality ensures that our products meet international standards, making us a trusted supplier for culinary and medicinal purposes alike.</p>
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>Join hands with Varni Exports to explore the diverse culinary and health benefits of Dry Greater Galangal. Whether you're in the food industry, pharmaceuticals, or wellness sector, we provide reliable supply and competitive pricing. Contact us today to discuss how we can meet your specific requirements and deliver excellence in every shipment.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Discover the essence of Dry Greater Galangal with Varni Exports. Reach out to us now and embark on a journey of flavor, aroma, and health. Let us be your gateway to premium Southeast Asian spices and ingredients.</p>
+              </div>
+            ,
           },
         ],
       },
@@ -3269,7 +4850,48 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "IyMjIFByZW1pdW0gQ3VtaW4gUG93ZGVyIGZyb20gVmFybmkgRXhwb3J0cwoKKipJbnRyb2R1Y3Rpb24gdG8gQ3VtaW4gUG93ZGVyKioKCkN1bWluIFBvd2RlciwgZGVyaXZlZCBmcm9tIHRoZSBzZWVkcyBvZiBDdW1pbiAoSmVlcmEpLCBzY2llbnRpZmljYWxseSBrbm93biBhcyBDdW1pbnVtIGN5bWludW0sIGlzIGEgc3RhcGxlIHNwaWNlIGluIHZhcmlvdXMgZ2xvYmFsIGN1aXNpbmVzLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgb3VyIGN1bWluIHBvd2RlciBpcyBzb3VyY2VkIGZyb20gbm9uLWdlbmV0aWNhbGx5IG1vZGlmaWVkIHNlZWRzLCBtYWludGFpbmluZyBpdHMgbmF0dXJhbCBwdXJpdHkgYW5kIGZsYXZvci4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQmVmb3JlIHBhY2thZ2luZywgb3VyIGN1bWluIHBvd2RlciB1bmRlcmdvZXMgcmlnb3JvdXMgaW5zcGVjdGlvbiBwcm9jZXNzZXM6Ci0gKipNYWduZXQgYW5kIE1ldGFsIERldGVjdGlvbjoqKiBUbyBlbGltaW5hdGUgYW55IGZlcnJvdXMgbWV0YWxsaWMgY29udGFtaW5hdGlvbiwgdGhlIHByb2R1Y3QgaXMgcGFzc2VkIHRocm91Z2ggbWFnbmV0cyBhbmQgbWV0YWwgZGV0ZWN0b3JzLgotICoqTWljcm9iaWFsIENvbnRyb2w6KiogVGhlIGN1bWluIHBvd2RlciBpcyB0cmVhdGVkIHRvIGNvbnRyb2wgbWljcm9iaWFsIGxldmVscywgZW5zdXJpbmcgaXQgaXMgc2FmZSBhbmQgaHlnaWVuaWMgZm9yIGNvbnN1bXB0aW9uLgoKKipIaXN0b3JpY2FsIFNpZ25pZmljYW5jZSBhbmQgQ3VsaW5hcnkgVXNlcyoqCgpPcmlnaW5hdGluZyBpbiBFZ3lwdCwgY3VtaW4gaGFzIGJlZW4gaW50ZWdyYWwgdG8gTWlkZGxlIEVhc3Rlcm4gYW5kIEluZGlhbiBjdWlzaW5lcyBmb3IgdGhvdXNhbmRzIG9mIHllYXJzLiBJdHMgZGlzdGluY3RpdmUgZmxhdm9yIGVuaGFuY2VzIGEgdmFyaWV0eSBvZiBkaXNoZXMsIGVzcGVjaWFsbHkgY3Vycmllcy4gV2hldGhlciB5b3UgcHJlZmVyIHdob2xlIGN1bWluIHNlZWRzIHRvIGNydXNoIHdpdGggYSBtb3J0YXIgYW5kIHBlc3RsZSBvciByZWFkeS10by11c2UgZ3JvdW5kIGN1bWluLCB0aGlzIHNwaWNlIGlzIHJlYWRpbHkgYXZhaWxhYmxlIGluIG1vc3Qgc3VwZXJtYXJrZXRzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKQ3VtaW4gaXMgbm90IG9ubHkgYSBjdWxpbmFyeSBkZWxpZ2h0IGJ1dCBhbHNvIGJlbGlldmVkIHRvIG9mZmVyIHNldmVyYWwgaGVhbHRoIGJlbmVmaXRzOgotICoqRGlnZXN0aXZlIEhlYWx0aDoqKiBUcmFkaXRpb25hbGx5IHVzZWQgdG8gYWlkIGRpZ2VzdGlvbi4KLSAqKlBvdGVudGlhbCBNZWRpY2luYWwgUHJvcGVydGllczoqKiBUaG91Z2ggbW9zdCByZXNlYXJjaCBoYXMgYmVlbiBjb25kdWN0ZWQgb24gYW5pbWFscywgY3VtaW4gaXMgYmVsaWV2ZWQgdG8gcG9zc2VzcyBtZWRpY2luYWwgcHJvcGVydGllcyB0aGF0IHdhcnJhbnQgZnVydGhlciBleHBsb3JhdGlvbiBpbiBodW1hbiBzdHVkaWVzLgoKKipQYXJ0bmVyIHdpdGggVmFybmkgRXhwb3J0cyoqCgpWYXJuaSBFeHBvcnRzIGlzIGRlZGljYXRlZCB0byBwcm92aWRpbmcgcHJlbWl1bSBjdW1pbiBwb3dkZXIgdGhhdCBtZWV0cyB0aGUgaGlnaGVzdCBzdGFuZGFyZHMgb2YgcXVhbGl0eSBhbmQgc2FmZXR5LiBPdXIgbWV0aWN1bG91cyBzb3VyY2luZyBhbmQgcHJvY2Vzc2luZyBlbnN1cmUgdGhhdCBvdXIgcHJvZHVjdCByZXRhaW5zIGl0cyBhdXRoZW50aWMgZmxhdm9yIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4gV2UgaW52aXRlIHlvdSB0byBwYXJ0bmVyIHdpdGggdXMgdG8gZXhwZXJpZW5jZSB0aGUgZXhjZXB0aW9uYWwgcXVhbGl0eSBvZiBvdXIgY3VtaW4gcG93ZGVyLgoKKipDb250YWN0IFVzKioKCkV4cGxvcmUgdGhlIHJpY2ggYXJvbWEgYW5kIGZsYXZvciBvZiBjdW1pbiBwb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2N1c3MgeW91ciByZXF1aXJlbWVudHMgYW5kIGRpc2NvdmVyIGhvdyB3ZSBjYW4gc3VwcGx5IHlvdSB3aXRoIHN1cGVyaW9yIHF1YWxpdHkgY3VtaW4gcG93ZGVyIGZvciB5b3VyIGN1bGluYXJ5IGFuZCBoZWFsdGggbmVlZHMuIFRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu",
+              <div>
+                <h1><strong>Premium Cumin Powder from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Cumin Powder</strong></h2>
+                <br />
+                <p>Cumin Powder, derived from the seeds of Cumin (Jeera), scientifically known as <em>Cuminum cyminum</em>, is a staple spice in various global cuisines. At Varni Exports, we ensure our cumin powder is sourced from non-genetically modified seeds, maintaining its natural purity and flavor.</p>
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+                <p>Before packaging, our cumin powder undergoes rigorous inspection processes:</p>
+
+                  <li><strong>Magnet and Metal Detection:</strong> To eliminate any ferrous metallic contamination, the product is passed through magnets and metal detectors.</li>
+                  <li><strong>Microbial Control:</strong> The cumin powder is treated to control microbial levels, ensuring it is safe and hygienic for consumption.</li>
+
+                <br />
+
+                <h2><strong>Historical Significance and Culinary Uses</strong></h2>
+                <br />
+                <p>Originating in Egypt, cumin has been integral to Middle Eastern and Indian cuisines for thousands of years. Its distinctive flavor enhances a variety of dishes, especially curries. Whether you prefer whole cumin seeds to crush with a mortar and pestle or ready-to-use ground cumin, this spice is readily available in most supermarkets.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Cumin is not only a culinary delight but also believed to offer several health benefits:</p>
+
+                  <li><strong>Digestive Health:</strong> Traditionally used to aid digestion.</li>
+                  <li><strong>Potential Medicinal Properties:</strong> Though most research has been conducted on animals, cumin is believed to possess medicinal properties that warrant further exploration in human studies.</li>
+
+                <br />
+
+                <h2><strong>Partner with Varni Exports</strong></h2>
+                <br />
+                <p>Varni Exports is dedicated to providing premium cumin powder that meets the highest standards of quality and safety. Our meticulous sourcing and processing ensure that our product retains its authentic flavor and nutritional benefits. We invite you to partner with us to experience the exceptional quality of our cumin powder.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Explore the rich aroma and flavor of cumin powder with Varni Exports. Contact us today to discuss your requirements and discover how we can supply you with superior quality cumin powder for your culinary and health needs. Trust Varni Exports for excellence in spices and herbs from around the world.</p>
+              </div>
+            ,
           },
 
           {
@@ -3285,7 +4907,73 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "IyMjIERpc2NvdmVyIFByZW1pdW0gQ29yaWFuZGVyIFBvd2RlciB3aXRoIFZhcm5pIEV4cG9ydHMKCioqSW50cm9kdWN0aW9uIHRvIENvcmlhbmRlciBQb3dkZXIqKgoKQ29yaWFuZGVyIFBvd2RlciwgY29tbW9ubHkga25vd24gYXMgRGhhbml5YSBQb3dkZXIsIGlzIGEgc3RhcGxlIHNwaWNlIGluIEluZGlhbiBjdWlzaW5lLCByZW5vd25lZCBmb3IgaXRzIHVuaXF1ZSB0YXN0ZSBhbmQgYXJvbWEuIE1hbnVmYWN0dXJlZCBieSBncmluZGluZyBoaWdoLXF1YWxpdHkgY29yaWFuZGVyIHNlZWRzLCBvdXIgY29yaWFuZGVyIHBvd2RlciBpcyBlc3NlbnRpYWwgZm9yIGZsYXZvcmluZyBhIHdpZGUgYXJyYXkgb2YgZGlzaGVzLCBmcm9tIHJpY2UgYW5kIHN0dWZmZWQgdmVnZXRhYmxlcyB0byB2YXJpb3VzIG90aGVyIGRlbGljYWNpZXMuCgoqKkN1bGluYXJ5IFVzZXMqKgoKQ29yaWFuZGVyIFBvd2RlciBpcyBleHRlbnNpdmVseSB1c2VkIGluIEluZGlhbiBraXRjaGVucywgYWRkaW5nIGdvb2QgZmxhdm9yIGFuZCBjb2xvciB0byBhbG1vc3QgZXZlcnkgZGlzaC4gSGVyZSBhcmUgc29tZSBvZiBpdHMgcG9wdWxhciB1c2VzOgotICoqRmxhdm9yaW5nIFJpY2U6KiogRW5oYW5jZXMgdGhlIHRhc3RlIG9mIHZhcmlvdXMgcmljZSBkaXNoZXMuCi0gKipTdHVmZmVkIFZlZ2V0YWJsZXM6KiogQWRkcyBkZXB0aCBhbmQgcmljaG5lc3MgdG8gdGhlIGZpbGxpbmcuCi0gKipHZW5lcmFsIENvb2tpbmc6KiogQSB2ZXJzYXRpbGUgc3BpY2UgdXNlZCBpbiBudW1lcm91cyBkaXNoZXMgZm9yIGl0cyBkaXN0aW5jdGl2ZSB0YXN0ZSBhbmQgYXJvbWEuCgoqKlZlcnNhdGlsaXR5IGFuZCBVbmlxdWUgRmxhdm9yKioKCkNvcmlhbmRlciBQb3dkZXIgaXMgYSB2ZXJzYXRpbGUgaW5ncmVkaWVudDoKLSAqKkFzIGEgU3BpY2U6KiogV2lkZWx5IHVzZWQgaW4gZm9vZHMsIGJldmVyYWdlcywgbWFyaW5hZGVzLCBkZXNzZXJ0cywgYW5kIHN3ZWV0IHBhc3RyaWVzLgotICoqSW4gQW1lcmljYW4gQ2lnYXJldHRlczoqKiBVc2VkIGZvciBpdHMgbWlsZCwgZGlzdGluY3RpdmUgdGFzdGUgYW5kIGZyYWdyYW50IHNwaWNlLgoKKipNZWRpY2luYWwgQmVuZWZpdHMqKgoKQmV5b25kIGl0cyBjdWxpbmFyeSBhcHBsaWNhdGlvbnMsIGNvcmlhbmRlciBwb3dkZXIgb2ZmZXJzIHNpZ25pZmljYW50IG1lZGljaW5hbCBiZW5lZml0czoKLSAqKkRpZ2VzdGl2ZSBIZWFsdGg6KiogUHJvdmlkZXMgcmVsaWVmIGZyb20gZGlnZXN0aW9uIHByb2JsZW1zLgotICoqU2tpbiBIZWFsdGg6KiogSGVscHMgdHJlYXQgYWNuZSBhbmQgb3RoZXIgc2tpbiBpc3N1ZXMgd2hlbiBpbmNsdWRlZCBpbiB0aGUgZGlldC4KLSAqKk51dHJpZW50LVJpY2g6KiogUGFja2VkIHdpdGggVml0YW1pbiBBLCBWaXRhbWluIEMsIGZhdHMsIGNhcmJvaHlkcmF0ZXMsIHByb3RlaW5zLCBhbmQgZXNzZW50aWFsIG1pbmVyYWxzLgoKKipBcm9tYSBhbmQgVGFzdGUqKgoKQ29yaWFuZGVyIGlzIGEgbWFqb3IgbXVsdGktdGFza2VyIGluIHRoZSBraXRjaGVuOgotICoqV2hvbGUsIEdyb3VuZCwgUmF3LCBvciBSb2FzdGVkOioqIEl0cyBlYXJ0aHkgZnJlc2ggYXJvbWEgbWFrZXMgaXQgaW5kaXNwZW5zYWJsZS4KLSAqKkRyeS1Ub2FzdGluZzoqKiBFbmhhbmNlcyBpdHMgcm9idXN0IGFyb21hLgotICoqUG93ZGVyIEZvcm06KiogU2VhbWxlc3NseSBpbmNvcnBvcmF0ZXMgZmxhdm9yIGludG8gZGlzaGVzLgoKKipQYWNrYWdpbmcgYW5kIFF1YWxpdHkqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgdW5kZXJzdGFuZCB0aGUgZGl2ZXJzZSBuZWVkcyBvZiBvdXIgY2xpZW50cy4gSGVuY2UsIHdlIG9mZmVyIGNvcmlhbmRlciBwb3dkZXIgaW4gdmFyaW91cyBwYWNrYWdpbmcgb3B0aW9ucyB0byBtZWV0IGluZHVzdHJ5IHJlcXVpcmVtZW50cy4gT3VyIGNvcmlhbmRlciBwb3dkZXI6Ci0gKipVbmlxdWUgQXJvbWE6KiogRGVsaXZlcnMgYSBkaXN0aW5jdGl2ZSwgcmljaCBmbGF2b3IuCi0gKipOdXRyaWVudC1SaWNoOioqIFJpY2ggaW4gZXNzZW50aWFsIHZpdGFtaW5zIGFuZCBtaW5lcmFscy4KCioqV2h5IENob29zZSBWYXJuaSBFeHBvcnRzPyoqCgpXZSBzb3VyY2Ugb3VyIGNvcmlhbmRlciBzZWVkcyBmcm9tIHJlcHV0ZWQgZXhwb3J0ZXJzLCBlbnN1cmluZyB0aGUgaGlnaGVzdCBxdWFsaXR5IHByb2R1Y3QgZm9yIG91ciBjdXN0b21lcnMuIE91ciBjb21taXRtZW50IHRvIHF1YWxpdHkgZ3VhcmFudGVlcyB0aGF0IG91ciBjb3JpYW5kZXIgcG93ZGVyIHJldGFpbnMgaXRzIGZyZXNoIGFyb21hLCBkaXN0aW5jdGl2ZSBmbGF2b3IsIGFuZCBudXRyaXRpb25hbCB2YWx1ZS4KCioqQ29udGFjdCBVcyoqCgpFeHBsb3JlIHRoZSByaWNoIGZsYXZvcnMgYW5kIGhlYWx0aCBiZW5lZml0cyBvZiBjb3JpYW5kZXIgcG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjdXNzIHlvdXIgcmVxdWlyZW1lbnRzIGFuZCBkaXNjb3ZlciBob3cgd2UgY2FuIHN1cHBseSB5b3Ugd2l0aCBzdXBlcmlvciBxdWFsaXR5IGNvcmlhbmRlciBwb3dkZXIgdGFpbG9yZWQgdG8geW91ciBjdWxpbmFyeSBhbmQgaGVhbHRoIG5lZWRzLiBUcnVzdCBWYXJuaSBFeHBvcnRzIGZvciBleGNlbGxlbmNlIGluIHNwaWNlcyBhbmQgaGVyYnMgZnJvbSBhcm91bmQgdGhlIHdvcmxkLg==",
+              <div>
+                <h1><strong>Discover Premium Coriander Powder with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Coriander Powder</strong></h2>
+                <br />
+                <p>Coriander Powder, commonly known as Dhaniya Powder, is a staple spice in Indian cuisine, renowned for its unique taste and aroma. Manufactured by grinding high-quality coriander seeds, our coriander powder is essential for flavoring a wide array of dishes, from rice and stuffed vegetables to various other delicacies.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Coriander Powder is extensively used in Indian kitchens, adding good flavor and color to almost every dish. Here are some of its popular uses:</p>
+
+                  <li><strong>Flavoring Rice:</strong> Enhances the taste of various rice dishes.</li>
+                  <li><strong>Stuffed Vegetables:</strong> Adds depth and richness to the filling.</li>
+                  <li><strong>General Cooking:</strong> A versatile spice used in numerous dishes for its distinctive taste and aroma.</li>
+
+                <br />
+
+                <h2><strong>Versatility and Unique Flavor</strong></h2>
+                <br />
+                <p>Coriander Powder is a versatile ingredient:</p>
+
+                  <li><strong>As a Spice:</strong> Widely used in foods, beverages, marinades, desserts, and sweet pastries.</li>
+                  <li><strong>In American Cigarettes:</strong> Used for its mild, distinctive taste and fragrant spice.</li>
+
+                <br />
+
+                <h2><strong>Medicinal Benefits</strong></h2>
+                <br />
+                <p>Beyond its culinary applications, coriander powder offers significant medicinal benefits:</p>
+
+                  <li><strong>Digestive Health:</strong> Provides relief from digestion problems.</li>
+                  <li><strong>Skin Health:</strong> Helps treat acne and other skin issues when included in the diet.</li>
+                  <li><strong>Nutrient-Rich:</strong> Packed with Vitamin A, Vitamin C, fats, carbohydrates, proteins, and essential minerals.</li>
+
+                <br />
+
+                <h2><strong>Aroma and Taste</strong></h2>
+                <br />
+                <p>Coriander is a major multi-tasker in the kitchen:</p>
+
+                  <li><strong>Whole, Ground, Raw, or Roasted:</strong> Its earthy fresh aroma makes it indispensable.</li>
+                  <li><strong>Dry-Toasting:</strong> Enhances its robust aroma.</li>
+                  <li><strong>Powder Form:</strong> Seamlessly incorporates flavor into dishes.</li>
+
+                <br />
+
+                <h2><strong>Packaging and Quality</strong></h2>
+                <br />
+                <p>At Varni Exports, we understand the diverse needs of our clients. Hence, we offer coriander powder in various packaging options to meet industry requirements. Our coriander powder:</p>
+
+                  <li><strong>Unique Aroma:</strong> Delivers a distinctive, rich flavor.</li>
+                  <li><strong>Nutrient-Rich:</strong> Rich in essential vitamins and minerals.</li>
+
+                <br />
+
+                <h2><strong>Why Choose Varni Exports?</strong></h2>
+                <br />
+                <p>We source our coriander seeds from reputed exporters, ensuring the highest quality product for our customers. Our commitment to quality guarantees that our coriander powder retains its fresh aroma, distinctive flavor, and nutritional value.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Explore the rich flavors and health benefits of coriander powder with Varni Exports. Contact us today to discuss your requirements and discover how we can supply you with superior quality coriander powder tailored to your culinary and health needs. Trust Varni Exports for excellence in spices and herbs from around the world.</p>
+              </div>
+            ,
           },
 
           {
@@ -3301,7 +4989,68 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "IyMjIERpc2NvdmVyIFR1cm1lcmljOiBUaGUgIlF1ZWVuIG9mIFNwaWNlcyIgd2l0aCBWYXJuaSBFeHBvcnRzCgoqKkludHJvZHVjdGlvbiB0byBUdXJtZXJpYyoqCgpUdXJtZXJpYywgb2Z0ZW4gcmVmZXJyZWQgdG8gYXMgdGhlICJRdWVlbiBvZiBTcGljZXMsIiBpcyBhIHZpYnJhbnQgeWVsbG93IHNwaWNlIGRlcml2ZWQgZnJvbSB0aGUgZHJpZWQgcm9vdCBvZiB0aGUgQ3VyY3VtYSBsb25nYSBwbGFudCwgYSBtZW1iZXIgb2YgdGhlIGdpbmdlciBmYW1pbHkuIFdpZGVseSBjdWx0aXZhdGVkIGluIEluZGlhLCB0dXJtZXJpYyBoYXMgYmVlbiBhIGNvcm5lcnN0b25lIG9mIGJvdGggY3VsaW5hcnkgYW5kIG1lZGljaW5hbCBwcmFjdGljZXMgaW4gRWFzdCBJbmRpYSBhbmQgdGhlIE1pZGRsZSBFYXN0IGZvciB0aG91c2FuZHMgb2YgeWVhcnMuIFRvZGF5LCBpdCBpcyBvbmUgb2YgdGhlIG1vc3QgdXNlZCBzcGljZXMgZ2xvYmFsbHkuCgoqKkN1bGluYXJ5IGFuZCBNZWRpY2luYWwgVXNlcyoqCgpUdXJtZXJpYyBpcyBjZWxlYnJhdGVkIGZvciBpdHMgZXh0ZW5zaXZlIHVzZXM6Ci0gKipDdWxpbmFyeSBVc2VzOioqIEEga2V5IGluZ3JlZGllbnQgaW4gY3VycnkgcG93ZGVyLCB0dXJtZXJpYyBhZGRzIGEgZGlzdGluY3QgZmxhdm9yIGFuZCBjb2xvciB0byBkaXNoZXMuCi0gKipNZWRpY2luYWwgVXNlczoqKiBJbiBBeXVydmVkaWMgcHJhY3RpY2VzLCB0dXJtZXJpYyBpcyB1dGlsaXplZCB0byB0cmVhdCB2YXJpb3VzIGludGVybmFsIGRpc29yZGVycywgc3VjaCBhcyBpbmRpZ2VzdGlvbiwgdGhyb2F0IGluZmVjdGlvbnMsIGNvbW1vbiBjb2xkcywgYW5kIGxpdmVyIGFpbG1lbnRzLiBJdCBpcyBhbHNvIGFwcGxpZWQgdG9waWNhbGx5IHRvIGNsZWFuc2Ugd291bmRzIGFuZCB0cmVhdCBza2luIHNvcmVzLgoKKipOdXRyaXRpb25hbCBQcm9maWxlKioKClR1cm1lcmljIGlzIGFuIGV4Y2VsbGVudCBzb3VyY2Ugb2Y6Ci0gKipGaWJlcioqCi0gKipWaXRhbWluIEI2KioKLSAqKlBvdGFzc2l1bSoqCi0gKipWaXRhbWluIEMqKgotICoqTWFnbmVzaXVtKioKCioqSW5kaWFuIFR1cm1lcmljOiBUaGUgQmVzdCBpbiB0aGUgV29ybGQqKgoKSW5kaWFuIHR1cm1lcmljIGlzIGhpZ2hseSByZWdhcmRlZCBpbiB0aGUgZ2xvYmFsIG1hcmtldCBkdWUgdG8gaXRzIGhpZ2ggY3VyY3VtaW4gY29udGVudCwgd2hpY2ggaXMgdGhlIGFjdGl2ZSBjb21wb3VuZCByZXNwb25zaWJsZSBmb3IgbWFueSBvZiBpdHMgaGVhbHRoIGJlbmVmaXRzLiBJbmRpYSBwcm9kdWNlcyBhYm91dCA4MCUgb2YgdGhlIHdvcmxkJ3MgdHVybWVyaWMgYW5kIGFjY291bnRzIGZvciA2MCUgb2YgZ2xvYmFsIGV4cG9ydHMsIG1ha2luZyBpdCB0aGUgbGFyZ2VzdCBwcm9kdWNlciBhbmQgZXhwb3J0ZXIgb2YgdGhpcyB2YWx1YWJsZSBzcGljZS4KCioqSGVhbHRoIEJlbmVmaXRzIG9mIFR1cm1lcmljKioKCjEuICoqRWFzZXMgQXJ0aHJpdGlzIFN5bXB0b21zOioqIEl0cyBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzIGhlbHAgcmVkdWNlIGpvaW50IHBhaW4gYW5kIGluZmxhbW1hdGlvbi4KMi4gKipIZWFydCBIZWFsdGg6KiogUHJvbW90ZXMgY2FyZGlvdmFzY3VsYXIgaGVhbHRoIGJ5IGltcHJvdmluZyBjaXJjdWxhdGlvbiBhbmQgcmVkdWNpbmcgY2hvbGVzdGVyb2wgbGV2ZWxzLgozLiAqKk5hdHVyYWwgRmF0IEJ1cm5lcjoqKiBBaWRzIGluIHdlaWdodCBtYW5hZ2VtZW50Lgo0LiAqKkxvd2VycyBDaG9sZXN0ZXJvbDoqKiBIZWxwcyByZWR1Y2UgYmFkIGNob2xlc3Rlcm9sIGxldmVscyBpbiB0aGUgYm9keS4KNS4gKipQcm90ZWN0cyBBZ2FpbnN0IEZyZWUgUmFkaWNhbCBEYW1hZ2U6KiogSXRzIGFudGlveGlkYW50IHByb3BlcnRpZXMgaGVscCBuZXV0cmFsaXplIGhhcm1mdWwgZnJlZSByYWRpY2Fscy4KNi4gKipBbnRpc2VwdGljIFByb3BlcnRpZXM6KiogQ2FuIGJlIHVzZWQgdG8gY2xlYW5zZSB3b3VuZHMgYW5kIHByZXZlbnQgaW5mZWN0aW9ucy4KNy4gKipCb29zdHMgSW1tdW5lIFN5c3RlbToqKiBFbmhhbmNlcyB0aGUgYm9keSdzIG5hdHVyYWwgZGVmZW5zZSBtZWNoYW5pc21zLgo4LiAqKlBvd2VyZnVsIEFudGlveGlkYW50OioqIFByb3RlY3RzIGNlbGxzIGZyb20gb3hpZGF0aXZlIHN0cmVzcyBhbmQgZGFtYWdlLgo5LiAqKkRpZ2VzdGl2ZSBBaWQ6KiogUmVsaWV2ZXMgZGlnZXN0aXZlIHByb2JsZW1zIGxpa2UgdWxjZXJzIGFuZCBkeXNlbnRlcnkuCjEwLiAqKlNraW4gSGVhbHRoOioqIFJlZ3VsYXIgdXNlIGNhbiBicmluZyBhIG5hdHVyYWwgZ2xvdyB0byB0aGUgc2tpbi4KMTEuICoqU29yZSBUaHJvYXQgUmVsaWVmOioqIEZyZXNoIG9yIGRyaWVkIHR1cm1lcmljIGNhbiBiZSB1c2VkIGluIHNhbGluZSBnYXJnbGVzIHRvIHByZXZlbnQgYW5kIHJlbGlldmUgdGhyb2F0IHNvcmVzLgoKKipXaHkgQ2hvb3NlIFZhcm5pIEV4cG9ydHM/KioKClZhcm5pIEV4cG9ydHMgaXMgZGVkaWNhdGVkIHRvIHByb3ZpZGluZyB0aGUgaGlnaGVzdCBxdWFsaXR5IHR1cm1lcmljIHNvdXJjZWQgZnJvbSB0aGUgYmVzdCBmYXJtcyBpbiBJbmRpYS4gT3VyIHR1cm1lcmljIGlzIHByb2Nlc3NlZCBhbmQgcGFja2FnZWQgdG8gcmV0YWluIGl0cyB2aWJyYW50IGNvbG9yLCByb2J1c3QgZmxhdm9yLCBhbmQgcG90ZW50IGhlYWx0aCBiZW5lZml0cy4KCioqQ29udGFjdCBVcyoqCgpFbmhhbmNlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIGFuZCBpbXByb3ZlIHlvdXIgaGVhbHRoIHdpdGggcHJlbWl1bSB0dXJtZXJpYyBmcm9tIFZhcm5pIEV4cG9ydHMuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcHJvZHVjdHMgYW5kIHRvIHBsYWNlIGFuIG9yZGVyLiBFeHBlcmllbmNlIHRoZSBleGNlbGxlbmNlIG9mIFZhcm5pIEV4cG9ydHMsIHlvdXIgdHJ1c3RlZCBwYXJ0bmVyIGZvciBoaWdoLXF1YWxpdHkgc3BpY2VzIGFuZCBoZXJicyBmcm9tIGFyb3VuZCB0aGUgd29ybGQu",
+              <div>
+                <h1><strong>Discover Turmeric: The "Queen of Spices" with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Turmeric</strong></h2>
+                <br />
+                <p>Turmeric, often referred to as the "Queen of Spices," is a vibrant yellow spice derived from the dried root of the <i>Curcuma longa</i> plant, a member of the ginger family. Widely cultivated in India, turmeric has been a cornerstone of both culinary and medicinal practices in East India and the Middle East for thousands of years. Today, it is one of the most used spices globally.</p>
+                <br />
+
+                <h2><strong>Culinary and Medicinal Uses</strong></h2>
+                <br />
+                <p>Turmeric is celebrated for its extensive uses:</p>
+
+                  <li><strong>Culinary Uses:</strong> A key ingredient in curry powder, turmeric adds a distinct flavor and color to dishes.</li>
+                  <li><strong>Medicinal Uses:</strong> In Ayurvedic practices, turmeric is utilized to treat various internal disorders, such as indigestion, throat infections, common colds, and liver ailments. It is also applied topically to cleanse wounds and treat skin sores.</li>
+
+                <br />
+
+                <h2><strong>Nutritional Profile</strong></h2>
+                <br />
+                <p>Turmeric is an excellent source of:</p>
+
+                  <li>Fiber</li>
+                  <li>Vitamin B6</li>
+                  <li>Potassium</li>
+                  <li>Vitamin C</li>
+                  <li>Magnesium</li>
+
+                <br />
+
+                <h2><strong>Indian Turmeric: The Best in the World</strong></h2>
+                <br />
+                <p>Indian turmeric is highly regarded in the global market due to its high curcumin content, which is the active compound responsible for many of its health benefits. India produces about 80% of the world's turmeric and accounts for 60% of global exports, making it the largest producer and exporter of this valuable spice.</p>
+                <br />
+
+                <h2><strong>Health Benefits of Turmeric</strong></h2>
+                <br />
+                <ol>
+                  <li><strong>Eases Arthritis Symptoms:</strong> Its anti-inflammatory properties help reduce joint pain and inflammation.</li>
+                  <li><strong>Heart Health:</strong> Promotes cardiovascular health by improving circulation and reducing cholesterol levels.</li>
+                  <li><strong>Natural Fat Burner:</strong> Aids in weight management.</li>
+                  <li><strong>Lowers Cholesterol:</strong> Helps reduce bad cholesterol levels in the body.</li>
+                  <li><strong>Protects Against Free Radical Damage:</strong> Its antioxidant properties help neutralize harmful free radicals.</li>
+                  <li><strong>Antiseptic Properties:</strong> Can be used to cleanse wounds and prevent infections.</li>
+                  <li><strong>Boosts Immune System:</strong> Enhances the body's natural defense mechanisms.</li>
+                  <li><strong>Powerful Antioxidant:</strong> Protects cells from oxidative stress and damage.</li>
+                  <li><strong>Digestive Aid:</strong> Relieves digestive problems like ulcers and dysentery.</li>
+                  <li><strong>Skin Health:</strong> Regular use can bring a natural glow to the skin.</li>
+                  <li><strong>Sore Throat Relief:</strong> Fresh or dried turmeric can be used in saline gargles to prevent and relieve throat sores.</li>
+                </ol>
+                <br />
+
+                <h2><strong>Why Choose Varni Exports?</strong></h2>
+                <br />
+                <p>Varni Exports is dedicated to providing the highest quality turmeric sourced from the best farms in India. Our turmeric is processed and packaged to retain its vibrant color, robust flavor, and potent health benefits.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Enhance your culinary creations and improve your health with premium turmeric from Varni Exports. Contact us today to learn more about our products and to place an order. Experience the excellence of Varni Exports, your trusted partner for high-quality spices and herbs from around the world.</p>
+              </div>
+            ,
           },
 
           {
@@ -3317,7 +5066,52 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "IyMjIERpc2NvdmVyIEZlbnVncmVlayBQb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzCgoqKkludHJvZHVjdGlvbiB0byBGZW51Z3JlZWsgUG93ZGVyKioKCkZlbnVncmVlayBwb3dkZXIgaXMgYSB2ZXJzYXRpbGUgc3BpY2UgdGhhdCBwbGF5cyBhIGNydWNpYWwgcm9sZSBpbiBJbmRpYW4sIE1pZGRsZSBFYXN0ZXJuLCBhbmQgTWVkaXRlcnJhbmVhbiBjdWlzaW5lcy4gTWFkZSBmcm9tIGdyb3VuZCBmZW51Z3JlZWsgc2VlZHMsIHRoaXMgcG93ZGVyIGhhcyBhIHNsaWdodGx5IHN3ZWV0LCBudXR0eSB0YXN0ZSB3aXRoIGEgbWlsZGx5IHB1bmdlbnQgYXJvbWEsIG1ha2luZyBpdCBhbiBleGNlbGxlbnQgYWRkaXRpb24gdG8gYSB2YXJpZXR5IG9mIGRpc2hlcy4KCioqQ3VsaW5hcnkgVXNlcyoqCgpGZW51Z3JlZWsgcG93ZGVyIGVuaGFuY2VzIHRoZSBmbGF2b3Igb2YgbnVtZXJvdXMgY3VsaW5hcnkgY3JlYXRpb25zOgotICoqQ3VycmllcyBhbmQgU3Rld3M6KiogQWRkcyBkZXB0aCBhbmQgYSBkaXN0aW5jdGl2ZSBmbGF2b3IgdG8gSW5kaWFuIGN1cnJpZXMgYW5kIHN0ZXdzLgotICoqQmFrZWQgR29vZHM6KiogVXNlZCBpbiBtYWtpbmcgYnJlYWRzIGFuZCBvdGhlciBiYWtlZCBnb29kcyBmb3IgYSB1bmlxdWUgdGFzdGUuCi0gKipUZWFzOioqIENhbiBiZSBicmV3ZWQgaW50byBhIGhlYWx0aGZ1bCB0ZWEgd2l0aCBhIHN3ZWV0LCBudXR0eSBmbGF2b3IuCi0gKipTZWFzb25pbmc6KiogU3ByaW5rbGVkIGluIHZhcmlvdXMgc2F2b3J5IGRpc2hlcyB0byBlbnJpY2ggdGhlaXIgdGFzdGUuCgoqKkZsYXZvciBQcm9maWxlKioKCkZlbnVncmVlayBzZWVkcyBhcmUgc21hbGwsIHllbGxvd2lzaC1icm93biwgYW5kIHNsaWdodGx5IGJpdHRlciwgdHJhbnNmb3JtaW5nIGludG8gYSBwb3dkZXIgdGhhdCBjb21iaW5lcyBhIG51dHR5LCBzbGlnaHRseSBzd2VldCBmbGF2b3Igd2l0aCBhIHB1bmdlbnQgYXJvbWEuIFRoaXMgdW5pcXVlIGNvbWJpbmF0aW9uIG1ha2VzIGZlbnVncmVlayBwb3dkZXIgYSBzb3VnaHQtYWZ0ZXIgaW5ncmVkaWVudCBpbiBtYW55IHRyYWRpdGlvbmFsIHJlY2lwZXMuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgpGZW51Z3JlZWsgcG93ZGVyIGlzIG5vdCBvbmx5IHZhbHVlZCBmb3IgaXRzIGN1bGluYXJ5IHVzZXMgYnV0IGFsc28gZm9yIGl0cyBudW1lcm91cyBoZWFsdGggYmVuZWZpdHM6Ci0gKipEaWdlc3RpdmUgSGVhbHRoOioqIEFpZHMgaW4gZGlnZXN0aW9uIGFuZCBjYW4gaGVscCBzb290aGUgc3RvbWFjaCBpc3N1ZXMuCi0gKipCbG9vZCBTdWdhciBSZWd1bGF0aW9uOioqIEtub3duIHRvIGhlbHAgcmVndWxhdGUgYmxvb2Qgc3VnYXIgbGV2ZWxzLgotICoqQW50aS1JbmZsYW1tYXRvcnkgUHJvcGVydGllczoqKiBSZWR1Y2VzIGluZmxhbW1hdGlvbiBhbmQgaGVscHMgd2l0aCBjb25kaXRpb25zIGxpa2UgYXJ0aHJpdGlzLgotICoqUmljaCBpbiBOdXRyaWVudHM6KiogUGFja2VkIHdpdGggdml0YW1pbnMgYW5kIG1pbmVyYWxzLCBpbmNsdWRpbmcgaXJvbiwgbWFnbmVzaXVtLCBhbmQgZmliZXIuCgoqKldoeSBDaG9vc2UgVmFybmkgRXhwb3J0cz8qKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIG91ciBmZW51Z3JlZWsgcG93ZGVyIGlzIHNvdXJjZWQgZnJvbSB0aGUgaGlnaGVzdCBxdWFsaXR5IHNlZWRzLCBwcm9jZXNzZWQgdW5kZXIgc3RyaW5nZW50IHF1YWxpdHkgY29udHJvbHMgdG8gcmV0YWluIGl0cyBmbGF2b3IgYW5kIG51dHJpdGlvbmFsIHZhbHVlLiBPdXIgY29tbWl0bWVudCB0byBleGNlbGxlbmNlIGd1YXJhbnRlZXMgdGhhdCBvdXIgZmVudWdyZWVrIHBvd2RlciBtZWV0cyBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcywgbWFraW5nIGl0IGEgcGVyZmVjdCBjaG9pY2UgZm9yIGN1bGluYXJ5IGFuZCBoZWFsdGggYXBwbGljYXRpb25zLgoKKipDb250YWN0IFVzKioKCkVuaGFuY2UgeW91ciBkaXNoZXMgYW5kIGJvb3N0IHlvdXIgaGVhbHRoIHdpdGggcHJlbWl1bSBmZW51Z3JlZWsgcG93ZGVyIGZyb20gVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFib3V0IG91ciBwcm9kdWN0cyBhbmQgdG8gcGxhY2UgeW91ciBvcmRlci4gRXhwZXJpZW5jZSB0aGUgcXVhbGl0eSBhbmQgcmVsaWFiaWxpdHkgb2YgVmFybmkgRXhwb3J0cywgeW91ciB0cnVzdGVkIHBhcnRuZXIgZm9yIGhpZ2gtcXVhbGl0eSBzcGljZXMgYW5kIGhlcmJzIGZyb20gYXJvdW5kIHRoZSB3b3JsZC4=",
+              <div>
+                <h1><strong>Discover Fenugreek Powder with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Fenugreek Powder</strong></h2>
+                <br />
+                <p>Fenugreek powder is a versatile spice that plays a crucial role in Indian, Middle Eastern, and Mediterranean cuisines. Made from ground fenugreek seeds, this powder has a slightly sweet, nutty taste with a mildly pungent aroma, making it an excellent addition to a variety of dishes.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Fenugreek powder enhances the flavor of numerous culinary creations:</p>
+
+                  <li><strong>Curries and Stews:</strong> Adds depth and a distinctive flavor to Indian curries and stews.</li>
+                  <li><strong>Baked Goods:</strong> Used in making breads and other baked goods for a unique taste.</li>
+                  <li><strong>Teas:</strong> Can be brewed into a healthful tea with a sweet, nutty flavor.</li>
+                  <li><strong>Seasoning:</strong> Sprinkled in various savory dishes to enrich their taste.</li>
+
+                <br />
+
+                <h2><strong>Flavor Profile</strong></h2>
+                <br />
+                <p>Fenugreek seeds are small, yellowish-brown, and slightly bitter, transforming into a powder that combines a nutty, slightly sweet flavor with a pungent aroma. This unique combination makes fenugreek powder a sought-after ingredient in many traditional recipes.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Fenugreek powder is not only valued for its culinary uses but also for its numerous health benefits:</p>
+
+                  <li><strong>Digestive Health:</strong> Aids in digestion and can help soothe stomach issues.</li>
+                  <li><strong>Blood Sugar Regulation:</strong> Known to help regulate blood sugar levels.</li>
+                  <li><strong>Anti-Inflammatory Properties:</strong> Reduces inflammation and helps with conditions like arthritis.</li>
+                  <li><strong>Rich in Nutrients:</strong> Packed with vitamins and minerals, including iron, magnesium, and fiber.</li>
+
+                <br />
+
+                <h2><strong>Why Choose Varni Exports?</strong></h2>
+                <br />
+                <p>At Varni Exports, we ensure our fenugreek powder is sourced from the highest quality seeds, processed under stringent quality controls to retain its flavor and nutritional value. Our commitment to excellence guarantees that our fenugreek powder meets international standards, making it a perfect choice for culinary and health applications.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Enhance your dishes and boost your health with premium fenugreek powder from Varni Exports. Contact us today to learn more about our products and to place your order. Experience the quality and reliability of Varni Exports, your trusted partner for high-quality spices and herbs from around the world.</p>
+              </div>
+            ,
           },
 
           {
@@ -3334,7 +5128,58 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "IyMjIERpc2NvdmVyIERyeSBHaW5nZXIgUG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cwoKKipJbnRyb2R1Y3Rpb24gdG8gRHJ5IEdpbmdlciBQb3dkZXIqKgoKRHJ5IEdpbmdlciBQb3dkZXIgaXMgZGVyaXZlZCBmcm9tIHRoZSByaGl6b21lIG9mIHRoZSBaaW5naWJlciBvZmZpY2luYWxlIHBsYW50LCBjb21tb25seSBrbm93biBhcyBnaW5nZXIuIFRoaXMgc3BpY2UgaGFzIGJlZW4gYSBjb3JuZXJzdG9uZSBpbiBBc2lhbiwgSW5kaWFuLCBhbmQgQXJhYmljIGhlcmJhbCB0cmFkaXRpb25zIGZvciB0aG91c2FuZHMgb2YgeWVhcnMuIEtub3duIGZvciBpdHMgbWVkaWNpbmFsIHByb3BlcnRpZXMsIGRyeSBnaW5nZXIgcG93ZGVyIGlzIGFsc28gYSBjaGVyaXNoZWQgY3VsaW5hcnkgaW5ncmVkaWVudCB3b3JsZHdpZGUuCgoqKkhpc3RvcmljYWwgYW5kIE1lZGljaW5hbCBVc2VzKioKCkdpbmdlciBoYXMgYSByaWNoIGhpc3Rvcnkgb2YgbWVkaWNpbmFsIHVzZToKLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogSW4gQ2hpbmEsIGdpbmdlciBoYXMgYmVlbiB1c2VkIGZvciBvdmVyIDIsMDAwIHllYXJzIHRvIGFpZCBkaWdlc3Rpb24gYW5kIHRyZWF0IHN0b21hY2ggdXBzZXQsIGRpYXJyaGVhLCBhbmQgbmF1c2VhLgotICoqQXJ0aHJpdGlzIFJlbGllZjoqKiBUcmFkaXRpb25hbGx5IHVzZWQgdG8gaGVscCB0cmVhdCBhcnRocml0aXMgZHVlIHRvIGl0cyBhbnRpLWluZmxhbW1hdG9yeSBwcm9wZXJ0aWVzLgotICoqQ29saWMgYW5kIERpYXJyaGVhOioqIEtub3duIGZvciBpdHMgZWZmZWN0aXZlbmVzcyBpbiB0cmVhdGluZyBjb2xpYyBhbmQgZGlhcnJoZWEuCi0gKipIZWFydCBIZWFsdGg6KiogSGlzdG9yaWNhbGx5IHVzZWQgdG8gc3VwcG9ydCBoZWFydCBoZWFsdGggYW5kIHRyZWF0IHJlbGF0ZWQgY29uZGl0aW9ucy4KLSAqKkNvbW1vbiBDb2xkIGFuZCBGbHU6KiogQmVsaWV2ZWQgdG8gaGVscCBhbGxldmlhdGUgc3ltcHRvbXMgb2YgdGhlIGNvbW1vbiBjb2xkLCBmbHUsIGhlYWRhY2hlcywgYW5kIG1lbnN0cnVhbCBwYWluLgoKKipDdWxpbmFyeSBVc2VzKioKCkRyeSBHaW5nZXIgUG93ZGVyIGlzIHZhbHVlZCBub3Qgb25seSBmb3IgaXRzIGhlYWx0aCBiZW5lZml0cyBidXQgYWxzbyBmb3IgaXRzIHZlcnNhdGlsaXR5IGluIHRoZSBraXRjaGVuOgotICoqU3BpY2UgaW4gQ29va2luZzoqKiBBZGRzIGEgd2FybSwgc3BpY3kgZmxhdm9yIHRvIGEgdmFyaWV0eSBvZiBkaXNoZXMsIGluY2x1ZGluZyBjdXJyaWVzLCBzb3VwcywgYW5kIHN0ZXdzLgotICoqQmFraW5nOioqIEVzc2VudGlhbCBpbiBiYWtpbmcsIGl0IGVuaGFuY2VzIHRoZSBmbGF2b3Igb2YgY29va2llcywgY2FrZXMsIGFuZCBnaW5nZXJicmVhZC4KLSAqKkJldmVyYWdlczoqKiBVc2VkIGluIHRlYXMgYW5kIG90aGVyIGJldmVyYWdlcyBmb3IgaXRzIGRpc3RpbmN0aXZlIHRhc3RlIGFuZCBzb290aGluZyBwcm9wZXJ0aWVzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKR2luZ2VyIGNvbnRpbnVlcyB0byBiZSB2YWx1ZWQgZm9yIGl0cyBudW1lcm91cyBoZWFsdGggYmVuZWZpdHM6Ci0gKipEaWdlc3RpdmUgSGVhbHRoOioqIFByb21vdGVzIGRpZ2VzdGlvbiBhbmQgaGVscHMgYWxsZXZpYXRlIGdhc3Ryb2ludGVzdGluYWwgZGlzY29tZm9ydC4KLSAqKkFudGktSW5mbGFtbWF0b3J5IFByb3BlcnRpZXM6KiogUmVkdWNlcyBpbmZsYW1tYXRpb24gYW5kIHBhaW4sIGJlbmVmaWNpYWwgZm9yIGNvbmRpdGlvbnMgbGlrZSBhcnRocml0aXMuCi0gKipJbW11bmUgU3VwcG9ydDoqKiBIZWxwcyBpbiBmaWdodGluZyBjb2xkcyBhbmQgZmx1LWxpa2Ugc3ltcHRvbXMuCi0gKipNZW5zdHJ1YWwgUmVsaWVmOioqIEVhc2VzIG1lbnN0cnVhbCBwYWluIGFuZCBkaXNjb21mb3J0LgoKKipXaHkgQ2hvb3NlIFZhcm5pIEV4cG9ydHM/KioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGFyZSBjb21taXR0ZWQgdG8gcHJvdmlkaW5nIHByZW1pdW0gcXVhbGl0eSBkcnkgZ2luZ2VyIHBvd2RlciBzb3VyY2VkIGZyb20gdGhlIGJlc3QgZ2luZ2VyIHJvb3RzLiBPdXIgcmlnb3JvdXMgcHJvY2Vzc2luZyBhbmQgcXVhbGl0eSBjb250cm9sIGVuc3VyZSB0aGF0IHRoZSBwb3dkZXIgcmV0YWlucyBpdHMgcG90ZW50IGZsYXZvciBhbmQgYmVuZWZpY2lhbCBwcm9wZXJ0aWVzLiAKCioqQ29udGFjdCBVcyoqCgpFbmhhbmNlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIGFuZCBzdXBwb3J0IHlvdXIgaGVhbHRoIHdpdGggaGlnaC1xdWFsaXR5IGRyeSBnaW5nZXIgcG93ZGVyIGZyb20gVmFybmkgRXhwb3J0cy4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFib3V0IG91ciBwcm9kdWN0cyBhbmQgdG8gcGxhY2UgeW91ciBvcmRlci4gRXhwZXJpZW5jZSB0aGUgZXhjZWxsZW5jZSBvZiBWYXJuaSBFeHBvcnRzLCB5b3VyIHRydXN0ZWQgcGFydG5lciBmb3IgcHJlbWl1bSBzcGljZXMgYW5kIGhlcmJzIGZyb20gYXJvdW5kIHRoZSB3b3JsZC4=",
+              <div>
+                <h1><strong>Discover Dry Ginger Powder with Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Dry Ginger Powder</strong></h2>
+                <br />
+                <p>Dry Ginger Powder is derived from the rhizome of the Zingiber officinale plant, commonly known as ginger. This spice has been a cornerstone in Asian, Indian, and Arabic herbal traditions for thousands of years. Known for its medicinal properties, dry ginger powder is also a cherished culinary ingredient worldwide.</p>
+                <br />
+
+                <h2><strong>Historical and Medicinal Uses</strong></h2>
+                <br />
+                <p>Ginger has a rich history of medicinal use:</p>
+
+                  <li><strong>Digestive Aid:</strong> In China, ginger has been used for over 2,000 years to aid digestion and treat stomach upset, diarrhea, and nausea.</li>
+                  <li><strong>Arthritis Relief:</strong> Traditionally used to help treat arthritis due to its anti-inflammatory properties.</li>
+                  <li><strong>Colic and Diarrhea:</strong> Known for its effectiveness in treating colic and diarrhea.</li>
+                  <li><strong>Heart Health:</strong> Historically used to support heart health and treat related conditions.</li>
+                  <li><strong>Common Cold and Flu:</strong> Believed to help alleviate symptoms of the common cold, flu, headaches, and menstrual pain.</li>
+
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Dry Ginger Powder is valued not only for its health benefits but also for its versatility in the kitchen:</p>
+
+                  <li><strong>Spice in Cooking:</strong> Adds a warm, spicy flavor to a variety of dishes, including curries, soups, and stews.</li>
+                  <li><strong>Baking:</strong> Essential in baking, it enhances the flavor of cookies, cakes, and gingerbread.</li>
+                  <li><strong>Beverages:</strong> Used in teas and other beverages for its distinctive taste and soothing properties.</li>
+
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+                <p>Ginger continues to be valued for its numerous health benefits:</p>
+
+                  <li><strong>Digestive Health:</strong> Promotes digestion and helps alleviate gastrointestinal discomfort.</li>
+                  <li><strong>Anti-Inflammatory Properties:</strong> Reduces inflammation and pain, beneficial for conditions like arthritis.</li>
+                  <li><strong>Immune Support:</strong> Helps in fighting colds and flu-like symptoms.</li>
+                  <li><strong>Menstrual Relief:</strong> Eases menstrual pain and discomfort.</li>
+
+                <br />
+
+                <h2><strong>Why Choose Varni Exports?</strong></h2>
+                <br />
+                <p>At Varni Exports, we are committed to providing premium quality dry ginger powder sourced from the best ginger roots. Our rigorous processing and quality control ensure that the powder retains its potent flavor and beneficial properties.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Enhance your culinary creations and support your health with high-quality dry ginger powder from Varni Exports. Contact us today to learn more about our products and to place your order. Experience the excellence of Varni Exports, your trusted partner for premium spices and herbs from around the world.</p>
+              </div>
+            ,
           },
 
           {
@@ -3351,7 +5196,54 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "IyMjIE51dG1lZyBQb3dkZXI6IEEgRGVsaWdodGZ1bCBTcGljZSBmcm9tIFZhcm5pIEV4cG9ydHMKCioqSW50cm9kdWN0aW9uIHRvIE51dG1lZyBQb3dkZXIqKgoKTnV0bWVnIHBvd2RlciBpcyBhIHByaXplZCBzcGljZSBvYnRhaW5lZCBmcm9tIHRoZSBzZWVkcyBvZiB0aGUgbnV0bWVnIHRyZWUsIG5hdGl2ZSB0byB0aGUgZXhvdGljIFNwaWNlIElzbGFuZHMgb2YgSW5kb25lc2lhLiBLbm93biBmb3IgaXRzIHdhcm0sIGFyb21hdGljIHF1YWxpdGllcyBhbmQgc3dlZXQsIG51dHR5IGZsYXZvciB3aXRoIGEgaGludCBvZiBjaW5uYW1vbiwgbnV0bWVnIHBvd2RlciBpcyBhIHZlcnNhdGlsZSBpbmdyZWRpZW50IHRoYXQgZW5oYW5jZXMgYm90aCBzd2VldCBhbmQgc2F2b3J5IGRpc2hlcy4KCioqT3JpZ2luIGFuZCBGbGF2b3IgUHJvZmlsZSoqCgotICoqT3JpZ2luOioqIFRoZSBudXRtZWcgdHJlZSwgc2NpZW50aWZpY2FsbHkga25vd24gYXMgTXlyaXN0aWNhIGZyYWdyYW5zLCB0aHJpdmVzIGluIHRoZSB0cm9waWNhbCBjbGltYXRlcyBvZiB0aGUgU3BpY2UgSXNsYW5kcywgYWxzbyBrbm93biBhcyB0aGUgTW9sdWNjYXMgb3IgTWFsdWt1IElzbGFuZHMgaW4gSW5kb25lc2lhLgotICoqRmxhdm9yOioqIE51dG1lZyBwb3dkZXIgb2ZmZXJzIGEgZGVsaWdodGZ1bCBjb21iaW5hdGlvbiBvZiBzd2VldG5lc3MgYW5kIHdhcm10aCwgY29tcGxlbWVudGVkIGJ5IHN1YnRsZSBub3RlcyBvZiBjaW5uYW1vbi4gSXRzIGFyb21hIGlzIHJpY2ggYW5kIGludml0aW5nLCBtYWtpbmcgaXQgYSBwb3B1bGFyIGNob2ljZSBpbiBjdWxpbmFyeSBjcmVhdGlvbnMgd29ybGR3aWRlLgoKKipDdWxpbmFyeSBVc2VzKioKCk51dG1lZyBwb3dkZXIgaXMgY2hlcmlzaGVkIGZvciBpdHMgZGl2ZXJzZSBjdWxpbmFyeSBhcHBsaWNhdGlvbnM6Ci0gKipCYWtpbmc6KiogSXQgaXMgYSBxdWludGVzc2VudGlhbCBpbmdyZWRpZW50IGluIGJha2luZywgZW5oYW5jaW5nIHRoZSBmbGF2b3Igb2YgY2FrZXMsIGNvb2tpZXMsIHBpZXMsIGFuZCBwYXN0cmllcy4KLSAqKkNvb2tpbmc6KiogQWRkcyBkZXB0aCB0byBzYXZvcnkgZGlzaGVzIHN1Y2ggYXMgY3Vycmllcywgc2F1Y2VzLCBzb3VwcywgYW5kIHN0ZXdzLgotICoqQmV2ZXJhZ2VzOioqIFVzZWQgdG8gZmxhdm9yIGJldmVyYWdlcyBsaWtlIGVnZ25vZywgbXVsbGVkIHdpbmUsIGFuZCB2YXJpb3VzIGNvY2t0YWlscy4KLSAqKkRlc3NlcnRzOioqIFNwcmlua2xlZCBvdmVyIGN1c3RhcmRzLCBwdWRkaW5ncywgYW5kIGljZSBjcmVhbSB0byBpbXBhcnQgYSB3YXJtLCBhcm9tYXRpYyB0b3VjaC4KCioqTWVkaWNpbmFsIGFuZCBIZWFsdGggQmVuZWZpdHMqKgoKQmV5b25kIGl0cyBjdWxpbmFyeSBhcHBlYWwsIG51dG1lZyBwb3dkZXIgaXMgdmFsdWVkIGZvciBpdHMgcG90ZW50aWFsIGhlYWx0aCBiZW5lZml0czoKLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogVHJhZGl0aW9uYWxseSB1c2VkIGluIGhlcmJhbCBtZWRpY2luZSB0byBhbGxldmlhdGUgZGlnZXN0aXZlIGlzc3VlcyBzdWNoIGFzIGJsb2F0aW5nLCBnYXMsIGFuZCBpbmRpZ2VzdGlvbi4KLSAqKkFudGlmdW5nYWwgYW5kIEFudGliYWN0ZXJpYWwgUHJvcGVydGllczoqKiBTdHVkaWVzIHN1Z2dlc3QgbnV0bWVnIG1heSBwb3NzZXNzIHByb3BlcnRpZXMgdGhhdCBpbmhpYml0IHRoZSBncm93dGggb2YgZnVuZ2kgYW5kIGJhY3RlcmlhLCBjb250cmlidXRpbmcgdG8gaXRzIG1lZGljaW5hbCB1c2VzLgotICoqQXJvbWF0aWMgVGhlcmFweToqKiBJdHMgd2FybSBhcm9tYSBpcyBhbHNvIHVzZWQgaW4gYXJvbWF0aGVyYXB5IHRvIGluZHVjZSByZWxheGF0aW9uIGFuZCBhbGxldmlhdGUgc3RyZXNzLgoKKipRdWFsaXR5IEFzc3VyYW5jZSBhdCBWYXJuaSBFeHBvcnRzKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGVuc3VyZSB0aGF0IG91ciBudXRtZWcgcG93ZGVyIG1lZXRzIHRoZSBoaWdoZXN0IHN0YW5kYXJkcyBvZiBxdWFsaXR5IGFuZCBmcmVzaG5lc3MuIFNvdXJjZWQgZGlyZWN0bHkgZnJvbSByZXB1dGFibGUgZ3Jvd2VycyBpbiB0aGUgU3BpY2UgSXNsYW5kcywgb3VyIG51dG1lZyBwb3dkZXIgaXMgbWV0aWN1bG91c2x5IHByb2Nlc3NlZCBhbmQgcGFja2VkIHRvIHByZXNlcnZlIGl0cyByaWNoIGZsYXZvciBhbmQgYmVuZWZpY2lhbCBwcm9wZXJ0aWVzLgoKKipDb250YWN0IFVzKioKCkVuaGFuY2UgeW91ciBjdWxpbmFyeSBkZWxpZ2h0cyBhbmQgZXhwbG9yZSB0aGUgaGVhbHRoIGJlbmVmaXRzIG9mIG51dG1lZyBwb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzLiBDb250YWN0IHVzIHRvZGF5IHRvIHBsYWNlIHlvdXIgb3JkZXIgb3IgaW5xdWlyZSBhYm91dCBvdXIgcmFuZ2Ugb2YgcHJlbWl1bSBzcGljZXMgYW5kIGhlcmJzLiBUcnVzdCBWYXJuaSBFeHBvcnRzIHRvIGRlbGl2ZXIgZXhjZWxsZW5jZSBpbiBldmVyeSBzcGljZSwgZW5zdXJpbmcgc2F0aXNmYWN0aW9uIGFuZCBmbGF2b3IgaW4gZXZlcnkgZGlzaC4=",
+              <div>
+                <h1><strong>Nutmeg Powder: A Delightful Spice from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Nutmeg Powder</strong></h2>
+                <br />
+                <p>Nutmeg powder is a prized spice obtained from the seeds of the nutmeg tree, native to the exotic Spice Islands of Indonesia. Known for its warm, aromatic qualities and sweet, nutty flavor with a hint of cinnamon, nutmeg powder is a versatile ingredient that enhances both sweet and savory dishes.</p>
+                <br />
+
+                <h2><strong>Origin and Flavor Profile</strong></h2>
+                <br />
+
+                  <li><strong>Origin:</strong> The nutmeg tree, scientifically known as Myristica fragrans, thrives in the tropical climates of the Spice Islands, also known as the Moluccas or Maluku Islands in Indonesia.</li>
+                  <li><strong>Flavor:</strong> Nutmeg powder offers a delightful combination of sweetness and warmth, complemented by subtle notes of cinnamon. Its aroma is rich and inviting, making it a popular choice in culinary creations worldwide.</li>
+
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+                <p>Nutmeg powder is cherished for its diverse culinary applications:</p>
+
+                  <li><strong>Baking:</strong> It is a quintessential ingredient in baking, enhancing the flavor of cakes, cookies, pies, and pastries.</li>
+                  <li><strong>Cooking:</strong> Adds depth to savory dishes such as curries, sauces, soups, and stews.</li>
+                  <li><strong>Beverages:</strong> Used to flavor beverages like eggnog, mulled wine, and various cocktails.</li>
+                  <li><strong>Desserts:</strong> Sprinkled over custards, puddings, and ice cream to impart a warm, aromatic touch.</li>
+
+                <br />
+
+                <h2><strong>Medicinal and Health Benefits</strong></h2>
+                <br />
+                <p>Beyond its culinary appeal, nutmeg powder is valued for its potential health benefits:</p>
+
+                  <li><strong>Digestive Aid:</strong> Traditionally used in herbal medicine to alleviate digestive issues such as bloating, gas, and indigestion.</li>
+                  <li><strong>Antifungal and Antibacterial Properties:</strong> Studies suggest nutmeg may possess properties that inhibit the growth of fungi and bacteria, contributing to its medicinal uses.</li>
+                  <li><strong>Aromatic Therapy:</strong> Its warm aroma is also used in aromatherapy to induce relaxation and alleviate stress.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance at Varni Exports</strong></h2>
+                <br />
+                <p>At Varni Exports, we ensure that our nutmeg powder meets the highest standards of quality and freshness. Sourced directly from reputable growers in the Spice Islands, our nutmeg powder is meticulously processed and packed to preserve its rich flavor and beneficial properties.</p>
+                <br />
+
+                <h2><strong>Contact Us</strong></h2>
+                <br />
+                <p>Enhance your culinary delights and explore the health benefits of nutmeg powder with Varni Exports. Contact us today to place your order or inquire about our range of premium spices and herbs. Trust Varni Exports to deliver excellence in every spice, ensuring satisfaction and flavor in every dish.</p>
+              </div>
+            ,
           },
 
           {
@@ -3366,7 +5258,49 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "IyMjIEN1cnJ5IFBvd2RlcjogQSBWZXJzYXRpbGUgU3BpY2UgQmxlbmQgZnJvbSBWYXJuaSBFeHBvcnRzCgoqKkludHJvZHVjdGlvbiB0byBDdXJyeSBQb3dkZXIqKgoKQ3VycnkgcG93ZGVyIGlzIGEgYmVsb3ZlZCBzcGljZSBibGVuZCBzeW5vbnltb3VzIHdpdGggdGhlIHZpYnJhbnQgZmxhdm9ycyBvZiBBc2lhbiBjdWlzaW5lLiBXaGlsZSBpdHMgZXhhY3QgY29tcG9zaXRpb24gY2FuIHZhcnksIGN1cnJ5IHBvd2RlciB0eXBpY2FsbHkgZmVhdHVyZXMgYSBoYXJtb25pb3VzIG1peCBvZiBzcGljZXMgdGhhdCBsZW5kIGEgZGlzdGluY3RpdmUgYXJvbWEgYW5kIGZsYXZvciB0byBkaXNoZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIG9mZmVyIGEgcHJlbWl1bSBxdWFsaXR5IGN1cnJ5IHBvd2RlciBibGVuZCB0aGF0IGVtYm9kaWVzIHRoZSByaWNoIGN1bGluYXJ5IHRyYWRpdGlvbnMgaXQgcmVwcmVzZW50cy4KCioqT3JpZ2lucyBhbmQgSW5ncmVkaWVudHMqKgoKLSAqKkJsZW5kIENvbXBvc2l0aW9uOioqIE91ciBjdXJyeSBwb3dkZXIgaXMgbWV0aWN1bG91c2x5IGNyYWZ0ZWQgd2l0aCBhIGJhbGFuY2VkIGNvbWJpbmF0aW9uIG9mIGVzc2VudGlhbCBzcGljZXMsIGluY2x1ZGluZyBjdW1pbiwgY29yaWFuZGVyLCBhbmQgdHVybWVyaWMuIFRoZXNlIGZvcm0gdGhlIGJhc2UsIHByb3ZpZGluZyBkZXB0aCBhbmQgZWFydGhpbmVzcy4KLSAqKkFkZGl0aW9uYWwgSW5ncmVkaWVudHM6KiogVG8gZW5oYW5jZSBpdHMgY29tcGxleGl0eSwgd2UgaW5jb3Jwb3JhdGUgcmVkIG9yIGJsYWNrIHBlcHBlciBmb3IgaGVhdCwgbXVzdGFyZCBmb3IgcHVuZ2VuY3ksIGdpbmdlciBmb3Igd2FybXRoLCBjbG92ZSBhbmQgY2FyZGFtb20gZm9yIGFyb21hdGljIGRlcHRoLCBiYXkgbGVhZiBmb3IgaGVyYmFsIG5vdGVzLCBhbmQgZmVudWdyZWVrIGZvciBhIHN1YnRsZSBiaXR0ZXItc3dlZXRuZXNzLgotICoqVmFyaWFudHM6KiogQXZhaWxhYmxlIGluIG1pbGQgYW5kIGhvdCAob2Z0ZW4gcmVmZXJyZWQgdG8gYXMgIk1hZHJhcyIpLCBjYXRlcmluZyB0byBkaWZmZXJlbnQgdGFzdGUgcHJlZmVyZW5jZXMgYW5kIGN1bGluYXJ5IGFwcGxpY2F0aW9ucy4KCioqVmVyc2F0aWxpdHkgaW4gQ3VsaW5hcnkgQXBwbGljYXRpb25zKioKCkN1cnJ5IHBvd2RlciBmcm9tIFZhcm5pIEV4cG9ydHMgc2VydmVzIGFzIGEgdmVyc2F0aWxlIHNlYXNvbmluZzoKLSAqKlRyYWRpdGlvbmFsIERpc2hlczoqKiBJdCBpcyBlc3NlbnRpYWwgZm9yIHByZXBhcmluZyBjbGFzc2ljIGN1cnJpZXMsIGltcGFydGluZyBhIHJvYnVzdCBmbGF2b3IgYW5kIGdvbGRlbiBodWUgdG8gbWVhdCwgdmVnZXRhYmxlLCBhbmQgbGVudGlsLWJhc2VkIGRpc2hlcy4KLSAqKlNvdXBzIGFuZCBTdGV3czoqKiBBZGRzIGNvbXBsZXhpdHkgdG8gc291cHMgYW5kIHN0ZXdzLCBlbnJpY2hpbmcgYnJvdGggd2l0aCBsYXllcnMgb2Ygc3BpY2UgYW5kIHdhcm10aC4KLSAqKlNhdWNlcyBhbmQgTWFyaW5hZGVzOioqIEVuaGFuY2VzIHNhdWNlcyBhbmQgbWFyaW5hZGVzLCBwcm92aWRpbmcgYSB3ZWxsLXJvdW5kZWQgZmxhdm9yIHByb2ZpbGUgdGhhdCBjb21wbGVtZW50cyBtZWF0cywgc2VhZm9vZCwgYW5kIHZlZ2V0YWJsZXMuCi0gKipDcmVhdGl2ZSBVc2VzOioqIEJleW9uZCB0cmFkaXRpb25hbCBhcHBsaWNhdGlvbnMsIG91ciBjdXJyeSBwb3dkZXIgaW5zcGlyZXMgY3JlYXRpdmUgY3VsaW5hcnkgZXhwbG9yYXRpb25zLiBJdCBjYW4gZWxldmF0ZSBldmVyeWRheSBkaXNoZXMgc3VjaCBhcyBoYW1idXJnZXJzLCBzY3JhbWJsZWQgZWdncywgcm9hc3RlZCB2ZWdldGFibGVzLCBhbmQgZXZlbiBwb3RhdG8gc2FsYWQsIGFkZGluZyBhbiBleG90aWMgdHdpc3QgdG8gZmFtaWxpYXIgZmxhdm9ycy4KCioqUXVhbGl0eSBBc3N1cmFuY2UgYXQgVmFybmkgRXhwb3J0cyoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSB1cGhvbGQgc3RyaW5nZW50IHF1YWxpdHkgc3RhbmRhcmRzOgotICoqU291cmNpbmc6KiogT3VyIGN1cnJ5IHBvd2RlciBibGVuZCBpcyBzb3VyY2VkIGZyb20gcmVwdXRhYmxlIHN1cHBsaWVycyB3aG8gYWRoZXJlIHRvIHN1c3RhaW5hYmxlIHByYWN0aWNlcyBhbmQgZW5zdXJlIHRoZSBmcmVzaG5lc3MgYW5kIGF1dGhlbnRpY2l0eSBvZiBlYWNoIHNwaWNlLgotICoqUHJvY2Vzc2luZzoqKiBFYWNoIGJhdGNoIG9mIGN1cnJ5IHBvd2RlciB1bmRlcmdvZXMgbWV0aWN1bG91cyBwcm9jZXNzaW5nLCBpbmNsdWRpbmcgZ3JpbmRpbmcgYW5kIGJsZW5kaW5nIHVuZGVyIGNvbnRyb2xsZWQgY29uZGl0aW9ucyB0byBwcmVzZXJ2ZSBpdHMgYXJvbWEgYW5kIHBvdGVuY3kuCi0gKipQYWNrYWdpbmc6KiogUGFja2FnZWQgd2l0aCBjYXJlIHRvIG1haW50YWluIGZyZXNobmVzcywgZW5zdXJpbmcgdGhhdCBldmVyeSBzcG9vbmZ1bCBkZWxpdmVycyB0aGUgcGVyZmVjdCBiYWxhbmNlIG9mIGZsYXZvcnMuCgoqKkV4cGxvcmUgdGhlIFdvcmxkIG9mIEN1cnJ5IHdpdGggVmFybmkgRXhwb3J0cyoqCgpXaGV0aGVyIHlvdSdyZSBhIGN1bGluYXJ5IGVudGh1c2lhc3Qgb3IgYSBwcm9mZXNzaW9uYWwgY2hlZiwgVmFybmkgRXhwb3J0cyBpbnZpdGVzIHlvdSB0byBleHBlcmllbmNlIHRoZSByaWNoIGZsYXZvcnMgYW5kIHZlcnNhdGlsaXR5IG9mIG91ciBjdXJyeSBwb3dkZXIuIEVsZXZhdGUgeW91ciBkaXNoZXMgd2l0aCBvdXIgcHJlbWl1bSBzcGljZSBibGVuZCwgY3JhZnRlZCB0byBlbmhhbmNlIHRoZSBhdXRoZW50aWNpdHkgYW5kIGFyb21hIG9mIEFzaWFuLWluc3BpcmVkIGN1aXNpbmUuIENvbnRhY3QgdXMgdG9kYXkgdG8gcGxhY2UgeW91ciBvcmRlciBvciBsZWFybiBtb3JlIGFib3V0IG91ciB3aWRlIHJhbmdlIG9mIHNwaWNlcyBhbmQgaGVyYnMuIFRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gZXZlcnkgYmxlbmQsIGJyaW5naW5nIGN1bGluYXJ5IGRlbGlnaHQgdG8geW91ciBraXRjaGVuLg==",
+              <div>
+                <h1><strong>Curry Powder: A Versatile Spice Blend from Varni Exports</strong></h1>
+                <br />
+
+                <h2><strong>Introduction to Curry Powder</strong></h2>
+                <br />
+                <p>Curry powder is a beloved spice blend synonymous with the vibrant flavors of Asian cuisine. While its exact composition can vary, curry powder typically features a harmonious mix of spices that lend a distinctive aroma and flavor to dishes. At Varni Exports, we offer a premium quality curry powder blend that embodies the rich culinary traditions it represents.</p>
+                <br />
+
+                <h2><strong>Origins and Ingredients</strong></h2>
+                <br />
+
+                  <li><strong>Blend Composition:</strong> Our curry powder is meticulously crafted with a balanced combination of essential spices, including cumin, coriander, and turmeric. These form the base, providing depth and earthiness.</li>
+                  <li><strong>Additional Ingredients:</strong> To enhance its complexity, we incorporate red or black pepper for heat, mustard for pungency, ginger for warmth, clove and cardamom for aromatic depth, bay leaf for herbal notes, and fenugreek for a subtle bitter-sweetness.</li>
+                  <li><strong>Variants:</strong> Available in mild and hot (often referred to as "Madras"), catering to different taste preferences and culinary applications.</li>
+
+                <br />
+
+                <h2><strong>Versatility in Culinary Applications</strong></h2>
+                <br />
+                <p>Curry powder from Varni Exports serves as a versatile seasoning:</p>
+
+                  <li><strong>Traditional Dishes:</strong> It is essential for preparing classic curries, imparting a robust flavor and golden hue to meat, vegetable, and lentil-based dishes.</li>
+                  <li><strong>Soups and Stews:</strong> Adds complexity to soups and stews, enriching broth with layers of spice and warmth.</li>
+                  <li><strong>Sauces and Marinades:</strong> Enhances sauces and marinades, providing a well-rounded flavor profile that complements meats, seafood, and vegetables.</li>
+                  <li><strong>Creative Uses:</strong> Beyond traditional applications, our curry powder inspires creative culinary explorations. It can elevate everyday dishes such as hamburgers, scrambled eggs, roasted vegetables, and even potato salad, adding an exotic twist to familiar flavors.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance at Varni Exports</strong></h2>
+                <br />
+
+                  <li><strong>Sourcing:</strong> Our curry powder blend is sourced from reputable suppliers who adhere to sustainable practices and ensure the freshness and authenticity of each spice.</li>
+                  <li><strong>Processing:</strong> Each batch of curry powder undergoes meticulous processing, including grinding and blending under controlled conditions to preserve its aroma and potency.</li>
+                  <li><strong>Packaging:</strong> Packaged with care to maintain freshness, ensuring that every spoonful delivers the perfect balance of flavors.</li>
+
+                <br />
+
+                <h2><strong>Explore the World of Curry with Varni Exports</strong></h2>
+                <br />
+                <p>Whether you're a culinary enthusiast or a professional chef, Varni Exports invites you to experience the rich flavors and versatility of our curry powder. Elevate your dishes with our premium spice blend, crafted to enhance the authenticity and aroma of Asian-inspired cuisine. Contact us today to place your order or learn more about our wide range of spices and herbs. Trust Varni Exports for excellence in every blend, bringing culinary delight to your kitchen.</p>
+              </div>
+            ,
           },
 
           {
@@ -3382,7 +5316,49 @@ export const catagories = [
             Loading: "15 to 30 Tons",
             Certification: "FSSAI Certified",
             description:
-              "IyMjIEJsYWNrIFBlcHBlciBQb3dkZXI6IFRoZSBLaW5nIG9mIFNwaWNlcwoKKipJbnRyb2R1Y3Rpb24qKgoKQmxhY2sgcGVwcGVyIHBvd2Rlciwgb2Z0ZW4gaGFpbGVkIGFzIHRoZSAiS2luZyBvZiBTcGljZXMsIiBpcyByZW5vd25lZCBub3Qgb25seSBmb3IgaXRzIHJvYnVzdCBmbGF2b3IgYnV0IGFsc28gZm9yIGl0cyBudW1lcm91cyBoZWFsdGggYmVuZWZpdHMuIE9yaWdpbmF0aW5nIGZyb20gdGhlIHRyb3BpY2FsIGV2ZXJncmVlbiByYWluZm9yZXN0cyBvZiBTb3V0aCBJbmRpYW4gS2VyYWxhLCBibGFjayBwZXBwZXIgaGFzIGJlZW4gcHJpemVkIHNpbmNlIGFuY2llbnQgdGltZXMgZm9yIGl0cyBjdWxpbmFyeSBhbmQgbWVkaWNpbmFsIHByb3BlcnRpZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIGJyaW5nIHlvdSBwcmVtaXVtLXF1YWxpdHkgYmxhY2sgcGVwcGVyIHBvd2RlciB0aGF0IGVuaGFuY2VzIHRoZSB0YXN0ZSBhbmQgaGVhbHRoIGJlbmVmaXRzIG9mIHlvdXIgZGlzaGVzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKLSAqKldlaWdodCBMb3NzOioqIEJsYWNrIHBlcHBlciBpcyBrbm93biB0byBib29zdCBtZXRhYm9saXNtIGFuZCBhaWQgaW4gd2VpZ2h0IGxvc3MgZWZmb3J0cy4KLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogSXQgaW1wcm92ZXMgZGlnZXN0aW9uIGJ5IHN0aW11bGF0aW5nIHRoZSBzZWNyZXRpb24gb2YgZGlnZXN0aXZlIGVuenltZXMuCi0gKipDb2xkIGFuZCBDb3VnaCBSZWxpZWY6KiogSGVscHMgcmVsaWV2ZSBzeW1wdG9tcyBvZiBjb2xkIGFuZCBjb3VnaCBkdWUgdG8gaXRzIGV4cGVjdG9yYW50IHByb3BlcnRpZXMuCi0gKipBbnRpLWluZmxhbW1hdG9yeToqKiBFZmZlY3RpdmUgaW4gcmVkdWNpbmcgaW5mbGFtbWF0aW9uLCBiZW5lZml0aW5nIGFydGhyaXRpcyBwYXRpZW50cy4KLSAqKkFudGlveGlkYW50IFByb3BlcnRpZXM6KiogUHJvdGVjdHMgY2VsbHMgZnJvbSBkYW1hZ2UgY2F1c2VkIGJ5IGZyZWUgcmFkaWNhbHMsIHBvdGVudGlhbGx5IHJlZHVjaW5nIHRoZSByaXNrIG9mIGNhbmNlci4KLSAqKlNraW4gQmVuZWZpdHM6KiogSW1wcm92ZXMgc2tpbiBoZWFsdGggYW5kIHByZXZlbnRzIHByZW1hdHVyZSBhZ2luZy4KLSAqKkhlYXJ0IEhlYWx0aDoqKiBTdXBwb3J0cyBoZWFydCBoZWFsdGggYnkgaW1wcm92aW5nIGJsb29kIGNpcmN1bGF0aW9uIGFuZCBsb3dlcmluZyBjaG9sZXN0ZXJvbCBsZXZlbHMuCgoqKkN1bGluYXJ5IFVzZXMqKgoKLSAqKlZlcnNhdGlsZSBBcHBsaWNhdGlvbjoqKiBCbGFjayBwZXBwZXIgcG93ZGVyIGlzIGEgc3RhcGxlIGluIHNhdm9yeSBkaXNoZXMsIHNvdXBzLCBhbmQgc2FsYWRzLCBlbmhhbmNpbmcgZmxhdm9ycyB3aXRoIGl0cyBwdW5nZW50IGFuZCBzcGljeSBub3Rlcy4KLSAqKkhpc3RvcmljYWwgU2lnbmlmaWNhbmNlOioqIEluIGFuY2llbnQgdGltZXMsIGJsYWNrIHBlcHBlciB3YXMgc28gaGlnaGx5IHZhbHVlZCB0aGF0IGl0IHdhcyB1c2VkIGFzIGN1cnJlbmN5IGFuZCB0cmFkZWQgZXh0ZW5zaXZlbHkuCi0gKipUcmFkaXRpb25hbCBNZWRpY2luZToqKiBXaWRlbHkgdXNlZCBpbiB0cmFkaXRpb25hbCBJbmRpYW4gbWVkaWNpbmUgZm9yIGl0cyB0aGVyYXBldXRpYyBiZW5lZml0cywgaW5jbHVkaW5nIHJlbGllZiBmcm9tIHNvcmUgdGhyb2F0IGFuZCBjb25nZXN0aW9uLgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgotICoqQWR2YW5jZWQgUHJvY2Vzc2luZzoqKiBXZSBlbXBsb3kgYWR2YW5jZWQgbWV0aG9kcyBmb3IgZXh0cmFjdGlvbiwgYmxlbmRpbmcsIGFuZCBtaXhpbmcgdG8gZW5zdXJlIHRoZSBoaWdoZXN0IHF1YWxpdHkgb2YgYmxhY2sgcGVwcGVyIHBvd2Rlci4KLSAqKkNlcnRpZmllZCBRdWFsaXR5OioqIE91ciBwcm9kdWN0cyBjb21wbHkgd2l0aCBpbnRlcm5hdGlvbmFsIGhlYWx0aCBhbmQgc2FmZXR5IHN0YW5kYXJkcywgY2VydGlmaWVkIGJ5IG91ciByaWdvcm91cyBxdWFsaXR5IGNvbnRyb2wgZGVwYXJ0bWVudCBiZWZvcmUgcmVhY2hpbmcgdGhlIG1hcmtldC4KLSAqKlBhY2thZ2luZzoqKiBXZSBvZmZlciBjb252ZW5pZW50IGFuZCBoeWdpZW5pYyBwYWNrYWdpbmcgb3B0aW9ucywgZW5zdXJpbmcgZnJlc2huZXNzIGFuZCBwcmVzZXJ2aW5nIHRoZSBwb3RlbmN5IG9mIG91ciBzcGljZXMuCgoqKkV4cGxvcmUgdGhlIFdvcmxkIG9mIEJsYWNrIFBlcHBlciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgdGFrZSBwcmlkZSBpbiBvZmZlcmluZyB0b3AtZ3JhZGUgYmxhY2sgcGVwcGVyIHBvd2RlciB0aGF0IG1lZXRzIHRoZSBkaXZlcnNlIG5lZWRzIG9mIG91ciBnbG9iYWwgY2xpZW50ZWxlLiBXaGV0aGVyIHlvdSdyZSBhIGNoZWYgc2Vla2luZyB0byBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIG9yIGEgY29uc3VtZXIgbG9va2luZyB0byBpbmNvcnBvcmF0ZSBoZWFsdGhmdWwgc3BpY2VzIGludG8geW91ciBkaWV0LCBvdXIgYmxhY2sgcGVwcGVyIHBvd2RlciBwcm9taXNlcyB0byBkZWxpdmVyIGV4Y2VwdGlvbmFsIGZsYXZvciBhbmQgd2VsbG5lc3MgYmVuZWZpdHMuIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZXh0ZW5zaXZlIHJhbmdlIG9mIHNwaWNlcyBhbmQgYmxlbmRzIG9yIHRvIHBsYWNlIHlvdXIgb3JkZXIuIFRydXN0IFZhcm5pIEV4cG9ydHMgZm9yIGV4Y2VsbGVuY2UgaW4gZXZlcnkgc3BpY2UgYmxlbmQsIGVuaGFuY2luZyB5b3VyIGN1bGluYXJ5IGV4cGVyaWVuY2UgYW5kIHdlbGwtYmVpbmcu",
+              <div>
+                <h1><strong>Black Pepper Powder: The King of Spices</strong></h1>
+                <br />
+
+                <p>Black pepper powder, often hailed as the "King of Spices," is renowned not only for its robust flavor but also for its numerous health benefits. Originating from the tropical evergreen rainforests of South Indian Kerala, black pepper has been prized since ancient times for its culinary and medicinal properties. At Varni Exports, we bring you premium-quality black pepper powder that enhances the taste and health benefits of your dishes.</p>
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Weight Loss:</strong> Black pepper is known to boost metabolism and aid in weight loss efforts.</li>
+                  <li><strong>Digestive Aid:</strong> It improves digestion by stimulating the secretion of digestive enzymes.</li>
+                  <li><strong>Cold and Cough Relief:</strong> Helps relieve symptoms of cold and cough due to its expectorant properties.</li>
+                  <li><strong>Anti-inflammatory:</strong> Effective in reducing inflammation, benefiting arthritis patients.</li>
+                  <li><strong>Antioxidant Properties:</strong> Protects cells from damage caused by free radicals, potentially reducing the risk of cancer.</li>
+                  <li><strong>Skin Benefits:</strong> Improves skin health and prevents premature aging.</li>
+                  <li><strong>Heart Health:</strong> Supports heart health by improving blood circulation and lowering cholesterol levels.</li>
+
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+
+                  <li><strong>Versatile Application:</strong> Black pepper powder is a staple in savory dishes, soups, and salads, enhancing flavors with its pungent and spicy notes.</li>
+                  <li><strong>Historical Significance:</strong> In ancient times, black pepper was so highly valued that it was used as currency and traded extensively.</li>
+                  <li><strong>Traditional Medicine:</strong> Widely used in traditional Indian medicine for its therapeutic benefits, including relief from sore throat and congestion.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>Advanced Processing:</strong> We employ advanced methods for extraction, blending, and mixing to ensure the highest quality of black pepper powder.</li>
+                  <li><strong>Certified Quality:</strong> Our products comply with international health and safety standards, certified by our rigorous quality control department before reaching the market.</li>
+                  <li><strong>Packaging:</strong> We offer convenient and hygienic packaging options, ensuring freshness and preserving the potency of our spices.</li>
+
+                <br />
+
+                <h2><strong>Explore the World of Black Pepper with Varni Exports</strong></h2>
+                <br />
+                <p>At Varni Exports, we take pride in offering top-grade black pepper powder that meets the diverse needs of our global clientele. Whether you're a chef seeking to elevate your culinary creations or a consumer looking to incorporate healthful spices into your diet, our black pepper powder promises to deliver exceptional flavor and wellness benefits. Contact us today to discover more about our extensive range of spices and blends or to place your order. Trust Varni Exports for excellence in every spice blend, enhancing your culinary experience and well-being.</p>
+              </div>
+            ,
           },
 
           {
@@ -3399,7 +5375,53 @@ export const catagories = [
             Loading: "15 to 30 Tons",
             Certification: "FSSAI Certified",
             description:
-              "KipBbWNodXIgUG93ZGVyOiBUaGUgVGFuZ3kgU3BpY2UqKgoKKipJbnRyb2R1Y3Rpb24qKgoKQW1jaHVyIHBvd2RlciwgYWxzbyBrbm93biBhcyBtYW5nbyBwb3dkZXIsIGlzIGEgc3BpY2UgZGVyaXZlZCBmcm9tIGRyaWVkIHVucmlwZSBncmVlbiBtYW5nb2VzLiBUaGlzIHRhbmd5IGFuZCBjaXRydXN5IHBvd2RlciBpcyBhIHN0YXBsZSBpbiBJbmRpYW4gY3Vpc2luZSwgcmVub3duZWQgZm9yIGl0cyBkaXN0aW5jdGl2ZSBmbGF2b3IgYW5kIGN1bGluYXJ5IHZlcnNhdGlsaXR5LiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSBzb3VyY2UgYW5kIGRlbGl2ZXIgcHJlbWl1bS1xdWFsaXR5IGFtY2h1ciBwb3dkZXIgdGhhdCBlbmhhbmNlcyB0aGUgdGFzdGUgb2YgdmFyaW91cyBkaXNoZXMsIGZyb20gY3VycmllcyB0byBtYXJpbmFkZXMuCgoqKk9yaWdpbiBhbmQgSGFydmVzdGluZyoqCgotICoqRGVyaXZlZCBmcm9tIFVucmlwZSBNYW5nb2VzOioqIEFtY2h1ciBwb3dkZXIgaXMgbWFkZSBieSBkcnlpbmcgdW5yaXBlIGdyZWVuIG1hbmdvZXMgaW4gdGhlIHN1biB1bnRpbCB0aGV5IGFyZSBjb21wbGV0ZWx5IGRlaHlkcmF0ZWQuCi0gKipDdWxpbmFyeSBUcmFkaXRpb246KiogSXQgaGFzIGJlZW4gYSBwYXJ0IG9mIEluZGlhbiBjdWxpbmFyeSB0cmFkaXRpb25zIGZvciBjZW50dXJpZXMsIHByaXplZCBmb3IgaXRzIHNvdXIgYW5kIGZydWl0eSBmbGF2b3IgcHJvZmlsZS4KCioqRmxhdm9yIFByb2ZpbGUgYW5kIEN1bGluYXJ5IFVzZXMqKgoKLSAqKlRhbmd5IGFuZCBDaXRydXN5OioqIEFtY2h1ciBwb3dkZXIgYWRkcyBhIHRhbmd5IGFuZCBzbGlnaHRseSBzb3VyIHRhc3RlIHRvIGRpc2hlcyB3aXRob3V0IGFkZGluZyBtb2lzdHVyZS4KLSAqKlZlcnNhdGlsZSBBcHBsaWNhdGlvbjoqKiBJdCBpcyBjb21tb25seSB1c2VkIGluIGN1cnJpZXMsIG1hcmluYWRlcywgY2h1dG5leXMsIHBpY2tsZXMsIGFuZCBldmVuIGluIHJlZnJlc2hpbmcgYmV2ZXJhZ2VzIGxpa2Ugc2hlcmJldHMuCi0gKipFbmhhbmNlcyBGbGF2b3I6KiogQW1jaHVyIHBvd2RlciBjb21wbGVtZW50cyBib3RoIHZlZ2V0YXJpYW4gYW5kIG5vbi12ZWdldGFyaWFuIGRpc2hlcywgYWRkaW5nIGEgdW5pcXVlIGRpbWVuc2lvbiB0byB0aGUgZmxhdm9yIHByb2ZpbGUuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgotICoqUmljaCBpbiBWaXRhbWluczoqKiBDb250YWlucyBzaWduaWZpY2FudCBhbW91bnRzIG9mIHZpdGFtaW4gQSwgdml0YW1pbiBDLCBhbmQgb3RoZXIgYW50aW94aWRhbnRzLgotICoqQWlkcyBEaWdlc3Rpb246KiogS25vd24gdG8gYWlkIGRpZ2VzdGlvbiBhbmQgaW1wcm92ZSBndXQgaGVhbHRoIGR1ZSB0byBpdHMgbmF0dXJhbCBhY2lkaXR5LgotICoqQW50aS1pbmZsYW1tYXRvcnk6KiogSGFzIG1pbGQgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcywgYmVuZWZpY2lhbCBmb3Igb3ZlcmFsbCBoZWFsdGguCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipQcmVtaXVtIFF1YWxpdHk6KiogV2UgZW5zdXJlIHRoYXQgb3VyIGFtY2h1ciBwb3dkZXIgaXMgbWFkZSBmcm9tIGhpZ2gtcXVhbGl0eSBkcmllZCBtYW5nb2VzLCBmcmVlIGZyb20gYWRkaXRpdmVzIG9yIHByZXNlcnZhdGl2ZXMuCi0gKipTdHJpbmdlbnQgU3RhbmRhcmRzOioqIE91ciBwcm9kdWN0cyBhZGhlcmUgdG8gaW50ZXJuYXRpb25hbCBxdWFsaXR5IGFuZCBzYWZldHkgc3RhbmRhcmRzLCBjZXJ0aWZpZWQgdGhyb3VnaCByaWdvcm91cyB0ZXN0aW5nIGFuZCBxdWFsaXR5IGNvbnRyb2wgcHJvY2Vzc2VzLgotICoqUGFja2FnaW5nOioqIEF2YWlsYWJsZSBpbiBjb252ZW5pZW50IGFuZCBoeWdpZW5pYyBwYWNrYWdpbmcgdG8gcHJlc2VydmUgZnJlc2huZXNzIGFuZCBwb3RlbmN5LgoKKipEaXNjb3ZlciB0aGUgRmxhdm9yIG9mIEFtY2h1ciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2Ugc3BlY2lhbGl6ZSBpbiBkZWxpdmVyaW5nIGF1dGhlbnRpYyBhbmQgZmxhdm9yZnVsIHNwaWNlcyBsaWtlIGFtY2h1ciBwb3dkZXIgdG8gZ2xvYmFsIG1hcmtldHMuIFdoZXRoZXIgeW91J3JlIGEgY2hlZiBleHBlcmltZW50aW5nIHdpdGggbmV3IHJlY2lwZXMgb3IgYSBmb29kIGVudGh1c2lhc3QgZXhwbG9yaW5nIEluZGlhbiBjdWlzaW5lLCBvdXIgYW1jaHVyIHBvd2RlciBwcm9taXNlcyB0byBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIHdpdGggaXRzIHRhbmd5IGFuZCByZWZyZXNoaW5nIHRhc3RlLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYWJvdXQgb3VyIGV4dGVuc2l2ZSByYW5nZSBvZiBzcGljZXMgYW5kIGJsZW5kcywgYW5kIGV4cGVyaWVuY2UgdGhlIGVzc2VuY2Ugb2YgYXV0aGVudGljIEluZGlhbiBmbGF2b3JzIHdpdGggVmFybmkgRXhwb3J0cy4=",
+              <div>
+                <h1><strong>Amchur Powder: The Tangy Spice</strong></h1>
+                <br />
+
+                <p>Amchur powder, also known as mango powder, is a spice derived from dried unripe green mangoes. This tangy and citrusy powder is a staple in Indian cuisine, renowned for its distinctive flavor and culinary versatility. At Varni Exports, we source and deliver premium-quality amchur powder that enhances the taste of various dishes, from curries to marinades.</p>
+                <br />
+
+                <h2><strong>Origin and Harvesting</strong></h2>
+                <br />
+
+                  <li><strong>Derived from Unripe Mangoes:</strong> Amchur powder is made by drying unripe green mangoes in the sun until they are completely dehydrated.</li>
+                  <li><strong>Culinary Tradition:</strong> It has been a part of Indian culinary traditions for centuries, prized for its sour and fruity flavor profile.</li>
+
+                <br />
+
+                <h2><strong>Flavor Profile and Culinary Uses</strong></h2>
+                <br />
+
+                  <li><strong>Tangy and Citrusy:</strong> Amchur powder adds a tangy and slightly sour taste to dishes without adding moisture.</li>
+                  <li><strong>Versatile Application:</strong> It is commonly used in curries, marinades, chutneys, pickles, and even in refreshing beverages like sherbets.</li>
+                  <li><strong>Enhances Flavor:</strong> Amchur powder complements both vegetarian and non-vegetarian dishes, adding a unique dimension to the flavor profile.</li>
+
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Rich in Vitamins:</strong> Contains significant amounts of vitamin A, vitamin C, and other antioxidants.</li>
+                  <li><strong>Aids Digestion:</strong> Known to aid digestion and improve gut health due to its natural acidity.</li>
+                  <li><strong>Anti-inflammatory:</strong> Has mild anti-inflammatory properties, beneficial for overall health.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>Premium Quality:</strong> We ensure that our amchur powder is made from high-quality dried mangoes, free from additives or preservatives.</li>
+                  <li><strong>Stringent Standards:</strong> Our products adhere to international quality and safety standards, certified through rigorous testing and quality control processes.</li>
+                  <li><strong>Packaging:</strong> Available in convenient and hygienic packaging to preserve freshness and potency.</li>
+
+                <br />
+
+                <h2><strong>Discover the Flavor of Amchur with Varni Exports</strong></h2>
+                <br />
+                <p>At Varni Exports, we specialize in delivering authentic and flavorful spices like amchur powder to global markets. Whether you're a chef experimenting with new recipes or a food enthusiast exploring Indian cuisine, our amchur powder promises to elevate your culinary creations with its tangy and refreshing taste. Contact us today to learn more about our extensive range of spices and blends, and experience the essence of authentic Indian flavors with Varni Exports.</p>
+              </div>
+            ,
           },
 
           {
@@ -3416,7 +5438,54 @@ export const catagories = [
             Loading: "15 to 30 Tons",
             Certification: "FSSAI Certified",
             description:
-              "KipBbmFyZGFuYSBQb3dkZXI6IEEgVGFuZ3kgRGVsaWdodCBpbiBJbmRpYW4gQ3Vpc2luZSoqCgoqKkludHJvZHVjdGlvbioqCgpBbmFyZGFuYSBwb3dkZXIgaXMgYSB1bmlxdWUgc3BpY2UgbWl4IGRlcml2ZWQgZnJvbSBkcmllZCBwb21lZ3JhbmF0ZSBzZWVkcywgY2VsZWJyYXRlZCBmb3IgaXRzIHRhbmd5IGFuZCBmcnVpdHkgZmxhdm9yIHByb2ZpbGUuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gb2ZmZXJpbmcgcHJlbWl1bS1xdWFsaXR5IGFuYXJkYW5hIHBvd2RlciB0aGF0IGVuaGFuY2VzIHRoZSB0YXN0ZSBhbmQgYXJvbWEgb2YgdmFyaW91cyBJbmRpYW4gZGlzaGVzLCByZWZsZWN0aW5nIG91ciBjb21taXRtZW50IHRvIGRlbGl2ZXJpbmcgYXV0aGVudGljIGZsYXZvcnMgdG8gZ2xvYmFsIG1hcmtldHMuCgoqKk9yaWdpbiBhbmQgUHJvZHVjdGlvbioqCgotICoqRGVyaXZlZCBmcm9tIFBvbWVncmFuYXRlIFNlZWRzOioqIEFuYXJkYW5hIHBvd2RlciBpcyBtYWRlIGJ5IGRyeWluZyBhbmQgZ3JpbmRpbmcgcG9tZWdyYW5hdGUgc2VlZHMgaW50byBhIGZpbmUgcG93ZGVyLgotICoqVHJhZGl0aW9uYWwgVGVjaG5pcXVlOioqIFRoZSBzZWVkcyBhcmUgY2FyZWZ1bGx5IGRyaWVkIHRvIHByZXNlcnZlIHRoZWlyIHRhbmd5IGVzc2VuY2UsIGVuc3VyaW5nIGEgcmljaCBhbmQgZGlzdGluY3RpdmUgZmxhdm9yLgotICoqQ3VsaW5hcnkgSGVyaXRhZ2U6KiogQW4gaW50ZWdyYWwgcGFydCBvZiBOb3J0aCBJbmRpYW4gY3Vpc2luZSwgYW5hcmRhbmEgcG93ZGVyIGlzIHVzZWQgaW4gY2h1dG5leXMsIHBpY2tsZXMsIGN1cnJpZXMsIGFuZCBhcyBhIGdhcm5pc2ggaW4gdmFyaW91cyBkaXNoZXMuCgoqKkZsYXZvciBQcm9maWxlIGFuZCBDdWxpbmFyeSBVc2VzKioKCi0gKipUYW5neSBhbmQgRnJ1aXR5OioqIEFuYXJkYW5hIHBvd2RlciBpbXBhcnRzIGEgc291ciBhbmQgZnJ1aXR5IHRhc3RlLCBhZGRpbmcgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gZGlzaGVzLgotICoqVmVyc2F0aWxlIEFwcGxpY2F0aW9uOioqIEl0IGlzIGNvbW1vbmx5IHVzZWQgdG8gcHJlcGFyZSBtYXJpbmFkZXMsIHNhdWNlcywgYW5kIGRpcHMsIGVuaGFuY2luZyBib3RoIHZlZ2V0YXJpYW4gYW5kIG5vbi12ZWdldGFyaWFuIHJlY2lwZXMuCi0gKipFbmhhbmNlcyBBcm9tYToqKiBBZGRzIGEgcmVmcmVzaGluZyB0YW5naW5lc3MgdG8gc2FsYWRzLCBzbmFja3MsIGFuZCBkZXNzZXJ0cywgZWxldmF0aW5nIHRoZWlyIG92ZXJhbGwgYXBwZWFsLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKLSAqKlJpY2ggaW4gQW50aW94aWRhbnRzOioqIFBvbWVncmFuYXRlIHNlZWRzIGFyZSBrbm93biBmb3IgdGhlaXIgYW50aW94aWRhbnQgcHJvcGVydGllcywgd2hpY2ggY29udHJpYnV0ZSB0byBvdmVyYWxsIGhlYWx0aCBhbmQgd2VsbC1iZWluZy4KLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogQW5hcmRhbmEgcG93ZGVyIGFpZHMgZGlnZXN0aW9uIGFuZCBpcyBvZnRlbiB1c2VkIHRvIGFsbGV2aWF0ZSBkaWdlc3RpdmUgZGlzY29tZm9ydHMuCi0gKipOdXRyaWVudC1SaWNoOioqIENvbnRhaW5zIGVzc2VudGlhbCB2aXRhbWlucyBhbmQgbWluZXJhbHMsIHByb21vdGluZyBudXRyaXRpb25hbCBiYWxhbmNlIGluIGN1bGluYXJ5IHByZXBhcmF0aW9ucy4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKLSAqKlByZW1pdW0gUXVhbGl0eToqKiBXZSBzb3VyY2UgYW5hcmRhbmEgcG93ZGVyIGZyb20gdHJ1c3RlZCBzdXBwbGllcnMsIGVuc3VyaW5nIGl0IG1lZXRzIHN0cmluZ2VudCBxdWFsaXR5IHN0YW5kYXJkcyBhbmQgcmV0YWlucyBpdHMgbmF0dXJhbCB0YW5neSBmbGF2b3IuCi0gKipIeWdpZW5pYyBQcm9jZXNzaW5nOioqIE91ciBwcm9kdWN0aW9uIHByb2Nlc3NlcyBhZGhlcmUgdG8gaW50ZXJuYXRpb25hbCBoeWdpZW5lIGFuZCBzYWZldHkgcmVndWxhdGlvbnMsIGd1YXJhbnRlZWluZyBhIHNhZmUgYW5kIG51dHJpdGlvdXMgc3BpY2UgcHJvZHVjdC4KLSAqKlBhY2thZ2luZyBFeGNlbGxlbmNlOioqIFBhY2thZ2VkIGluIGFpcnRpZ2h0IGNvbnRhaW5lcnMgdG8gcHJlc2VydmUgZnJlc2huZXNzIGFuZCBmbGF2b3IsIG1haW50YWluaW5nIGl0cyBwb3RlbmN5IGFuZCBhcm9tYS4KCioqRXhwZXJpZW5jZSBBdXRoZW50aWMgSW5kaWFuIEZsYXZvcnMgd2l0aCBWYXJuaSBFeHBvcnRzKioKCkV4cGxvcmUgdGhlIGN1bGluYXJ5IHJpY2huZXNzIG9mIEluZGlhbiBjdWlzaW5lIHdpdGggb3VyIHByZW1pdW0gYW5hcmRhbmEgcG93ZGVyIGF0IFZhcm5pIEV4cG9ydHMuIFdoZXRoZXIgeW91J3JlIHByZXBhcmluZyB0cmFkaXRpb25hbCBQdW5qYWJpIGRpc2hlcyBvciBleHBlcmltZW50aW5nIHdpdGggbmV3IGN1bGluYXJ5IGNyZWF0aW9ucywgb3VyIGFuYXJkYW5hIHBvd2RlciBwcm9taXNlcyB0byBkZWxpdmVyIGFuIGF1dGhlbnRpYyB0YXN0ZSBleHBlcmllbmNlLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2NvdmVyIG1vcmUgYWJvdXQgb3VyIGV4dGVuc2l2ZSByYW5nZSBvZiBzcGljZXMgYW5kIGluZ3JlZGllbnRzLCBhbmQgZWxldmF0ZSB5b3VyIGRpc2hlcyB3aXRoIHRoZSB0YW5neSBkZWxpZ2h0IG9mIGFuYXJkYW5hIHBvd2RlciBmcm9tIFZhcm5pIEV4cG9ydHMu",
+              <div>
+                <h1><strong>Anardana Powder: A Tangy Delight in Indian Cuisine</strong></h1>
+                <br />
+
+                <p>Anardana powder is a unique spice mix derived from dried pomegranate seeds, celebrated for its tangy and fruity flavor profile. At Varni Exports, we take pride in offering premium-quality anardana powder that enhances the taste and aroma of various Indian dishes, reflecting our commitment to delivering authentic flavors to global markets.</p>
+                <br />
+
+                <h2><strong>Origin and Production</strong></h2>
+                <br />
+
+                  <li><strong>Derived from Pomegranate Seeds:</strong> Anardana powder is made by drying and grinding pomegranate seeds into a fine powder.</li>
+                  <li><strong>Traditional Technique:</strong> The seeds are carefully dried to preserve their tangy essence, ensuring a rich and distinctive flavor.</li>
+                  <li><strong>Culinary Heritage:</strong> An integral part of North Indian cuisine, anardana powder is used in chutneys, pickles, curries, and as a garnish in various dishes.</li>
+
+                <br />
+
+                <h2><strong>Flavor Profile and Culinary Uses</strong></h2>
+                <br />
+
+                  <li><strong>Tangy and Fruity:</strong> Anardana powder imparts a sour and fruity taste, adding depth and complexity to dishes.</li>
+                  <li><strong>Versatile Application:</strong> It is commonly used to prepare marinades, sauces, and dips, enhancing both vegetarian and non-vegetarian recipes.</li>
+                  <li><strong>Enhances Aroma:</strong> Adds a refreshing tanginess to salads, snacks, and desserts, elevating their overall appeal.</li>
+
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Rich in Antioxidants:</strong> Pomegranate seeds are known for their antioxidant properties, which contribute to overall health and well-being.</li>
+                  <li><strong>Digestive Aid:</strong> Anardana powder aids digestion and is often used to alleviate digestive discomforts.</li>
+                  <li><strong>Nutrient-Rich:</strong> Contains essential vitamins and minerals, promoting nutritional balance in culinary preparations.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>Premium Quality:</strong> We source anardana powder from trusted suppliers, ensuring it meets stringent quality standards and retains its natural tangy flavor.</li>
+                  <li><strong>Hygienic Processing:</strong> Our production processes adhere to international hygiene and safety regulations, guaranteeing a safe and nutritious spice product.</li>
+                  <li><strong>Packaging Excellence:</strong> Packaged in airtight containers to preserve freshness and flavor, maintaining its potency and aroma.</li>
+
+                <br />
+
+                <h2><strong>Experience Authentic Indian Flavors with Varni Exports</strong></h2>
+                <br />
+                <p>Explore the culinary richness of Indian cuisine with our premium anardana powder at Varni Exports. Whether you're preparing traditional Punjabi dishes or experimenting with new culinary creations, our anardana powder promises to deliver an authentic taste experience. Contact us today to discover more about our extensive range of spices and ingredients, and elevate your dishes with the tangy delight of anardana powder from Varni Exports.</p>
+              </div>
+            ,
           },
 
           {
@@ -3433,7 +5502,63 @@ export const catagories = [
             Packaging: "1 to 50 kg Jute Bag, PP Bag",
             Loading: "15 to 30 Tons",
             description:
-              "KipDaGlsaSBQb3dkZXI6IEFkZGluZyBTcGljZSBhbmQgSGVhbHRoIHRvIFlvdXIgQ3Vpc2luZSoqCgoqKkludHJvZHVjdGlvbioqCgpDaGlsaSBwb3dkZXIsIGtub3duIGFzIExhbCBNaXJjaCBwb3dkZXIgaW4gSW5kaWEsIGlzIGEgcXVpbnRlc3NlbnRpYWwgc3BpY2UgcmVub3duZWQgZm9yIGl0cyBmaWVyeSBmbGF2b3IgYW5kIHZpYnJhbnQgY29sb3IuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gb2ZmZXJpbmcgcHJlbWl1bS1xdWFsaXR5IGNoaWxpIHBvd2RlciwgZ3JvdW5kIGZyb20gdGhlIGZpbmVzdCBxdWFsaXR5IHdob2xlIGNoaWxpZXMsIGVuc3VyaW5nIGEgcm9idXN0IHRhc3RlIGV4cGVyaWVuY2UgaW4gY3VsaW5hcnkgY3JlYXRpb25zIHdvcmxkd2lkZS4KCioqT3JpZ2luIGFuZCBQcm9kdWN0aW9uKioKCi0gKipDYXBzaWN1bSBHZW51czoqKiBDaGlsaSBpcyBhIGZydWl0IGJlbG9uZ2luZyB0byB0aGUgQ2Fwc2ljdW0gZ2VudXMsIGtub3duIGZvciBpdHMgdmFyeWluZyBkZWdyZWVzIG9mIHB1bmdlbmN5IG1lYXN1cmVkIG9uIHRoZSBTY292aWxsZSBzY2FsZS4KLSAqKlByZXBhcmF0aW9uOioqIFJlZCBjaGlsaWVzIGFyZSByaXBlbmVkLCBkcmllZCwgYW5kIG1ldGljdWxvdXNseSBncm91bmQgdG8gcHJvZHVjZSB0aGUgZGlzdGluY3RpdmUgcmVkIGNoaWxpIHBvd2Rlci4KLSAqKkluZGlhJ3MgRG9taW5hbmNlOioqIEluZGlhIGxlYWRzIGdsb2JhbGx5IGFzIHRoZSBsYXJnZXN0IHByb2R1Y2VyLCBjb25zdW1lciwgYW5kIGV4cG9ydGVyIG9mIGNoaWxpLCBzdXBwb3J0ZWQgYnkgc2lnbmlmaWNhbnQgaW52ZXN0bWVudHMgaW4gY29sZCBzdG9yYWdlIGluZnJhc3RydWN0dXJlLgoKKipDdWxpbmFyeSBTaWduaWZpY2FuY2UqKgoKLSAqKkZsYXZvciBhbmQgVmVyc2F0aWxpdHk6KiogQ2hpbGkgcG93ZGVyIGFkZHMgYSBwdW5nZW50IGFuZCBzcGljeSBraWNrIHRvIGRpc2hlcywgZW5oYW5jaW5nIHRoZWlyIGZsYXZvciBwcm9maWxlIGFuZCB2aXN1YWwgYXBwZWFsLgotICoqVXNhZ2U6KiogSW50ZWdyYWwgdG8gYSB3aWRlIGFycmF5IG9mIGN1aXNpbmVzLCBpbmNsdWRpbmcgSW5kaWFuLCBNZXhpY2FuLCBhbmQgVGhhaSwgY2hpbGkgcG93ZGVyIGlzIHVzZWQgaW4gY3Vycmllcywgc3Rld3MsIG1hcmluYWRlcywgYW5kIGFzIGEgc2Vhc29uaW5nIGZvciBzbmFja3MuCi0gKipTY292aWxsZSBTY2FsZToqKiBBdmFpbGFibGUgaW4gdmFyaW91cyBoZWF0IGxldmVscywgY2hpbGkgcG93ZGVyIGNhdGVycyB0byBkaXZlcnNlIHRhc3RlIHByZWZlcmVuY2VzLCBmcm9tIG1pbGQgdG8gaW50ZW5zZWx5IHNwaWN5LgoKKipOdXRyaXRpb25hbCBWYWx1ZSoqCgotICoqUmljaCBpbiBWaXRhbWlucyBhbmQgTWluZXJhbHM6KiogUmVkIGNoaWxpZXMgYXJlIGFidW5kYW50IGluIHZpdGFtaW4gQywgY2Fyb3RlbmUgKHByb3ZpdGFtaW4gQSksIEIgdml0YW1pbnMgKGVzcGVjaWFsbHkgdml0YW1pbiBCNiksIHBvdGFzc2l1bSwgbWFnbmVzaXVtLCBhbmQgaXJvbi4KLSAqKkVuaGFuY2VkIE51dHJpZW50IEFic29ycHRpb246KiogVml0YW1pbiBDIGNvbnRlbnQgYWlkcyBpbiB0aGUgYWJzb3JwdGlvbiBvZiBub24taGVtZSBpcm9uIGZyb20gb3RoZXIgZm9vZHMgaW4gbWVhbHMsIHN1Y2ggYXMgYmVhbnMgYW5kIGdyYWlucy4KCioqSGVhbHRoIEJlbmVmaXRzKioKCi0gKipBbnRpLWluZmxhbW1hdG9yeSBQcm9wZXJ0aWVzOioqIENoaWxpIHBlcHBlcnMgYXJlIGtub3duIGZvciB0aGVpciBhYmlsaXR5IHRvIGNvbWJhdCBpbmZsYW1tYXRpb24sIG9mZmVyaW5nIG5hdHVyYWwgcmVsaWVmIGZyb20gcGFpbiBhbmQgY29uZ2VzdGlvbi4KLSAqKkltbXVuZSBCb29zdDoqKiBIaWdoIGluIHZpdGFtaW4gQywgY2hpbGkgcG93ZGVyIGhlbHBzIGJvbHN0ZXIgdGhlIGltbXVuZSBzeXN0ZW0sIHN1cHBvcnRpbmcgb3ZlcmFsbCBoZWFsdGggYW5kIHdlbGwtYmVpbmcuCi0gKipDaG9sZXN0ZXJvbCBNYW5hZ2VtZW50OioqIFJlZ3VsYXIgY29uc3VtcHRpb24gb2YgY2hpbGkgcG93ZGVyIG1heSBhc3Npc3QgaW4gcmVkdWNpbmcgYmxvb2QgY2hvbGVzdGVyb2wgbGV2ZWxzLgotICoqTWV0YWJvbGlzbSBhbmQgV2VpZ2h0IE1hbmFnZW1lbnQ6KiogQ2hpbGkgcGVwcGVycyBzdGltdWxhdGUgZGlnZXN0aW9uIGFuZCBtZXRhYm9saXNtLCBwcm9tb3Rpbmcgd2VpZ2h0IGxvc3MgZWZmb3J0cyBlZmZlY3RpdmVseS4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKLSAqKlByZW1pdW0gUXVhbGl0eToqKiBPdXIgY2hpbGkgcG93ZGVyIGlzIHNvdXJjZWQgZnJvbSB0cnVzdGVkIHN1cHBsaWVycyBhbmQgdW5kZXJnb2VzIHJpZ29yb3VzIHF1YWxpdHkgY2hlY2tzIHRvIGVuc3VyZSBwdXJpdHkgYW5kIHBvdGVuY3kuCi0gKipIeWdpZW5pYyBQcm9jZXNzaW5nOioqIFByb2R1Y2VkIGluIGNvbXBsaWFuY2Ugd2l0aCBpbnRlcm5hdGlvbmFsIHN0YW5kYXJkcyBvZiBoeWdpZW5lIGFuZCBzYWZldHksIGd1YXJhbnRlZWluZyBhIHNhZmUgYW5kIG51dHJpdGlvdXMgc3BpY2UgcHJvZHVjdC4KLSAqKlBhY2thZ2luZyBhbmQgRGVsaXZlcnk6KiogUGFja2FnZWQgaW4gYWlydGlnaHQgY29udGFpbmVycyB0byBwcmVzZXJ2ZSBmcmVzaG5lc3MgYW5kIGZsYXZvciwgZW5zdXJpbmcgcHJvbXB0IGRlbGl2ZXJ5IHRvIG1lZXQgbWFya2V0IGRlbWFuZHMuCgoqKkV4cGVyaWVuY2UgQXV0aGVudGljIEZsYXZvciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgYm9sZCB0YXN0ZSBvZiBjaGlsaSBwb3dkZXIgZnJvbSBWYXJuaSBFeHBvcnRzIGFuZCBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zIHdpdGggdGhlIHBlcmZlY3QgYmFsYW5jZSBvZiBoZWF0IGFuZCBmbGF2b3IuIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgZXh0ZW5zaXZlIHJhbmdlIG9mIHNwaWNlcyBhbmQgaW5ncmVkaWVudHMsIGFuZCBlbWJyYWNlIHRoZSBlc3NlbmNlIG9mIGNoaWxpIHBvd2RlciBpbiB5b3VyIGdsb2JhbCBjdWlzaW5lIG9mZmVyaW5ncy4=",
+              <div>
+                <h1><strong>Chili Powder: Adding Spice and Health to Your Cuisine</strong></h1>
+                <br />
+
+                <p>Chili powder, known as Lal Mirch powder in India, is a quintessential spice renowned for its fiery flavor and vibrant color. At Varni Exports, we take pride in offering premium-quality chili powder, ground from the finest quality whole chilies, ensuring a robust taste experience in culinary creations worldwide.</p>
+                <br />
+
+                <h2><strong>Origin and Production</strong></h2>
+                <br />
+
+                  <li><strong>Capsicum Genus:</strong> Chili is a fruit belonging to the Capsicum genus, known for its varying degrees of pungency measured on the Scoville scale.</li>
+                  <li><strong>Preparation:</strong> Red chilies are ripened, dried, and meticulously ground to produce the distinctive red chili powder.</li>
+                  <li><strong>India's Dominance:</strong> India leads globally as the largest producer, consumer, and exporter of chili, supported by significant investments in cold storage infrastructure.</li>
+
+                <br />
+
+                <h2><strong>Culinary Significance</strong></h2>
+                <br />
+
+                  <li><strong>Flavor and Versatility:</strong> Chili powder adds a pungent and spicy kick to dishes, enhancing their flavor profile and visual appeal.</li>
+                  <li><strong>Usage:</strong> Integral to a wide array of cuisines, including Indian, Mexican, and Thai, chili powder is used in curries, stews, marinades, and as a seasoning for snacks.</li>
+                  <li><strong>Scoville Scale:</strong> Available in various heat levels, chili powder caters to diverse taste preferences, from mild to intensely spicy.</li>
+
+                <br />
+
+                <h2><strong>Nutritional Value</strong></h2>
+                <br />
+
+                  <li><strong>Rich in Vitamins and Minerals:</strong> Red chilies are abundant in vitamin C, carotene (provitamin A), B vitamins (especially vitamin B6), potassium, magnesium, and iron.</li>
+                  <li><strong>Enhanced Nutrient Absorption:</strong> Vitamin C content aids in the absorption of non-heme iron from other foods in meals, such as beans and grains.</li>
+
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Anti-inflammatory Properties:</strong> Chili peppers are known for their ability to combat inflammation, offering natural relief from pain and congestion.</li>
+                  <li><strong>Immune Boost:</strong> High in vitamin C, chili powder helps bolster the immune system, supporting overall health and well-being.</li>
+                  <li><strong>Cholesterol Management:</strong> Regular consumption of chili powder may assist in reducing blood cholesterol levels.</li>
+                  <li><strong>Metabolism and Weight Management:</strong> Chili peppers stimulate digestion and metabolism, promoting weight loss efforts effectively.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>Premium Quality:</strong> Our chili powder is sourced from trusted suppliers and undergoes rigorous quality checks to ensure purity and potency.</li>
+                  <li><strong>Hygienic Processing:</strong> Produced in compliance with international standards of hygiene and safety, guaranteeing a safe and nutritious spice product.</li>
+                  <li><strong>Packaging and Delivery:</strong> Packaged in airtight containers to preserve freshness and flavor, ensuring prompt delivery to meet market demands.</li>
+
+                <br />
+
+                <h2><strong>Experience Authentic Flavor with Varni Exports</strong></h2>
+                <br />
+                <p>Explore the bold taste of chili powder from Varni Exports and elevate your culinary creations with the perfect balance of heat and flavor. Contact us today to discover more about our extensive range of spices and ingredients, and embrace the essence of chili powder in your global cuisine offerings.</p>
+              </div>
+            ,
           },
 
           {
@@ -3451,7 +5576,51 @@ export const catagories = [
             Loading: "15 to 30 Tons",
             Certification: "FSSAI Certified",
             description:
-              "KipGZW5uZWwgUG93ZGVyOiBOdXRyaXRpb3VzIGFuZCBGbGF2b3JmdWwgQWRkaXRpb24gdG8gWW91ciBLaXRjaGVuKioKCioqSW50cm9kdWN0aW9uKioKCkZlbm5lbCBwb3dkZXIsIGRlcml2ZWQgZnJvbSB0aGUgYXJvbWF0aWMgc2VlZHMgb2YgdGhlIGZlbm5lbCBwbGFudCAoRm9lbmljdWx1bSB2dWxnYXJlKSwgaXMgY2VsZWJyYXRlZCBmb3IgaXRzIHJpY2ggbnV0cml0aW9uYWwgcHJvZmlsZSBhbmQgdmVyc2F0aWxlIGN1bGluYXJ5IHVzZXMuIEF0IFZhcm5pIEV4cG9ydHMsIHdlIHRha2UgcHJpZGUgaW4gb2ZmZXJpbmcgaGlnaC1xdWFsaXR5IGZlbm5lbCBwb3dkZXIgdGhhdCBlbmhhbmNlcyB0aGUgZmxhdm9yIGFuZCBudXRyaXRpb25hbCB2YWx1ZSBvZiBkaXNoZXMgd29ybGR3aWRlLgoKKipOdXRyaXRpb25hbCBCZW5lZml0cyoqCgotICoqUmljaCBpbiBOdXRyaWVudHM6KiogRmVubmVsIHBvd2RlciBpcyBwYWNrZWQgd2l0aCBlc3NlbnRpYWwgbnV0cmllbnRzLCBpbmNsdWRpbmcgZmliZXIsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIG1ha2luZyBpdCBhIHZhbHVhYmxlIGFkZGl0aW9uIHRvIHlvdXIgZGlldC4KLSAqKlZpdGFtaW4gQzoqKiBJdCBpcyBwYXJ0aWN1bGFybHkgbm90ZXdvcnRoeSBmb3IgaXRzIGhpZ2ggdml0YW1pbiBDIGNvbnRlbnQsIHdoaWNoIHN1cHBvcnRzIGltbXVuZSBoZWFsdGggYW5kIG92ZXJhbGwgd2VsbC1iZWluZy4KCioqQ3VsaW5hcnkgVXNlcyoqCgotICoqQ29uZGltZW50IGFuZCBGbGF2b3Jpbmc6KiogRmVubmVsIHBvd2RlciBpcyB3aWRlbHkgdXRpbGl6ZWQgaW4gY29va2luZyBhcyBhIGNvbmRpbWVudCBhbmQgZmxhdm9yaW5nIGFnZW50LCBhZGRpbmcgYSBkaXN0aW5jdGl2ZSBzd2VldCBhbmQgYXJvbWF0aWMgdGFzdGUgdG8gdmFyaW91cyBkaXNoZXMuCi0gKipWZXJzYXRpbGl0eToqKiBJdCBjb21wbGVtZW50cyBib3RoIHN3ZWV0IGFuZCBzYXZvcnkgZGlzaGVzLCBpbmNsdWRpbmcgY3Vycmllcywgc291cHMsIHNhbGFkcywgbWFyaW5hZGVzLCBhbmQgYmFrZWQgZ29vZHMuCgoqKkhlYWx0aCBCZW5lZml0cyoqCgotICoqUG93ZXJmdWwgUGxhbnQgQ29tcG91bmRzOioqIEZlbm5lbCBwb3dkZXIgY29udGFpbnMgcG90ZW50IHBsYW50IGNvbXBvdW5kcyB0aGF0IGNvbnRyaWJ1dGUgdG8gaXRzIGhlYWx0aCBiZW5lZml0cywgc3VjaCBhcyBhbnRpb3hpZGFudCBhbmQgYW50aS1pbmZsYW1tYXRvcnkgcHJvcGVydGllcy4KLSAqKkRpZ2VzdGl2ZSBBaWQ6KiogVHJhZGl0aW9uYWxseSB1c2VkIHRvIGFpZCBkaWdlc3Rpb24sIGZlbm5lbCBwb3dkZXIgY2FuIGhlbHAgYWxsZXZpYXRlIGJsb2F0aW5nLCBnYXMsIGFuZCBvdGhlciBkaWdlc3RpdmUgZGlzY29tZm9ydHMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipQcmVtaXVtIFF1YWxpdHk6KiogT3VyIGZlbm5lbCBwb3dkZXIgaXMgc291cmNlZCBmcm9tIHJlcHV0YWJsZSBzdXBwbGllcnMgYW5kIHVuZGVyZ29lcyBzdHJpbmdlbnQgcXVhbGl0eSBjb250cm9sIG1lYXN1cmVzIHRvIGVuc3VyZSBwdXJpdHkgYW5kIGZyZXNobmVzcy4KLSAqKkh5Z2llbmljIFByb2Nlc3Npbmc6KiogUHJvZHVjZWQgaW4gYWNjb3JkYW5jZSB3aXRoIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBtYWludGFpbmluZyBoeWdpZW5lIGFuZCBudXRyaXRpb25hbCBpbnRlZ3JpdHkuCi0gKipQYWNrYWdpbmcgYW5kIERlbGl2ZXJ5OioqIFBhY2thZ2VkIHRvIHByZXNlcnZlIGFyb21hIGFuZCBmbGF2b3IsIGVuc3VyaW5nIHRpbWVseSBkZWxpdmVyeSB0byBtZWV0IG1hcmtldCBkZW1hbmRzIHdoaWxlIHJldGFpbmluZyBvcHRpbWFsIHF1YWxpdHkuCgoqKkV4cGVyaWVuY2UgRmVubmVsIFBvd2RlciB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRGlzY292ZXIgdGhlIG51dHJpdGlvbmFsIGJlbmVmaXRzIGFuZCBjdWxpbmFyeSB2ZXJzYXRpbGl0eSBvZiBmZW5uZWwgcG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cy4gV2hldGhlciB5b3UgYXJlIGxvb2tpbmcgdG8gZW5yaWNoIHlvdXIgcmVjaXBlcyB3aXRoIGl0cyBhcm9tYXRpYyBmbGF2b3Igb3IgaGFybmVzcyBpdHMgaGVhbHRoLXByb21vdGluZyBwcm9wZXJ0aWVzLCBvdXIgZmVubmVsIHBvd2RlciBwcm9taXNlcyB0byBlbGV2YXRlIHlvdXIgY3VsaW5hcnkgY3JlYXRpb25zLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIHNwaWNlcyBhbmQgaW5ncmVkaWVudHMgdGhhdCBtZWV0IGdsb2JhbCBxdWFsaXR5IHN0YW5kYXJkcy4=",
+              <div>
+                <h1><strong>Fennel Powder: Nutritious and Flavorful Addition to Your Kitchen</strong></h1>
+                <br />
+
+                <p>Fennel powder, derived from the aromatic seeds of the fennel plant (<i>Foeniculum vulgare</i>), is celebrated for its rich nutritional profile and versatile culinary uses. At Varni Exports, we take pride in offering high-quality fennel powder that enhances the flavor and nutritional value of dishes worldwide.</p>
+                <br />
+
+                <h2><strong>Nutritional Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Rich in Nutrients:</strong> Fennel powder is packed with essential nutrients, including fiber, vitamins, and minerals, making it a valuable addition to your diet.</li>
+                  <li><strong>Vitamin C:</strong> It is particularly noteworthy for its high vitamin C content, which supports immune health and overall well-being.</li>
+
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+
+                  <li><strong>Condiment and Flavoring:</strong> Fennel powder is widely utilized in cooking as a condiment and flavoring agent, adding a distinctive sweet and aromatic taste to various dishes.</li>
+                  <li><strong>Versatility:</strong> It complements both sweet and savory dishes, including curries, soups, salads, marinades, and baked goods.</li>
+
+                <br />
+
+                <h2><strong>Health Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Powerful Plant Compounds:</strong> Fennel powder contains potent plant compounds that contribute to its health benefits, such as antioxidant and anti-inflammatory properties.</li>
+                  <li><strong>Digestive Aid:</strong> Traditionally used to aid digestion, fennel powder can help alleviate bloating, gas, and other digestive discomforts.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>Premium Quality:</strong> Our fennel powder is sourced from reputable suppliers and undergoes stringent quality control measures to ensure purity and freshness.</li>
+                  <li><strong>Hygienic Processing:</strong> Produced in accordance with international food safety standards, maintaining hygiene and nutritional integrity.</li>
+                  <li><strong>Packaging and Delivery:</strong> Packaged to preserve aroma and flavor, ensuring timely delivery to meet market demands while retaining optimal quality.</li>
+
+                <br />
+
+                <h2><strong>Experience Fennel Powder with Varni Exports</strong></h2>
+                <br />
+                <p>Discover the nutritional benefits and culinary versatility of fennel powder with Varni Exports. Whether you are looking to enrich your recipes with its aromatic flavor or harness its health-promoting properties, our fennel powder promises to elevate your culinary creations. Contact us today to learn more about our range of spices and ingredients that meet global quality standards.</p>
+              </div>
+            ,
           },
 
           {
@@ -3469,7 +5638,44 @@ export const catagories = [
             Loading: "15 to 30 Tons",
             Certification: "FSSAI Certified",
             description:
-              "KipZZWxsb3cgTXVzdGFyZCBQb3dkZXI6IEVuaGFuY2UgWW91ciBDdWlzaW5lIHdpdGggUXVhbGl0eSBhbmQgRmxhdm9yKioKCioqSW50cm9kdWN0aW9uKioKClllbGxvdyBNdXN0YXJkIHBvd2RlciwgZGVyaXZlZCBmcm9tIHdob2xlIG11c3RhcmQgc2VlZHMsIGlzIGEgc3RhcGxlIHNwaWNlIHJlbm93bmVkIGZvciBpdHMgcm9idXN0IGZsYXZvciBhbmQgdmVyc2F0aWxpdHkgaW4gY3VsaW5hcnkgYXBwbGljYXRpb25zLiBBdCBWYXJuaSBFeHBvcnRzLCB3ZSB0YWtlIHByaWRlIGluIGJlaW5nIGEgbGVhZGluZyBleHBvcnRlciBvZiBoaWdoLXF1YWxpdHkgWWVsbG93IE11c3RhcmQgcG93ZGVyIGZyb20gSW5kaWEsIGNhdGVyaW5nIHRvIGdsb2JhbCBtYXJrZXRzIHdpdGggYSBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UuCgoqKkN1bGluYXJ5IFVzZXMqKgoKLSAqKkZsYXZvciBFbmhhbmNlcjoqKiBZZWxsb3cgTXVzdGFyZCBwb3dkZXIgYWRkcyBhIGRpc3RpbmN0aXZlIGhvdCBhbmQgc3Ryb25nIGZsYXZvciB0byBhIHdpZGUgYXJyYXkgb2YgZGlzaGVzLgotICoqVmVyc2F0aWxlIEluZ3JlZGllbnQ6KiogVXNlZCBpbiBzYXVjZXMsIGNoZWVzZSwgZWdnIGRpc2hlcywgcGlja2xlcywgY3VycmllcywgYW5kIHZhcmlvdXMgY29uZGltZW50cyB0byBpbXBhcnQgYSB1bmlxdWUgdGFzdGUuCi0gKipQcmVwYXJhdGlvbjoqKiBNaXggd2l0aCB3YXRlciB0byBjcmVhdGUgYSBwYXN0ZTsgYWxsb3cgMTAgbWludXRlcyBmb3IgdGhlIGZsYXZvciB0byBmdWxseSBkZXZlbG9wIGJlZm9yZSB1c2UuIFRoZSBmbGF2b3IgaW50ZW5zaWZpZXMgdXBvbiBtaXhpbmcsIG9mZmVyaW5nIGEgZGVsaWdodGZ1bCBjb250cmFzdCB0byBkaXNoZXMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipGU1NBSSBDZXJ0aWZpZWQ6KiogT3VyIFllbGxvdyBNdXN0YXJkIHBvd2RlciBtZWV0cyBzdHJpbmdlbnQgcXVhbGl0eSBzdGFuZGFyZHMgc2V0IGJ5IHRoZSBGb29kIFNhZmV0eSBhbmQgU3RhbmRhcmRzIEF1dGhvcml0eSBvZiBJbmRpYSAoRlNTQUkpLCBlbnN1cmluZyBzYWZldHkgYW5kIHB1cml0eS4KLSAqKkZyZXNobmVzcyBHdWFyYW50ZWVkOioqIFNvdXJjZWQgZnJvbSBwcmVtaXVtLXF1YWxpdHkgbXVzdGFyZCBzZWVkcywgb3VyIHBvd2RlciByZXRhaW5zIGZyZXNobmVzcywgZW5zdXJpbmcgb3B0aW1hbCBmbGF2b3IgYW5kIGFyb21hLgotICoqSHlnaWVuaWMgUHJvY2Vzc2luZzoqKiBQcm9kdWNlZCB1bmRlciBoeWdpZW5pYyBjb25kaXRpb25zIGFuZCBwYWNrZWQgdG8gcHJlc2VydmUgYXJvbWEgYW5kIHF1YWxpdHksIG1lZXRpbmcgaW50ZXJuYXRpb25hbCBmb29kIHNhZmV0eSBub3Jtcy4KCioqQmVuZWZpdHMqKgoKLSAqKlVuaXF1ZSBGbGF2b3IgUHJvZmlsZToqKiBXaGlsZSBkcnksIFllbGxvdyBNdXN0YXJkIHBvd2RlciBpcyBkZXZvaWQgb2YgYXJvbWE7IHVwb24gbWl4aW5nIHdpdGggd2F0ZXIsIGl0IHJlbGVhc2VzIGEgcHVuZ2VudCwgZGlzdGluY3RpdmUgZmxhdm9yIHRoYXQgZW5oYW5jZXMgY3VsaW5hcnkgY3JlYXRpb25zLgotICoqR2xvYmFsIEV4cG9ydDoqKiBXZSBvZmZlciBjb21wZXRpdGl2ZSBGT0IgcHJpY2VzLCBzdXBlcmlvciBxdWFsaXR5LCBhbmQgcmVsaWFibGUgY3VzdG9tZXIgc3VwcG9ydCwgbWFraW5nIHVzIGEgcHJlZmVycmVkIGNob2ljZSBhbW9uZyBnbG9iYWwgYnV5ZXJzIHNlZWtpbmcgcHJlbWl1bSBZZWxsb3cgTXVzdGFyZCBwb3dkZXIuCgoqKkV4cGVyaWVuY2UgRXhjZWxsZW5jZSB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgcmljaG5lc3Mgb2YgWWVsbG93IE11c3RhcmQgcG93ZGVyIHdpdGggVmFybmkgRXhwb3J0cywgd2hlcmUgcXVhbGl0eSBtZWV0cyBmbGF2b3IuIFdoZXRoZXIgeW91J3JlIGxvb2tpbmcgdG8gZW5yaWNoIHNhdWNlcywgY3Vycmllcywgb3IgcGlja2xlcywgb3VyIG11c3RhcmQgcG93ZGVyIHByb21pc2VzIHRvIGVsZXZhdGUgeW91ciBjdWxpbmFyeSBlbmRlYXZvcnMuIENvbnRhY3QgdXMgdG9kYXkgdG8gZGlzY292ZXIgbW9yZSBhYm91dCBvdXIgcmFuZ2Ugb2Ygc3BpY2VzIGFuZCBpbmdyZWRpZW50cyB0YWlsb3JlZCB0byBtZWV0IGRpdmVyc2UgZ2xvYmFsIHByZWZlcmVuY2VzIGFuZCBzdGFuZGFyZHMu",
+              <div>
+                <h1><strong>Yellow Mustard Powder: Enhance Your Cuisine with Quality and Flavor</strong></h1>
+                <br />
+
+                <p>Yellow Mustard powder, derived from whole mustard seeds, is a staple spice renowned for its robust flavor and versatility in culinary applications. At Varni Exports, we take pride in being a leading exporter of high-quality Yellow Mustard powder from India, catering to global markets with a commitment to excellence.</p>
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+
+                  <li><strong>Flavor Enhancer:</strong> Yellow Mustard powder adds a distinctive hot and strong flavor to a wide array of dishes.</li>
+                  <li><strong>Versatile Ingredient:</strong> Used in sauces, cheese, egg dishes, pickles, curries, and various condiments to impart a unique taste.</li>
+                  <li><strong>Preparation:</strong> Mix with water to create a paste; allow 10 minutes for the flavor to fully develop before use. The flavor intensifies upon mixing, offering a delightful contrast to dishes.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>FSSAI Certified:</strong> Our Yellow Mustard powder meets stringent quality standards set by the Food Safety and Standards Authority of India (FSSAI), ensuring safety and purity.</li>
+                  <li><strong>Freshness Guaranteed:</strong> Sourced from premium-quality mustard seeds, our powder retains freshness, ensuring optimal flavor and aroma.</li>
+                  <li><strong>Hygienic Processing:</strong> Produced under hygienic conditions and packed to preserve aroma and quality, meeting international food safety norms.</li>
+
+                <br />
+
+                <h2><strong>Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Unique Flavor Profile:</strong> While dry, Yellow Mustard powder is devoid of aroma; upon mixing with water, it releases a pungent, distinctive flavor that enhances culinary creations.</li>
+                  <li><strong>Global Export:</strong> We offer competitive FOB prices, superior quality, and reliable customer support, making us a preferred choice among global buyers seeking premium Yellow Mustard powder.</li>
+
+                <br />
+
+                <h2><strong>Experience Excellence with Varni Exports</strong></h2>
+                <br />
+                <p>Explore the richness of Yellow Mustard powder with Varni Exports, where quality meets flavor. Whether you're looking to enrich sauces, curries, or pickles, our mustard powder promises to elevate your culinary endeavors. Contact us today to discover more about our range of spices and ingredients tailored to meet diverse global preferences and standards.</p>
+              </div>
+            ,
           },
 
           {
@@ -3490,7 +5696,56 @@ export const catagories = [
             Loading: "15 to 30 Tons",
             Certification: "FSSAI Certified",
             description:
-              "CioqSW50cm9kdWN0aW9uIHRvIEZpdmUtU3BpY2UgUG93ZGVyKioKClZhcm5pIEV4cG9ydHMgcHJvdWRseSBwcmVzZW50cyBhbiBleHF1aXNpdGUgY3VsaW5hcnkgZGVsaWdodDogRml2ZS1TcGljZSBQb3dkZXIsIGFuIGFyb21hdGljIGJsZW5kIHRoYXQgZW5yaWNoZXMgQ2hpbmVzZSBhbmQgdmFyaW91cyBBc2lhbiBjdWlzaW5lcyB3aXRoIGl0cyB1bmlxdWUgYmxlbmQgb2YgZmxhdm9ycy4gVGhpcyByZW5vd25lZCBzcGljZSBtaXh0dXJlIGNvbWJpbmVzIGZpdmUgZXNzZW50aWFsIHNwaWNlcywgZWFjaCBjb250cmlidXRpbmcgZGlzdGluY3QgYXJvbWFzIGFuZCB0YXN0ZXMsIG1ha2luZyBpdCBhIHZlcnNhdGlsZSBhZGRpdGlvbiB0byBhIHZhcmlldHkgb2YgZGlzaGVzLgoKKipJbmdyZWRpZW50cyoqCgpGaXZlLVNwaWNlIFBvd2RlciB0eXBpY2FsbHkgaW5jbHVkZXM6Ci0gKipTdGFyIEFuaXNlOioqIEFkZHMgYSBzd2VldCwgbGljb3JpY2UtbGlrZSBmbGF2b3IgYW5kIGFyb21hLgotICoqQ2xvdmVzOioqIENvbnRyaWJ1dGUgYSB3YXJtLCBwdW5nZW50LCBhbmQgc2xpZ2h0bHkgc3dlZXQgdGFzdGUuCi0gKipDaGluZXNlIENpbm5hbW9uIChDYXNzaWEpOioqIE9mZmVycyBhIHN3ZWV0IGFuZCB3b29keSBmbGF2b3IgcHJvZmlsZS4KLSAqKlNpY2h1YW4gUGVwcGVyY29ybnM6KiogUHJvdmlkZXMgYSBjaXRydXN5LCBwZXBwZXJ5LCBhbmQgc2xpZ2h0bHkgbnVtYmluZyBzZW5zYXRpb24uCi0gKipGZW5uZWwgU2VlZHM6KiogSW1wYXJ0IGEgbWlsZCwgc3dlZXQsIGFuZCBzbGlnaHRseSBsaWNvcmljZS1saWtlIHRhc3RlLgoKKipDdWxpbmFyeSBVc2VzKioKCi0gKipWZXJzYXRpbGUgRmxhdm9yIEVuaGFuY2VyOioqIFVzZWQgZXh0ZW5zaXZlbHkgaW4gQ2hpbmVzZSBjdWlzaW5lIHRvIGZsYXZvciBtZWF0cyBzdWNoIGFzIHBvcmssIGR1Y2ssIGFuZCBjaGlja2VuLgotICoqRGl2ZXJzZSBBcHBsaWNhdGlvbnM6KiogSWRlYWwgZm9yIHNlYXNvbmluZyBzb3Vwcywgc3Rld3MsIGFuZCBzdGlyLWZyaWVzLCBlbnJpY2hpbmcgdGhlbSB3aXRoIGEgY29tcGxleCBibGVuZCBvZiBzd2VldCwgc2F2b3J5LCBhbmQgYXJvbWF0aWMgbm90ZXMuCi0gKipDcmVhdGl2ZSBDb29raW5nOioqIENhbiBiZSB1c2VkIGFzIGEgZHJ5IHJ1YiBvciBtYXJpbmFkZSBmb3IgbWVhdHMsIG9yIGFzIGEgc2Vhc29uaW5nIGZvciB2ZWdldGFibGVzIGFuZCB0b2Z1LCBhZGRpbmcgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gZGlzaGVzLgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgotICoqUHJlbWl1bSBRdWFsaXR5OioqIE91ciBGaXZlLVNwaWNlIFBvd2RlciBpcyBtZXRpY3Vsb3VzbHkgY3JhZnRlZCBmcm9tIHRoZSBmaW5lc3QgaW5ncmVkaWVudHMgdG8gZW5zdXJlIHN1cGVyaW9yIHRhc3RlIGFuZCBhcm9tYS4KLSAqKkh5Z2llbmljYWxseSBQcm9jZXNzZWQ6KiogUHJvZHVjZWQgdW5kZXIgc3RyaWN0IHF1YWxpdHkgc3RhbmRhcmRzLCBhZGhlcmluZyB0byBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHJlZ3VsYXRpb25zLgotICoqUGFja2FnZWQgZm9yIEZyZXNobmVzczoqKiBQYWNrZWQgdG8gcHJlc2VydmUgZnJlc2huZXNzIGFuZCBhcm9tYSwgbWFpbnRhaW5pbmcgdGhlIGludGVncml0eSBvZiB0aGUgc3BpY2UgYmxlbmQuCgoqKkJlbmVmaXRzKioKCi0gKipFbmhhbmNlZCBDdWxpbmFyeSBFeHBlcmllbmNlOioqIEVsZXZhdGVzIGRpc2hlcyB3aXRoIGEgaGFybW9uaW91cyBibGVuZCBvZiBzd2VldCwgc2F2b3J5LCBhbmQgYXJvbWF0aWMgZmxhdm9ycy4KLSAqKkdsb2JhbCBBcHBlYWw6KiogU3VpdGFibGUgZm9yIGJvdGggdHJhZGl0aW9uYWwgYW5kIGNvbnRlbXBvcmFyeSBjdWlzaW5lcywgYXBwZWFsaW5nIHRvIGRpdmVyc2UgcGFsYXRlcyB3b3JsZHdpZGUuCi0gKipDdXN0b21lciBTYXRpc2ZhY3Rpb246KiogV2UgcHJpb3JpdGl6ZSBjdXN0b21lciBzYXRpc2ZhY3Rpb24gYnkgb2ZmZXJpbmcgY29tcGV0aXRpdmUgcHJpY2luZywgcHJlbWl1bSBxdWFsaXR5LCBhbmQgcmVsaWFibGUgc2VydmljZS4KCioqRXhwbG9yZSB0aGUgV29ybGQgb2YgRmxhdm9ycyB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRGlzY292ZXIgdGhlIGVzc2VuY2Ugb2YgRml2ZS1TcGljZSBQb3dkZXIgd2l0aCBWYXJuaSBFeHBvcnRzLCB3aGVyZSBxdWFsaXR5IG1lZXRzIHRyYWRpdGlvbi4gV2hldGhlciB5b3UncmUgYSBjaGVmIGxvb2tpbmcgdG8gZW5oYW5jZSB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucyBvciBhIGRpc3RyaWJ1dG9yIHNlZWtpbmcgcHJlbWl1bSBzcGljZSBibGVuZHMsIG91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyBzYXRpc2ZhY3Rpb24uIENvbnRhY3QgdXMgdG9kYXkgdG8gZXhwbG9yZSBvdXIgZXh0ZW5zaXZlIHJhbmdlIG9mIHNwaWNlcyBhbmQgZXhwZXJpZW5jZSB0aGUgcmljaG5lc3Mgb2YgYXV0aGVudGljIGZsYXZvcnMgY3JhZnRlZCBmb3IgZ2xvYmFsIG1hcmtldHMu",
+              <div>
+                <h1><strong>Introduction to Five-Spice Powder</strong></h1>
+                <br />
+
+                <p>Varni Exports proudly presents an exquisite culinary delight: Five-Spice Powder, an aromatic blend that enriches Chinese and various Asian cuisines with its unique blend of flavors. This renowned spice mixture combines five essential spices, each contributing distinct aromas and tastes, making it a versatile addition to a variety of dishes.</p>
+                <br />
+
+                <h2><strong>Ingredients</strong></h2>
+                <br />
+
+                  <li><strong>Star Anise:</strong> Adds a sweet, licorice-like flavor and aroma.</li>
+                  <li><strong>Cloves:</strong> Contribute a warm, pungent, and slightly sweet taste.</li>
+                  <li><strong>Chinese Cinnamon (Cassia):</strong> Offers a sweet and woody flavor profile.</li>
+                  <li><strong>Sichuan Peppercorns:</strong> Provides a citrusy, peppery, and slightly numbing sensation.</li>
+                  <li><strong>Fennel Seeds:</strong> Impart a mild, sweet, and slightly licorice-like taste.</li>
+
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+
+                  <li><strong>Versatile Flavor Enhancer:</strong> Used extensively in Chinese cuisine to flavor meats such as pork, duck, and chicken.</li>
+                  <li><strong>Diverse Applications:</strong> Ideal for seasoning soups, stews, and stir-fries, enriching them with a complex blend of sweet, savory, and aromatic notes.</li>
+                  <li><strong>Creative Cooking:</strong> Can be used as a dry rub or marinade for meats, or as a seasoning for vegetables and tofu, adding depth and complexity to dishes.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>Premium Quality:</strong> Our Five-Spice Powder is meticulously crafted from the finest ingredients to ensure superior taste and aroma.</li>
+                  <li><strong>Hygienically Processed:</strong> Produced under strict quality standards, adhering to international food safety regulations.</li>
+                  <li><strong>Packaged for Freshness:</strong> Packed to preserve freshness and aroma, maintaining the integrity of the spice blend.</li>
+
+                <br />
+
+                <h2><strong>Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Enhanced Culinary Experience:</strong> Elevates dishes with a harmonious blend of sweet, savory, and aromatic flavors.</li>
+                  <li><strong>Global Appeal:</strong> Suitable for both traditional and contemporary cuisines, appealing to diverse palates worldwide.</li>
+                  <li><strong>Customer Satisfaction:</strong> We prioritize customer satisfaction by offering competitive pricing, premium quality, and reliable service.</li>
+
+                <br />
+
+                <h2><strong>Explore the World of Flavors with Varni Exports</strong></h2>
+                <br />
+                <p>Discover the essence of Five-Spice Powder with Varni Exports, where quality meets tradition. Whether you're a chef looking to enhance your culinary creations or a distributor seeking premium spice blends, our commitment to excellence ensures satisfaction. Contact us today to explore our extensive range of spices and experience the richness of authentic flavors crafted for global markets.</p>
+              </div>
+            ,
           },
 
           {
@@ -3508,7 +5763,67 @@ export const catagories = [
             Loading: "15 to 30 Tons",
             Certification: "FSSAI Certified",
             description:
-              "KipJbnRyb2R1Y3Rpb24gdG8gR2FyYW0gTWFzYWxhKioKClZhcm5pIEV4cG9ydHMgcHJvdWRseSBwcmVzZW50cyBHYXJhbSBNYXNhbGEsIGEgcXVpbnRlc3NlbnRpYWwgYmxlbmQgb2YgZ3JvdW5kIHNwaWNlcyBjaGVyaXNoZWQgaW4gSW5kaWFuIGN1aXNpbmUgZm9yIGl0cyByaWNoIGFuZCBhcm9tYXRpYyBmbGF2b3JzLiBUaGlzIHRyYWRpdGlvbmFsIHNwaWNlIG1peCBpcyBtZXRpY3Vsb3VzbHkgY3JhZnRlZCB0byBlbmhhbmNlIGEgd2lkZSBhcnJheSBvZiBkaXNoZXMsIG9mZmVyaW5nIGEgZGVsaWdodGZ1bCBmdXNpb24gb2Ygc3dlZXQsIHNhdm9yeSwgYW5kIHNwaWN5IG5vdGVzLgoKKipJbmdyZWRpZW50cyoqCgpPdXIgR2FyYW0gTWFzYWxhIGJsZW5kIGluY2x1ZGVzOgotICoqQ3VtaW46KiogUHJvdmlkZXMgZWFydGh5IGFuZCBudXR0eSB1bmRlcnRvbmVzLgotICoqQ29yaWFuZGVyOioqIEFkZHMgYSBjaXRydXN5IGFuZCBoZXJiYWwgZmxhdm9yLgotICoqQ2FyZGFtb206KiogT2ZmZXJzIGEgc3dlZXQgYW5kIGZsb3JhbCBhcm9tYS4KLSAqKkNpbm5hbW9uOioqIEltcGFydHMgYSB3YXJtIGFuZCB3b29keSBlc3NlbmNlLgotICoqQ2xvdmVzOioqIENvbnRyaWJ1dGUgYSBzdHJvbmcsIHB1bmdlbnQgZmxhdm9yLgotICoqTnV0bWVnOioqIFByb3ZpZGVzIGEgc3dlZXQgYW5kIG51dHR5IHRhc3RlLgotICoqQmF5IExlYXZlczoqKiBBZGRzIGEgc3VidGxlLCBoZXJiYWwgbm90ZS4KLSAqKkJsYWNrIFBlcHBlcjoqKiBQcm92aWRlcyBhIG1pbGQgaGVhdCBhbmQgc2hhcnBuZXNzLgoKKipDcmFmdGluZyBQcm9jZXNzKioKCi0gKipSb2FzdGluZzoqKiBUaGUgc3BpY2VzIGFyZSBtZXRpY3Vsb3VzbHkgcm9hc3RlZCB0byBpbnRlbnNpZnkgdGhlaXIgZmxhdm9ycyBhbmQgYXJvbWFzLCBlbnN1cmluZyBhIHJvYnVzdCBhbmQgYXJvbWF0aWMgYmxlbmQuCi0gKipHcmluZGluZzoqKiBBZnRlciByb2FzdGluZywgdGhlIHNwaWNlcyBhcmUgZ3JvdW5kIHRvIGEgZmluZSBwb3dkZXIsIHByZXNlcnZpbmcgdGhlaXIgZnJlc2huZXNzIGFuZCBwb3RlbmN5LgoKKipDdWxpbmFyeSBVc2VzKioKCi0gKipWZXJzYXRpbGUgRmxhdm9yIEVuaGFuY2VyOioqIEFkZHMgZGVwdGggYW5kIGNvbXBsZXhpdHkgdG8gdmFyaW91cyBJbmRpYW4gZGlzaGVzIHN1Y2ggYXMgY3Vycmllcywgc3Rld3MsIGFuZCB2ZWdldGFibGVzLgotICoqRmluaXNoaW5nIFRvdWNoOioqIFR5cGljYWxseSBhZGRlZCB0b3dhcmRzIHRoZSBlbmQgb2YgY29va2luZyB0byBlbmhhbmNlIHRoZSBvdmVyYWxsIGZsYXZvciBwcm9maWxlIG9mIHRoZSBkaXNoLgotICoqTWFyaW5hZGVzIGFuZCBSdWJzOioqIFVzZWQgYXMgYSBtYXJpbmFkZSBvciBkcnkgcnViIGZvciBtZWF0cywgaW5mdXNpbmcgdGhlbSB3aXRoIGEgaGFybW9uaW91cyBibGVuZCBvZiBzcGljZXMuCgoqKlF1YWxpdHkgQXNzdXJhbmNlKioKCi0gKipQcmVtaXVtIFF1YWxpdHk6KiogT3VyIEdhcmFtIE1hc2FsYSBpcyBjcmFmdGVkIGZyb20gdGhlIGZpbmVzdCBzcGljZXMsIHNvdXJjZWQgZm9yIHRoZWlyIHF1YWxpdHkgYW5kIGZsYXZvci4KLSAqKkh5Z2llbmljYWxseSBQcm9jZXNzZWQ6KiogTWFudWZhY3R1cmVkIHVuZGVyIHN0cmljdCBoeWdpZW5lIHN0YW5kYXJkcyB0byBlbnN1cmUgZm9vZCBzYWZldHkgYW5kIHF1YWxpdHkuCi0gKipQYWNrYWdlZCB3aXRoIENhcmU6KiogUGFja2FnZWQgaW4gYWlydGlnaHQgY29udGFpbmVycyB0byBwcmVzZXJ2ZSBmcmVzaG5lc3MgYW5kIGFyb21hLCBtYWludGFpbmluZyB0aGUgaW50ZWdyaXR5IG9mIHRoZSBzcGljZSBibGVuZC4KCioqQmVuZWZpdHMqKgoKLSAqKkF1dGhlbnRpYyBUYXN0ZToqKiBDYXB0dXJlcyB0aGUgYXV0aGVudGljIGZsYXZvcnMgb2YgdHJhZGl0aW9uYWwgSW5kaWFuIGN1aXNpbmUsIG9mZmVyaW5nIGEgZ2VudWluZSBjdWxpbmFyeSBleHBlcmllbmNlLgotICoqRWFzeSB0byBVc2U6KiogQ29udmVuaWVudGx5IGVuaGFuY2VzIGRpc2hlcyB3aXRoIGEgcmVhZHktdG8tdXNlIHNwaWNlIGJsZW5kLCBzYXZpbmcgdGltZSBhbmQgZWZmb3J0IGluIHRoZSBraXRjaGVuLgotICoqQ3VzdG9tZXIgU2F0aXNmYWN0aW9uOioqIENvbW1pdHRlZCB0byBkZWxpdmVyaW5nIHNhdGlzZmFjdGlvbiB0aHJvdWdoIHByZW1pdW0gcXVhbGl0eSwgY29tcGV0aXRpdmUgcHJpY2luZywgYW5kIHJlbGlhYmxlIHNlcnZpY2UuCgoqKkV4cGxvcmUgR2FyYW0gTWFzYWxhIHdpdGggVmFybmkgRXhwb3J0cyoqCgpFbWJhcmsgb24gYSBjdWxpbmFyeSBqb3VybmV5IHdpdGggVmFybmkgRXhwb3J0cycgR2FyYW0gTWFzYWxhLCB3aGVyZSBxdWFsaXR5IG1lZXRzIHRyYWRpdGlvbi4gV2hldGhlciB5b3UncmUgYSBjaGVmIGV4cGxvcmluZyBuZXcgZmxhdm9ycyBvciBhIGRpc3RyaWJ1dG9yIHNlZWtpbmcgcHJlbWl1bSBzcGljZSBibGVuZHMsIG91ciBjb21taXRtZW50IHRvIGV4Y2VsbGVuY2UgZW5zdXJlcyBzdXBlcmlvciB0YXN0ZSBhbmQgc2F0aXNmYWN0aW9uLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2NvdmVyIG91ciByYW5nZSBvZiBzcGljZXMgYW5kIGVsZXZhdGUgeW91ciBjdWxpbmFyeSBjcmVhdGlvbnMgd2l0aCBhdXRoZW50aWMgSW5kaWFuIGZsYXZvcnMu",
+              <div>
+                <h1><strong>Introduction to Garam Masala</strong></h1>
+                <br />
+
+                <p>Varni Exports proudly presents Garam Masala, a quintessential blend of ground spices cherished in Indian cuisine for its rich and aromatic flavors. This traditional spice mix is meticulously crafted to enhance a wide array of dishes, offering a delightful fusion of sweet, savory, and spicy notes.</p>
+                <br />
+
+                <h2><strong>Ingredients</strong></h2>
+                <br />
+
+                  <li><strong>Cumin:</strong> Provides earthy and nutty undertones.</li>
+                  <li><strong>Coriander:</strong> Adds a citrusy and herbal flavor.</li>
+                  <li><strong>Cardamom:</strong> Offers a sweet and floral aroma.</li>
+                  <li><strong>Cinnamon:</strong> Imparts a warm and woody essence.</li>
+                  <li><strong>Cloves:</strong> Contribute a strong, pungent flavor.</li>
+                  <li><strong>Nutmeg:</strong> Provides a sweet and nutty taste.</li>
+                  <li><strong>Bay Leaves:</strong> Adds a subtle, herbal note.</li>
+                  <li><strong>Black Pepper:</strong> Provides a mild heat and sharpness.</li>
+
+                <br />
+
+                <h2><strong>Crafting Process</strong></h2>
+                <br />
+
+                  <li><strong>Roasting:</strong> The spices are meticulously roasted to intensify their flavors and aromas, ensuring a robust and aromatic blend.</li>
+                  <li><strong>Grinding:</strong> After roasting, the spices are ground to a fine powder, preserving their freshness and potency.</li>
+
+                <br />
+
+                <h2><strong>Culinary Uses</strong></h2>
+                <br />
+
+                  <li><strong>Versatile Flavor Enhancer:</strong> Adds depth and complexity to various Indian dishes such as curries, stews, and vegetables.</li>
+                  <li><strong>Finishing Touch:</strong> Typically added towards the end of cooking to enhance the overall flavor profile of the dish.</li>
+                  <li><strong>Marinades and Rubs:</strong> Used as a marinade or dry rub for meats, infusing them with a harmonious blend of spices.</li>
+
+                <br />
+
+                <h2><strong>Quality Assurance</strong></h2>
+                <br />
+
+                  <li><strong>Premium Quality:</strong> Our Garam Masala is crafted from the finest spices, sourced for their quality and flavor.</li>
+                  <li><strong>Hygienically Processed:</strong> Manufactured under strict hygiene standards to ensure food safety and quality.</li>
+                  <li><strong>Packaged with Care:</strong> Packaged in airtight containers to preserve freshness and aroma, maintaining the integrity of the spice blend.</li>
+
+                <br />
+
+                <h2><strong>Benefits</strong></h2>
+                <br />
+
+                  <li><strong>Authentic Taste:</strong> Captures the authentic flavors of traditional Indian cuisine, offering a genuine culinary experience.</li>
+                  <li><strong>Easy to Use:</strong> Conveniently enhances dishes with a ready-to-use spice blend, saving time and effort in the kitchen.</li>
+                  <li><strong>Customer Satisfaction:</strong> Committed to delivering satisfaction through premium quality, competitive pricing, and reliable service.</li>
+
+                <br />
+
+                <h2><strong>Explore Garam Masala with Varni Exports</strong></h2>
+                <br />
+                <p>Embark on a culinary journey with Varni Exports' Garam Masala, where quality meets tradition. Whether you're a chef exploring new flavors or a distributor seeking premium spice blends, our commitment to excellence ensures superior taste and satisfaction. Contact us today to discover our range of spices and elevate your culinary creations with authentic Indian flavors.</p>
+              </div>
+            ,
           },
         ],
       },
@@ -3535,7 +5850,53 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         Loading: "15 to 30 Tons",
         description:
-          "KipSb2FzdGVkIEdyYW0gd2l0aCBTa2luOiBBIE51dHJpdGlvdXMgYW5kIERlbGljaW91cyBTbmFjayoqCgoqKkludHJvZHVjdGlvbioqCgpWYXJuaSBFeHBvcnRzIGlzIHByb3VkIHRvIG9mZmVyIFJvYXN0ZWQgR3JhbSB3aXRoIFNraW4sIGEgcG9wdWxhciBhbmQgaGVhbHRoeSBzbmFjayBtYWRlIGZyb20gcm9hc3RlZCBjaGlja3BlYXMuIFRoaXMgY3J1bmNoeSBhbmQgZmxhdm9yZnVsIHNuYWNrIGlzIGVuam95ZWQgYWNyb3NzIEluZGlhLCBCYW5nbGFkZXNoLCBhbmQgb3RoZXIgU291dGggQXNpYW4gY291bnRyaWVzLCBvZnRlbiBzcGljZWQgd2l0aCBhIGJsZW5kIG9mIGN1bWluLCBjb3JpYW5kZXIsIGNoaWxpIHBvd2RlciwgYW5kIHR1cm1lcmljLiBJdCBpcyB0eXBpY2FsbHkgc2VydmVkIHdpdGggeW9ndXJ0IG9yIGNodXRuZXksIG1ha2luZyBpdCBhIHZlcnNhdGlsZSBhbmQgbnV0cml0aW91cyBhZGRpdGlvbiB0byBhbnkgZGlldC4KCioqRmxhdm9yIGFuZCBQcmVwYXJhdGlvbioqCgotICoqTnV0dHkgRmxhdm9yOioqIFJvYXN0ZWQgZ3JhbSB3aXRoIHNraW4gYm9hc3RzIGEgcmljaCwgbnV0dHkgZmxhdm9yIHRoYXQgaXMgYm90aCBzYXRpc2Z5aW5nIGFuZCB3aG9sZXNvbWUuCi0gKipTcGljZXM6KiogQ29tbW9ubHkgc2Vhc29uZWQgd2l0aCBzcGljZXMgc3VjaCBhcyBjdW1pbiwgY29yaWFuZGVyLCBjaGlsaSBwb3dkZXIsIGFuZCB0dXJtZXJpYyB0byBlbmhhbmNlIGl0cyB0YXN0ZS4KLSAqKkNydW5jaHkgVGV4dHVyZToqKiBDaGlja3BlYXMgYXJlIHJvYXN0ZWQgdW50aWwgdGhleSBhY2hpZXZlIGEgcGVyZmVjdCBicm93biBjb2xvciBhbmQgY3J1bmNoeSB0ZXh0dXJlLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKUm9hc3RlZCBncmFtIHdpdGggc2tpbiBpcyBub3Qgb25seSBkZWxpY2lvdXMgYnV0IGFsc28gcGFja2VkIHdpdGggaGVhbHRoIGJlbmVmaXRzOgotICoqRmF0LUZyZWUgYW5kIFNvZGl1bS1GcmVlOioqIE5hdHVyYWxseSBmcmVlIG9mIGZhdHMsIHNhdHVyYXRlZCBmYXRzLCBhbmQgc29kaXVtLgotICoqSGVhcnQgSGVhbHRoOioqIEhlbHBzIGxvd2VyIHRoZSByaXNrIG9mIGhlYXJ0IGRpc2Vhc2UgYW5kIG1heSByZWR1Y2UgdGhlIHJpc2sgb2YgY29sb24gY2FuY2VyLgotICoqQmxvb2QgU3VnYXIgQ29udHJvbDoqKiBMb3cgZ2x5Y2VtaWMgaW5kZXggbWFrZXMgaXQgc3VpdGFibGUgZm9yIGRpYWJldGljcywgYXMgdGhlIGNhcmJvaHlkcmF0ZXMgdGFrZSBsb25nZXIgdG8gZGlnZXN0LgotICoqSGlnaCBpbiBEaWV0YXJ5IEZpYmVyOioqIENvbnRhaW5zIDYgZ3JhbXMgb2YgZGlldGFyeSBmaWJlciwgd2hpY2ggYWlkcyBpbiBkaWdlc3Rpb24sIHByZXZlbnRzIGNvbnN0aXBhdGlvbiwgYW5kIHN1cHBvcnRzIGhlYXJ0IGhlYWx0aC4KLSAqKlJpY2ggaW4gTnV0cmllbnRzOioqIEEgZ29vZCBzb3VyY2Ugb2YgY2FsY2l1bSwgcG90YXNzaXVtLCBtYW5nYW5lc2UsIGZvbGF0ZSwgcHJvdGVpbiwgZGlldGFyeSBmaWJlciwgY29wcGVyLCBwaG9zcGhvcnVzLCBhbmQgaXJvbi4KCioqQ29tbW9uIFVzZXMqKgoKUm9hc3RlZCBncmFtIHdpdGggc2tpbiBpcyB2ZXJzYXRpbGUgYW5kIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKk1pZC1NZWFsIFNuYWNrOioqIFBlcmZlY3QgYXMgYSBwcm90ZWluLXJpY2ggc25hY2sgYmV0d2VlbiBtZWFscy4KLSAqKkNoYWF0cyBhbmQgQmhlbHM6KiogQWRkcyBjcnVuY2ggYW5kIGZsYXZvciB0byB0cmFkaXRpb25hbCBJbmRpYW4gc3RyZWV0IGZvb2RzIGxpa2UgY2hhYXRzIGFuZCBiaGVscy4KLSAqKlRhbmd5IENoYWF0OioqIENvbWJpbmUgd2l0aCBvbmlvbnMsIHRvbWF0b2VzLCBzYWx0LCBhbmQgbGVtb24ganVpY2UgdG8gY3JlYXRlIGEgcmVmcmVzaGluZyBhbmQgdGFuZ3kgY2hhYXQuCgoqKk51dHJpdGlvbmFsIEVsZW1lbnRzKioKCkNoaWNrcGVhcywgdGhlIG1haW4gaW5ncmVkaWVudCBpbiByb2FzdGVkIGdyYW0sIGFyZSBwYWNrZWQgd2l0aCBlc3NlbnRpYWwgbnV0cmllbnRzOgotICoqVml0YW1pbnM6KiogSW5jbHVkZXMgdml0YW1pbnMgQSwgQjEsIEIyLCBCMywgQywgRCwgRSwgSywgZm9sYXRlLCBhbmQgcGFudG90aGVuaWMgYWNpZC4KLSAqKk1pbmVyYWxzOioqIENvbnRhaW5zIGNhbGNpdW0sIGlyb24sIG1vbHliZGVudW0sIHBvdGFzc2l1bSwgbWFuZ2FuZXNlLCBjb3BwZXIsIGFuZCB6aW5jLgotICoqT3RoZXIgTnV0cmllbnRzOioqIEhpZ2ggaW4gZGlldGFyeSBmaWJlcnMsIGNhcmJvaHlkcmF0ZXMsIHByb3RlaW5zLCBhbmQgbW9pc3R1cmUuCgoqKkV4cGVyaWVuY2UgUXVhbGl0eSB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgZW5zdXJlIHRoYXQgb3VyIHJvYXN0ZWQgZ3JhbSB3aXRoIHNraW4gaXMgb2YgdGhlIGhpZ2hlc3QgcXVhbGl0eSwgZGVsaXZlcmluZyBib3RoIHRhc3RlIGFuZCBudXRyaXRpb24uIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIGZvciBhIGhlYWx0aHkgc25hY2sgb3IgYW4gaW5ncmVkaWVudCB0byBlbmhhbmNlIHlvdXIgZGlzaGVzLCBvdXIgcm9hc3RlZCBncmFtIHdpdGggc2tpbiBpcyBhIHBlcmZlY3QgY2hvaWNlLiBDb250YWN0IHVzIHRvZGF5IHRvIGRpc2NvdmVyIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIG51dHJpdGlvdXMgc25hY2tzIGFuZCB0byBwbGFjZSB5b3VyIG9yZGVyLiBFbmpveSB0aGUgYmVuZWZpdHMgb2YgYSBoZWFsdGh5IGxpZmVzdHlsZSB3aXRoIFZhcm5pIEV4cG9ydHMh",
+          <div>
+            <h1><strong>Roasted Gram with Skin: A Nutritious and Delicious Snack</strong></h1>
+            <br />
+
+            <p>Varni Exports is proud to offer Roasted Gram with Skin, a popular and healthy snack made from roasted chickpeas. This crunchy and flavorful snack is enjoyed across India, Bangladesh, and other South Asian countries, often spiced with a blend of cumin, coriander, chili powder, and turmeric. It is typically served with yogurt or chutney, making it a versatile and nutritious addition to any diet.</p>
+            <br />
+
+            <h2><strong>Flavor and Preparation</strong></h2>
+            <br />
+
+            <li><strong>Nutty Flavor:</strong> Roasted gram with skin boasts a rich, nutty flavor that is both satisfying and wholesome.</li>
+            <li><strong>Spices:</strong> Commonly seasoned with spices such as cumin, coriander, chili powder, and turmeric to enhance its taste.</li>
+            <li><strong>Crunchy Texture:</strong> Chickpeas are roasted until they achieve a perfect brown color and crunchy texture.</li>
+            <br />
+
+            <h2><strong>Health Benefits</strong></h2>
+            <br />
+
+            <li><strong>Fat-Free and Sodium-Free:</strong> Naturally free of fats, saturated fats, and sodium.</li>
+            <li><strong>Heart Health:</strong> Helps lower the risk of heart disease and may reduce the risk of colon cancer.</li>
+            <li><strong>Blood Sugar Control:</strong> Low glycemic index makes it suitable for diabetics, as the carbohydrates take longer to digest.</li>
+            <li><strong>High in Dietary Fiber:</strong> Contains 6 grams of dietary fiber, which aids in digestion, prevents constipation, and supports heart health.</li>
+            <li><strong>Rich in Nutrients:</strong> A good source of calcium, potassium, manganese, folate, protein, dietary fiber, copper, phosphorus, and iron.</li>
+            <br />
+
+            <h2><strong>Common Uses</strong></h2>
+            <br />
+
+            <li><strong>Mid-Meal Snack:</strong> Perfect as a protein-rich snack between meals.</li>
+            <li><strong>Chaats and Bhels:</strong> Adds crunch and flavor to traditional Indian street foods like chaats and bhels.</li>
+            <li><strong>Tangy Chaat:</strong> Combine with onions, tomatoes, salt, and lemon juice to create a refreshing and tangy chaat.</li>
+            <br />
+
+            <h2><strong>Nutritional Elements</strong></h2>
+            <br />
+            <p>Chickpeas, the main ingredient in roasted gram, are packed with essential nutrients:</p>
+
+            <li><strong>Vitamins:</strong> Includes vitamins A, B1, B2, B3, C, D, E, K, folate, and pantothenic acid.</li>
+            <li><strong>Minerals:</strong> Contains calcium, iron, molybdenum, potassium, manganese, copper, and zinc.</li>
+            <li><strong>Other Nutrients:</strong> High in dietary fibers, carbohydrates, proteins, and moisture.</li>
+            <br />
+
+            <h2><strong>Experience Quality with Varni Exports</strong></h2>
+            <br />
+            <p>At Varni Exports, we ensure that our roasted gram with skin is of the highest quality, delivering both taste and nutrition. Whether you are looking for a healthy snack or an ingredient to enhance your dishes, our roasted gram with skin is a perfect choice. Contact us today to discover more about our range of nutritious snacks and to place your order. Enjoy the benefits of a healthy lifestyle with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -3551,7 +5912,57 @@ export const catagories = [
         Loading: "15 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "KipSb2FzdGVkIEdyYW0gV2hvbGUgV2l0aG91dCBTa2luOiBBIE51dHJpdGlvdXMgYW5kIFZlcnNhdGlsZSBTbmFjayoqCgoqKkludHJvZHVjdGlvbioqCgpSb2FzdGVkIEdyYW0gV2hvbGUgV2l0aG91dCBTa2luLCBrbm93biBhcyBDaGFuYSBvciBDaGFuYW0gaW4gSW5kaWEsIGlzIGEgcG9wdWxhciBsZWd1bWUgdGhhdCBoYXMgYmVlbiByb2FzdGVkIGFuZCBoYWQgaXRzIG91dGVyIGh1c2sgcmVtb3ZlZC4gVGhpcyBudXR0eSBhbmQgY3J1bmNoeSBzbmFjayBpcyBub3Qgb25seSBkZWxpY2lvdXMgYnV0IGFsc28gcGFja2VkIHdpdGggbnV0cmllbnRzLCBtYWtpbmcgaXQgYSBmYXZvcml0ZSBpbiBJbmRpYW4gaG91c2Vob2xkcyBhbmQgYmV5b25kLiBJdCBpcyBjb21tb25seSBlbmpveWVkIGFzIGEgc25hY2sgYW5kIHVzZWQgaW4gc291cHMsIHNhbGFkcywgY3VycmllcywgYW5kIG90aGVyIGRpc2hlcy4KCioqSGVhbHRoIEJlbmVmaXRzKioKCi0gKipGYXQtRnJlZSBhbmQgU29kaXVtLUZyZWU6KiogTmF0dXJhbGx5IGZyZWUgb2YgZmF0cywgc2F0dXJhdGVkIGZhdHMsIGFuZCBzb2RpdW0sIG1ha2luZyBpdCBhIGhlYXJ0LWhlYWx0aHkgc25hY2sgb3B0aW9uLgotICoqSGVhcnQgSGVhbHRoOioqIEhlbHBzIGxvd2VyIHRoZSByaXNrIG9mIGhlYXJ0IGRpc2Vhc2UgYW5kIG1heSByZWR1Y2UgdGhlIHJpc2sgb2YgY29sb24gY2FuY2VyLgotICoqQmxvb2QgU3VnYXIgQ29udHJvbDoqKiBUaGUgbG93IGdseWNlbWljIGluZGV4IChHSSkgb2Ygcm9hc3RlZCBjaGFuYSBoZWxwcyBrZWVwIGJsb29kIHN1Z2FyIGxldmVscyBzdGFibGUsIG1ha2luZyBpdCBzdWl0YWJsZSBmb3IgZGlhYmV0aWNzLgotICoqSGlnaCBpbiBEaWV0YXJ5IEZpYmVyOioqIENvbnRhaW5zIDYgZ3JhbXMgb2YgZGlldGFyeSBmaWJlciwgd2hpY2ggYWlkcyBpbiBkaWdlc3Rpb24sIHByZXZlbnRzIGNvbnN0aXBhdGlvbiwgYW5kIHN1cHBvcnRzIGhlYXJ0IGhlYWx0aC4KLSAqKlJpY2ggaW4gTnV0cmllbnRzOioqIEEgZ29vZCBzb3VyY2Ugb2YgY2FsY2l1bSwgcG90YXNzaXVtLCBtYW5nYW5lc2UsIGZvbGF0ZSwgcHJvdGVpbiwgZGlldGFyeSBmaWJlciwgY29wcGVyLCBwaG9zcGhvcnVzLCBhbmQgaXJvbi4KCioqQ29tbW9uIFVzZXMqKgoKUm9hc3RlZCBHcmFtIFdob2xlIFdpdGhvdXQgU2tpbiBpcyB2ZXJzYXRpbGUgYW5kIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKlByb3RlaW4tUmljaCBTbmFjazoqKiBDb25zdW1lZCBhcyBhIGhlYWx0aHkgbWlkLW1lYWwgc25hY2sgdGhhdCBpcyBoaWdoIGluIHByb3RlaW4uCi0gKipDaGFhdHMgYW5kIEJoZWxzOioqIEFkZHMgY3J1bmNoIGFuZCBmbGF2b3IgdG8gdHJhZGl0aW9uYWwgSW5kaWFuIHN0cmVldCBmb29kcyBsaWtlIGNoYWF0cyBhbmQgYmhlbHMuCi0gKipUYW5neSBDaGFhdDoqKiBDb21iaW5lIHdpdGggb25pb25zLCB0b21hdG9lcywgc2FsdCwgYW5kIGxlbW9uIGp1aWNlIHRvIGNyZWF0ZSBhIHJlZnJlc2hpbmcgYW5kIHRhbmd5IGNoYWF0LgoKKipOdXRyaXRpb25hbCBFbGVtZW50cyoqCgpDaGlja3BlYXMsIHRoZSBtYWluIGluZ3JlZGllbnQgaW4gcm9hc3RlZCBncmFtLCBhcmUgcGFja2VkIHdpdGggZXNzZW50aWFsIG51dHJpZW50czoKLSAqKlZpdGFtaW5zOioqIEluY2x1ZGVzIHZpdGFtaW5zIEEsIEIxLCBCMiwgQjMsIEMsIEQsIEUsIEssIGZvbGF0ZSwgYW5kIHBhbnRvdGhlbmljIGFjaWQuCi0gKipNaW5lcmFsczoqKiBDb250YWlucyBjYWxjaXVtLCBpcm9uLCBtb2x5YmRlbnVtLCBwb3Rhc3NpdW0sIG1hbmdhbmVzZSwgY29wcGVyLCBhbmQgemluYy4KLSAqKk90aGVyIE51dHJpZW50czoqKiBIaWdoIGluIGRpZXRhcnkgZmliZXJzLCBjYXJib2h5ZHJhdGVzLCBwcm90ZWlucywgYW5kIG1vaXN0dXJlLgoKKipRdWFsaXR5IEFzc3VyYW5jZSoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgUm9hc3RlZCBHcmFtIFdob2xlIFdpdGhvdXQgU2tpbiBpcyBvZiB0aGUgaGlnaGVzdCBxdWFsaXR5OgotICoqUHJlbWl1bSBRdWFsaXR5OioqIFNvdXJjZWQgZnJvbSB0cnVzdGVkIHN1cHBsaWVycyBhbmQgcHJvY2Vzc2VkIHVuZGVyIHN0cmluZ2VudCBxdWFsaXR5IGNvbnRyb2xzIHRvIHJldGFpbiBpdHMgbnV0cml0aW9uYWwgdmFsdWUgYW5kIGZsYXZvci4KLSAqKkh5Z2llbmljIFByb2Nlc3Npbmc6KiogUHJvZHVjZWQgaW4gY29tcGxpYW5jZSB3aXRoIGludGVybmF0aW9uYWwgZm9vZCBzYWZldHkgc3RhbmRhcmRzLCBlbnN1cmluZyBhIHNhZmUgYW5kIG51dHJpdGlvdXMgcHJvZHVjdC4KLSAqKlBhY2thZ2luZzoqKiBQYWNrYWdlZCB0byBwcmVzZXJ2ZSBmcmVzaG5lc3MgYW5kIGNydW5jaGluZXNzLCBlbnN1cmluZyBhIGRlbGlnaHRmdWwgc25hY2sgZXhwZXJpZW5jZS4KCioqRXhwZXJpZW5jZSBRdWFsaXR5IHdpdGggVmFybmkgRXhwb3J0cyoqCgpEaXNjb3ZlciB0aGUgd2hvbGVzb21lIGdvb2RuZXNzIG9mIFJvYXN0ZWQgR3JhbSBXaG9sZSBXaXRob3V0IFNraW4gd2l0aCBWYXJuaSBFeHBvcnRzLiBXaGV0aGVyIHlvdSdyZSBsb29raW5nIGZvciBhIGhlYWx0aHkgc25hY2sgb3IgYW4gaW5ncmVkaWVudCB0byBlbmhhbmNlIHlvdXIgZGlzaGVzLCBvdXIgcm9hc3RlZCBncmFtIGlzIHRoZSBwZXJmZWN0IGNob2ljZS4gQ29udGFjdCB1cyB0b2RheSB0byBsZWFybiBtb3JlIGFib3V0IG91ciByYW5nZSBvZiBudXRyaXRpb3VzIHByb2R1Y3RzIGFuZCB0byBwbGFjZSB5b3VyIG9yZGVyLiBFbmpveSB0aGUgYmVuZWZpdHMgb2YgYSBoZWFsdGh5IGxpZmVzdHlsZSB3aXRoIFZhcm5pIEV4cG9ydHMh",
+          <div>
+            <h1><strong>Roasted Gram Whole Without Skin: A Nutritious and Versatile Snack</strong></h1>
+            <br />
+
+            <p>Roasted Gram Whole Without Skin, known as Chana or Chanam in India, is a popular legume that has been roasted and had its outer husk removed. This nutty and crunchy snack is not only delicious but also packed with nutrients, making it a favorite in Indian households and beyond. It is commonly enjoyed as a snack and used in soups, salads, curries, and other dishes.</p>
+            <br />
+
+            <h2><strong>Health Benefits</strong></h2>
+            <br />
+
+            <li><strong>Fat-Free and Sodium-Free:</strong> Naturally free of fats, saturated fats, and sodium, making it a heart-healthy snack option.</li>
+            <li><strong>Heart Health:</strong> Helps lower the risk of heart disease and may reduce the risk of colon cancer.</li>
+            <li><strong>Blood Sugar Control:</strong> The low glycemic index (GI) of roasted chana helps keep blood sugar levels stable, making it suitable for diabetics.</li>
+            <li><strong>High in Dietary Fiber:</strong> Contains 6 grams of dietary fiber, which aids in digestion, prevents constipation, and supports heart health.</li>
+            <li><strong>Rich in Nutrients:</strong> A good source of calcium, potassium, manganese, folate, protein, dietary fiber, copper, phosphorus, and iron.</li>
+
+            <br />
+
+            <h2><strong>Common Uses</strong></h2>
+            <br />
+
+            <li><strong>Protein-Rich Snack:</strong> Consumed as a healthy mid-meal snack that is high in protein.</li>
+            <li><strong>Chaats and Bhels:</strong> Adds crunch and flavor to traditional Indian street foods like chaats and bhels.</li>
+            <li><strong>Tangy Chaat:</strong> Combine with onions, tomatoes, salt, and lemon juice to create a refreshing and tangy chaat.</li>
+
+            <br />
+
+            <h2><strong>Nutritional Elements</strong></h2>
+            <br />
+            <p>Chickpeas, the main ingredient in roasted gram, are packed with essential nutrients:</p>
+
+            <li><strong>Vitamins:</strong> Includes vitamins A, B1, B2, B3, C, D, E, K, folate, and pantothenic acid.</li>
+            <li><strong>Minerals:</strong> Contains calcium, iron, molybdenum, potassium, manganese, copper, and zinc.</li>
+            <li><strong>Other Nutrients:</strong> High in dietary fibers, carbohydrates, proteins, and moisture.</li>
+
+            <br />
+
+            <h2><strong>Quality Assurance</strong></h2>
+            <br />
+
+            <li><strong>Premium Quality:</strong> Sourced from trusted suppliers and processed under stringent quality controls to retain its nutritional value and flavor.</li>
+            <li><strong>Hygienic Processing:</strong> Produced in compliance with international food safety standards, ensuring a safe and nutritious product.</li>
+            <li><strong>Packaging:</strong> Packaged to preserve freshness and crunchiness, ensuring a delightful snack experience.</li>
+
+            <br />
+
+            <h2><strong>Experience Quality with Varni Exports</strong></h2>
+            <br />
+            <p>Discover the wholesome goodness of Roasted Gram Whole Without Skin with Varni Exports. Whether you're looking for a healthy snack or an ingredient to enhance your dishes, our roasted gram is the perfect choice. Contact us today to learn more about our range of nutritious products and to place your order. Enjoy the benefits of a healthy lifestyle with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -3569,7 +5980,57 @@ export const catagories = [
         Loading: "15 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "KipSb2FzdGVkIEdyYW0gU3BsaXQgV2l0aG91dCBTa2luOiBBIE51dHJpdGlvdXMgUHVsc2UgZm9yIEluZGlhbiBDdWlzaW5lKioKCioqSW50cm9kdWN0aW9uKioKClJvYXN0ZWQgZ3JhbSBzcGxpdCB3aXRob3V0IHNraW4gaXMgYSB2ZXJzYXRpbGUgbGVndW1lIGNvbW1vbmx5IHVzZWQgaW4gSW5kaWFuIGN1aXNpbmUsIHByaXplZCBmb3IgaXRzIG51dHR5IGZsYXZvciBhbmQgbnV0cml0aW9uYWwgYmVuZWZpdHMuIFRoaXMgcHVsc2UgaXMgb2J0YWluZWQgYnkgc3BsaXR0aW5nIGFuZCByZW1vdmluZyB0aGUgc2tpbiBvZiBjaGlja3BlYXMsIG1ha2luZyBpdCBhIHBvcHVsYXIgaW5ncmVkaWVudCBpbiBkaXNoZXMgbGlrZSBkYWwgYW5kIGN1cnJpZXMuIEl0IHNlcnZlcyBhcyBhIHJpY2ggc291cmNlIG9mIGZpYmVyLCBwcm90ZWluLCB2aXRhbWlucywgYW5kIG1pbmVyYWxzLCBvZmZlcmluZyBib3RoIGZsYXZvciBhbmQgaGVhbHRoIGJlbmVmaXRzLgoKKipIZWFsdGggQmVuZWZpdHMqKgoKLSAqKkZhdC1GcmVlIGFuZCBTb2RpdW0tRnJlZToqKiBOYXR1cmFsbHkgZnJlZSBvZiBmYXRzLCBzYXR1cmF0ZWQgZmF0cywgYW5kIHNvZGl1bSwgbWFraW5nIGl0IGlkZWFsIGZvciBoZWFydCBoZWFsdGguCi0gKipDYXJkaW92YXNjdWxhciBIZWFsdGg6KiogSGVscHMgbG93ZXIgdGhlIHJpc2sgb2YgaGVhcnQgZGlzZWFzZSBhbmQgbWF5IHJlZHVjZSB0aGUgcmlzayBvZiBjb2xvbiBjYW5jZXIuCi0gKipCbG9vZCBTdWdhciBSZWd1bGF0aW9uOioqIExvdyBnbHljZW1pYyBpbmRleCAoR0kpIGhlbHBzIG1haW50YWluIHN0YWJsZSBibG9vZCBzdWdhciBsZXZlbHMsIHN1aXRhYmxlIGZvciBkaWFiZXRpY3MuCi0gKipSaWNoIGluIERpZXRhcnkgRmliZXI6KiogQ29udGFpbnMgNiBncmFtcyBvZiBkaWV0YXJ5IGZpYmVyIHBlciBzZXJ2aW5nLCBwcm9tb3RpbmcgZGlnZXN0aW9uIGFuZCByZWR1Y2luZyB0aGUgcmlzayBvZiBoZWFydCBkaXNlYXNlLgotICoqTnV0cmllbnQtUmljaDoqKiBFeGNlbGxlbnQgc291cmNlIG9mIGNhbGNpdW0sIHBvdGFzc2l1bSwgbWFuZ2FuZXNlLCBmb2xhdGUsIHByb3RlaW4sIGRpZXRhcnkgZmliZXIsIGNvcHBlciwgcGhvc3Bob3JvdXMsIGFuZCBpcm9uLgoKKipDb21tb24gVXNlcyoqCgpSb2FzdGVkIGdyYW0gc3BsaXQgd2l0aG91dCBza2luIGlzIHdpZGVseSB1c2VkIGluIHZhcmlvdXMgY3VsaW5hcnkgYXBwbGljYXRpb25zOgotICoqUHJvdGVpbi1SaWNoIFNuYWNrOioqIElkZWFsIGFzIGEgcHJvdGVpbi1yaWNoIG1pZC1tZWFsIHNuYWNrLCBwcm92aWRpbmcgc3VzdGFpbmVkIGVuZXJneS4KLSAqKkluZ3JlZGllbnQgaW4gQ2hhYXRzIGFuZCBCaGVsczoqKiBBZGRzIGNydW5jaCBhbmQgZmxhdm9yIHRvIHBvcHVsYXIgSW5kaWFuIHN0cmVldCBmb29kcyBsaWtlIGNoYWF0cyBhbmQgYmhlbHMuCi0gKipUYW5neSBDaGFhdDoqKiBFbmhhbmNlcyBzYWxhZHMgYW5kIHNuYWNrcyB3aGVuIGNvbWJpbmVkIHdpdGggb25pb25zLCB0b21hdG9lcywgc2FsdCwgYW5kIGxlbW9uIGp1aWNlLgoKKipOdXRyaXRpb25hbCBFbGVtZW50cyoqCgpDaGlja3BlYXMsIHRoZSBtYWluIGluZ3JlZGllbnQgaW4gcm9hc3RlZCBncmFtIHNwbGl0IHdpdGhvdXQgc2tpbiwgYXJlIHBhY2tlZCB3aXRoIGVzc2VudGlhbCBudXRyaWVudHM6Ci0gKipWaXRhbWluczoqKiBJbmNsdWRlcyB2aXRhbWlucyBBLCBCMSwgQjIsIEIzLCBDLCBELCBFLCBLLCBmb2xhdGUsIGFuZCBwYW50b3RoZW5pYyBhY2lkLgotICoqTWluZXJhbHM6KiogQ29udGFpbnMgY2FsY2l1bSwgaXJvbiwgbW9seWJkZW51bSwgcG90YXNzaXVtLCBtYW5nYW5lc2UsIGNvcHBlciwgemluYywgYW5kIG1vcmUuCi0gKipPdGhlciBOdXRyaWVudHM6KiogSGlnaCBpbiBkaWV0YXJ5IGZpYmVycywgY2FyYm9oeWRyYXRlcywgcHJvdGVpbnMsIGFuZCBtb2lzdHVyZSwgZXNzZW50aWFsIGZvciBvdmVyYWxsIGhlYWx0aC4KCioqUXVhbGl0eSBBc3N1cmFuY2UqKgoKQXQgVmFybmkgRXhwb3J0cywgd2UgcHJpb3JpdGl6ZSBxdWFsaXR5IGFuZCBzYWZldHkgaW4gb3VyIHByb2R1Y3RzOgotICoqUHJlbWl1bSBRdWFsaXR5OioqIFNvdXJjZWQgZnJvbSByZWxpYWJsZSBzdXBwbGllcnMgYW5kIHByb2Nlc3NlZCB1bmRlciBzdHJpY3QgaHlnaWVuZSBzdGFuZGFyZHMgdG8gcmV0YWluIGZyZXNobmVzcyBhbmQgbnV0cml0aW9uYWwgdmFsdWUuCi0gKipQYWNrYWdpbmc6KiogUGFja2FnZWQgdG8gcHJlc2VydmUgY3J1bmNoaW5lc3MgYW5kIGZsYXZvciwgZW5zdXJpbmcgYSBkZWxpZ2h0ZnVsIGN1bGluYXJ5IGV4cGVyaWVuY2UuCi0gKipIZWFsdGggYW5kIFNhZmV0eToqKiBDb21wbGlhbnQgd2l0aCBpbnRlcm5hdGlvbmFsIGZvb2Qgc2FmZXR5IHN0YW5kYXJkcywgcHJvdmlkaW5nIHNhZmUgYW5kIG51dHJpdGlvdXMgcHJvZHVjdHMuCgoqKkV4cGVyaWVuY2UgUXVhbGl0eSB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgd2hvbGVzb21lIGdvb2RuZXNzIG9mIHJvYXN0ZWQgZ3JhbSBzcGxpdCB3aXRob3V0IHNraW4gd2l0aCBWYXJuaSBFeHBvcnRzLiBXaGV0aGVyIHlvdSdyZSBsb29raW5nIHRvIGVuaGFuY2UgeW91ciBtZWFscyB3aXRoIG51dHJpdGlvdXMgcHVsc2VzIG9yIHNlZWtpbmcgYSBoZWFsdGh5IHNuYWNrIG9wdGlvbiwgb3VyIHByb2R1Y3RzIGFyZSBkZXNpZ25lZCB0byBtZWV0IHlvdXIgY3VsaW5hcnkgbmVlZHMuIENvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgcmFuZ2Ugb2YgbnV0cml0aW91cyBwcm9kdWN0cyBhbmQgcGxhY2UgeW91ciBvcmRlci4gRWxldmF0ZSB5b3VyIGRpc2hlcyB3aXRoIHRoZSBnb29kbmVzcyBvZiByb2FzdGVkIGdyYW0gc3BsaXQgd2l0aG91dCBza2luIGZyb20gVmFybmkgRXhwb3J0cyE=",
+          <div>
+            <h1><strong>Roasted Gram Split Without Skin: A Nutritious Pulse for Indian Cuisine</strong></h1>
+            <br />
+
+            <p>Roasted gram split without skin is a versatile legume commonly used in Indian cuisine, prized for its nutty flavor and nutritional benefits. This pulse is obtained by splitting and removing the skin of chickpeas, making it a popular ingredient in dishes like dal and curries. It serves as a rich source of fiber, protein, vitamins, and minerals, offering both flavor and health benefits.</p>
+            <br />
+
+            <h2><strong>Health Benefits</strong></h2>
+            <br />
+
+            <li><strong>Fat-Free and Sodium-Free:</strong> Naturally free of fats, saturated fats, and sodium, making it ideal for heart health.</li>
+            <li><strong>Cardiovascular Health:</strong> Helps lower the risk of heart disease and may reduce the risk of colon cancer.</li>
+            <li><strong>Blood Sugar Regulation:</strong> Low glycemic index (GI) helps maintain stable blood sugar levels, suitable for diabetics.</li>
+            <li><strong>Rich in Dietary Fiber:</strong> Contains 6 grams of dietary fiber per serving, promoting digestion and reducing the risk of heart disease.</li>
+            <li><strong>Nutrient-Rich:</strong> Excellent source of calcium, potassium, manganese, folate, protein, dietary fiber, copper, phosphorous, and iron.</li>
+
+            <br />
+
+            <h2><strong>Common Uses</strong></h2>
+            <br />
+
+            <li><strong>Protein-Rich Snack:</strong> Ideal as a protein-rich mid-meal snack, providing sustained energy.</li>
+            <li><strong>Ingredient in Chaats and Bhels:</strong> Adds crunch and flavor to popular Indian street foods like chaats and bhels.</li>
+            <li><strong>Tangy Chaat:</strong> Enhances salads and snacks when combined with onions, tomatoes, salt, and lemon juice.</li>
+
+            <br />
+
+            <h2><strong>Nutritional Elements</strong></h2>
+            <br />
+            <p>Chickpeas, the main ingredient in roasted gram split without skin, are packed with essential nutrients:</p>
+
+            <li><strong>Vitamins:</strong> Includes vitamins A, B1, B2, B3, C, D, E, K, folate, and pantothenic acid.</li>
+            <li><strong>Minerals:</strong> Contains calcium, iron, molybdenum, potassium, manganese, copper, zinc, and more.</li>
+            <li><strong>Other Nutrients:</strong> High in dietary fibers, carbohydrates, proteins, and moisture, essential for overall health.</li>
+
+            <br />
+
+            <h2><strong>Quality Assurance</strong></h2>
+            <br />
+
+            <li><strong>Premium Quality:</strong> Sourced from reliable suppliers and processed under strict hygiene standards to retain freshness and nutritional value.</li>
+            <li><strong>Packaging:</strong> Packaged to preserve crunchiness and flavor, ensuring a delightful culinary experience.</li>
+            <li><strong>Health and Safety:</strong> Compliant with international food safety standards, providing safe and nutritious products.</li>
+
+            <br />
+
+            <h2><strong>Experience Quality with Varni Exports</strong></h2>
+            <br />
+            <p>Explore the wholesome goodness of roasted gram split without skin with Varni Exports. Whether you're looking to enhance your meals with nutritious pulses or seeking a healthy snack option, our products are designed to meet your culinary needs. Contact us today to learn more about our range of nutritious products and place your order. Elevate your dishes with the goodness of roasted gram split without skin from Varni Exports!</p>
+          </div>
+        ,
       },
     ],
   },
@@ -3593,7 +6054,52 @@ export const catagories = [
         Loading: "15 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "KipTb3lhIENodW5rczogQSBOdXRyaXRpb3VzIEFkZGl0aW9uIHRvIFlvdXIgRGlldCoqCgoqKkludHJvZHVjdGlvbioqCgpTb3lhIGNodW5rcywgYWxzbyBrbm93biBhcyBzb3lhd2FkaSwgYXJlIGEgdmVyc2F0aWxlIHZlZ2V0YXJpYW4gcHJvdGVpbiBvcHRpb24gbWFkZSBmcm9tIGRlZmF0dGVkIHNveSBmbG91ci4gVGhleSBhcmUgcG9wdWxhciBpbiB2YXJpb3VzIGN1aXNpbmVzIGZvciB0aGVpciBoaWdoIHByb3RlaW4gY29udGVudCBhbmQgYWJpbGl0eSB0byBhYnNvcmIgZmxhdm9ycy4gSW4gTWFoYXJhc2h0cmlhbiBjdWlzaW5lLCBzb3lhd2FkaSBpcyBhIHRyYWRpdGlvbmFsIGRpc2ggZW5qb3llZCBmb3IgaXRzIHNwaWN5IGFuZCB0YW5neSBjdXJyeSBwcmVwYXJhdGlvbiwgb2Z0ZW4gc2VydmVkIHdpdGggY2hhcGF0aXMgb3Igc3RlYW1lZCByaWNlLiBIZXJl4oCZcyBhIGNsb3NlciBsb29rIGF0IHRoaXMgbnV0cml0aW91cyBpbmdyZWRpZW50IGFuZCBob3cgaXQncyBwcmVwYXJlZC4KCioqSW5ncmVkaWVudHMgYW5kIFByZXBhcmF0aW9uKioKClNveWEgY2h1bmtzIGFyZSBwcmVwYXJlZCB1c2luZyBhIGJsZW5kIG9mIHNwaWNlcyB0byBjcmVhdGUgYSBmbGF2b3JmdWwgY3Vycnk6Ci0gKipTcGljZXM6KiogVHlwaWNhbGx5IGluY2x1ZGVzIGNoaWxpIHBvd2RlciwgY29yaWFuZGVyIHBvd2RlciwgY3VtaW4gcG93ZGVyLCBhbmQgdHVybWVyaWMsIGFkZGluZyBkZXB0aCBhbmQgYXJvbWEgdG8gdGhlIGRpc2guCi0gKipDb29raW5nIFByb2Nlc3M6KiogVGhlIHNveWJlYW5zIGFyZSBzaW1tZXJlZCBpbiBhIHRoaWNrIGdyYXZ5IG1hZGUgZnJvbSBvbmlvbnMsIGdhcmxpYywgYW5kIHRvbWF0b2VzIHVudGlsIHRlbmRlciBhbmQgaW5mdXNlZCB3aXRoIHRoZSBzcGljZXMuCi0gKipHYXJuaXNoZXM6KiogRmluaXNoZWQgd2l0aCBmcmVzaCBjb3JpYW5kZXIgbGVhdmVzIGFuZCBncmF0ZWQgY29jb251dCwgZW5oYW5jaW5nIGJvdGggdGhlIGZsYXZvciBhbmQgdmlzdWFsIGFwcGVhbCBvZiB0aGUgZGlzaC4KCioqSGVhbHRoIEJlbmVmaXRzKioKClNveWEgY2h1bmtzIG9mZmVyIG51bWVyb3VzIGhlYWx0aCBiZW5lZml0cywgbWFraW5nIHRoZW0gYSBwb3B1bGFyIGNob2ljZSBmb3IgaGVhbHRoLWNvbnNjaW91cyBjb25zdW1lcnM6Ci0gKipIaWdoIFByb3RlaW4gQ29udGVudDoqKiBSaWNoIGluIHBsYW50LWJhc2VkIHByb3RlaW4sIGlkZWFsIGZvciB2ZWdldGFyaWFucyBhbmQgdGhvc2UgbG9va2luZyB0byByZWR1Y2UgbWVhdCBjb25zdW1wdGlvbi4KLSAqKkxvdyBpbiBGYXQ6KiogTmF0dXJhbGx5IGxvdyBpbiBzYXR1cmF0ZWQgZmF0cywgcHJvbW90aW5nIGhlYXJ0IGhlYWx0aCBhbmQgYWlkaW5nIGluIHdlaWdodCBtYW5hZ2VtZW50LgotICoqUmljaCBpbiBGaWJlcjoqKiBDb250YWlucyBkaWV0YXJ5IGZpYmVyIHRoYXQgc3VwcG9ydHMgZGlnZXN0aW9uIGFuZCBoZWxwcyByZWd1bGF0ZSBibG9vZCBzdWdhciBsZXZlbHMuCi0gKipFc3NlbnRpYWwgTnV0cmllbnRzOioqIFByb3ZpZGVzIGVzc2VudGlhbCB2aXRhbWlucyBhbmQgbWluZXJhbHMsIGluY2x1ZGluZyBpcm9uLCBjYWxjaXVtLCBhbmQgQiB2aXRhbWlucywgbmVjZXNzYXJ5IGZvciBvdmVyYWxsIHdlbGwtYmVpbmcuCgoqKlZlcnNhdGlsZSBVc2UgaW4gQ29va2luZyoqCgpTb3lhIGNodW5rcyBjYW4gYmUgdXNlZCBpbiB2YXJpb3VzIGN1bGluYXJ5IGFwcGxpY2F0aW9uczoKLSAqKkN1cnJpZXM6KiogSW5jb3Jwb3JhdGUgaW50byBzcGljeSBjdXJyaWVzIGxpa2Ugc295YXdhZGksIGFic29yYmluZyB0aGUgZmxhdm9ycyBvZiB0aGUgc2F1Y2UgZm9yIGEgc2F0aXNmeWluZyBtZWFsLgotICoqU3Rpci1GcmllczoqKiBBZGQgdG8gc3Rpci1mcmllcyB3aXRoIHZlZ2V0YWJsZXMgZm9yIGEgbnV0cml0aW91cyBhbmQgcHJvdGVpbi1wYWNrZWQgZGlzaC4KLSAqKkJpcnlhbmkgYW5kIFB1bGFvOioqIEVuaGFuY2UgcmljZSBkaXNoZXMgYnkgYWRkaW5nIHByZS1zb2FrZWQgc295YSBjaHVua3MgZHVyaW5nIGNvb2tpbmcgZm9yIGFkZGVkIHRleHR1cmUgYW5kIGZsYXZvci4KLSAqKlNuYWNrczoqKiBVc2UgaW4gc25hY2tzIGxpa2Uga2ViYWJzIG9yIGN1dGxldHMgZm9yIGEgcHJvdGVpbi1yaWNoIGFwcGV0aXplciBvcHRpb24uCgoqKlF1YWxpdHkgYW5kIFNhZmV0eSoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBlbnN1cmUgdGhhdCBvdXIgc295YSBjaHVua3MgbWVldCBoaWdoLXF1YWxpdHkgc3RhbmRhcmRzOgotICoqU291cmNlZCBmcm9tIFRydXN0ZWQgU3VwcGxpZXJzOioqIFByb2N1cmVkIGZyb20gcmVsaWFibGUgc291cmNlcyB0byBtYWludGFpbiBmcmVzaG5lc3MgYW5kIG51dHJpdGlvbmFsIHZhbHVlLgotICoqUHJvY2Vzc2VkIHdpdGggQ2FyZToqKiBIYW5kbGVkIGFuZCBwcm9jZXNzZWQgdW5kZXIgc3RyaWN0IGh5Z2llbmUgcHJhY3RpY2VzIHRvIGVuc3VyZSBmb29kIHNhZmV0eS4KLSAqKlBhY2thZ2VkIGZvciBGcmVzaG5lc3M6KiogUGFja2FnZWQgdG8gcmV0YWluIHRleHR1cmUgYW5kIGZsYXZvciwgcHJlc2VydmluZyB0aGUgcXVhbGl0eSBvZiB0aGUgcHJvZHVjdC4KCioqRXhwZXJpZW5jZSBRdWFsaXR5IHdpdGggVmFybmkgRXhwb3J0cyoqCgpFeHBsb3JlIHRoZSBudXRyaXRpb25hbCBiZW5lZml0cyBhbmQgY3VsaW5hcnkgdmVyc2F0aWxpdHkgb2Ygc295YSBjaHVua3Mgd2l0aCBWYXJuaSBFeHBvcnRzLiBXaGV0aGVyIHlvdeKAmXJlIHByZXBhcmluZyB0cmFkaXRpb25hbCBNYWhhcmFzaHRyaWFuIGRpc2hlcyBsaWtlIHNveWF3YWRpIG9yIGV4cGVyaW1lbnRpbmcgd2l0aCBnbG9iYWwgcmVjaXBlcywgb3VyIHNveWEgY2h1bmtzIHByb21pc2UgdG8gZWxldmF0ZSB5b3VyIGNvb2tpbmcgZXhwZXJpZW5jZS4gQ29udGFjdCB1cyB0b2RheSB0byBkaXNjb3ZlciBtb3JlIGFib3V0IG91ciByYW5nZSBvZiBudXRyaXRpb3VzIHByb2R1Y3RzIGFuZCBwbGFjZSB5b3VyIG9yZGVyLiBFbWJyYWNlIGEgaGVhbHRoaWVyIGxpZmVzdHlsZSB3aXRoIHRoZSBnb29kbmVzcyBvZiBzb3lhIGNodW5rcyBmcm9tIFZhcm5pIEV4cG9ydHMhCgo=",
+          <div>
+            <h1><strong>Soya Chunks: A Nutritious Addition to Your Diet</strong></h1>
+            <br />
+
+            <p>Soya chunks, also known as soyawadi, are a versatile vegetarian protein option made from defatted soy flour. They are popular in various cuisines for their high protein content and ability to absorb flavors. In Maharashtrian cuisine, soyawadi is a traditional dish enjoyed for its spicy and tangy curry preparation, often served with chapatis or steamed rice. Here’s a closer look at this nutritious ingredient and how it's prepared.</p>
+            <br />
+
+            <h2><strong>Ingredients and Preparation</strong></h2>
+            <br />
+            <p>Soya chunks are prepared using a blend of spices to create a flavorful curry:</p>
+            <li><strong>Spices:</strong> Typically includes chili powder, coriander powder, cumin powder, and turmeric, adding depth and aroma to the dish.</li>
+            <li><strong>Cooking Process:</strong> The soybeans are simmered in a thick gravy made from onions, garlic, and tomatoes until tender and infused with the spices.</li>
+            <li><strong>Garnishes:</strong> Finished with fresh coriander leaves and grated coconut, enhancing both the flavor and visual appeal of the dish.</li>
+            <br />
+
+            <h2><strong>Health Benefits</strong></h2>
+            <br />
+            <p>Soya chunks offer numerous health benefits, making them a popular choice for health-conscious consumers:</p>
+            <li><strong>High Protein Content:</strong> Rich in plant-based protein, ideal for vegetarians and those looking to reduce meat consumption.</li>
+            <li><strong>Low in Fat:</strong> Naturally low in saturated fats, promoting heart health and aiding in weight management.</li>
+            <li><strong>Rich in Fiber:</strong> Contains dietary fiber that supports digestion and helps regulate blood sugar levels.</li>
+            <li><strong>Essential Nutrients:</strong> Provides essential vitamins and minerals, including iron, calcium, and B vitamins, necessary for overall well-being.</li>
+            <br />
+
+            <h2><strong>Versatile Use in Cooking</strong></h2>
+            <br />
+            <p>Soya chunks can be used in various culinary applications:</p>
+            <li><strong>Curries:</strong> Incorporate into spicy curries like soyawadi, absorbing the flavors of the sauce for a satisfying meal.</li>
+            <li><strong>Stir-Fries:</strong> Add to stir-fries with vegetables for a nutritious and protein-packed dish.</li>
+            <li><strong>Biryani and Pulao:</strong> Enhance rice dishes by adding pre-soaked soya chunks during cooking for added texture and flavor.</li>
+            <li><strong>Snacks:</strong> Use in snacks like kebabs or cutlets for a protein-rich appetizer option.</li>
+            <br />
+
+            <h2><strong>Quality and Safety</strong></h2>
+            <br />
+            <p>At Varni Exports, we ensure that our soya chunks meet high-quality standards:</p>
+            <li><strong>Sourced from Trusted Suppliers:</strong> Procured from reliable sources to maintain freshness and nutritional value.</li>
+            <li><strong>Processed with Care:</strong> Handled and processed under strict hygiene practices to ensure food safety.</li>
+            <li><strong>Packaged for Freshness:</strong> Packaged to retain texture and flavor, preserving the quality of the product.</li>
+            <br />
+
+            <h2><strong>Experience Quality with Varni Exports</strong></h2>
+            <br />
+            <p>Explore the nutritional benefits and culinary versatility of soya chunks with Varni Exports. Whether you’re preparing traditional Maharashtrian dishes like soyawadi or experimenting with global recipes, our soya chunks promise to elevate your cooking experience. Contact us today to discover more about our range of nutritious products and place your order. Embrace a healthier lifestyle with the goodness of soya chunks from Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -3609,7 +6115,55 @@ export const catagories = [
         Loading: "15 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "KipGcnl1bXM6IEEgQ3Jpc3B5IERlbGlnaHQgZnJvbSBJbmRpYSoqCgoqKkludHJvZHVjdGlvbioqCgpGcnl1bXMsIGFsc28ga25vd24gYXMgZmFyLWZhciBvciBib2JieSwgYXJlIGEgcG9wdWxhciBJbmRpYW4gc25hY2sgbWFkZSBwcmltYXJpbHkgZnJvbSBwb3RhdG8gc3RhcmNoIGFuZCB0aW50ZWQgc2Fnby4gVGhlc2UgY3Jpc3B5IGRlbGlnaHRzIHB1ZmYgdXAgaW5zdGFudGx5IHdoZW4gZGVlcC1mcmllZCwgbWFraW5nIHRoZW0gYSBmYXZvcml0ZSBzbmFjayBhY3Jvc3MgSW5kaWEuIFRoZXkgYXJlIGVuam95ZWQgZWl0aGVyIG9uIHRoZWlyIG93biBhcyBhIHNuYWNrIG9yIHNlcnZlZCBhbG9uZ3NpZGUgbWVhbHMsIHNpbWlsYXIgdG8gcGFwYWR1bXMuCgoqKkluZ3JlZGllbnRzKioKCkZyeXVtcyBhcmUgdHlwaWNhbGx5IG1hZGUgZnJvbSBhIGJsZW5kIG9mIGluZ3JlZGllbnRzIHRvIGFjaGlldmUgdGhlaXIgdW5pcXVlIHRleHR1cmUgYW5kIGZsYXZvcjoKLSAqKlBvdGF0byBTdGFyY2g6KiogUHJvdmlkZXMgdGhlIGJhc2UgZm9yIHRoZSBmcnl1bXMsIGNvbnRyaWJ1dGluZyB0byB0aGVpciBjcmlzcGluZXNzIHdoZW4gZnJpZWQuCi0gKipUaW50ZWQgU2FnbzoqKiBBZGRzIHRleHR1cmUgYW5kIGhlbHBzIGluIHRoZSBwdWZmaW5nIHByb2Nlc3Mgd2hlbiBleHBvc2VkIHRvIGhlYXQuCi0gKipPdGhlciBJbmdyZWRpZW50czoqKiBNYXkgaW5jbHVkZSB0YXBpb2NhIGFuZCB3aGVhdCBmbG91ciB0byBlbmhhbmNlIHRoZSBjb25zaXN0ZW5jeSBhbmQgdGFzdGUuCgoqKlByZXBhcmF0aW9uIGFuZCBDb29raW5nKioKClRoZSBwcmVwYXJhdGlvbiBvZiBmcnl1bXMgaW52b2x2ZXMgYSBmZXcga2V5IHN0ZXBzOgotICoqRm9ybWF0aW9uOioqIFRoZSBkb3VnaCBpcyBwcmVwYXJlZCB1c2luZyBwb3RhdG8gc3RhcmNoLCBzYWdvLCBhbmQgb3RoZXIgaW5ncmVkaWVudHMuIEl0J3MgdGhlbiBzaGFwZWQgaW50byBzbWFsbCwgdGhpbiBkaXNjcyBvciBzdGlja3MuCi0gKipEcnlpbmc6KiogVGhlIHNoYXBlZCBmcnl1bXMgYXJlIGFsbG93ZWQgdG8gZHJ5IHRob3JvdWdobHkgdG8gcmVtb3ZlIG1vaXN0dXJlLCBlbnN1cmluZyB0aGV5IHB1ZmYgdXAgcHJvcGVybHkgd2hlbiBmcmllZC4KLSAqKkZyeWluZzoqKiBXaGVuIGRyb3BwZWQgaW50byBob3Qgb2lsLCBmcnl1bXMgcmFwaWRseSBwdWZmIHVwLCBmb3JtaW5nIGxpZ2h0LCBjcmlzcHkgc25hY2tzIHJlYWR5IHRvIGJlIGVuam95ZWQuCgoqKkN1bGluYXJ5IFVzZXMqKgoKRnJ5dW1zIGFyZSB2ZXJzYXRpbGUgYW5kIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKlNuYWNrOioqIFRoZXkgYXJlIGNvbW1vbmx5IGVhdGVuIGFzIGEgc3RhbmRhbG9uZSBzbmFjaywgb2Z0ZW4gc2Vhc29uZWQgd2l0aCBzYWx0IG9yIHNwaWNlcy4KLSAqKkFjY29tcGFuaW1lbnQ6KiogTGlrZSBwYXBhZHVtcywgZnJ5dW1zIGFyZSBzZXJ2ZWQgYWxvbmdzaWRlIG1lYWxzIHRvIGFkZCBhIGNydW5jaHkgZWxlbWVudC4KLSAqKkNyZWF0aXZlIFVzZXM6KiogVGhleSBjYW4gYmUgdXNlZCBjcmVhdGl2ZWx5IGluIGRpc2hlcyBsaWtlIGNoYWF0cyBvciBhcyB0b3BwaW5ncyBmb3Igc2FsYWRzIHRvIGFkZCB0ZXh0dXJlIGFuZCBmbGF2b3IuCgoqKlBvcHVsYXIgVmFyaWV0aWVzKioKCkZyeXVtcyBjb21lIGluIGEgdmFyaWV0eSBvZiBzaGFwZXMgYW5kIHNpemVzLCBvZmZlcmluZyBhIHJhbmdlIG9mIHRleHR1cmVzIGFuZCBjcnVuY2hpbmVzcy4gU29tZSBjb21tb24gc2hhcGVzIGluY2x1ZGUgZGlzY3MsIHN0aWNrcywgYW5kIGV2ZW4gaW50cmljYXRlIGRlc2lnbnMgdGhhdCBleHBhbmQgd2hlbiBmcmllZC4KCioqUXVhbGl0eSBhbmQgU2FmZXR5KioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIHByaW9yaXRpemUgcXVhbGl0eSBhbmQgc2FmZXR5IGluIG91ciBmcnl1bXM6Ci0gKipIaWdoLVF1YWxpdHkgSW5ncmVkaWVudHM6KiogV2Ugc291cmNlIHRoZSBmaW5lc3QgcG90YXRvIHN0YXJjaCwgc2FnbywgYW5kIG90aGVyIGNvbXBvbmVudHMgdG8gZW5zdXJlIHN1cGVyaW9yIHRhc3RlIGFuZCB0ZXh0dXJlLgotICoqSHlnaWVuaWMgUHJvY2Vzc2luZzoqKiBPdXIgZnJ5dW1zIGFyZSBwcm9jZXNzZWQgdW5kZXIgc3RyaWN0IGh5Z2llbmUgc3RhbmRhcmRzIHRvIG1haW50YWluIGZyZXNobmVzcyBhbmQgZm9vZCBzYWZldHkuCi0gKipQYWNrYWdlZCBmb3IgRnJlc2huZXNzOioqIFBhY2thZ2VkIHRvIHJldGFpbiBjcmlzcGluZXNzIGFuZCBmbGF2b3IsIGVuc3VyaW5nIG91ciBjdXN0b21lcnMgcmVjZWl2ZSB0aGUgYmVzdCBxdWFsaXR5IHByb2R1Y3QuCgoqKkRpc2NvdmVyIEZyeXVtcyB3aXRoIFZhcm5pIEV4cG9ydHMqKgoKRXhwbG9yZSB0aGUgY3Jpc3B5IGdvb2RuZXNzIG9mIGZyeXVtcyB3aXRoIFZhcm5pIEV4cG9ydHMuIFdoZXRoZXIgeW91J3JlIGxvb2tpbmcgdG8gZW5qb3kgdGhlbSBhcyBhIHNuYWNrIG9yIGluY29ycG9yYXRlIHRoZW0gaW50byB5b3VyIGN1bGluYXJ5IGNyZWF0aW9ucywgb3VyIGZyeXVtcyBwcm9taXNlIHRvIGRlbGlnaHQgeW91ciB0YXN0ZSBidWRzLiBDb250YWN0IHVzIHRvZGF5IHRvIGxlYXJuIG1vcmUgYWJvdXQgb3VyIHJhbmdlIG9mIHNuYWNrcyBhbmQgcGxhY2UgeW91ciBvcmRlci4gRW1icmFjZSB0aGUgYXV0aGVudGljIGZsYXZvcnMgb2YgSW5kaWEgd2l0aCBWYXJuaSBFeHBvcnRzJyBwcmVtaXVtIGZyeXVtcyEKCg==",
+          <div>
+            <h1><strong>Fryums: A Crispy Delight from India</strong></h1>
+            <br />
+
+            <p>Fryums, also known as far-far or bobby, are a popular Indian snack made primarily from potato starch and tinted sago. These crispy delights puff up instantly when deep-fried, making them a favorite snack across India. They are enjoyed either on their own as a snack or served alongside meals, similar to papadums.</p>
+            <br />
+
+            <h2><strong>Ingredients</strong></h2>
+            <br />
+            <p>Fryums are typically made from a blend of ingredients to achieve their unique texture and flavor:</p>
+            <li><strong>Potato Starch:</strong> Provides the base for the fryums, contributing to their crispiness when fried.</li>
+            <li><strong>Tinted Sago:</strong> Adds texture and helps in the puffing process when exposed to heat.</li>
+            <li><strong>Other Ingredients:</strong> May include tapioca and wheat flour to enhance the consistency and taste.</li>
+            <br />
+
+            <h2><strong>Preparation and Cooking</strong></h2>
+            <br />
+            <p>The preparation of fryums involves a few key steps:</p>
+            <li><strong>Formation:</strong> The dough is prepared using potato starch, sago, and other ingredients. It's then shaped into small, thin discs or sticks.</li>
+            <li><strong>Drying:</strong> The shaped fryums are allowed to dry thoroughly to remove moisture, ensuring they puff up properly when fried.</li>
+            <li><strong>Frying:</strong> When dropped into hot oil, fryums rapidly puff up, forming light, crispy snacks ready to be enjoyed.</li>
+            <br />
+
+            <h2><strong>Culinary Uses</strong></h2>
+            <br />
+            <p>Fryums are versatile and can be enjoyed in various ways:</p>
+            <li><strong>Snack:</strong> They are commonly eaten as a standalone snack, often seasoned with salt or spices.</li>
+            <li><strong>Accompaniment:</strong> Like papadums, fryums are served alongside meals to add a crunchy element.</li>
+            <li><strong>Creative Uses:</strong> They can be used creatively in dishes like chaats or as toppings for salads to add texture and flavor.</li>
+            <br />
+
+            <h2><strong>Popular Varieties</strong></h2>
+            <br />
+            <p>Fryums come in a variety of shapes and sizes, offering a range of textures and crunchiness. Some common shapes include discs, sticks, and even intricate designs that expand when fried.</p>
+            <br />
+
+            <h2><strong>Quality and Safety</strong></h2>
+            <br />
+            <p>At Varni Exports, we prioritize quality and safety in our fryums:</p>
+            <li><strong>High-Quality Ingredients:</strong> We source the finest potato starch, sago, and other components to ensure superior taste and texture.</li>
+            <li><strong>Hygienic Processing:</strong> Our fryums are processed under strict hygiene standards to maintain freshness and food safety.</li>
+            <li><strong>Packaged for Freshness:</strong> Packaged to retain crispiness and flavor, ensuring our customers receive the best quality product.</li>
+            <br />
+
+            <h2><strong>Discover Fryums with Varni Exports</strong></h2>
+            <br />
+            <p>Explore the crispy goodness of fryums with Varni Exports. Whether you're looking to enjoy them as a snack or incorporate them into your culinary creations, our fryums promise to delight your taste buds. Contact us today to learn more about our range of snacks and place your order. Embrace the authentic flavors of India with Varni Exports' premium fryums!</p>
+          </div>
+        ,
       },
 
       {
@@ -3625,7 +6179,55 @@ export const catagories = [
         Loading: "15 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "KipQb2hhIFRoaW46IEEgVHJhZGl0aW9uYWwgSW5kaWFuIEJyZWFrZmFzdCBEZWxpZ2h0KioKCioqSW50cm9kdWN0aW9uKioKClBvaGEgVGhpbiwgYWxzbyBrbm93biBzaW1wbHkgYXMgUG9oYSwgaXMgYSBiZWxvdmVkIHRyYWRpdGlvbmFsIEluZGlhbiBkaXNoIG1hZGUgZnJvbSBmbGF0dGVuZWQgcmljZS4gSXQgaXMgYSBwb3B1bGFyIGJyZWFrZmFzdCBjaG9pY2UgYWNyb3NzIEluZGlhIGFuZCBpcyBjaGVyaXNoZWQgZm9yIGl0cyBzaW1wbGljaXR5LCBsaWdodG5lc3MsIGFuZCB2ZXJzYXRpbGl0eS4gUG9oYSBjYW4gYmUgZW5qb3llZCB3aXRoIGEgdmFyaWV0eSBvZiBzYXZvcnkgYWNjb21wYW5pbWVudHMgYW5kIGlzIG9mdGVuIHNlcnZlZCB3aXRoIHRlYSBvciBjb2ZmZWUuCgoqKkluZ3JlZGllbnRzKioKClRoZSBtYWluIGluZ3JlZGllbnRzIHVzZWQgaW4gcHJlcGFyaW5nIFBvaGEgVGhpbiBpbmNsdWRlOgotICoqRmxhdHRlbmVkIFJpY2UgKFBvaGEpOioqIFRoaXMgaXMgdGhlIHByaW1hcnkgaW5ncmVkaWVudCwgbWFkZSBmcm9tIHJpY2UgdGhhdCBoYXMgYmVlbiBwYXJib2lsZWQsIGZsYXR0ZW5lZCwgYW5kIGRyaWVkIHRvIGZvcm0gdGhpbiBmbGFrZXMuCi0gKipPaWw6KiogVXNlZCBmb3IgY29va2luZyB0aGUgZGlzaC4KLSAqKk9uaW9uczoqKiBBZGRzIGZsYXZvciBhbmQgdGV4dHVyZS4KLSAqKlBvdGF0b2VzOioqIE9mdGVuIGRpY2VkIGFuZCBjb29rZWQgYWxvbmcgd2l0aCB0aGUgUG9oYS4KLSAqKlNwaWNlczoqKiBTdWNoIGFzIGN1bWluIHNlZWRzLCBtdXN0YXJkIHNlZWRzLCB0dXJtZXJpYywgYW5kIGN1cnJ5IGxlYXZlcywgd2hpY2ggaW1wYXJ0IGFyb21hdGljIGZsYXZvcnMgdG8gdGhlIGRpc2guCi0gKipPcHRpb25hbCBJbmdyZWRpZW50czoqKiBEZXBlbmRpbmcgb24gcmVnaW9uYWwgdmFyaWF0aW9ucyBhbmQgcGVyc29uYWwgcHJlZmVyZW5jZXMsIG90aGVyIGluZ3JlZGllbnRzIGxpa2UgcGVhbnV0cywgY29yaWFuZGVyIGxlYXZlcywgbGVtb24ganVpY2UsIGFuZCBncmF0ZWQgY29jb251dCBtYXkgYWxzbyBiZSBhZGRlZC4KCioqUHJlcGFyYXRpb24qKgoKVGhlIHByZXBhcmF0aW9uIG9mIFBvaGEgaW52b2x2ZXMgYSBmZXcgc2ltcGxlIHN0ZXBzOgoxLiAqKldhc2hpbmcgYW5kIFNvYWtpbmc6KiogVGhlIGZsYXR0ZW5lZCByaWNlIChQb2hhKSBpcyBnZW50bHkgd2FzaGVkIHRvIHJlbW92ZSBhbnkgaW1wdXJpdGllcyBhbmQgdGhlbiBzb2FrZWQgYnJpZWZseSBpbiB3YXRlciB0byBzb2Z0ZW4uIEl0IGlzIGNydWNpYWwgbm90IHRvIHNvYWsgaXQgZm9yIHRvbyBsb25nIHRvIGF2b2lkIG1ha2luZyBpdCBtdXNoeS4KMi4gKipEcmFpbmluZzoqKiBBZnRlciBzb2FraW5nLCB0aGUgUG9oYSBpcyBkcmFpbmVkIHRob3JvdWdobHkgdG8gcmVtb3ZlIGV4Y2VzcyB3YXRlci4KMy4gKipDb29raW5nOioqIEluIGEgcGFuLCBvaWwgaXMgaGVhdGVkIGFuZCBtdXN0YXJkIHNlZWRzIGFuZCBjdW1pbiBzZWVkcyBhcmUgdHlwaWNhbGx5IHNwbHV0dGVyZWQgdG8gcmVsZWFzZSB0aGVpciBmbGF2b3JzLiBDaG9wcGVkIG9uaW9ucywgZGljZWQgcG90YXRvZXMsIGFuZCBvdGhlciBzcGljZXMgYXJlIHRoZW4gYWRkZWQgYW5kIHNhdXTDqWVkIHVudGlsIHRoZSBwb3RhdG9lcyBhcmUgY29va2VkIHRocm91Z2guCjQuICoqQWRkaW5nIFBvaGE6KiogVGhlIGRyYWluZWQgUG9oYSBpcyBhZGRlZCB0byB0aGUgcGFuIGFuZCBtaXhlZCBnZW50bHkgd2l0aCB0aGUgc3BpY2VzIGFuZCB2ZWdldGFibGVzLiBJdCBpcyBjb29rZWQgZm9yIGEgZmV3IG1pbnV0ZXMgdW50aWwgaGVhdGVkIHRocm91Z2ggYW5kIHdlbGwgY29tYmluZWQuCjUuICoqRmluYWwgVG91Y2hlczoqKiBGcmVzaCBpbmdyZWRpZW50cyBsaWtlIGNob3BwZWQgY29yaWFuZGVyIGxlYXZlcywgcm9hc3RlZCBwZWFudXRzLCBhbmQgYSBkYXNoIG9mIGxlbW9uIGp1aWNlIG1heSBiZSBhZGRlZCBhdCB0aGUgZW5kIGZvciBhZGRlZCBmbGF2b3IgYW5kIHRleHR1cmUuCgoqKkN1bGluYXJ5IFVzZXMqKgoKUG9oYSBUaGluIGNhbiBiZSBlbmpveWVkIGluIHZhcmlvdXMgd2F5czoKLSAqKkJyZWFrZmFzdCBEaXNoOioqIEl0IGlzIGNvbW1vbmx5IHNlcnZlZCBhcyBhIGxpZ2h0IGFuZCBudXRyaXRpb3VzIGJyZWFrZmFzdCBkaXNoLgotICoqU25hY2s6KiogUG9oYSBhbHNvIG1ha2VzIGZvciBhIHNhdGlzZnlpbmcgc25hY2ssIGVzcGVjaWFsbHkgd2hlbiBwYWlyZWQgd2l0aCBhIGhvdCBiZXZlcmFnZSBsaWtlIHRlYSBvciBjb2ZmZWUuCi0gKipNYWluIENvdXJzZToqKiBEZXBlbmRpbmcgb24gdGhlIGFjY29tcGFuaW1lbnRzIGFuZCBzaWRlIGRpc2hlcywgUG9oYSBjYW4gYWxzbyBiZSBlbmpveWVkIGFzIGEgbWFpbiBjb3Vyc2UgbWVhbC4KCioqSGVhbHRoIEJlbmVmaXRzKioKClBvaGEgVGhpbiBvZmZlcnMgc2V2ZXJhbCBoZWFsdGggYmVuZWZpdHM6Ci0gKipOdXRyaWVudC1SaWNoOioqIEl0IGlzIHJpY2ggaW4gY2FyYm9oeWRyYXRlcywgdml0YW1pbnMsIGFuZCBtaW5lcmFscywgbWFraW5nIGl0IGEgbnV0cml0aW91cyBicmVha2Zhc3Qgb3B0aW9uLgotICoqTGlnaHQgYW5kIEVhc2lseSBEaWdlc3RpYmxlOioqIFRoZSBmbGF0dGVuZWQgcmljZSBpcyBsaWdodCBvbiB0aGUgc3RvbWFjaCBhbmQgZWFzeSB0byBkaWdlc3QsIHN1aXRhYmxlIGZvciBtb3JuaW5nIGNvbnN1bXB0aW9uLgotICoqVmVyc2F0aWxlOioqIEl0IGNhbiBiZSBjdXN0b21pemVkIHdpdGggdmFyaW91cyBpbmdyZWRpZW50cyB0byBzdWl0IGluZGl2aWR1YWwgdGFzdGVzIGFuZCBkaWV0YXJ5IHByZWZlcmVuY2VzLgoKKipFbmpveSBQb2hhIFRoaW4gd2l0aCBWYXJuaSBFeHBvcnRzKioKCkF0IFZhcm5pIEV4cG9ydHMsIHdlIGJyaW5nIHlvdSB0aGUgZmluZXN0IHF1YWxpdHkgUG9oYSBUaGluLCBwZXJmZWN0IGZvciBwcmVwYXJpbmcgdHJhZGl0aW9uYWwgSW5kaWFuIGJyZWFrZmFzdHMgb3Igc25hY2tzLiBPdXIgUG9oYSBUaGluIGlzIGNhcmVmdWxseSBzb3VyY2VkIGFuZCBwcm9jZXNzZWQgdG8gZW5zdXJlIGZyZXNobmVzcyBhbmQgYXV0aGVudGljaXR5LiBDb250YWN0IHVzIHRvZGF5IHRvIGV4cGxvcmUgb3VyIHJhbmdlIG9mIHByb2R1Y3RzIGFuZCBleHBlcmllbmNlIHRoZSB0cnVlIGZsYXZvcnMgb2YgSW5kaWEgd2l0aCBWYXJuaSBFeHBvcnRzIQoK",
+          <div>
+            <h1><strong>Poha Thin: A Traditional Indian Breakfast Delight</strong></h1>
+            <br />
+
+            <p>Poha Thin, also known simply as Poha, is a beloved traditional Indian dish made from flattened rice. It is a popular breakfast choice across India and is cherished for its simplicity, lightness, and versatility. Poha can be enjoyed with a variety of savory accompaniments and is often served with tea or coffee.</p>
+            <br />
+
+            <h2><strong>Ingredients</strong></h2>
+            <br />
+            <p>The main ingredients used in preparing Poha Thin include:</p>
+            <li><strong>Flattened Rice (Poha):</strong> This is the primary ingredient, made from rice that has been parboiled, flattened, and dried to form thin flakes.</li>
+            <li><strong>Oil:</strong> Used for cooking the dish.</li>
+            <li><strong>Onions:</strong> Adds flavor and texture.</li>
+            <li><strong>Potatoes:</strong> Often diced and cooked along with the Poha.</li>
+            <li><strong>Spices:</strong> Such as cumin seeds, mustard seeds, turmeric, and curry leaves, which impart aromatic flavors to the dish.</li>
+            <li><strong>Optional Ingredients:</strong> Depending on regional variations and personal preferences, other ingredients like peanuts, coriander leaves, lemon juice, and grated coconut may also be added.</li>
+            <br />
+
+            <h2><strong>Preparation</strong></h2>
+            <br />
+            <p>The preparation of Poha involves a few simple steps:</p>
+            <li><strong>Washing and Soaking:</strong> The flattened rice (Poha) is gently washed to remove any impurities and then soaked briefly in water to soften. It is crucial not to soak it for too long to avoid making it mushy.</li>
+            <li><strong>Draining:</strong> After soaking, the Poha is drained thoroughly to remove excess water.</li>
+            <li><strong>Cooking:</strong> In a pan, oil is heated and mustard seeds and cumin seeds are typically spluttered to release their flavors. Chopped onions, diced potatoes, and other spices are then added and sautéed until the potatoes are cooked through.</li>
+            <li><strong>Adding Poha:</strong> The drained Poha is added to the pan and mixed gently with the spices and vegetables. It is cooked for a few minutes until heated through and well combined.</li>
+            <li><strong>Final Touches:</strong> Fresh ingredients like chopped coriander leaves, roasted peanuts, and a dash of lemon juice may be added at the end for added flavor and texture.</li>
+            <br />
+
+            <h2><strong>Culinary Uses</strong></h2>
+            <br />
+            <p>Poha Thin can be enjoyed in various ways:</p>
+            <li><strong>Breakfast Dish:</strong> It is commonly served as a light and nutritious breakfast dish.</li>
+            <li><strong>Snack:</strong> Poha also makes for a satisfying snack, especially when paired with a hot beverage like tea or coffee.</li>
+            <li><strong>Main Course:</strong> Depending on the accompaniments and side dishes, Poha can also be enjoyed as a main course meal.</li>
+            <br />
+
+            <h2><strong>Health Benefits</strong></h2>
+            <br />
+            <p>Poha Thin offers several health benefits:</p>
+            <li><strong>Nutrient-Rich:</strong> It is rich in carbohydrates, vitamins, and minerals, making it a nutritious breakfast option.</li>
+            <li><strong>Light and Easily Digestible:</strong> The flattened rice is light on the stomach and easy to digest, suitable for morning consumption.</li>
+            <li><strong>Versatile:</strong> It can be customized with various ingredients to suit individual tastes and dietary preferences.</li>
+            <br />
+
+            <h2><strong>Enjoy Poha Thin with Varni Exports</strong></h2>
+            <br />
+            <p>At Varni Exports, we bring you the finest quality Poha Thin, perfect for preparing traditional Indian breakfasts or snacks. Our Poha Thin is carefully sourced and processed to ensure freshness and authenticity. Contact us today to explore our range of products and experience the true flavors of India with Varni Exports!</p>
+          </div>
+        ,
       },
 
       {
@@ -3641,7 +6243,55 @@ export const catagories = [
         Loading: "15 to 30 Tons",
         Certification: "FSSAI Certified",
         description:
-          "KipQb2hhIFRoaWNrOiBBIEhlYXJ0eSBWZXJzaW9uIG9mIFRyYWRpdGlvbmFsIEluZGlhbiBGbGF0dGVuZWQgUmljZSoqCgoqKkludHJvZHVjdGlvbioqCgpQb2hhIFRoaWNrLCBhbHNvIGtub3duIGFzIFRoaWNrIFBvaGEsIGlzIGEgZGVsaWdodGZ1bCBhbmQgaGVhcnR5IHZhcmlhdGlvbiBvZiB0aGUgdHJhZGl0aW9uYWwgSW5kaWFuIGRpc2ggbWFkZSBmcm9tIGZsYXR0ZW5lZCByaWNlLiBJdCBpcyBhIGJlbG92ZWQgYnJlYWtmYXN0IG9wdGlvbiBhY3Jvc3MgSW5kaWEsIGFwcHJlY2lhdGVkIGZvciBpdHMgc2ltcGxpY2l0eSwgbGlnaHRuZXNzLCBhbmQgdmVyc2F0aWxpdHkuIFBvaGEgVGhpY2sgY2FuIGJlIGVuam95ZWQgd2l0aCBhIHZhcmlldHkgb2Ygc2F2b3J5IGFjY29tcGFuaW1lbnRzIGFuZCBpcyBvZnRlbiBzZXJ2ZWQgYWxvbmdzaWRlIHRlYSBvciBjb2ZmZWUuCgoqKkluZ3JlZGllbnRzKioKClRoZSBtYWluIGluZ3JlZGllbnRzIHVzZWQgaW4gcHJlcGFyaW5nIFBvaGEgVGhpY2sgaW5jbHVkZToKLSAqKkZsYXR0ZW5lZCBSaWNlIChQb2hhKToqKiBUaGUgY29yZSBpbmdyZWRpZW50LCBtYWRlIGJ5IHBhcmJvaWxpbmcgcmljZSwgZmxhdHRlbmluZyBpdCwgYW5kIHRoZW4gZHJ5aW5nIGl0IGludG8gZmxha2VzLgotICoqT2lsOioqIFVzZWQgZm9yIGNvb2tpbmcgdGhlIGRpc2guCi0gKipPbmlvbnM6KiogQWRkcyBmbGF2b3IgYW5kIHRleHR1cmUuCi0gKipQb3RhdG9lczoqKiBPZnRlbiBkaWNlZCBhbmQgY29va2VkIGFsb25nIHdpdGggdGhlIFBvaGEuCi0gKipTcGljZXM6KiogU3VjaCBhcyBjdW1pbiBzZWVkcywgbXVzdGFyZCBzZWVkcywgdHVybWVyaWMsIGFuZCBjdXJyeSBsZWF2ZXMsIHdoaWNoIHByb3ZpZGUgYXJvbWF0aWMgZmxhdm9ycyB0byB0aGUgZGlzaC4KLSAqKk9wdGlvbmFsIEluZ3JlZGllbnRzOioqIERlcGVuZGluZyBvbiByZWdpb25hbCBwcmVmZXJlbmNlcywgYWRkaXRpb25hbCBpbmdyZWRpZW50cyBsaWtlIHBlYW51dHMsIGNvcmlhbmRlciBsZWF2ZXMsIGxlbW9uIGp1aWNlLCBncmF0ZWQgY29jb251dCwgb3Igb3RoZXIgdmVnZXRhYmxlcyBtYXkgYmUgaW5jbHVkZWQuCgoqKlByZXBhcmF0aW9uKioKClRoZSBwcmVwYXJhdGlvbiBvZiBQb2hhIFRoaWNrIGludm9sdmVzIHNldmVyYWwgc3RyYWlnaHRmb3J3YXJkIHN0ZXBzOgoxLiAqKldhc2hpbmcgYW5kIFNvYWtpbmc6KiogVGhlIGZsYXR0ZW5lZCByaWNlIChQb2hhKSBpcyBnZW50bHkgd2FzaGVkIHRvIHJlbW92ZSBhbnkgaW1wdXJpdGllcyBhbmQgdGhlbiBzb2FrZWQgYnJpZWZseSBpbiB3YXRlci4gSXQncyBjcnVjaWFsIG5vdCB0byBvdmVyLXNvYWsgdG8gcHJldmVudCB0aGUgUG9oYSBmcm9tIGJlY29taW5nIG11c2h5LgoyLiAqKkRyYWluaW5nOioqIEFmdGVyIHNvYWtpbmcsIHRoZSBQb2hhIGlzIHRob3JvdWdobHkgZHJhaW5lZCB0byBlbGltaW5hdGUgZXhjZXNzIHdhdGVyLgozLiAqKkNvb2tpbmc6KiogSW4gYSBwYW4sIGhlYXQgb2lsIGFuZCB0eXBpY2FsbHkgc3BsdXR0ZXIgbXVzdGFyZCBzZWVkcyBhbmQgY3VtaW4gc2VlZHMgdG8gcmVsZWFzZSB0aGVpciBmbGF2b3JzLiBDaG9wcGVkIG9uaW9ucywgZGljZWQgcG90YXRvZXMsIGFuZCBvdGhlciBzcGljZXMgYXJlIGFkZGVkIGFuZCBzYXV0w6llZCB1bnRpbCB0aGUgcG90YXRvZXMgYXJlIGNvb2tlZCB0aHJvdWdoLgo0LiAqKkFkZGluZyBQb2hhOioqIFRoZSBkcmFpbmVkIFBvaGEgaXMgdGhlbiBhZGRlZCB0byB0aGUgcGFuIGFuZCBtaXhlZCBnZW50bHkgd2l0aCB0aGUgc3BpY2VzIGFuZCB2ZWdldGFibGVzLiBJdCBpcyBjb29rZWQgZm9yIGEgZmV3IG1pbnV0ZXMgdW50aWwgaGVhdGVkIHRocm91Z2ggYW5kIHdlbGwgY29tYmluZWQuCjUuICoqRmluYWwgVG91Y2hlczoqKiBGcmVzaCBpbmdyZWRpZW50cyBsaWtlIGNob3BwZWQgY29yaWFuZGVyIGxlYXZlcywgcm9hc3RlZCBwZWFudXRzLCBhbmQgYSBzcGxhc2ggb2YgbGVtb24ganVpY2UgbWF5IGJlIGFkZGVkIGF0IHRoZSBlbmQgdG8gZW5oYW5jZSBmbGF2b3IgYW5kIHRleHR1cmUuCgoqKkN1bGluYXJ5IFVzZXMqKgoKUG9oYSBUaGljayBjYW4gYmUgZW5qb3llZCBpbiB2YXJpb3VzIHdheXM6Ci0gKipCcmVha2Zhc3QgRGlzaDoqKiBJdCBpcyBjb21tb25seSBzZXJ2ZWQgYXMgYSBmdWxmaWxsaW5nIGFuZCBudXRyaXRpb3VzIGJyZWFrZmFzdCBkaXNoLgotICoqU25hY2s6KiogUG9oYSBUaGljayBhbHNvIG1ha2VzIGZvciBhIHNhdGlzZnlpbmcgc25hY2ssIGVzcGVjaWFsbHkgd2hlbiBwYWlyZWQgd2l0aCBhIGhvdCBiZXZlcmFnZSBsaWtlIHRlYSBvciBjb2ZmZWUuCi0gKipNYWluIENvdXJzZToqKiBEZXBlbmRpbmcgb24gdGhlIGFjY29tcGFuaW1lbnRzIGFuZCBzaWRlIGRpc2hlcywgUG9oYSBUaGljayBjYW4gYWxzbyBiZSBlbmpveWVkIGFzIGEgbWFpbiBjb3Vyc2UgbWVhbC4KCioqSGVhbHRoIEJlbmVmaXRzKioKClBvaGEgVGhpY2sgb2ZmZXJzIHNldmVyYWwgaGVhbHRoIGJlbmVmaXRzOgotICoqTnV0cmllbnQtUmljaDoqKiBJdCBpcyByaWNoIGluIGNhcmJvaHlkcmF0ZXMsIHZpdGFtaW5zLCBhbmQgbWluZXJhbHMsIHByb3ZpZGluZyBlc3NlbnRpYWwgbnV0cmllbnRzIGZvciBhIGJhbGFuY2VkIGRpZXQuCi0gKipMaWdodCBhbmQgRWFzaWx5IERpZ2VzdGlibGU6KiogVGhlIGZsYXR0ZW5lZCByaWNlIGlzIGxpZ2h0IG9uIHRoZSBzdG9tYWNoIGFuZCBlYXN5IHRvIGRpZ2VzdCwgbWFraW5nIGl0IHN1aXRhYmxlIGZvciBjb25zdW1wdGlvbiBpbiB0aGUgbW9ybmluZy4KLSAqKlZlcnNhdGlsZToqKiBJdCBjYW4gYmUgY3VzdG9taXplZCB3aXRoIHZhcmlvdXMgaW5ncmVkaWVudHMgdG8gc3VpdCBpbmRpdmlkdWFsIHRhc3RlcyBhbmQgZGlldGFyeSBwcmVmZXJlbmNlcy4KCioqRXhwZXJpZW5jZSBQb2hhIFRoaWNrIHdpdGggVmFybmkgRXhwb3J0cyoqCgpBdCBWYXJuaSBFeHBvcnRzLCB3ZSBvZmZlciBoaWdoLXF1YWxpdHkgUG9oYSBUaGljaywgcGVyZmVjdCBmb3IgcHJlcGFyaW5nIHRyYWRpdGlvbmFsIEluZGlhbiBicmVha2Zhc3RzIG9yIHNuYWNrcy4gT3VyIFBvaGEgVGhpY2sgaXMgY2FyZWZ1bGx5IHNvdXJjZWQgYW5kIHByb2Nlc3NlZCB0byBlbnN1cmUgZnJlc2huZXNzIGFuZCBhdXRoZW50aWNpdHkuIENvbnRhY3QgdXMgdG9kYXkgdG8gZXhwbG9yZSBvdXIgcmFuZ2Ugb2YgcHJvZHVjdHMgYW5kIHNhdm9yIHRoZSBhdXRoZW50aWMgZmxhdm9ycyBvZiBJbmRpYSB3aXRoIFZhcm5pIEV4cG9ydHMhCgo=",
+          <div>
+            <h1><strong>Poha Thick: A Hearty Version of Traditional Indian Flattened Rice</strong></h1>
+            <br />
+
+            <p>Poha Thick, also known as Thick Poha, is a delightful and hearty variation of the traditional Indian dish made from flattened rice. It is a beloved breakfast option across India, appreciated for its simplicity, lightness, and versatility. Poha Thick can be enjoyed with a variety of savory accompaniments and is often served alongside tea or coffee.</p>
+            <br />
+
+            <h2><strong>Ingredients</strong></h2>
+            <br />
+            <p>The main ingredients used in preparing Poha Thick include:</p>
+            <li><strong>Flattened Rice (Poha):</strong> The core ingredient, made by parboiling rice, flattening it, and then drying it into flakes.</li>
+            <li><strong>Oil:</strong> Used for cooking the dish.</li>
+            <li><strong>Onions:</strong> Adds flavor and texture.</li>
+            <li><strong>Potatoes:</strong> Often diced and cooked along with the Poha.</li>
+            <li><strong>Spices:</strong> Such as cumin seeds, mustard seeds, turmeric, and curry leaves, which provide aromatic flavors to the dish.</li>
+            <li><strong>Optional Ingredients:</strong> Depending on regional preferences, additional ingredients like peanuts, coriander leaves, lemon juice, grated coconut, or other vegetables may be included.</li>
+            <br />
+
+            <h2><strong>Preparation</strong></h2>
+            <br />
+            <p>The preparation of Poha Thick involves several straightforward steps:</p>
+            <li><strong>Washing and Soaking:</strong> The flattened rice (Poha) is gently washed to remove any impurities and then soaked briefly in water. It's crucial not to over-soak to prevent the Poha from becoming mushy.</li>
+            <li><strong>Draining:</strong> After soaking, the Poha is thoroughly drained to eliminate excess water.</li>
+            <li><strong>Cooking:</strong> In a pan, heat oil and typically splutter mustard seeds and cumin seeds to release their flavors. Chopped onions, diced potatoes, and other spices are added and sautéed until the potatoes are cooked through.</li>
+            <li><strong>Adding Poha:</strong> The drained Poha is then added to the pan and mixed gently with the spices and vegetables. It is cooked for a few minutes until heated through and well combined.</li>
+            <li><strong>Final Touches:</strong> Fresh ingredients like chopped coriander leaves, roasted peanuts, and a splash of lemon juice may be added at the end to enhance flavor and texture.</li>
+            <br />
+
+            <h2><strong>Culinary Uses</strong></h2>
+            <br />
+            <p>Poha Thick can be enjoyed in various ways:</p>
+            <li><strong>Breakfast Dish:</strong> It is commonly served as a fulfilling and nutritious breakfast dish.</li>
+            <li><strong>Snack:</strong> Poha Thick also makes for a satisfying snack, especially when paired with a hot beverage like tea or coffee.</li>
+            <li><strong>Main Course:</strong> Depending on the accompaniments and side dishes, Poha Thick can also be enjoyed as a main course meal.</li>
+            <br />
+
+            <h2><strong>Health Benefits</strong></h2>
+            <br />
+            <p>Poha Thick offers several health benefits:</p>
+            <li><strong>Nutrient-Rich:</strong> It is rich in carbohydrates, vitamins, and minerals, providing essential nutrients for a balanced diet.</li>
+            <li><strong>Light and Easily Digestible:</strong> The flattened rice is light on the stomach and easy to digest, making it suitable for consumption in the morning.</li>
+            <li><strong>Versatile:</strong> It can be customized with various ingredients to suit individual tastes and dietary preferences.</li>
+            <br />
+
+            <h2><strong>Experience Poha Thick with Varni Exports</strong></h2>
+            <br />
+            <p>At Varni Exports, we offer high-quality Poha Thick, perfect for preparing traditional Indian breakfasts or snacks. Our Poha Thick is carefully sourced and processed to ensure freshness and authenticity. Contact us today to explore our range of products and savor the authentic flavors of India with Varni Exports!</p>
+          </div>
+        ,
       },
     ],
   },

@@ -3,7 +3,7 @@ import style from './style.module.css'
 import { IoLocationOutline } from "react-icons/io5";
 import { FiPhone } from "react-icons/fi";
 import { HiOutlineMailOpen } from "react-icons/hi";
-import { FaFacebookF } from "react-icons/fa";
+import { FaFacebookF, FaLinkedin } from "react-icons/fa";
 import { FaWhatsapp, FaYoutube } from "react-icons/fa6";
 import { BsInstagram } from "react-icons/bs";
 import { BsTwitterX } from "react-icons/bs";
@@ -211,16 +211,22 @@ const Contact = () => {
           </div>
 
           <div className={style.media}>
-            <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/share/7XrMRo5EdvBWqWJ4/?mibextid=qi2Omg" target="_blank" rel="noopener noreferrer">
               <div className=' hover:text-[#1877F2]'><FaFacebookF /></div>
             </a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+            {/* <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
               <div className='hover:text-[#1DA1F2]'><BsTwitterX /></div>
             </a>
             <a href="https://wa.me/919408862963" target="_blank" rel="noopener noreferrer">
               <div className='hover:text-[#25D366]'><FaWhatsapp /></div>
+            </a> */}
+            <a href="https://www.youtube.com/channel/UC7E7Qprj97tz-tRJU3ANEKA" target="_blank" rel="noopener noreferrer">
+              <div className=' hover:text-[#FF0000]'> <FaYoutube /></div>
             </a>
-            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/company/varni-exports" target="_blank" rel="noopener noreferrer">
+              <div className=' hover:text-[#0077B5]'><FaLinkedin /></div>
+            </a>
+            <a href="https://www.instagram.com/varni.exports?utm_source=qr&igsh=MWQ0czdrOTZzdDZwMw==" target="_blank" rel="noopener noreferrer">
               <div className='hover:text-[#E4405F]'><BsInstagram /></div>
             </a>
           </div>
