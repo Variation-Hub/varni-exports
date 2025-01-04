@@ -6304,9 +6304,9 @@ export const landingPageSlider = [
     image: banner1,
   },
   {
-    title: "Black And White Sesame Seeds Exporter",
-    description: "One Place for Best Quality Sesame Seeds",
-    image: banner2,
+    title: "Premium Onion Exporter",
+    description: "Your Trusted Source for the Best Quality Onions",
+    image: banner2
   },
   {
     title: "Leading Spice Exporter",
@@ -6421,10 +6421,10 @@ export const Slider_products = [
 ]
 
 export const counter = [
-  { id: 1, name: "Projects", number: "63" },
-  { id: 2, name: "Likes", number: "50" },
-  { id: 3, name: "On Going Projects", number: "15" },
-  { id: 4, name: "Awards", number: "4" },
+  { id: 1, name: "Projects", number: "42" },
+  { id: 2, name: "Likes", number: "37" },
+  { id: 3, name: "On Going Projects", number: "7" },
+  { id: 4, name: "Awards", number: "15" },
 ];
 
 export const logo = [
