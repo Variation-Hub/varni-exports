@@ -2,6 +2,9 @@ import Style from "./style.module.css";
 import { counter } from "../../contant";
 import aboutImage from "../../assets/Banner/about-us-banner.webp";
 import CountUp from "react-countup";
+import about1 from "../../assets/about_us_1.webp";
+import about2 from "../../assets/about_us_2.png";
+import about3 from "../../assets/about_us_3.webp";
 
 const About = () => {
   return (
@@ -16,7 +19,7 @@ const About = () => {
           <div className={Style.OS_s1}>
             <img
               className={Style.img}
-              src="./src/assets/about_us_1.webp"
+              src={about1}
               alt="OS_image_1"
             />
           </div>
@@ -62,9 +65,9 @@ const About = () => {
           </div>
           <div className={Style.OS_s1}>
             <img
-              src="./src/assets/about_us_2.png"
-              alt=""
-            width={"80%"}
+              src={about2}
+              alt="OS_image_2"
+              width={"80%"}
             />
           </div>
         </div>
@@ -72,8 +75,8 @@ const About = () => {
         <div className={Style.OS_S3}>
           <div className={Style.OS_s1}>
             <img
-              src="./src/assets/about_us_3.webp"
-              alt=""
+              src={about3}
+              alt="OS_image_3"
             // height={"490px"} width={"510px"}
             />
           </div>
