@@ -159,7 +159,7 @@ function Category() {
                           Object.keys(data2).map((value, index) => (
                             value !== "id" && value !== "name" && value !== "images" && value !== "description" ? (
                               <TableRow key={index} className={style.tableBodyRow}>
-                                <TableCell className={style.tableBodyCell}>{value}</TableCell>
+                                <TableCell className={`${style.tableBodyCell} ${style.tableBodyCellTitle}`}>{value}</TableCell>
                                 <TableCell className={style.tableBodyCell}>{data2[value]}</TableCell>
                               </TableRow>
                             ) : null
@@ -180,7 +180,7 @@ function Category() {
 
               <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
                 <h1 className='text-2xl mb-4'>Other Products</h1>
-                {suggestedCategory?.slice(0, 4)?.map((item) => (
+                {suggestedCategory?.map((item) => (
                   <Link to={`/products/${categoryId}/${subcategoryId}/${item.name}`} key={item.id} className={style.productLink}>
                     <div className={style.productThumbnail}>
                       <div className='w-16 rounded-full h-16 overflow-hidden flex justify-center items-center'>
@@ -253,7 +253,7 @@ function Category() {
                         Object.keys(data).map((value, index) => (
                           value !== "id" && value !== "name" && value !== "images" && value !== "description" ? (
                             <TableRow key={index} className={style.tableBodyRow}>
-                              <TableCell className={style.tableBodyCell}>{value}</TableCell>
+                              <TableCell className={`${style.tableBodyCell} ${style.tableBodyCellTitle}`}>{value}</TableCell>
                               <TableCell className={style.tableBodyCell}>{data[value]}</TableCell>
                             </TableRow>
                           ) : null
@@ -275,7 +275,7 @@ function Category() {
             <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
 
               <h1 className='text-2xl mb-4'>Other Products</h1>
-              {suggestedCategory?.slice(0, 4)?.map((item) => (
+              {suggestedCategory?.map((item) => (
                 <Link to={`/products/${categoryId}/${item.name}`} key={item.id} className={style.productLink}>
                   <div className={style.productThumbnail}>
                     <div className='w-16 rounded-full h-16 overflow-hidden flex justify-center items-center'>

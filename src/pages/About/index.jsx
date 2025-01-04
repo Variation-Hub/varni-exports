@@ -1,6 +1,6 @@
 import Style from "./style.module.css";
 import { counter } from "../../contant";
-import aboutImage from "../../assets/Banner/about-us-banner.webp";
+import aboutImage from "../../assets/Banner/about-us-banner.png";
 import CountUp from "react-countup";
 import about1 from "../../assets/about_us_1.webp";
 import about2 from "../../assets/about_us_2.png";

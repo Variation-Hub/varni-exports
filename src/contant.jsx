@@ -81,7 +81,7 @@ import onion4 from "./assets/Products/onion/29.png";
 import raisins1 from "./assets/Products/raisins/30.png";
 import raisins2 from "./assets/Products/raisins/31.png";
 import raisins3 from "./assets/Products/raisins/32.png";
-import raisins4 from "./assets/Products/raisins/33.png";
+import raisins4 from "./assets/Products/raisins/33.webp";
 import raisins5 from "./assets/Products/raisins/34.png";
 import raisins6 from "./assets/Products/raisins/35.png";
 import raisins7 from "./assets/Products/raisins/36.png";
@@ -6339,8 +6339,7 @@ export const commitmentSection = [
 export const contactUsSection = {
   companyName: "VARNI EXPORTS",
   address:
-    "B-705, Titanium Heights, Opp. Vodafone House, Corporate Rd, Prahlad Nagar, Ahmedabad, 380015 Gujarat, India",
-  contact: "+91 94088 62963",
+    "Office No. 18, 1st Floor, Shreedhar Flora, Near Amarjavan Circle, Nikol, Ahmedabad - 382350 (Gujarat), India",
   contact1: "+91 99245 81694",
   email: "info@varniexports.com",
 };

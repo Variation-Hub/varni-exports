@@ -1,10 +1,8 @@
 .footer {
-  @apply flex flex-wrap justify-between p-8 text-gray-700;
+  @apply flex flex-wrap justify-between p-8 text-white;
   background-image: url(../../assets/depositphotos_223046636-stock-illustration-abstract-green-creative-watercolor-texture-transformed.png);
   background-size: cover;
   background-position: center;
-
-
 }
 
 .footerSection {
@@ -33,11 +31,9 @@
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-
 }
 
 .certificatesLogos {
-
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 15px;

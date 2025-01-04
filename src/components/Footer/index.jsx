@@ -36,7 +36,6 @@ const Footer = () => {
           <div className={styles.cont}>
             <a className='flex items-center gap-2' href="mailto:info@varniexports.com" ><FaLink />info@varniexports.com</a>
             <a className='flex items-center gap-2' href="tel:+91 99245 81694" ><FiPhone />+91 99245 81694</a>
-            <a className='flex items-center gap-2' href="tel:+91 94088 62963"><FiPhone />+91 94088 62963</a>
           </div>
         </div>
       </div>
@@ -47,7 +46,7 @@ const Footer = () => {
           <p className='flex items-center gap-2'  > <IoLocationOutline className='text-3xl' />Ahmedabad, Gujarat,  <br />India.</p>
           <div className='flex gap-4 mt-4'>
             <a href="https://www.facebook.com/share/7XrMRo5EdvBWqWJ4/?mibextid=qi2Omg" target="_blank" rel="noopener noreferrer">
-              <FaFacebookF className='text-2xl text-gray-600 hover:text-[#1877F2]' />
+              <FaFacebookF className='text-2xl text-white hover:text-[#1877F2]' />
             </a>
             {/* <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
               <BsTwitterX className='text-2xl text-gray-600 hover:text-[#1DA1F2]' />
@@ -56,13 +55,13 @@ const Footer = () => {
               <FaWhatsapp className='text-2xl text-gray-600 hover:text-[#25D366]' />
             </a> */}
             <a href="https://www.youtube.com/channel/UC7E7Qprj97tz-tRJU3ANEKA" target="_blank" rel="noopener noreferrer">
-              <FaYoutube className='text-2xl text-gray-600 hover:text-[#FF0000]' />
+              <FaYoutube className='text-2xl text-white hover:text-[#FF0000]' />
             </a>
             <a href="https://www.linkedin.com/company/varni-exports" target="_blank" rel="noopener noreferrer">
-              <FaLinkedin className='text-2xl text-gray-600 hover:text-[#0077B5]' />
+              <FaLinkedin className='text-2xl text-white hover:text-[#0077B5]' />
             </a>
             <a href="https://www.instagram.com/varni.exports?utm_source=qr&igsh=MWQ0czdrOTZzdDZwMw==" target="_blank" rel="noopener noreferrer">
-              <FaInstagram className='text-2xl text-gray-600 hover:text-[#E4405F]' />
+              <FaInstagram className='text-2xl text-white hover:text-[#E4405F]' />
             </a>
           </div>
         </div>
@@ -72,10 +71,10 @@ const Footer = () => {
         <div className={styles.font}>
           <h3 className='flex items-center'>Quick Links</h3>
           <div className='flex flex-col gap-4'>
-            <Link to="/products" className="text-gray-700 no-underline flex items-center gap-2"><MdProductionQuantityLimits className='text-2xl' />Products</Link>
-            <Link to="/certificates" className="text-gray-700 no-underline flex items-center gap-2"><GrCertificate className='text-2xl' />Certificates</Link>
-            <Link to="/about" className="text-gray-700 no-underline flex items-center gap-2"><BsInfoCircle className='text-2xl' />About</Link>
-            <Link to="/contact-us" className="text-gray-700 no-underline flex items-center gap-2"><RiContactsBook3Line className='text-2xl' />Contact Us</Link>
+            <Link to="/products" className="text-white no-underline flex items-center gap-2"><MdProductionQuantityLimits className='text-2xl' />Products</Link>
+            <Link to="/certificates" className="text-white no-underline flex items-center gap-2"><GrCertificate className='text-2xl' />Certificates</Link>
+            <Link to="/about" className="text-white no-underline flex items-center gap-2"><BsInfoCircle className='text-2xl' />About</Link>
+            <Link to="/contact-us" className="text-white no-underline flex items-center gap-2"><RiContactsBook3Line className='text-2xl' />Contact Us</Link>
           </div>
         </div>
       </div>

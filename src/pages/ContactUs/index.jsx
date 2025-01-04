@@ -193,10 +193,6 @@ const Contact = () => {
             </div>
 
             <div className={style.contacts}>
-              <div className={style.phon}>
-                <div className={style.FiPhone}><FiPhone /></div>
-                <a href={`tel:${contactUsSection.contact}`}>{contactUsSection.contact}</a>
-              </div>
 
               <div className={style.phon}>
                 <div className={style.FiPhone}><FiPhone /></div>
