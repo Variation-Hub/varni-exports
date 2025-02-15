@@ -55,11 +55,10 @@ function SamplePrevArrow(props) {
 
 const Home = () => {
   const settings = {
-    // infinite: true,
     autoplay: true,
-    autoplaySpeed: 4000,
+    autoplaySpeed: 5000,
     fade: true,
-    speed: 500,
+    speed: 1000,
     slidesToShow: 1,
     slidesToScroll: 1,
     nextArrow: <SampleNextArrow />,

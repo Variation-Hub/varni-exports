@@ -7,7 +7,7 @@ import { FaFacebookF, FaLinkedin } from "react-icons/fa";
 import { FaWhatsapp, FaYoutube } from "react-icons/fa6";
 import { BsInstagram } from "react-icons/bs";
 import { BsTwitterX } from "react-icons/bs";
-import contactUsImage from '../../assets/Banner/contact-us-banner.webp'
+import contactUsImage from '../../assets/Banner/contact-us-banner1.jpg'
 import { useState } from 'react';
 
 const Contact = () => {
@@ -175,8 +175,6 @@ const Contact = () => {
       <section className={style.img_style}>
         <h1>Contact Us</h1>
         <img src={contactUsImage} alt="" width="100%" height="100%" />
-        <div className={style.point}></div>
-        <div className={style.point2}></div>
       </section>
 
       <div className={style.contact}>
