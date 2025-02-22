@@ -47,3 +47,72 @@ body {
 ::-webkit-scrollbar-thumb:hover {
     background: white;
 }
+
+.goog-te-combo {
+    color: #808080;
+    border-radius: 4px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    margin: 0 !important;
+    color: black;
+}
+
+#google_translate_element {
+    width: 100%;
+    height: 38px;
+    position: relative;
+}
+
+.VIpgJd-ZVi9od-l4eHX-hSRGPd {
+    display: none;
+}
+
+.goog-te-gadget img {
+    display: none !important;
+}
+
+body>.skiptranslate {
+    display: none;
+}
+
+
+#google_translate_element {
+    /* max-width: 200px; */
+    width: 100%;
+    float: right;
+    text-align: right;
+    display: block;
+}
+
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+}
+
+#goog-gt-tt {
+    display: none !important;
+    top: 0px !important;
+}
+
+.goog-tooltip skiptranslate {
+    display: none !important;
+    top: 0px !important;
+}
+
+.activity-root {
+    display: hide !important;
+}
+
+.status-message {
+    display: hide !important;
+}
+
+.started-activity-container {
+    display: hide !important;
+}
+
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf.VIpgJd-ZVi9od-aZ2wEe-wOHMyf-ti6hGc {
+    display: none;
+}

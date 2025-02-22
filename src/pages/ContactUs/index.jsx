@@ -197,9 +197,19 @@ const Contact = () => {
                 <a href={`tel:${contactUsSection.contact1}`}>{contactUsSection.contact1}</a>
               </div>
 
+              <div className={style.phon}>
+                <div className={style.FiPhone}><FiPhone /></div>
+                <a href={`tel:${contactUsSection.contact2}`}>{contactUsSection.contact2}</a>
+              </div>
+
               <div className={style.mail}>
                 <div className={style.Mail}><HiOutlineMailOpen /></div>
-                <a href={`mailto:${contactUsSection.email}`}>{contactUsSection.email}</a>
+                <a href={`mailto:${contactUsSection.email1}`}>{contactUsSection.email1}</a>
+              </div>
+
+              <div className={style.mail}>
+                <div className={style.Mail}><HiOutlineMailOpen /></div>
+                <a href={`mailto:${contactUsSection.email2}`}>{contactUsSection.email2}</a>
               </div>
             </div>
           </div>

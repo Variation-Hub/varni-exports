@@ -18,7 +18,7 @@ function Category() {
   return (
     <>
       <div className={Style.products_head}>
-        <h1 className="text-center uppercase text-2xl mt-10">{data?.name}</h1>
+        <h1 className="text-center uppercase text-2xl mt-10 text-[var(--primary-color)] font-bold">{data?.name}</h1>
         <h1 className={`px-32 py-10 text-center ${Style.products_description}`}>
           {data?.description}
         </h1>

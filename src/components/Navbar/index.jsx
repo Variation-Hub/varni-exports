@@ -13,8 +13,8 @@ import {
   Divider,
   Drawer,
 } from "@mui/material";
-import MailIcon from "@mui/icons-material/Mail";
-import InboxIcon from "@mui/icons-material/MoveToInbox";
+// import MailIcon from "@mui/icons-material/Mail";
+// import InboxIcon from "@mui/icons-material/MoveToInbox";
 import { styled } from "@mui/material/styles";
 import Tooltip, { tooltipClasses } from "@mui/material/Tooltip";
 import MenuIcon from "@mui/icons-material/Menu";
@@ -37,6 +37,26 @@ const HtmlTooltip = styled(({ className, ...props }) => (
 function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
+
+  const googleTranslateElementInit = () => {
+    new window.google.translate.TranslateElement(
+      {
+        autoDisplay: false,
+        pageLanguage: "en",
+      },
+      "google_translate_element"
+    );
+  };
+
+  useEffect(() => {
+    var addScript = document.createElement("script");
+    addScript.setAttribute(
+      "src",
+      "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+    );
+    document.body.appendChild(addScript);
+    window.googleTranslateElementInit = googleTranslateElementInit;
+  }, []);
 
   const handleScroll = () => {
     const offset = window.scrollY;
@@ -61,18 +81,18 @@ function Navbar() {
 
   const DrawerList = (
     <Box sx={{ width: 250 }} role="presentation" onClick={toggleDrawer(false)}>
-    <List>
-      {routes.map((route, index) => (
-        <ListItem key={route.label} disablePadding>
-          <Link to={route.path} style={{ textDecoration: 'none', color: 'inherit', width: '100%' }}>
-            <ListItemButton>
-              <ListItemText primary={route.label} />
-            </ListItemButton>
-          </Link>
-        </ListItem>
-      ))}
-    </List>
-  </Box>
+      <List>
+        {routes.map((route, index) => (
+          <ListItem key={route.label} disablePadding>
+            <Link to={route.path} style={{ textDecoration: 'none', color: 'inherit', width: '100%' }}>
+              <ListItemButton>
+                <ListItemText primary={route.label} />
+              </ListItemButton>
+            </Link>
+          </ListItem>
+        ))}
+      </List>
+    </Box>
   );
 
   useEffect(() => {
@@ -142,6 +162,9 @@ function Navbar() {
         <li>
           <Link to="/contact-us">Contact Us</Link>
           <div className={Style.borderBottom}></div>
+        </li>
+        <li>
+          <div id="google_translate_element" style={{ borderBottom: "1px solid lightgray", padding: 0, fontSize: "14px", width: "150px" }}></div>
         </li>
       </ul>
     </nav>
