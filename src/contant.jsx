@@ -42,6 +42,7 @@ import peanut2 from "./assets/Products/Peanut/2.png";
 import peanut3 from "./assets/Products/Peanut/3.png";
 import peanut4 from "./assets/Products/Peanut/4.png";
 import peanut5 from "./assets/Products/Peanut/5.png";
+import peanut51 from "./assets/Products/Peanut/5-1.png";
 
 // Fruits and Vegetables
 
@@ -58,6 +59,7 @@ import dehydrated3 from "./assets/Products/Dehydrated/12.png";
 import dehydrated4 from "./assets/Products/Dehydrated/13.png";
 import dehydrated5 from "./assets/Products/Dehydrated/14.png";
 import dehydrated6 from "./assets/Products/Dehydrated/15.png";
+import dehydrated07 from "./assets/Products/Dehydrated/16-0.png";
 import dehydrated7 from "./assets/Products/Dehydrated/16.png";
 import dehydrated8 from "./assets/Products/Dehydrated/17.png";
 import dehydrated9 from "./assets/Products/Dehydrated/18.png";
@@ -578,6 +580,69 @@ export const catagories = [
           </div>
         ,
       },
+
+      {
+        id: "6",
+        name: "TJ Peanut",
+        Category: "Peanuts",
+        images: peanut51,
+        Type: "TJ Peanut",
+        Origin: "Gujarat-India",
+        "Peanut / Ounce": "56/60, 80/90",
+        Moisture: "7% to 8% Maximum",
+        Admixture: "1% to 2% Maximum",
+        "Foreign Material": "1% Maximum",
+        "Oil Content": "42% to 48% Maximum",
+        Packaging: "1 to 50 kg Jute Bag, PP Bag",
+        Loading: "19 Tons",
+        description:
+          <div>
+            <p><strong>Are you looking for TJ Peanut Seeds?</strong></p>
+            <br />
+
+            <p><strong>Bhimani Exports Private Limited</strong> is a leading TJ peanut seeds manufacturer from India.</p>
+            <br />
+
+            <p>Welcome to Bhimani Exports Private Limited, the foremost TJ Peanut seed manufacturer in India. Our dedication to quality and excellence has made us a trusted name in the agricultural industry. We offer premium TJ Peanut seeds that meet the highest standards of purity and quality.</p>
+            <br />
+
+            <p><strong>About TJ Peanuts</strong></p>
+            <br />
+
+            <p>TJ Peanuts are known for their superior quality, rich flavor, and high nutritional value. As a reputable peanut supplier, we ensure that our TJ Peanuts are sortex cleaned to provide the best product to our customers. Our peanut kernels are carefully selected and processed to maintain their natural taste and nutritional benefits.</p>
+            <br />
+
+            <p><strong>Peanut Varieties</strong></p>
+            <br />
+            <li><strong>TJ 50/60:</strong> This grade contains 50 to 60 peanuts per ounce, ensuring a consistent size and quality, perfect for various culinary uses.</li>
+            <li><strong>TJ 80/90:</strong> With 80 to 90 peanuts per ounce, this variety offers a distinct texture and flavor, ideal for specific recipes and processing needs.</li>
+            <br />
+
+            <p>We also offer red skin peanuts that are rich in antioxidants and provide numerous health benefits. These peanuts are ideal for both direct consumption and use in various recipes. Our groundnut kernels are sourced from the best farms in India, ensuring top-notch quality.</p>
+            <br />
+
+            <p>Our processing unit is capable of producing 40 tons of peanuts per day, ensuring bulk supply for large-scale buyers and food manufacturers.</p>
+            <br />
+
+            <p><strong>Export Excellence</strong></p>
+            <br />
+
+            <p>As a leading peanut exporter, we have a robust distribution network that ensures timely delivery of our products worldwide. We offer bulk peanut supply to meet the needs of large-scale buyers and food manufacturers.</p>
+            <br />
+
+            <p><strong>Use and Benefits of TJ Peanuts</strong></p>
+            <br />
+            <li><strong>High Protein:</strong> TJ Peanuts offer a high protein content, aiding muscle growth and repair.</li>
+            <li><strong>Rich in Healthy Fats:</strong> Contains beneficial monounsaturated and polyunsaturated fats.</li>
+            <li><strong>Nutrient-Dense:</strong> Packed with vitamins and minerals like vitamin E, magnesium, and potassium.</li>
+            <li><strong>Versatile:</strong> Can be used in various dishes, from snacks to main courses.</li>
+            <li><strong>Energy Boost:</strong> Provides a quick and sustained energy source.</li>
+            <br />
+
+            <p><strong>Experience the premium quality of peanuts from India with Bhimani Exports Private Limited, your trusted TJ Peanut seed manufacturer.</strong></p>
+          </div>
+      }
+
     ],
   },
 
@@ -3401,6 +3466,773 @@ export const catagories = [
   },
 
   {
+    name: "Pulses",
+    path: "/products/pulses",
+    catagoriesId: "pulses",
+    image: pulesImage,
+    description:
+      "Enjoy our premium pulses: protein-packed chickpeas for hearty meals, nutrient-rich lentils for wholesome soups and stews, fiber-rich black gram for traditional dishes, and flavorful pigeon peas for delicious curries. Each variety is carefully sourced and processed to ensure superior taste, quality, and health benefits, making every meal nutritious and satisfying.",
+    products_detail: [
+      {
+        id: "1",
+        name: "Chickpeas",
+        category: "pulses",
+        images: pulesProduct1,
+        "Chickpeas Counts": "58-60/ 9 MM, 44-46/ 11 MM, 42-44/ 12 MM",
+        "Cleaning": "Sortex Cleaned",
+        "Admixture": "0.50% to 1% Max",
+        "Broken Kernels": "1-2% Max",
+        "Moisture": "12% Max",
+        "Place of Origin": "India",
+        "Damaged Kernels": "1-3% Max",
+        "Discoloured Kernels": "2-3% Max",
+        "Weevilled": "0.3% Max",
+        "Packaging Details": "PP Bag: 25 / 50 KG in New PP Bag, As Per Customer Requirement",
+        "Container Capacity": "20' FT Container: 23-24 Metric Tons, 40' FT Container",
+        description: <div>
+          <h1><strong>Welcome to Varni Exports: Your Trusted Source for Premium Chickpeas</strong></h1>
+          <br />
+
+          <p>Varni Exports is a renowned supplier and exporter of high-quality chickpeas, also known as "Kabuli Chana." Our chickpeas are rich in essential nutrients, making them a perfect choice for a healthy diet. We ensure the best quality through meticulous sorting, cleaning, and packaging, catering to global demands with excellence.</p>
+          <br />
+
+          <h2><strong>High-Quality Chickpeas</strong></h2>
+          <br />
+          <p>Chickpeas are primarily produced in Madhya Pradesh, followed by Rajasthan, Maharashtra, and Andhra Pradesh. As one of the leading chickpeas exporters, Varni Exports ensures that our products meet international standards, making them highly sought after worldwide.</p>
+          <br />
+
+          <h2><strong>Nutritional Powerhouse</strong></h2>
+          <br />
+          <p>Chickpeas are packed with essential vitamins, minerals, and nutrients, making them an integral part of a balanced diet. Their health benefits include:</p>
+          <li><strong>Rich in Protein:</strong> A great plant-based protein source.</li>
+          <li><strong>High in Fiber:</strong> Supports digestion and maintains gut health.</li>
+          <li><strong>Essential Minerals:</strong> Contains iron, magnesium, and folate.</li>
+          <li><strong>Low in Fat:</strong> Mostly polyunsaturated, promoting heart health.</li>
+
+          <br />
+
+          <h2><strong>Culinary and Medicinal Uses</strong></h2>
+          <br />
+          <p>Chickpeas are versatile and widely used in:</p>
+          <li><strong>Indian Cuisine:</strong> Essential for dishes like Chhole Bhature.</li>
+          <li><strong>Baking & Cooking:</strong> Used in bread, soups, and salads.</li>
+          <li><strong>Flour Production:</strong> Ground into besan (chickpea flour) for various recipes.</li>
+          <li><strong>Middle Eastern Dishes:</strong> Key ingredient in hummus and falafel.</li>
+
+          <br />
+
+          <h2><strong>Leading Exporter of Chickpeas</strong></h2>
+          <br />
+          <p>Varni Exports is a leading producer and exporter of chickpeas, offering competitive prices and superior quality. Our commitment to excellence ensures that our customers receive the finest products.</p>
+          <br />
+
+          <h2><strong>State-of-the-Art Processing</strong></h2>
+          <br />
+          <p>We employ advanced processing technology to clean and sort chickpeas to meet the highest standards. Our environmentally friendly practices and efficient waste management systems further enhance product quality.</p>
+          <br />
+
+          <h2><strong>Uses and Benefits of Chickpeas</strong></h2>
+          <br />
+          <li><strong>Supports Heart Health:</strong> Helps reduce cholesterol levels.</li>
+          <li><strong>Regulates Blood Sugar:</strong> Beneficial for diabetes management.</li>
+          <li><strong>Rich in Antioxidants:</strong> Protects against cell damage.</li>
+          <li><strong>Bone Strength:</strong> High in calcium and phosphorus.</li>
+          <li><strong>Weight Management:</strong> Keeps you fuller for longer.</li>
+          <li><strong>Gluten-Free Alternative:</strong> Used in gluten-free recipes.</li>
+
+          <br />
+
+          <h2><strong>Global Reach and Export Destinations</strong></h2>
+          <br />
+          <p>We export high-quality chickpeas to several countries, including Malaysia, Indonesia, the Philippines, Thailand, Saudi Arabia, UAE, Turkey, Russia, the USA, Canada, and many more.</p>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>At Varni Exports, we are committed to delivering the best natural chickpeas. Our focus on quality and customer satisfaction has made us a trusted name in the industry. Contact us today to place your order and experience the superior quality of Varni Exports!</p>
+        </div>
+      },
+
+      {
+        id: "2",
+        name: "Soya Beans",
+        category: "pulses",
+        images: pulesProduct2,
+        "Botanical Name": "Glycine max",
+        "Harvest Period": "Kharif Crop (Sept-Oct)",
+        "Purity": "99.00% Min",
+        "Moisture": "10% Max",
+        "Split": "2% Max",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "12 Months from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        "description": <div>
+          <h1><strong>Premium Quality Soybean (Glycine max) Exporter</strong></h1>
+          <br />
+          <p>Soybeans, scientifically known as <strong>Glycine max</strong>, originate from East Asia and are one of the most widely cultivated legumes in the world. Due to their rich texture, mild taste, and high protein content, they serve as an excellent meat alternative, making them a preferred choice for vegetarians and vegans.</p>
+          <br />
+
+          <h2><strong>Health Benefits of Soybeans</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Rich in Plant-Based Protein:</strong> An excellent source of complete protein, containing all essential amino acids.</li>
+            <li><strong>Heart Health:</strong> Soy protein is known to help lower bad cholesterol (LDL) levels.</li>
+            <li><strong>Bone Strength:</strong> High in calcium and isoflavones, which contribute to bone health.</li>
+            <li><strong>Weight Management:</strong> A great option for a protein-rich, low-fat diet.</li>
+            <li><strong>Hormonal Balance:</strong> Contains phytoestrogens that may support hormonal health, particularly in women.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Uses of Soybeans</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Whole Beans:</strong> Used in curries, stews, and salads.</li>
+            <li><strong>Soy Milk:</strong> A dairy-free milk alternative rich in protein.</li>
+            <li><strong>Soy Flour:</strong> A high-protein gluten-free flour alternative.</li>
+            <li><strong>Soy Chunks & Soya Chaap:</strong> Commonly used as a meat substitute in various dishes.</li>
+            <li><strong>Soybean Oil:</strong> A widely used cooking oil.</li>
+            <li><strong>Tofu & Tempeh:</strong> Plant-based protein sources derived from soybeans.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Why Choose Our Soybeans?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High Purity:</strong> 99% purity with minimal foreign matter.</li>
+            <li><strong>Non-GMO & Organic:</strong> Naturally grown without genetic modification.</li>
+            <li><strong>Premium Packaging:</strong> Available in various sizes with customizable options.</li>
+            <li><strong>Strict Quality Control:</strong> Meets international food safety standards.</li>
+            <li><strong>Long Shelf Life:</strong> Stays fresh for up to 12 months when stored properly.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Leading Supplier & Exporter</strong></h2>
+          <br />
+          <p>As a trusted exporter of high-quality Soybeans, we ensure that our product meets the highest industry standards. Our experience in the global market allows us to provide premium-grade soybeans with bulk supply options and timely deliveries.</p>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>For bulk orders, customized packaging, and pricing details, feel free to reach out to us. We are committed to providing the best quality Soybeans to global markets.</p>
+          <br />
+
+          <p>Choose us as your reliable supplier and experience the finest quality in every shipment!</p>
+        </div>
+      },
+
+      {
+        id: "3",
+        name: "Black Eyed Peas",
+        category: "pulses",
+        images: pulesProduct3,
+        "Botanical Name": "Vigna unguiculata",
+        "Harvest Period": "April to August",
+        "Purity": "99.95% Min , 99.98%",
+        "Moisture": "10% Max",
+        "Color": "Cremey",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "1 Year from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        description: <div>
+          <h1><strong>Premium Quality Cowpea (Black-Eyed Beans) Exporter</strong></h1>
+          <br />
+
+          <p>The Cowpea, an annual herbaceous legume, is known for its self-pollinating nature. In India, cowpea exporters contribute significantly to the global market, driving the rise in black-eyed beans exports. As awareness of its nutritional value and versatility grows, the demand for Cowpea continues to increase, making it a profitable commodity for Indian exporters.</p>
+          <br />
+
+          <h2><strong>High-Quality Cowpea Seeds</strong></h2>
+          <br />
+          <p>Our Cowpea seeds undergo meticulous cultivation and processing to ensure maximum nutritional value and purity. With a strong commitment to organic farming practices, we provide a sustainable and environmentally friendly choice for those seeking high-quality Cowpea.</p>
+          <br />
+
+          <h2><strong>Leading Exporter of Cowpea</strong></h2>
+          <br />
+          <p>Obidos Overseas is a renowned company specializing in the distribution and export of premium Cowpea worldwide. As a top supplier and exporter, we adhere to strict international market standards to deliver superior quality products to our global clients.</p>
+          <br />
+
+          <h2><strong>Why Choose Our Cowpea?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High Purity:</strong> Our Cowpea meets the highest purity standards.</li>
+            <li><strong>Organic Farming:</strong> Produced using sustainable and eco-friendly farming methods.</li>
+            <li><strong>Strict Quality Control:</strong> Processed and cleaned using advanced machinery.</li>
+            <li><strong>Global Reach:</strong> Exported to multiple countries worldwide.</li>
+            <li><strong>Custom Packaging:</strong> Available in various sizes and packaging as per buyer's requirements.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>Obidos Overseas is dedicated to supplying the finest quality Cowpea to international markets. For more details about our products, pricing, and packaging options, feel free to reach out to our expert team.</p>
+          <br />
+
+          <p>Choose Obidos Overseas for premium Cowpea exports and experience superior quality with every order. Contact us today to place your order!</p>
+        </div>
+      },
+
+      {
+        id: "4",
+        name: "Green Gram",
+        category: "pulses",
+        images: pulesProduct4,
+        "Botanical Name": "Vigna radiata",
+        "Harvest Period": "August to September, Kharif Crop (June to July), Spring Crop (Middle of May)",
+        "Purity": "99.00% Min",
+        "Moisture": "10% Max",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "8 Months from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        description: <div>
+          <h1><strong>Premium Quality Mung Bean (Green Gram) Exporter</strong></h1>
+          <br />
+
+          <p>Mung Bean, scientifically referred to as the Green Gram, belongs to the legume family and is widely recognized for its nutritional benefits. India is a leading exporter of Green Gram, shipping substantial quantities worldwide every year. The increasing global demand for Green Gram has significantly boosted its export from India, providing a lucrative opportunity for Indian exporters to expand into international markets.</p>
+          <br />
+
+          <h2><strong>High-Quality Mung Bean Varieties</strong></h2>
+          <br />
+          <p>Our Mung Beans are carefully cultivated and processed to ensure maximum purity and quality. We emphasize sustainable farming methods, delivering a premium product that meets international standards. The export of Green Gram includes a variety of options, making it highly appealing to the global market.</p>
+          <br />
+
+          <h2><strong>Leading Exporter of Green Gram</strong></h2>
+          <br />
+          <p>We specialize in the distribution and export of premium Mung Beans worldwide. As a top supplier and exporter, we strictly adhere to international quality norms to provide the finest Green Gram to global customers.</p>
+          <br />
+
+          <h2><strong>Why Choose Our Mung Bean?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High Purity:</strong> Our Green Gram is 99.00% pure and GMO-free.</li>
+            <li><strong>Quality Assurance:</strong> Processed and cleaned using advanced Sortex and machine cleaning methods.</li>
+            <li><strong>Global Demand:</strong> Increasingly popular due to its rich nutritional value.</li>
+            <li><strong>Custom Packaging:</strong> Available in various sizes and packaging as per buyer's requirements.</li>
+            <li><strong>Sustainable Farming:</strong> Produced using eco-friendly and sustainable agricultural practices.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>We are committed to supplying the highest quality Mung Beans to international markets. For inquiries about our products, pricing, and packaging options, reach out to our team today.</p>
+          <br />
+
+          <p>Choose us as your trusted Mung Bean exporter and experience superior quality with every shipment. Contact us now to place your order!</p>
+        </div>
+      },
+
+      {
+        id: "5",
+        name: "Green Moong Lentils",
+        category: "pulses",
+        images: pulesProduct5,
+        "Botanical Name": "Vigna radiata",
+        "Harvest Period": "May to June",
+        "Purity": "99.7% Min",
+        "Broken": "0.5% Max",
+        "Moisture": "12% Max",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "1 Year from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        description: <div>
+          <h1><strong>Premium Quality Vigna Radiata (Mung Bean) Exporter</strong></h1>
+          <br />
+
+          <p>Vigna Radiata, commonly known as Mung Bean or Green Gram, belongs to the Fabaceae plant species. It is a highly nutritious legume, widely used in various culinary traditions around the world. Moong Dal, derived from Mung Beans, is available in different varieties, including split and whole forms, with or without the skin.</p>
+          <br />
+
+          <h2><strong>Varieties of Moong Dal</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Yellow Moong Dal:</strong> This is the skinned and split version of whole mung beans, also known as Yellow Dal or Yellow Petite Lentils. It has a soft texture and is widely used in soups, curries, and porridge.</li>
+            <li><strong>Chilka Moong Dal:</strong> This variety retains the green skin of the mung beans while the beans are split. Also referred to as Chilka Mung or Split Green Mung, it offers a slightly firmer texture compared to yellow moong dal.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Why Choose Our Vigna Radiata?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High Purity:</strong> 99.7% purity with minimal broken kernels.</li>
+            <li><strong>Quality Assurance:</strong> Processed with Sortex and machine cleaning for superior hygiene.</li>
+            <li><strong>GMO-Free:</strong> Naturally cultivated without genetic modifications.</li>
+            <li><strong>Custom Packaging:</strong> Available in various sizes and packaging types as per buyer's requirements.</li>
+            <li><strong>Long Shelf Life:</strong> 1-year shelf life ensures extended freshness.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Leading Supplier & Exporter</strong></h2>
+          <br />
+          <p>As a trusted exporter of Vigna Radiata, we ensure that our Moong Dal meets international quality standards. Whether you are looking for bulk supply or customized packaging solutions, we are committed to providing high-quality Mung Beans and their variants to global markets.</p>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>We are dedicated to supplying premium Mung Beans worldwide. For inquiries on pricing, bulk orders, and customization options, feel free to reach out to us today.</p>
+          <br />
+
+          <p>Choose us as your preferred Mung Bean exporter and experience excellence in every shipment. Get in touch now to place your order!</p>
+        </div>
+      },
+
+      {
+        id: "6",
+        name: "Yellow Lentils",
+        category: "pulses",
+        images: pulesProduct6,
+        "Moisture": "10% Max",
+        "Cleaning": "Sortex Cleaned",
+        "Protein": "21%",
+        "Place of Origin": "India",
+        "Fat": "4.88% Max",
+        "Damaged Kernels": "0.5% Max",
+        "Green Seeds": "0.1% Max",
+        "Types of Bags": "PP Bag",
+        "Quantity": "25 / 50 KG in New PP Bag",
+        "Custom Packaging": "As Per Customer Requirement",
+        "20' FT Container": "23-24 Metric Tons",
+        "40' FT Container": "-",
+        description: <div>
+          <h1><strong>Yellow Lentils – Premium Quality from Varni Exports</strong></h1>
+          <br />
+
+          <p>Yellow Lentils, also known as Split Yellow Gram, are widely used in Indian and international cuisine. They are cherished for their rich taste, high nutritional value, and versatility in cooking. As a trusted exporter of premium pulses, Varni Exports ensures the highest quality yellow lentils for customers worldwide.</p>
+          <br />
+
+          <h2><strong>Origin and Cultivation</strong></h2>
+          <br />
+          <p>Yellow Lentils are cultivated extensively in India, Pakistan, Bangladesh, Iran, and Mexico. India remains one of the top producers, with major cultivation in regions such as Gujarat, Rajasthan, Madhya Pradesh, and Maharashtra, ensuring a steady supply of high-quality lentils.</p>
+          <br />
+
+          <h2><strong>Nutritional Benefits of Yellow Lentils</strong></h2>
+          <br />
+          <p>Yellow Lentils are packed with essential nutrients and provide multiple health benefits:</p>
+          <li><strong>Rich in Protein:</strong> A great plant-based protein source for vegetarians.</li>
+          <li><strong>High Fiber Content:</strong> Aids digestion and supports gut health.</li>
+          <li><strong>Low Glycemic Index:</strong> Helps maintain stable blood sugar levels, making it ideal for diabetics.</li>
+          <li><strong>Loaded with Vitamins & Minerals:</strong> Contains iron, folate, magnesium, and B vitamins for overall well-being.</li>
+          <li><strong>Heart-Healthy:</strong> Helps lower cholesterol and promotes cardiovascular health.</li>
+
+          <br />
+
+          <h2><strong>Culinary Uses of Yellow Lentils</strong></h2>
+          <br />
+          <p>Yellow Lentils are a staple ingredient in various cuisines and are used in multiple ways:</p>
+          <li><strong>Lentil Soups:</strong> Perfect for making nourishing and flavorful soups.</li>
+          <li><strong>Dal Recipes:</strong> Commonly used in Indian dal dishes.</li>
+          <li><strong>Stews and Curries:</strong> Enhances texture and adds a protein boost.</li>
+          <li><strong>Rice Dishes:</strong> Used in khichdi and other rice-based meals.</li>
+          <li><strong>Snacks & Flour:</strong> Processed into flour for making fritters, flatbreads, and sweets.</li>
+
+          <br />
+
+          <h2><strong>Premium Quality Assurance</strong></h2>
+          <br />
+          <p>Varni Exports is dedicated to providing superior-quality yellow lentils that meet global standards. Our products are:</p>
+          <li>Carefully processed and sorted for purity.</li>
+          <li>Free from contaminants and impurities.</li>
+          <li>Packed using hygienic and eco-friendly methods.</li>
+          <li>Available in customized packaging sizes for bulk and retail orders.</li>
+
+          <br />
+
+          <h2><strong>Global Export of Yellow Lentils</strong></h2>
+          <br />
+          <p>We export yellow lentils to multiple countries, including Malaysia, Indonesia, the Philippines, Thailand, Vietnam, USA, Saudi Arabia, UAE, Morocco, Kuwait, Turkey, Russia, Jordan, China, Bahrain, Tunisia, Afghanistan, and Algeria.</p>
+          <br />
+
+          <h2><strong>Why Choose Varni Exports?</strong></h2>
+          <br />
+          <p>As a leading supplier and exporter, we ensure:</p>
+          <li>High-quality products with competitive pricing.</li>
+          <li>Timely delivery and global distribution.</li>
+          <li>Customer-focused service with tailored solutions.</li>
+          <li>Reliability and trust built through years of experience.</li>
+
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>For premium-grade yellow lentils, partner with Varni Exports. Contact us today to place an order and experience the best quality yellow lentils in the market.</p>
+        </div>
+      },
+
+      {
+        id: "7",
+        name: "Black Gram",
+        category: "pulses",
+        images: pulesProduct7,
+        "Botanical Name": "Vigna mungo",
+        "Harvest Period": "Kharif Crop (Sept-Oct)",
+        "Purity": "98.00% Min",
+        "Moisture": "10% Max",
+        "Split": "2% Max",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "12 Months from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        "description": <div>
+          <h1><strong>Premium Quality Black Gram (Urad Dal) Exporter</strong></h1>
+          <br />
+          <p>Black Gram, scientifically known as <strong>Vigna mungo</strong>, is a highly nutritious legume widely used in Indian and global cuisines. Known for its rich, earthy flavor and high protein content, Black Gram is an essential ingredient in various traditional dishes, including dals, curries, and fermented foods like idli and dosa.</p>
+          <br />
+
+          <h2><strong>Health Benefits of Black Gram</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Rich in Protein:</strong> Essential for muscle growth and repair.</li>
+            <li><strong>Boosts Digestion:</strong> High in fiber, aiding in better digestion and gut health.</li>
+            <li><strong>Heart Health:</strong> Helps regulate cholesterol levels and improves cardiovascular health.</li>
+            <li><strong>Energy Booster:</strong> Packed with essential vitamins and minerals for overall vitality.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Uses of Black Gram</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Whole Black Gram:</strong> Used in soups, curries, and slow-cooked dishes.</li>
+            <li><strong>Split Black Gram:</strong> Used in dals and quick-cooking meals.</li>
+            <li><strong>Black Gram Flour:</strong> Used in making papads, snacks, and Indian delicacies.</li>
+            <li><strong>Fermented Foods:</strong> A key ingredient in idli, dosa, and vada batter.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Why Choose Our Black Gram?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High Purity:</strong> 98% minimum purity.</li>
+            <li><strong>Premium Quality:</strong> Carefully processed and sorted for export quality.</li>
+            <li><strong>GMO-Free:</strong> Naturally grown without genetic modifications.</li>
+            <li><strong>Custom Packaging:</strong> Available in various sizes as per buyer's requirements.</li>
+            <li><strong>Long Shelf Life:</strong> 12-month shelf life ensures product freshness.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Leading Supplier & Exporter</strong></h2>
+          <br />
+          <p>We are a leading exporter of Black Gram, ensuring quality, reliability, and timely delivery for global markets. Our product meets international food safety standards, making us a trusted choice worldwide.</p>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>For bulk orders, pricing details, and customized packaging solutions, get in touch with us today!</p>
+          <br />
+
+          <p>Partner with us for the best quality Black Gram and experience excellence in every shipment!</p>
+        </div>
+      },
+
+      {
+        id: "8",
+        name: "Black Urad Lentils",
+        category: "pulses",
+        images: pulesProduct8, "Botanical Name": "Vigna mungo",
+        "Harvest Period": "Kharif Crop (Sept-Oct)",
+        "Purity": "98.00% Min",
+        "Moisture": "10% Max",
+        "Split": "2% Max",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "12 Months from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        "description": <div>
+          <h1><strong>Premium Quality Split Black Lentils (Urad Dal Split) Exporter</strong></h1>
+          <br />
+          <p>Split Black Lentils, also known as Urad Dal Split, are a nutritious and versatile ingredient that retains its skin, offering a rich and robust flavor. It is commonly used in various Indian and international cuisines for its distinct taste and high protein content.</p>
+          <br />
+          <h2><strong>Versatile Uses of Urad Dal Split</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Flour Production:</strong> Can be ground into a fine flour for baking and cooking.</li>
+            <li><strong>Paste Formation:</strong> Used in pastes for traditional dishes like dosa and idli.</li>
+            <li><strong>Rich in Protein:</strong> A great plant-based protein source for vegetarians and vegans.</li>
+            <li><strong>Traditional Curries:</strong> Used in soups, dals, and stews across different cuisines.</li>
+          </ul>
+          <br />
+          <h2><strong>Why Choose Our Split Black Lentils?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Premium Purity:</strong> Ensuring 98.00% purity with minimal splits.</li>
+            <li><strong>High-Quality Processing:</strong> Sortex and machine cleaned for superior hygiene.</li>
+            <li><strong>GMO-Free:</strong> Naturally cultivated without genetic modifications.</li>
+            <li><strong>Custom Packaging:</strong> Available in multiple packaging sizes and materials.</li>
+            <li><strong>Extended Shelf Life:</strong> Stays fresh for up to 12 months.</li>
+          </ul>
+          <br />
+          <h2><strong>Leading Exporter of Urad Dal Split</strong></h2>
+          <br />
+          <p>India is one of the largest producers and exporters of Urad Dal Split. With increasing demand worldwide, we ensure top-quality supply to meet international standards. We specialize in bulk orders and customized packaging solutions.</p>
+          <br />
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>We are committed to providing premium quality Urad Dal Split to global markets. For inquiries regarding pricing, bulk orders, and customization options, feel free to reach out to us.</p>
+          <br />
+          <p>Partner with us for the finest quality Split Black Lentils and experience excellence in every shipment. Get in touch today!</p>
+        </div>
+      },
+
+      {
+        id: "9",
+        name: "Red Kidney Beans",
+        category: "pulses",
+        images: pulesProduct9,
+        "Botanical Name": "Phaseolus vulgaris L.",
+        "Harvest Period": "February-March",
+        "Purity": "99.00% Min",
+        "Moisture": "12% Max",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "1 Year from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        "description": <div>
+          <h1><strong>Premium Quality Kidney Beans Exporter</strong></h1>
+          <br />
+          <p>Kidney beans, scientifically known as <strong>Phaseolus vulgaris L.</strong>, are a type of common bean that undergoes a drying process, making them available all year round. They are easily recognizable by their reddish-brown color and characteristic kidney shape.</p>
+          <br />
+          <h2><strong>Why Kidney Beans?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Rich Flavor:</strong> Kidney beans possess a distinct taste that complements both hot and cold dishes.</li>
+            <li><strong>Versatile Usage:</strong> A staple in Mexican and Indian cuisines, used in curries, salads, and stews.</li>
+            <li><strong>High Nutritional Value:</strong> Packed with protein, fiber, and essential minerals.</li>
+            <li><strong>Long Shelf Life:</strong> Can be stored for extended periods while maintaining quality.</li>
+          </ul>
+          <br />
+          <h2><strong>Our Kidney Beans Export Standards</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Superior Purity:</strong> 99.00% minimum purity.</li>
+            <li><strong>Quality Processing:</strong> Sortex and machine cleaned for enhanced hygiene.</li>
+            <li><strong>GMO-Free:</strong> 100% natural and free from genetic modifications.</li>
+            <li><strong>Custom Packaging:</strong> Available in various sizes and materials as per buyer's requirements.</li>
+            <li><strong>Global Compliance:</strong> Adheres to international import norms and standards.</li>
+          </ul>
+          <br />
+          <h2><strong>Leading Kidney Beans Supplier & Exporter</strong></h2>
+          <br />
+          <p>India is a major producer and exporter of kidney beans, supplying them to multiple countries worldwide. Due to their growing demand, the export of kidney beans from India has significantly increased over the years, generating substantial revenue for Indian exporters.</p>
+          <br />
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>As a leading exporter of kidney beans, we ensure high-quality products and exceptional service. Whether you're looking for bulk supply or customized packaging, we cater to your specific requirements.</p>
+          <br />
+          <p>Partner with us for premium kidney beans and experience excellence in every shipment. Reach out today for pricing and order details!</p>
+        </div>
+      },
+
+      {
+        id: "10",
+        name: "Quinoa Seeds",
+        category: "pulses",
+        images: pulesProduct10,
+        "Botanical Name": "Sorghum",
+        "Purity": "99% Min",
+        "Color": "100% natural Creamy Yellow",
+        "Moisture": "12% Max",
+        "Foreign Matter": "1% Max",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "12 Months from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        "description": <div>
+          <h1><strong>Premium Quality Sorghum (Jowar) Exporter</strong></h1>
+          <br />
+          <p>Sorghum, scientifically known as <strong>Sorghum</strong>, is a robust grass with edible starchy seeds, widely used across various industries. In India, it is commonly known as <strong>Jowar, Cholam, or Jonna</strong>, and it is a staple food grain due to its high nutritional value.</p>
+          <br />
+          <h2><strong>Why Choose Sorghum?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Rich in Nutrients:</strong> Sorghum is packed with proteins, dietary fiber, and essential minerals.</li>
+            <li><strong>Gluten-Free Alternative:</strong> An excellent grain choice for gluten-free diets.</li>
+            <li><strong>Versatile Applications:</strong> Used in food, animal feed, and biofuel industries.</li>
+            <li><strong>100% Natural:</strong> Creamy yellow color with no artificial additives.</li>
+          </ul>
+          <br />
+          <h2><strong>Our Sorghum Export Standards</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High Purity:</strong> 99% minimum purity ensures premium quality.</li>
+            <li><strong>Quality Assurance:</strong> Processed with advanced cleaning techniques.</li>
+            <li><strong>GMO-Free:</strong> Naturally cultivated without genetic modifications.</li>
+            <li><strong>Custom Packaging:</strong> Available in multiple sizes and materials as per buyer's requirements.</li>
+            <li><strong>International Compliance:</strong> Meets global import standards and norms.</li>
+          </ul>
+          <br />
+          <h2><strong>Leading Sorghum Supplier & Exporter</strong></h2>
+          <br />
+          <p>India is one of the largest producers of sorghum, with a growing demand worldwide. The export of <strong>Jowar</strong> has significantly increased in recent years, offering a great opportunity for Indian exporters to expand into global markets.</p>
+          <br />
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>As a trusted sorghum exporter, we are committed to delivering high-quality Jowar to international buyers. Whether you need bulk quantities or customized packaging, we cater to your specific requirements.</p>
+          <br />
+          <p>Partner with us for premium sorghum and experience excellence in every shipment. Get in touch today for pricing and order details!</p>
+        </div>
+      },
+
+      {
+        id: "11",
+        name: "Red Quinoa",
+        category: "pulses",
+        images: pulesProduct11,
+        "Purity": "99%",
+        "Feature": "Fat Free, Gluten Free",
+        "Packaging Type": "Plastic Bag",
+        "Storage Instruction": "Cool And Dry Place",
+        "Botanical Name": "Chenopodium quinoa",
+        "Packing Size": "15KG, 25KG, 30KG, 50KG",
+        "Packing Material": "PP Bags, Gunny Bags, Paper Bags",
+        "Moisture": "12% Max",
+        "Foreign Matters": "2% Max",
+        "Foreign Matter": "0.01",
+        "description": <div>
+          <h1><strong>Premium Quality Red Quinoa Exporter</strong></h1>
+          <br />
+          <p>Red Quinoa, scientifically known as <strong>Chenopodium quinoa</strong>, is a highly nutritious, gluten-free pseudocereal packed with protein, fiber, and essential vitamins and minerals. It has a slightly nutty flavor and a firm texture, making it a great addition to a variety of dishes.</p>
+          <br />
+
+          <h2><strong>Health Benefits of Red Quinoa</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Rich in Protein:</strong> Contains all nine essential amino acids, making it a complete protein source.</li>
+            <li><strong>High in Fiber:</strong> Supports digestion and promotes gut health.</li>
+            <li><strong>Loaded with Antioxidants:</strong> Higher antioxidant content than other quinoa varieties, contributing to heart health.</li>
+            <li><strong>Gluten-Free:</strong> A perfect grain substitute for those with gluten intolerance or celiac disease.</li>
+            <li><strong>Low Glycemic Index:</strong> Helps regulate blood sugar levels, making it ideal for diabetics.</li>
+            <li><strong>Rich in Essential Minerals:</strong> Contains iron, magnesium, phosphorus, and zinc for overall well-being.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Why Choose Our Red Quinoa?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High Purity:</strong> 99% purity with minimal foreign matter.</li>
+            <li><strong>Premium Packaging:</strong> Available in various sizes with high-quality packaging materials for extended shelf life.</li>
+            <li><strong>Strict Quality Control:</strong> Ensures that the quinoa meets international food safety standards.</li>
+            <li><strong>Long Shelf Life:</strong> Stays fresh for an extended period when stored in a cool, dry place.</li>
+            <li><strong>Custom Labeling:</strong> Packaging and labeling can be customized as per buyer's requirements.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Applications of Red Quinoa</strong></h2>
+          <br />
+          <p>Red Quinoa is widely used in:</p>
+          <ul>
+            <li>Salads and grain bowls</li>
+            <li>Soups and stews</li>
+            <li>Breakfast cereals and porridge</li>
+            <li>Baking and gluten-free recipes</li>
+            <li>Health food and vegan meal preparations</li>
+          </ul>
+          <br />
+
+          <h2><strong>Leading Supplier & Exporter</strong></h2>
+          <br />
+          <p>As a trusted exporter of Red Quinoa, we ensure that our product meets the highest quality standards and is sourced from the best farms. Our extensive experience in the export industry allows us to provide bulk orders with timely deliveries to international markets.</p>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>For bulk inquiries, customized packaging options, and pricing details, reach out to us today. We are committed to delivering the best quality Red Quinoa to meet your business needs.</p>
+          <br />
+
+          <p>Choose us as your preferred supplier and experience excellence in every shipment!</p>
+        </div>
+      },
+
+      {
+        id: "12",
+        name: "Green Lentils",
+        category: "pulses",
+        images: pulesProduct12,
+        "Botanical Name": "Lens culinaris",
+        "Harvest Period": "February-March",
+        "Purity": "99.00% Min",
+        "Moisture": "12% Max",
+        "Type": "Sortex Cleaned, Machine Cleaned",
+        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
+        "Shelf Life": "12 Months from Production Date",
+        "GMOStatus": "GMO Free",
+        "Specifications": "A Comprehensive specification can be provided upon request",
+        "Labelling": "As Per Buyer's Requirement",
+        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
+        "description": <div>
+          <h1><strong>Premium Quality Green Lentils Exporter</strong></h1>
+          <br />
+          <p>Green Lentils, scientifically known as <strong>Lens culinaris</strong>, are a highly nutritious and versatile legume commonly used in a variety of cuisines worldwide. They have a firm texture and hold their shape well after cooking, making them ideal for salads, soups, and stews.</p>
+          <br />
+
+          <h2><strong>Health Benefits of Green Lentils</strong></h2>
+          <br />
+          <ul>
+            <li><strong>High in Protein:</strong> A great plant-based protein source.</li>
+            <li><strong>Rich in Fiber:</strong> Aids in digestion and promotes gut health.</li>
+            <li><strong>Heart Health:</strong> Helps in managing cholesterol levels.</li>
+            <li><strong>Rich in Iron & Folate:</strong> Essential for red blood cell production.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Uses of Green Lentils</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Soups & Stews:</strong> Retains texture, making them perfect for hearty meals.</li>
+            <li><strong>Salads:</strong> Adds protein and fiber to salads.</li>
+            <li><strong>Pilafs & Side Dishes:</strong> Pairs well with grains and vegetables.</li>
+            <li><strong>Vegetarian Protein:</strong> Used in plant-based meat substitutes.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Why Choose Our Green Lentils?</strong></h2>
+          <br />
+          <ul>
+            <li><strong>Premium Quality:</strong> 99% purity with uniform size and texture.</li>
+            <li><strong>Non-GMO & Natural:</strong> Cultivated using sustainable farming methods.</li>
+            <li><strong>Custom Packaging:</strong> Available in multiple sizes as per buyer’s requirements.</li>
+            <li><strong>Long Shelf Life:</strong> Stays fresh for up to 12 months.</li>
+          </ul>
+          <br />
+
+          <h2><strong>Leading Supplier & Exporter</strong></h2>
+          <br />
+          <p>We are a trusted exporter of high-quality Green Lentils, ensuring consistency, purity, and timely deliveries. Our commitment to quality makes us a preferred choice in the global market.</p>
+          <br />
+
+          <h2><strong>Contact Us</strong></h2>
+          <br />
+          <p>For bulk inquiries, pricing, and packaging options, reach out to us today!</p>
+          <br />
+
+          <p>Choose us as your reliable Green Lentils supplier and experience unmatched quality in every order!</p>
+        </div>
+      },
+    ],
+  },
+
+  {
     name: "dehydrated product",
     path: "/products/dehydrated-product",
     catagoriesId: "dehydrated-product",
@@ -3889,6 +4721,75 @@ export const catagories = [
             <p>For inquiries about our premium dehydrated pink onion powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
           </div>
         ,
+      },
+
+      {
+        id: "7",
+        name: "Dehydrated Garlic Cloves",
+        Category: "Dehydrated Products",
+        images: dehydrated07,
+        "Botanical Name": "Allium Sativum",
+        Size: "Whole Cloves",
+        Moisture: "5% Max",
+        Purity: "99% Min",
+        "Ash Content": "4% Max",
+        "Storage Condition": "Cool And Dry (20°C)",
+        Application: "Food Products, Seasonings, Pharmaceuticals",
+        Packaging: "10 to 50 kg, PP Bags, Cartons",
+        Loading: "20 to 25 Tons",
+        description:
+          <div>
+            <p><strong>Varni Exports: Premium Supplier of Dehydrated Garlic Cloves</strong></p>
+            <br />
+
+            <p>Varni Exports is a trusted name in sourcing and exporting high-quality dehydrated garlic cloves. Our commitment to excellence ensures that we deliver premium garlic products suitable for diverse culinary and industrial applications.</p>
+            <br />
+
+            <p><strong>About Dehydrated Garlic Cloves</strong></p>
+            <br />
+
+            <p>Garlic cloves, when dehydrated, retain their pungent flavor and nutritional benefits while offering the advantage of an extended shelf life. They are widely used in spice blends, seasoning mixes, and processed food products. Dehydrated garlic cloves are an ideal alternative to fresh garlic, saving time and reducing storage concerns.</p>
+            <br />
+
+            <p><strong>Quality Assurance</strong></p>
+            <br />
+
+            <p>At Varni Exports, we source garlic from carefully selected farms and process it in modern facilities to ensure premium quality. Our stringent quality checks ensure that our dehydrated garlic cloves maintain their natural flavor, aroma, and nutritional properties.</p>
+            <br />
+
+            <p><strong>Applications of Dehydrated Garlic Cloves</strong></p>
+            <br />
+            <li><strong>Cooking:</strong> Used in soups, curries, stir-fries, and various cuisines.</li>
+            <li><strong>Seasoning:</strong> Perfect for spice blends, dry rubs, and food processing.</li>
+            <li><strong>Pharmaceuticals:</strong> Used for its medicinal benefits in herbal supplements.</li>
+            <li><strong>Processed Foods:</strong> Essential in ready-to-eat meals and snacks.</li>
+            <br />
+
+            <p><strong>Benefits of Dehydrated Garlic Cloves</strong></p>
+            <br />
+            <li><strong>Long Shelf Life:</strong> Can be stored for extended periods without losing potency.</li>
+            <li><strong>Convenience:</strong> No need for peeling and chopping; ready for use.</li>
+            <li><strong>Consistent Quality:</strong> Ensures uniform flavor in recipes.</li>
+            <li><strong>Rich in Nutrients:</strong> Retains the essential compounds of fresh garlic.</li>
+            <br />
+
+            <p><strong>Sustainable Sourcing</strong></p>
+            <br />
+
+            <p>We at Varni Exports follow sustainable agricultural practices, collaborating with eco-conscious farmers. Our ethical sourcing guarantees not only high-quality garlic products but also environmentally responsible production.</p>
+            <br />
+
+            <p><strong>Global Export Excellence</strong></p>
+            <br />
+
+            <p>Varni Exports is a leading supplier of dehydrated garlic cloves, catering to global markets with superior-quality products. Our efficient logistics and timely delivery make us a preferred partner for international buyers.</p>
+            <br />
+
+            <p><strong>Contact Us</strong></p>
+            <br />
+
+            <p>Looking for the best dehydrated garlic cloves? Contact Varni Exports today! Our team is ready to assist you with your sourcing needs and provide high-quality solutions tailored to your requirements.</p>
+          </div>
       },
 
       {
@@ -5735,773 +6636,6 @@ export const catagories = [
             <p>Explore the wholesome goodness of roasted gram split without skin with Varni Exports. Whether you're looking to enhance your meals with nutritious pulses or seeking a healthy snack option, our products are designed to meet your culinary needs. Contact us today to learn more about our range of nutritious products and place your order. Elevate your dishes with the goodness of roasted gram split without skin from Varni Exports!</p>
           </div>
         ,
-      },
-    ],
-  },
-
-  {
-    name: "Pulses",
-    path: "/products/pulses",
-    catagoriesId: "pulses",
-    image: pulesImage,
-    description:
-      "Enjoy our premium pulses: protein-packed chickpeas for hearty meals, nutrient-rich lentils for wholesome soups and stews, fiber-rich black gram for traditional dishes, and flavorful pigeon peas for delicious curries. Each variety is carefully sourced and processed to ensure superior taste, quality, and health benefits, making every meal nutritious and satisfying.",
-    products_detail: [
-      {
-        id: "1",
-        name: "Chickpeas",
-        category: "pulses",
-        images: pulesProduct1,
-        "Chickpeas Counts": "58-60/ 9 MM, 44-46/ 11 MM, 42-44/ 12 MM",
-        "Cleaning": "Sortex Cleaned",
-        "Admixture": "0.50% to 1% Max",
-        "Broken Kernels": "1-2% Max",
-        "Moisture": "12% Max",
-        "Place of Origin": "India",
-        "Damaged Kernels": "1-3% Max",
-        "Discoloured Kernels": "2-3% Max",
-        "Weevilled": "0.3% Max",
-        "Packaging Details": "PP Bag: 25 / 50 KG in New PP Bag, As Per Customer Requirement",
-        "Container Capacity": "20' FT Container: 23-24 Metric Tons, 40' FT Container",
-        description: <div>
-          <h1><strong>Welcome to Varni Exports: Your Trusted Source for Premium Chickpeas</strong></h1>
-          <br />
-
-          <p>Varni Exports is a renowned supplier and exporter of high-quality chickpeas, also known as "Kabuli Chana." Our chickpeas are rich in essential nutrients, making them a perfect choice for a healthy diet. We ensure the best quality through meticulous sorting, cleaning, and packaging, catering to global demands with excellence.</p>
-          <br />
-
-          <h2><strong>High-Quality Chickpeas</strong></h2>
-          <br />
-          <p>Chickpeas are primarily produced in Madhya Pradesh, followed by Rajasthan, Maharashtra, and Andhra Pradesh. As one of the leading chickpeas exporters, Varni Exports ensures that our products meet international standards, making them highly sought after worldwide.</p>
-          <br />
-
-          <h2><strong>Nutritional Powerhouse</strong></h2>
-          <br />
-          <p>Chickpeas are packed with essential vitamins, minerals, and nutrients, making them an integral part of a balanced diet. Their health benefits include:</p>
-          <li><strong>Rich in Protein:</strong> A great plant-based protein source.</li>
-          <li><strong>High in Fiber:</strong> Supports digestion and maintains gut health.</li>
-          <li><strong>Essential Minerals:</strong> Contains iron, magnesium, and folate.</li>
-          <li><strong>Low in Fat:</strong> Mostly polyunsaturated, promoting heart health.</li>
-
-          <br />
-
-          <h2><strong>Culinary and Medicinal Uses</strong></h2>
-          <br />
-          <p>Chickpeas are versatile and widely used in:</p>
-          <li><strong>Indian Cuisine:</strong> Essential for dishes like Chhole Bhature.</li>
-          <li><strong>Baking & Cooking:</strong> Used in bread, soups, and salads.</li>
-          <li><strong>Flour Production:</strong> Ground into besan (chickpea flour) for various recipes.</li>
-          <li><strong>Middle Eastern Dishes:</strong> Key ingredient in hummus and falafel.</li>
-
-          <br />
-
-          <h2><strong>Leading Exporter of Chickpeas</strong></h2>
-          <br />
-          <p>Varni Exports is a leading producer and exporter of chickpeas, offering competitive prices and superior quality. Our commitment to excellence ensures that our customers receive the finest products.</p>
-          <br />
-
-          <h2><strong>State-of-the-Art Processing</strong></h2>
-          <br />
-          <p>We employ advanced processing technology to clean and sort chickpeas to meet the highest standards. Our environmentally friendly practices and efficient waste management systems further enhance product quality.</p>
-          <br />
-
-          <h2><strong>Uses and Benefits of Chickpeas</strong></h2>
-          <br />
-          <li><strong>Supports Heart Health:</strong> Helps reduce cholesterol levels.</li>
-          <li><strong>Regulates Blood Sugar:</strong> Beneficial for diabetes management.</li>
-          <li><strong>Rich in Antioxidants:</strong> Protects against cell damage.</li>
-          <li><strong>Bone Strength:</strong> High in calcium and phosphorus.</li>
-          <li><strong>Weight Management:</strong> Keeps you fuller for longer.</li>
-          <li><strong>Gluten-Free Alternative:</strong> Used in gluten-free recipes.</li>
-
-          <br />
-
-          <h2><strong>Global Reach and Export Destinations</strong></h2>
-          <br />
-          <p>We export high-quality chickpeas to several countries, including Malaysia, Indonesia, the Philippines, Thailand, Saudi Arabia, UAE, Turkey, Russia, the USA, Canada, and many more.</p>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>At Varni Exports, we are committed to delivering the best natural chickpeas. Our focus on quality and customer satisfaction has made us a trusted name in the industry. Contact us today to place your order and experience the superior quality of Varni Exports!</p>
-        </div>
-      },
-
-      {
-        id: "2",
-        name: "Soya Beans",
-        category: "pulses",
-        images: pulesProduct2,
-        "Botanical Name": "Glycine max",
-        "Harvest Period": "Kharif Crop (Sept-Oct)",
-        "Purity": "99.00% Min",
-        "Moisture": "10% Max",
-        "Split": "2% Max",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "12 Months from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        "description": <div>
-          <h1><strong>Premium Quality Soybean (Glycine max) Exporter</strong></h1>
-          <br />
-          <p>Soybeans, scientifically known as <strong>Glycine max</strong>, originate from East Asia and are one of the most widely cultivated legumes in the world. Due to their rich texture, mild taste, and high protein content, they serve as an excellent meat alternative, making them a preferred choice for vegetarians and vegans.</p>
-          <br />
-
-          <h2><strong>Health Benefits of Soybeans</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Rich in Plant-Based Protein:</strong> An excellent source of complete protein, containing all essential amino acids.</li>
-            <li><strong>Heart Health:</strong> Soy protein is known to help lower bad cholesterol (LDL) levels.</li>
-            <li><strong>Bone Strength:</strong> High in calcium and isoflavones, which contribute to bone health.</li>
-            <li><strong>Weight Management:</strong> A great option for a protein-rich, low-fat diet.</li>
-            <li><strong>Hormonal Balance:</strong> Contains phytoestrogens that may support hormonal health, particularly in women.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Uses of Soybeans</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Whole Beans:</strong> Used in curries, stews, and salads.</li>
-            <li><strong>Soy Milk:</strong> A dairy-free milk alternative rich in protein.</li>
-            <li><strong>Soy Flour:</strong> A high-protein gluten-free flour alternative.</li>
-            <li><strong>Soy Chunks & Soya Chaap:</strong> Commonly used as a meat substitute in various dishes.</li>
-            <li><strong>Soybean Oil:</strong> A widely used cooking oil.</li>
-            <li><strong>Tofu & Tempeh:</strong> Plant-based protein sources derived from soybeans.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Why Choose Our Soybeans?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High Purity:</strong> 99% purity with minimal foreign matter.</li>
-            <li><strong>Non-GMO & Organic:</strong> Naturally grown without genetic modification.</li>
-            <li><strong>Premium Packaging:</strong> Available in various sizes with customizable options.</li>
-            <li><strong>Strict Quality Control:</strong> Meets international food safety standards.</li>
-            <li><strong>Long Shelf Life:</strong> Stays fresh for up to 12 months when stored properly.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Leading Supplier & Exporter</strong></h2>
-          <br />
-          <p>As a trusted exporter of high-quality Soybeans, we ensure that our product meets the highest industry standards. Our experience in the global market allows us to provide premium-grade soybeans with bulk supply options and timely deliveries.</p>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>For bulk orders, customized packaging, and pricing details, feel free to reach out to us. We are committed to providing the best quality Soybeans to global markets.</p>
-          <br />
-
-          <p>Choose us as your reliable supplier and experience the finest quality in every shipment!</p>
-        </div>
-      },
-
-      {
-        id: "3",
-        name: "Black Eyed Peas",
-        category: "pulses",
-        images: pulesProduct3,
-        "Botanical Name": "Vigna unguiculata",
-        "Harvest Period": "April to August",
-        "Purity": "99.95% Min , 99.98%",
-        "Moisture": "10% Max",
-        "Color": "Cremey",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "1 Year from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        description: <div>
-          <h1><strong>Premium Quality Cowpea (Black-Eyed Beans) Exporter</strong></h1>
-          <br />
-
-          <p>The Cowpea, an annual herbaceous legume, is known for its self-pollinating nature. In India, cowpea exporters contribute significantly to the global market, driving the rise in black-eyed beans exports. As awareness of its nutritional value and versatility grows, the demand for Cowpea continues to increase, making it a profitable commodity for Indian exporters.</p>
-          <br />
-
-          <h2><strong>High-Quality Cowpea Seeds</strong></h2>
-          <br />
-          <p>Our Cowpea seeds undergo meticulous cultivation and processing to ensure maximum nutritional value and purity. With a strong commitment to organic farming practices, we provide a sustainable and environmentally friendly choice for those seeking high-quality Cowpea.</p>
-          <br />
-
-          <h2><strong>Leading Exporter of Cowpea</strong></h2>
-          <br />
-          <p>Obidos Overseas is a renowned company specializing in the distribution and export of premium Cowpea worldwide. As a top supplier and exporter, we adhere to strict international market standards to deliver superior quality products to our global clients.</p>
-          <br />
-
-          <h2><strong>Why Choose Our Cowpea?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High Purity:</strong> Our Cowpea meets the highest purity standards.</li>
-            <li><strong>Organic Farming:</strong> Produced using sustainable and eco-friendly farming methods.</li>
-            <li><strong>Strict Quality Control:</strong> Processed and cleaned using advanced machinery.</li>
-            <li><strong>Global Reach:</strong> Exported to multiple countries worldwide.</li>
-            <li><strong>Custom Packaging:</strong> Available in various sizes and packaging as per buyer's requirements.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>Obidos Overseas is dedicated to supplying the finest quality Cowpea to international markets. For more details about our products, pricing, and packaging options, feel free to reach out to our expert team.</p>
-          <br />
-
-          <p>Choose Obidos Overseas for premium Cowpea exports and experience superior quality with every order. Contact us today to place your order!</p>
-        </div>
-      },
-
-      {
-        id: "4",
-        name: "Green Gram",
-        category: "pulses",
-        images: pulesProduct4,
-        "Botanical Name": "Vigna radiata",
-        "Harvest Period": "August to September, Kharif Crop (June to July), Spring Crop (Middle of May)",
-        "Purity": "99.00% Min",
-        "Moisture": "10% Max",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "8 Months from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        description: <div>
-          <h1><strong>Premium Quality Mung Bean (Green Gram) Exporter</strong></h1>
-          <br />
-
-          <p>Mung Bean, scientifically referred to as the Green Gram, belongs to the legume family and is widely recognized for its nutritional benefits. India is a leading exporter of Green Gram, shipping substantial quantities worldwide every year. The increasing global demand for Green Gram has significantly boosted its export from India, providing a lucrative opportunity for Indian exporters to expand into international markets.</p>
-          <br />
-
-          <h2><strong>High-Quality Mung Bean Varieties</strong></h2>
-          <br />
-          <p>Our Mung Beans are carefully cultivated and processed to ensure maximum purity and quality. We emphasize sustainable farming methods, delivering a premium product that meets international standards. The export of Green Gram includes a variety of options, making it highly appealing to the global market.</p>
-          <br />
-
-          <h2><strong>Leading Exporter of Green Gram</strong></h2>
-          <br />
-          <p>We specialize in the distribution and export of premium Mung Beans worldwide. As a top supplier and exporter, we strictly adhere to international quality norms to provide the finest Green Gram to global customers.</p>
-          <br />
-
-          <h2><strong>Why Choose Our Mung Bean?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High Purity:</strong> Our Green Gram is 99.00% pure and GMO-free.</li>
-            <li><strong>Quality Assurance:</strong> Processed and cleaned using advanced Sortex and machine cleaning methods.</li>
-            <li><strong>Global Demand:</strong> Increasingly popular due to its rich nutritional value.</li>
-            <li><strong>Custom Packaging:</strong> Available in various sizes and packaging as per buyer's requirements.</li>
-            <li><strong>Sustainable Farming:</strong> Produced using eco-friendly and sustainable agricultural practices.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>We are committed to supplying the highest quality Mung Beans to international markets. For inquiries about our products, pricing, and packaging options, reach out to our team today.</p>
-          <br />
-
-          <p>Choose us as your trusted Mung Bean exporter and experience superior quality with every shipment. Contact us now to place your order!</p>
-        </div>
-      },
-
-      {
-        id: "5",
-        name: "Green Moong Lentils",
-        category: "pulses",
-        images: pulesProduct5,
-        "Botanical Name": "Vigna radiata",
-        "Harvest Period": "May to June",
-        "Purity": "99.7% Min",
-        "Broken": "0.5% Max",
-        "Moisture": "12% Max",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "1 Year from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        description: <div>
-          <h1><strong>Premium Quality Vigna Radiata (Mung Bean) Exporter</strong></h1>
-          <br />
-
-          <p>Vigna Radiata, commonly known as Mung Bean or Green Gram, belongs to the Fabaceae plant species. It is a highly nutritious legume, widely used in various culinary traditions around the world. Moong Dal, derived from Mung Beans, is available in different varieties, including split and whole forms, with or without the skin.</p>
-          <br />
-
-          <h2><strong>Varieties of Moong Dal</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Yellow Moong Dal:</strong> This is the skinned and split version of whole mung beans, also known as Yellow Dal or Yellow Petite Lentils. It has a soft texture and is widely used in soups, curries, and porridge.</li>
-            <li><strong>Chilka Moong Dal:</strong> This variety retains the green skin of the mung beans while the beans are split. Also referred to as Chilka Mung or Split Green Mung, it offers a slightly firmer texture compared to yellow moong dal.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Why Choose Our Vigna Radiata?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High Purity:</strong> 99.7% purity with minimal broken kernels.</li>
-            <li><strong>Quality Assurance:</strong> Processed with Sortex and machine cleaning for superior hygiene.</li>
-            <li><strong>GMO-Free:</strong> Naturally cultivated without genetic modifications.</li>
-            <li><strong>Custom Packaging:</strong> Available in various sizes and packaging types as per buyer's requirements.</li>
-            <li><strong>Long Shelf Life:</strong> 1-year shelf life ensures extended freshness.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Leading Supplier & Exporter</strong></h2>
-          <br />
-          <p>As a trusted exporter of Vigna Radiata, we ensure that our Moong Dal meets international quality standards. Whether you are looking for bulk supply or customized packaging solutions, we are committed to providing high-quality Mung Beans and their variants to global markets.</p>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>We are dedicated to supplying premium Mung Beans worldwide. For inquiries on pricing, bulk orders, and customization options, feel free to reach out to us today.</p>
-          <br />
-
-          <p>Choose us as your preferred Mung Bean exporter and experience excellence in every shipment. Get in touch now to place your order!</p>
-        </div>
-      },
-
-      {
-        id: "6",
-        name: "Yellow Lentils",
-        category: "pulses",
-        images: pulesProduct6,
-        "Moisture": "10% Max",
-        "Cleaning": "Sortex Cleaned",
-        "Protein": "21%",
-        "Place of Origin": "India",
-        "Fat": "4.88% Max",
-        "Damaged Kernels": "0.5% Max",
-        "Green Seeds": "0.1% Max",
-        "Types of Bags": "PP Bag",
-        "Quantity": "25 / 50 KG in New PP Bag",
-        "Custom Packaging": "As Per Customer Requirement",
-        "20' FT Container": "23-24 Metric Tons",
-        "40' FT Container": "-",
-        description: <div>
-          <h1><strong>Yellow Lentils – Premium Quality from Varni Exports</strong></h1>
-          <br />
-
-          <p>Yellow Lentils, also known as Split Yellow Gram, are widely used in Indian and international cuisine. They are cherished for their rich taste, high nutritional value, and versatility in cooking. As a trusted exporter of premium pulses, Varni Exports ensures the highest quality yellow lentils for customers worldwide.</p>
-          <br />
-
-          <h2><strong>Origin and Cultivation</strong></h2>
-          <br />
-          <p>Yellow Lentils are cultivated extensively in India, Pakistan, Bangladesh, Iran, and Mexico. India remains one of the top producers, with major cultivation in regions such as Gujarat, Rajasthan, Madhya Pradesh, and Maharashtra, ensuring a steady supply of high-quality lentils.</p>
-          <br />
-
-          <h2><strong>Nutritional Benefits of Yellow Lentils</strong></h2>
-          <br />
-          <p>Yellow Lentils are packed with essential nutrients and provide multiple health benefits:</p>
-          <li><strong>Rich in Protein:</strong> A great plant-based protein source for vegetarians.</li>
-          <li><strong>High Fiber Content:</strong> Aids digestion and supports gut health.</li>
-          <li><strong>Low Glycemic Index:</strong> Helps maintain stable blood sugar levels, making it ideal for diabetics.</li>
-          <li><strong>Loaded with Vitamins & Minerals:</strong> Contains iron, folate, magnesium, and B vitamins for overall well-being.</li>
-          <li><strong>Heart-Healthy:</strong> Helps lower cholesterol and promotes cardiovascular health.</li>
-
-          <br />
-
-          <h2><strong>Culinary Uses of Yellow Lentils</strong></h2>
-          <br />
-          <p>Yellow Lentils are a staple ingredient in various cuisines and are used in multiple ways:</p>
-          <li><strong>Lentil Soups:</strong> Perfect for making nourishing and flavorful soups.</li>
-          <li><strong>Dal Recipes:</strong> Commonly used in Indian dal dishes.</li>
-          <li><strong>Stews and Curries:</strong> Enhances texture and adds a protein boost.</li>
-          <li><strong>Rice Dishes:</strong> Used in khichdi and other rice-based meals.</li>
-          <li><strong>Snacks & Flour:</strong> Processed into flour for making fritters, flatbreads, and sweets.</li>
-
-          <br />
-
-          <h2><strong>Premium Quality Assurance</strong></h2>
-          <br />
-          <p>Varni Exports is dedicated to providing superior-quality yellow lentils that meet global standards. Our products are:</p>
-          <li>Carefully processed and sorted for purity.</li>
-          <li>Free from contaminants and impurities.</li>
-          <li>Packed using hygienic and eco-friendly methods.</li>
-          <li>Available in customized packaging sizes for bulk and retail orders.</li>
-
-          <br />
-
-          <h2><strong>Global Export of Yellow Lentils</strong></h2>
-          <br />
-          <p>We export yellow lentils to multiple countries, including Malaysia, Indonesia, the Philippines, Thailand, Vietnam, USA, Saudi Arabia, UAE, Morocco, Kuwait, Turkey, Russia, Jordan, China, Bahrain, Tunisia, Afghanistan, and Algeria.</p>
-          <br />
-
-          <h2><strong>Why Choose Varni Exports?</strong></h2>
-          <br />
-          <p>As a leading supplier and exporter, we ensure:</p>
-          <li>High-quality products with competitive pricing.</li>
-          <li>Timely delivery and global distribution.</li>
-          <li>Customer-focused service with tailored solutions.</li>
-          <li>Reliability and trust built through years of experience.</li>
-
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>For premium-grade yellow lentils, partner with Varni Exports. Contact us today to place an order and experience the best quality yellow lentils in the market.</p>
-        </div>
-      },
-
-      {
-        id: "7",
-        name: "Black Gram",
-        category: "pulses",
-        images: pulesProduct7,
-        "Botanical Name": "Vigna mungo",
-        "Harvest Period": "Kharif Crop (Sept-Oct)",
-        "Purity": "98.00% Min",
-        "Moisture": "10% Max",
-        "Split": "2% Max",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "12 Months from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        "description": <div>
-          <h1><strong>Premium Quality Black Gram (Urad Dal) Exporter</strong></h1>
-          <br />
-          <p>Black Gram, scientifically known as <strong>Vigna mungo</strong>, is a highly nutritious legume widely used in Indian and global cuisines. Known for its rich, earthy flavor and high protein content, Black Gram is an essential ingredient in various traditional dishes, including dals, curries, and fermented foods like idli and dosa.</p>
-          <br />
-
-          <h2><strong>Health Benefits of Black Gram</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Rich in Protein:</strong> Essential for muscle growth and repair.</li>
-            <li><strong>Boosts Digestion:</strong> High in fiber, aiding in better digestion and gut health.</li>
-            <li><strong>Heart Health:</strong> Helps regulate cholesterol levels and improves cardiovascular health.</li>
-            <li><strong>Energy Booster:</strong> Packed with essential vitamins and minerals for overall vitality.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Uses of Black Gram</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Whole Black Gram:</strong> Used in soups, curries, and slow-cooked dishes.</li>
-            <li><strong>Split Black Gram:</strong> Used in dals and quick-cooking meals.</li>
-            <li><strong>Black Gram Flour:</strong> Used in making papads, snacks, and Indian delicacies.</li>
-            <li><strong>Fermented Foods:</strong> A key ingredient in idli, dosa, and vada batter.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Why Choose Our Black Gram?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High Purity:</strong> 98% minimum purity.</li>
-            <li><strong>Premium Quality:</strong> Carefully processed and sorted for export quality.</li>
-            <li><strong>GMO-Free:</strong> Naturally grown without genetic modifications.</li>
-            <li><strong>Custom Packaging:</strong> Available in various sizes as per buyer's requirements.</li>
-            <li><strong>Long Shelf Life:</strong> 12-month shelf life ensures product freshness.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Leading Supplier & Exporter</strong></h2>
-          <br />
-          <p>We are a leading exporter of Black Gram, ensuring quality, reliability, and timely delivery for global markets. Our product meets international food safety standards, making us a trusted choice worldwide.</p>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>For bulk orders, pricing details, and customized packaging solutions, get in touch with us today!</p>
-          <br />
-
-          <p>Partner with us for the best quality Black Gram and experience excellence in every shipment!</p>
-        </div>
-      },
-
-      {
-        id: "8",
-        name: "Black Urad Lentils",
-        category: "pulses",
-        images: pulesProduct8, "Botanical Name": "Vigna mungo",
-        "Harvest Period": "Kharif Crop (Sept-Oct)",
-        "Purity": "98.00% Min",
-        "Moisture": "10% Max",
-        "Split": "2% Max",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "12 Months from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        "description": <div>
-          <h1><strong>Premium Quality Split Black Lentils (Urad Dal Split) Exporter</strong></h1>
-          <br />
-          <p>Split Black Lentils, also known as Urad Dal Split, are a nutritious and versatile ingredient that retains its skin, offering a rich and robust flavor. It is commonly used in various Indian and international cuisines for its distinct taste and high protein content.</p>
-          <br />
-          <h2><strong>Versatile Uses of Urad Dal Split</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Flour Production:</strong> Can be ground into a fine flour for baking and cooking.</li>
-            <li><strong>Paste Formation:</strong> Used in pastes for traditional dishes like dosa and idli.</li>
-            <li><strong>Rich in Protein:</strong> A great plant-based protein source for vegetarians and vegans.</li>
-            <li><strong>Traditional Curries:</strong> Used in soups, dals, and stews across different cuisines.</li>
-          </ul>
-          <br />
-          <h2><strong>Why Choose Our Split Black Lentils?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Premium Purity:</strong> Ensuring 98.00% purity with minimal splits.</li>
-            <li><strong>High-Quality Processing:</strong> Sortex and machine cleaned for superior hygiene.</li>
-            <li><strong>GMO-Free:</strong> Naturally cultivated without genetic modifications.</li>
-            <li><strong>Custom Packaging:</strong> Available in multiple packaging sizes and materials.</li>
-            <li><strong>Extended Shelf Life:</strong> Stays fresh for up to 12 months.</li>
-          </ul>
-          <br />
-          <h2><strong>Leading Exporter of Urad Dal Split</strong></h2>
-          <br />
-          <p>India is one of the largest producers and exporters of Urad Dal Split. With increasing demand worldwide, we ensure top-quality supply to meet international standards. We specialize in bulk orders and customized packaging solutions.</p>
-          <br />
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>We are committed to providing premium quality Urad Dal Split to global markets. For inquiries regarding pricing, bulk orders, and customization options, feel free to reach out to us.</p>
-          <br />
-          <p>Partner with us for the finest quality Split Black Lentils and experience excellence in every shipment. Get in touch today!</p>
-        </div>
-      },
-
-      {
-        id: "9",
-        name: "Red Kidney Beans",
-        category: "pulses",
-        images: pulesProduct9,
-        "Botanical Name": "Phaseolus vulgaris L.",
-        "Harvest Period": "February-March",
-        "Purity": "99.00% Min",
-        "Moisture": "12% Max",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "1 Year from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        "description": <div>
-          <h1><strong>Premium Quality Kidney Beans Exporter</strong></h1>
-          <br />
-          <p>Kidney beans, scientifically known as <strong>Phaseolus vulgaris L.</strong>, are a type of common bean that undergoes a drying process, making them available all year round. They are easily recognizable by their reddish-brown color and characteristic kidney shape.</p>
-          <br />
-          <h2><strong>Why Kidney Beans?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Rich Flavor:</strong> Kidney beans possess a distinct taste that complements both hot and cold dishes.</li>
-            <li><strong>Versatile Usage:</strong> A staple in Mexican and Indian cuisines, used in curries, salads, and stews.</li>
-            <li><strong>High Nutritional Value:</strong> Packed with protein, fiber, and essential minerals.</li>
-            <li><strong>Long Shelf Life:</strong> Can be stored for extended periods while maintaining quality.</li>
-          </ul>
-          <br />
-          <h2><strong>Our Kidney Beans Export Standards</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Superior Purity:</strong> 99.00% minimum purity.</li>
-            <li><strong>Quality Processing:</strong> Sortex and machine cleaned for enhanced hygiene.</li>
-            <li><strong>GMO-Free:</strong> 100% natural and free from genetic modifications.</li>
-            <li><strong>Custom Packaging:</strong> Available in various sizes and materials as per buyer's requirements.</li>
-            <li><strong>Global Compliance:</strong> Adheres to international import norms and standards.</li>
-          </ul>
-          <br />
-          <h2><strong>Leading Kidney Beans Supplier & Exporter</strong></h2>
-          <br />
-          <p>India is a major producer and exporter of kidney beans, supplying them to multiple countries worldwide. Due to their growing demand, the export of kidney beans from India has significantly increased over the years, generating substantial revenue for Indian exporters.</p>
-          <br />
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>As a leading exporter of kidney beans, we ensure high-quality products and exceptional service. Whether you're looking for bulk supply or customized packaging, we cater to your specific requirements.</p>
-          <br />
-          <p>Partner with us for premium kidney beans and experience excellence in every shipment. Reach out today for pricing and order details!</p>
-        </div>
-      },
-
-      {
-        id: "10",
-        name: "Quinoa Seeds",
-        category: "pulses",
-        images: pulesProduct10,
-        "Botanical Name": "Sorghum",
-        "Purity": "99% Min",
-        "Color": "100% natural Creamy Yellow",
-        "Moisture": "12% Max",
-        "Foreign Matter": "1% Max",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "12 Months from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        "description": <div>
-          <h1><strong>Premium Quality Sorghum (Jowar) Exporter</strong></h1>
-          <br />
-          <p>Sorghum, scientifically known as <strong>Sorghum</strong>, is a robust grass with edible starchy seeds, widely used across various industries. In India, it is commonly known as <strong>Jowar, Cholam, or Jonna</strong>, and it is a staple food grain due to its high nutritional value.</p>
-          <br />
-          <h2><strong>Why Choose Sorghum?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Rich in Nutrients:</strong> Sorghum is packed with proteins, dietary fiber, and essential minerals.</li>
-            <li><strong>Gluten-Free Alternative:</strong> An excellent grain choice for gluten-free diets.</li>
-            <li><strong>Versatile Applications:</strong> Used in food, animal feed, and biofuel industries.</li>
-            <li><strong>100% Natural:</strong> Creamy yellow color with no artificial additives.</li>
-          </ul>
-          <br />
-          <h2><strong>Our Sorghum Export Standards</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High Purity:</strong> 99% minimum purity ensures premium quality.</li>
-            <li><strong>Quality Assurance:</strong> Processed with advanced cleaning techniques.</li>
-            <li><strong>GMO-Free:</strong> Naturally cultivated without genetic modifications.</li>
-            <li><strong>Custom Packaging:</strong> Available in multiple sizes and materials as per buyer's requirements.</li>
-            <li><strong>International Compliance:</strong> Meets global import standards and norms.</li>
-          </ul>
-          <br />
-          <h2><strong>Leading Sorghum Supplier & Exporter</strong></h2>
-          <br />
-          <p>India is one of the largest producers of sorghum, with a growing demand worldwide. The export of <strong>Jowar</strong> has significantly increased in recent years, offering a great opportunity for Indian exporters to expand into global markets.</p>
-          <br />
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>As a trusted sorghum exporter, we are committed to delivering high-quality Jowar to international buyers. Whether you need bulk quantities or customized packaging, we cater to your specific requirements.</p>
-          <br />
-          <p>Partner with us for premium sorghum and experience excellence in every shipment. Get in touch today for pricing and order details!</p>
-        </div>
-      },
-
-      {
-        id: "11",
-        name: "Red Quinoa",
-        category: "pulses",
-        images: pulesProduct11,
-        "Purity": "99%",
-        "Feature": "Fat Free, Gluten Free",
-        "Packaging Type": "Plastic Bag",
-        "Storage Instruction": "Cool And Dry Place",
-        "Botanical Name": "Chenopodium quinoa",
-        "Packing Size": "15KG, 25KG, 30KG, 50KG",
-        "Packing Material": "PP Bags, Gunny Bags, Paper Bags",
-        "Moisture": "12% Max",
-        "Foreign Matters": "2% Max",
-        "Foreign Matter": "0.01",
-        "description": <div>
-          <h1><strong>Premium Quality Red Quinoa Exporter</strong></h1>
-          <br />
-          <p>Red Quinoa, scientifically known as <strong>Chenopodium quinoa</strong>, is a highly nutritious, gluten-free pseudocereal packed with protein, fiber, and essential vitamins and minerals. It has a slightly nutty flavor and a firm texture, making it a great addition to a variety of dishes.</p>
-          <br />
-
-          <h2><strong>Health Benefits of Red Quinoa</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Rich in Protein:</strong> Contains all nine essential amino acids, making it a complete protein source.</li>
-            <li><strong>High in Fiber:</strong> Supports digestion and promotes gut health.</li>
-            <li><strong>Loaded with Antioxidants:</strong> Higher antioxidant content than other quinoa varieties, contributing to heart health.</li>
-            <li><strong>Gluten-Free:</strong> A perfect grain substitute for those with gluten intolerance or celiac disease.</li>
-            <li><strong>Low Glycemic Index:</strong> Helps regulate blood sugar levels, making it ideal for diabetics.</li>
-            <li><strong>Rich in Essential Minerals:</strong> Contains iron, magnesium, phosphorus, and zinc for overall well-being.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Why Choose Our Red Quinoa?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High Purity:</strong> 99% purity with minimal foreign matter.</li>
-            <li><strong>Premium Packaging:</strong> Available in various sizes with high-quality packaging materials for extended shelf life.</li>
-            <li><strong>Strict Quality Control:</strong> Ensures that the quinoa meets international food safety standards.</li>
-            <li><strong>Long Shelf Life:</strong> Stays fresh for an extended period when stored in a cool, dry place.</li>
-            <li><strong>Custom Labeling:</strong> Packaging and labeling can be customized as per buyer's requirements.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Applications of Red Quinoa</strong></h2>
-          <br />
-          <p>Red Quinoa is widely used in:</p>
-          <ul>
-            <li>Salads and grain bowls</li>
-            <li>Soups and stews</li>
-            <li>Breakfast cereals and porridge</li>
-            <li>Baking and gluten-free recipes</li>
-            <li>Health food and vegan meal preparations</li>
-          </ul>
-          <br />
-
-          <h2><strong>Leading Supplier & Exporter</strong></h2>
-          <br />
-          <p>As a trusted exporter of Red Quinoa, we ensure that our product meets the highest quality standards and is sourced from the best farms. Our extensive experience in the export industry allows us to provide bulk orders with timely deliveries to international markets.</p>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>For bulk inquiries, customized packaging options, and pricing details, reach out to us today. We are committed to delivering the best quality Red Quinoa to meet your business needs.</p>
-          <br />
-
-          <p>Choose us as your preferred supplier and experience excellence in every shipment!</p>
-        </div>
-      },
-
-      {
-        id: "12",
-        name: "Green Lentils",
-        category: "pulses",
-        images: pulesProduct12,
-        "Botanical Name": "Lens culinaris",
-        "Harvest Period": "February-March",
-        "Purity": "99.00% Min",
-        "Moisture": "12% Max",
-        "Type": "Sortex Cleaned, Machine Cleaned",
-        "Micro Test Parameter": "As per Requirement & Importing Country Norms",
-        "Shelf Life": "12 Months from Production Date",
-        "GMOStatus": "GMO Free",
-        "Specifications": "A Comprehensive specification can be provided upon request",
-        "Labelling": "As Per Buyer's Requirement",
-        "Packing": "10 Kg, 15 Kgs, 25 Kgs / Lbs, PP Bags, Paper Bags, Jute Bags",
-        "description": <div>
-          <h1><strong>Premium Quality Green Lentils Exporter</strong></h1>
-          <br />
-          <p>Green Lentils, scientifically known as <strong>Lens culinaris</strong>, are a highly nutritious and versatile legume commonly used in a variety of cuisines worldwide. They have a firm texture and hold their shape well after cooking, making them ideal for salads, soups, and stews.</p>
-          <br />
-
-          <h2><strong>Health Benefits of Green Lentils</strong></h2>
-          <br />
-          <ul>
-            <li><strong>High in Protein:</strong> A great plant-based protein source.</li>
-            <li><strong>Rich in Fiber:</strong> Aids in digestion and promotes gut health.</li>
-            <li><strong>Heart Health:</strong> Helps in managing cholesterol levels.</li>
-            <li><strong>Rich in Iron & Folate:</strong> Essential for red blood cell production.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Uses of Green Lentils</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Soups & Stews:</strong> Retains texture, making them perfect for hearty meals.</li>
-            <li><strong>Salads:</strong> Adds protein and fiber to salads.</li>
-            <li><strong>Pilafs & Side Dishes:</strong> Pairs well with grains and vegetables.</li>
-            <li><strong>Vegetarian Protein:</strong> Used in plant-based meat substitutes.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Why Choose Our Green Lentils?</strong></h2>
-          <br />
-          <ul>
-            <li><strong>Premium Quality:</strong> 99% purity with uniform size and texture.</li>
-            <li><strong>Non-GMO & Natural:</strong> Cultivated using sustainable farming methods.</li>
-            <li><strong>Custom Packaging:</strong> Available in multiple sizes as per buyer’s requirements.</li>
-            <li><strong>Long Shelf Life:</strong> Stays fresh for up to 12 months.</li>
-          </ul>
-          <br />
-
-          <h2><strong>Leading Supplier & Exporter</strong></h2>
-          <br />
-          <p>We are a trusted exporter of high-quality Green Lentils, ensuring consistency, purity, and timely deliveries. Our commitment to quality makes us a preferred choice in the global market.</p>
-          <br />
-
-          <h2><strong>Contact Us</strong></h2>
-          <br />
-          <p>For bulk inquiries, pricing, and packaging options, reach out to us today!</p>
-          <br />
-
-          <p>Choose us as your reliable Green Lentils supplier and experience unmatched quality in every order!</p>
-        </div>
       },
     ],
   },
