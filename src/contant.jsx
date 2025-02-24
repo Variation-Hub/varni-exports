@@ -31,6 +31,7 @@ import onionImage from "./assets/Categories/7.png";
 import peanutsImage from "./assets/Categories/8.png";
 import dehydratedProductImages from "./assets/Categories/9.png";
 import fruitsandvefetableImages from "./assets/Categories/10.png";
+import pulesImage from "./assets/Categories/13.png";
 import roastedGramImage from "./assets/Categories/11.png";
 import othersImage from "./assets/Categories/12.png";
 
@@ -5742,7 +5743,7 @@ export const catagories = [
     name: "Pulses",
     path: "/products/pulses",
     catagoriesId: "pulses",
-    image: othersImage,
+    image: pulesImage,
     description:
       "Enjoy our premium pulses: protein-packed chickpeas for hearty meals, nutrient-rich lentils for wholesome soups and stews, fiber-rich black gram for traditional dishes, and flavorful pigeon peas for delicious curries. Each variety is carefully sourced and processed to ensure superior taste, quality, and health benefits, making every meal nutritious and satisfying.",
     products_detail: [
