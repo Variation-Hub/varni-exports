@@ -38,6 +38,8 @@ function SampleNextArrow(props) {
       className={Style.sample_arrow}
       style={{ ...styleButton, right: "1rem" }}
       onClick={onClick}
+      aria-label="Next slide"
+      role="button"
     >&gt;</div>
   );
 }
@@ -49,6 +51,8 @@ function SamplePrevArrow(props) {
       className={Style.sample_arrow}
       style={{ ...styleButton, left: "1rem" }}
       onClick={onClick}
+      aria-label="Previous slide"
+      role="button"
     > &lt; </div>
   );
 }
@@ -74,7 +78,7 @@ const Home = () => {
 
   return (
     <>
-      <div className={Style.sliderImages}>
+      <section className={Style.sliderImages} aria-label="Featured Products">
         <Slider
           {...settings}
           beforeChange={(oldIndex, newIndex) => handleSlideChange(newIndex)}
@@ -84,7 +88,11 @@ const Home = () => {
               key={index}
               className={Style.slider_component}
             >
-              <img src={slider.image} alt={`Slide ${index + 1}`} />
+              <img 
+                src={slider.image} 
+                alt={`Varni Exports - ${slider.title}`} 
+                loading="eager" 
+              />
               <div
                 className={`${Style.sliderText}`}
                 key={activeSlide === index}
@@ -95,29 +103,29 @@ const Home = () => {
             </div>
           ))}
         </Slider>
-      </div>
+      </section>
 
-
-      <div className={Style.commit_container}>
+      <section className={Style.commit_container} aria-label="Our Commitments">
+        <h2 className="sr-only">Our Commitments</h2>
         {commitmentSection.map((commit, index) => {
           return (
-            <section className={Style.commitmentSection} key={index}>
-              <div>{commit.logo}</div>
-              <h2>{commit.title}</h2>
-              <article>{commit.description}</article>
-            </section>
+            <article className={Style.commitmentSection} key={index}>
+              <div aria-hidden="true">{commit.logo}</div>
+              <h2 className="text-xl font-semibold">{commit.title}</h2>
+              <p className="text-center">{commit.description}</p>
+            </article>
           );
         })}
-      </div>
+      </section>
 
-      <div className="w-4/5 border-b-2 relative left-1/2 -translate-x-1/2 p-10"></div>
+      <div className="w-4/5 border-b-2 relative left-1/2 -translate-x-1/2 p-10" aria-hidden="true"></div>
 
-      <h1 className="text-center text-3xl m-12">Our Services</h1>
-      <section className={`flex flex-col mt-16`}>
+      <section className="my-12" aria-label="Our Services">
+        <h2 className="text-center text-3xl m-12 font-bold">Our Services</h2>
         <div className={`flex justify-around ${Style.card_section}`}>
           {[importDetails, privateLableDetails, exportDetails].map((item) => {
             return (
-              <div
+              <article
                 className={`relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md ${Style.Card}`}
                 key={item?.title}
               >
@@ -129,25 +137,27 @@ const Home = () => {
                     backgroundPosition: "center",
                     backgroundRepeat: "no-repeat",
                   }}
+                  role="img"
+                  aria-label={`${item?.title} service thumbnail`}
                 ></div>
                 <div className="p-6">
-                  <h5 className="mb-2 block text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
+                  <h3 className="mb-2 block text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
                     {item?.title}
-                  </h5>
+                  </h3>
                   <p className="block font-light leading-relaxed text-inherit antialiased text-justify text-sm">
                     {`${item?.Description.slice(0, 185)}.....`}
                   </p>
                 </div>
-                <Link to={item?.path} className="p-6 pt-0">
-                  <button
-                    data-ripple-light="true"
-                    type="button"
-                    className={`absolute right-3 bottom-3 select-none rounded-lg bg-[#003C54] py-3 px-6 text-center align-middle text-xs font-bold uppercase text-white shadow-md shadow-blue-500/20 transition-all hover:shadow-lg hover:shadow-blue-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none ${Style.read_more}`}
+                <div className="p-6 pt-0">
+                  <Link 
+                    to={item?.path} 
+                    className="absolute right-3 bottom-3 select-none rounded-lg bg-[#003C54] py-3 px-6 text-center align-middle text-xs font-bold uppercase text-white shadow-md shadow-blue-500/20 transition-all hover:shadow-lg hover:shadow-blue-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+                    aria-label={`Read more about ${item?.title}`}
                   >
                     Read More
-                  </button>
-                </Link>
-              </div>
+                  </Link>
+                </div>
+              </article>
             );
           })}
         </div>

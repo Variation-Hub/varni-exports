@@ -4,8 +4,9 @@ import logo from "../../assets/logo.png";
 import Footer from "../Footer";
 import Navbar from "../Navbar";
 import ScrollToTop from "../scrollToTop";
+import SEO from "../SEO";
 
-function Layout({ children }) {
+function Layout({ children, seoProps }) {
   const [open, setOpen] = useState(true);
   const [formData, setFormData] = useState({
     fullName: "",
@@ -20,6 +21,7 @@ function Layout({ children }) {
 
   return (
     <div>
+      <SEO {...seoProps} />
       <ScrollToTop />
       <Navbar />
       <main>{children}</main>
