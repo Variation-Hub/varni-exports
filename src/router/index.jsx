@@ -15,19 +15,23 @@ const router = createBrowserRouter([
   {
     path: '/',
     element: <Layout seoProps={{
-      title: 'Varni Exports - Premium Indian Spices & Food Products',
-      description: 'Discover premium quality Indian spices, food products, and agricultural commodities from Varni Exports, India\'s trusted export partner for global businesses.',
+      title: 'Agriculture Products Manufacturers, Suppliers, and Exporters in India: Varni Exports',
+      description: 'Varni Exports is a leading agriculture product manufacturer, supplier, and exporter in India. Specializing in peanuts, spices, sesame seeds, garlic, rice, wheat, pulses, and raisins, we deliver premium-quality products to global markets. Explore our range for excellence in quality and reliability.',
       keywords: 'Indian exports, spices, food products, agricultural exports, Varni Exports',
       canonicalUrl: 'https://varniexports.com'
     }}><Home /></Layout>,
   },
   {
     path: 'products',
+    element: <Navigate to="/all-products" replace />,
+  },
+  {
+    path: 'all-products',
     element: <Layout seoProps={{
       title: 'Products - Varni Exports | Premium Indian Products',
       description: 'Explore our extensive catalog of premium Indian spices, food products and agricultural commodities. High-quality products from Varni Exports.',
       keywords: 'Indian products, export products, spices, food products, agricultural products',
-      canonicalUrl: 'https://varniexports.com/products'
+      canonicalUrl: 'https://varniexports.com/all-products'
     }}><Products /></Layout>,
   },
   {
@@ -68,11 +72,15 @@ const router = createBrowserRouter([
   },
   {
     path: 'services/private-lable',
+    element: <Navigate to="/services/private-lablel" replace />,
+  },
+  {
+    path: 'services/private-lablel',
     element: <Layout seoProps={{
       title: 'Private Label Services - Varni Exports',
       description: 'Custom private label solutions for your business. Create your own branded products with Varni Exports premium quality ingredients.',
       keywords: 'private label, custom products, white label, branded products, Varni Exports',
-      canonicalUrl: 'https://varniexports.com/services/private-lable'
+      canonicalUrl: 'https://varniexports.com/services/private-lablel'
     }}><PrivateLable /></Layout>
   },
   {

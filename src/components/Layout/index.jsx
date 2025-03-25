@@ -5,6 +5,7 @@ import Footer from "../Footer";
 import Navbar from "../Navbar";
 import ScrollToTop from "../scrollToTop";
 import SEO from "../SEO";
+import RedirectHandler from "../RedirectHandler";
 
 function Layout({ children, seoProps }) {
   const [open, setOpen] = useState(true);
@@ -23,6 +24,7 @@ function Layout({ children, seoProps }) {
     <div>
       <SEO {...seoProps} />
       <ScrollToTop />
+      <RedirectHandler />
       <Navbar />
       <main>{children}</main>
       <Footer />
