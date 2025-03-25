@@ -18,7 +18,6 @@ function Category() {
       (category) => category.catagoriesId === categoryId
     );
     
-    // If not found, try with the normalized version
     if (!category) {
       category = catagories.find(
         (category) => category.catagoriesId === normalizedCategoryId
