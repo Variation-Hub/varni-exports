@@ -1,7 +1,6 @@
 import { Link, useParams } from 'react-router-dom'
 import style from '../ProductDetail/style.module.css'
 import { catagories } from '../../contant'
-import Markdown from 'react-markdown'
 import { useEffect, useState } from 'react'
 import Style from './style.module.css'
 import {
@@ -13,16 +12,23 @@ import {
   TableRow,
   Dialog,
 } from '@mui/material';
-import { Message } from 'rsuite';
 import ReactImageMagnify from 'react-image-magnify'
 
 function Category() {
-
-
   const { categoryId, subcategoryId, productId } = useParams();
   const [suggestedCategory, setSuggestedCategory] = useState([]);
   const [data, setData] = useState(null);
   const [data2, setData2] = useState(null);
+
+  // Normalize helper function
+  const normalizeParam = (param) => {
+    return param ? param.replace(/-/g, ' ') : param;
+  };
+
+  // Format URL parameter helper function
+  const formatUrlParam = (param) => {
+    return param ? param.replace(/\s+/g, '-') : '';
+  };
 
   const [open, setOpen] = useState(false);
   const [enquiryData, setEnquiryData] = useState({
@@ -82,7 +88,7 @@ function Category() {
     })
       .then(response => {
         if (response.ok) {
-          console.log('Email sent successfully');
+          console.log('Email sent successfully')
         }
       })
       .catch(error => {
@@ -92,26 +98,88 @@ function Category() {
   };
 
   useEffect(() => {
-    if (categoryId === "spices" && ["ground-spices", "whole-spices"].includes(subcategoryId)) {
-      if (productId) {
-        const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
-        const productData = category?.find(item => item.subCatagoriesId === subcategoryId)?.products_detail || null;
-        setSuggestedCategory(productData);
-        const deailtData = productData?.find(item => item.name === productId) || null;
-        setData2(deailtData);
-      } else {
-        const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
-        setSuggestedCategory(category);
-        const productData = category?.find(item => item.subCatagoriesId === subcategoryId) || null;
-        setData(productData);
+    try {
+      // Normalize parameters
+      const normalizedCategoryId = normalizeParam(categoryId);
+      const normalizedSubcategoryId = normalizeParam(subcategoryId);
+      const normalizedProductId = normalizeParam(productId);
+      
+      // Find category - first try exact match, then try normalized
+      let categoryData = catagories.find(cat => cat.catagoriesId === categoryId);
+      if (!categoryData) {
+        categoryData = catagories.find(cat => cat.catagoriesId === normalizedCategoryId);
       }
-    } else {
-      const category = catagories.find(category => category.catagoriesId === categoryId)?.products_detail;
-      setSuggestedCategory(category);
-      const subCategory = category.find(item => item.name === subcategoryId);
-      setData(subCategory);
+      
+      // Safety check for undefined category
+      if (!categoryData || !categoryData.products_detail) {
+        console.warn(`Category not found for ID: ${categoryId}`);
+        return;
+      }
+      
+      const category = categoryData.products_detail;
+      
+      if (categoryId === "spices" || normalizedCategoryId === "spices") {
+        const validSubcategories = ["ground-spices", "whole-spices", "ground spices", "whole spices"];
+        
+        if (validSubcategories.includes(subcategoryId) || validSubcategories.includes(normalizedSubcategoryId)) {
+          if (productId) {
+            // Try to find subcategory with different formats
+            let subcategoryData = category.find(item => item.subCatagoriesId === subcategoryId);
+            if (!subcategoryData) {
+              subcategoryData = category.find(item => item.subCatagoriesId === normalizedSubcategoryId);
+            }
+            
+            // Safety check for undefined subcategory
+            if (!subcategoryData || !subcategoryData.products_detail) {
+              console.warn(`Subcategory not found for ID: ${subcategoryId}`);
+              return;
+            }
+            
+            const productData = subcategoryData.products_detail;
+            setSuggestedCategory(productData);
+            
+            // Try match with original ID
+            let detailData = productData.find(item => item.name === productId);
+            // If no match, try with normalized ID
+            if (!detailData) {
+              detailData = productData.find(item => item.name === normalizedProductId);
+            }
+            
+            setData2(detailData);
+          } else {
+            setSuggestedCategory(category);
+            
+            // Try match with original subcategory ID
+            let productData = category.find(item => item.subCatagoriesId === subcategoryId);
+            // If no match, try with normalized subcategory ID
+            if (!productData) {
+              productData = category.find(item => item.subCatagoriesId === normalizedSubcategoryId);
+            }
+            
+            setData(productData);
+          }
+        }
+      } else {
+        setSuggestedCategory(category);
+        
+        // Try match with original subcategory ID
+        let subCategory = category.find(item => item.name === subcategoryId);
+        // If no match, try with normalized subcategory ID
+        if (!subCategory) {
+          subCategory = category.find(item => item.name === normalizedSubcategoryId);
+        }
+        
+        setData(subCategory);
+      }
+    } catch (error) {
+      console.error("Error processing product data:", error);
     }
   }, [categoryId, subcategoryId, productId]);
+
+  // Handle cases where data isn't loaded yet
+  if (!data && !data2 && categoryId !== "spices") {
+    return <div className="p-10 text-center">Loading product details...</div>;
+  }
 
   return (
     <>
@@ -121,13 +189,12 @@ function Category() {
             <div className={style.productSection}>
               <h1 className={style.productName}>{data2?.name}</h1>
               <div className={`flex items-center justify-around gap-24 w-[80%] ${Style.details_head}`}>
-                {data2 && (
+                {data2 && data2.images && (
                   <div className={style.image}>
-                    {/* <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" /> */}
                     <ReactImageMagnify
                       {...{
                         smallImage: {
-                          alt: 'Original Image',
+                          alt: data2.name || 'Product Image',
                           isFluidWidth: true,
                           src: data2.images
                         },
@@ -180,29 +247,39 @@ function Category() {
 
               <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
                 <h1 className='text-2xl mb-4'>Other Products</h1>
-                {suggestedCategory?.map((item) => (
-                  <Link to={`/products/${categoryId}/${subcategoryId}/${item.name}`} key={item.id} className={style.productLink}>
-                    <div className={style.productThumbnail}>
-                      <div className='w-16 rounded-full h-16 overflow-hidden flex justify-center items-center'>
-                        <img src={item.images} alt="" width="100%" height="100%" />
+                {suggestedCategory?.map((item) => {
+                  if (!item || !item.name) return null;
+                  
+                  // Format the product name for URL
+                  const formattedProductName = formatUrlParam(item.name);
+                  return (
+                    <Link to={`/products/${categoryId}/${subcategoryId}/${formattedProductName}`} key={item.id || formattedProductName} className={style.productLink}>
+                      <div className={style.productThumbnail}>
+                        <div className='w-16 rounded-full h-16 overflow-hidden flex justify-center items-center'>
+                          <img src={item.images} alt={item.name} width="100%" height="100%" />
+                        </div>
+                        <p>{item.name}</p>
                       </div>
-                      <p>{item.name}</p>
-                    </div>
-                  </Link>
-                ))}
+                    </Link>
+                  );
+                })}
               </div>
             </div>
           </div>
           :
           <div className={Style.product_container}>
             {data?.products_detail?.map((item) => {
+              if (!item || !item.name) return null;
+              
+              // Format the product name for URL
+              const formattedProductName = formatUrlParam(item.name);
               return (
                 <Link
-                  to={`/products/${categoryId}/${subcategoryId}/${item.name}`}
-                  key={item.id}
-                  className={`flex flex-col items-center justify-between  ${Style.images}`}
+                  to={`/products/${categoryId}/${subcategoryId}/${formattedProductName}`}
+                  key={item.id || formattedProductName}
+                  className={`flex flex-col items-center justify-between ${Style.images}`}
                 >
-                  <img className="w-[220px]" src={item?.images} alt="" />
+                  <img className="w-[220px]" src={item?.images} alt={item.name || ''} />
                   <h1 className={Style.productt_name}>{item.name}</h1>
                 </Link>
               );
@@ -213,16 +290,12 @@ function Category() {
           <div className={style.productSection}>
             <h1 className={style.productName}>{data?.name}</h1>
             <div className={`flex items-center justify-around gap-24 w-[80%] ${Style.details_head}`}>
-              {/* <div className={style.image}>
-                <img src={data?.images} alt={`${data?.name} image`} width="100%" height="100%" />
-              </div> */}
-              {data && (
+              {data && data.images && (
                 <div className={style.image}>
-                  {/* <img src={data2?.images} alt={`${data2?.name} image`} width="100%" height="100%" /> */}
                   <ReactImageMagnify
                     {...{
                       smallImage: {
-                        alt: 'Original Image',
+                        alt: data.name || 'Product Image',
                         isFluidWidth: true,
                         src: data.images
                       },
@@ -275,16 +348,22 @@ function Category() {
             <div className={`flex flex-col gap-5 mr-10 ${Style.other_product}`}>
 
               <h1 className='text-2xl mb-4'>Other Products</h1>
-              {suggestedCategory?.map((item) => (
-                <Link to={`/products/${categoryId}/${item.name}`} key={item.id} className={style.productLink}>
-                  <div className={style.productThumbnail}>
-                    <div className='w-16 rounded-full h-16 overflow-hidden flex justify-center items-center'>
-                      <img src={item.images} alt="" width="100%" height="100%" />
+              {suggestedCategory?.map((item) => {
+                if (!item || !item.name) return null;
+                
+                // Format the product name for URL
+                const formattedProductName = formatUrlParam(item.name);
+                return (
+                  <Link to={`/products/${categoryId}/${formattedProductName}`} key={item.id || formattedProductName} className={style.productLink}>
+                    <div className={style.productThumbnail}>
+                      <div className='w-16 rounded-full h-16 overflow-hidden flex justify-center items-center'>
+                        <img src={item.images} alt={item.name || ''} width="100%" height="100%" />
+                      </div>
+                      <p>{item.name}</p>
                     </div>
-                    <p>{item.name}</p>
-                  </div>
-                </Link>
-              ))}
+                  </Link>
+                );
+              })}
             </div>
           </div>
 
@@ -412,6 +491,4 @@ function Category() {
   );
 }
 
-
-
-export default Category
+export default Category;

@@ -3,15 +3,27 @@ import Style from "./style.module.css";
 import productStyle from "../Products/style.module.css";
 import { catagories } from "../../contant";
 import { useEffect, useState } from "react";
+
 function Category() {
   const { categoryId } = useParams();
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    const category = catagories.find(
+    // Normalize categoryId by converting hyphens to spaces for data lookup
+    // but keep the original hyphenated version for URLs
+    const normalizedCategoryId = categoryId.replace(/-/g, ' ');
+    
+    // Try to find by exact match first
+    let category = catagories.find(
       (category) => category.catagoriesId === categoryId
     );
-    console.log(category, categoryId);
+    
+    // If not found, try with the normalized version
+    if (!category) {
+      category = catagories.find(
+        (category) => category.catagoriesId === normalizedCategoryId
+      );
+    }
     setData(category);
   }, [categoryId]);
 
@@ -51,27 +63,18 @@ function Category() {
       ) : (
         <div className={Style.product_container}>
           {data?.products_detail?.map((item) => {
+            // Normalize product name for URL by replacing spaces with hyphens
+            const normalizedProductName = item.name.replace(/\s+/g, '-');
+            
             return (
               <Link
-                to={`/products/${categoryId}/${item.name}`}
+                to={`/products/${categoryId}/${normalizedProductName}`}
                 key={item.id}
                 className={`flex flex-col items-center justify-between  ${Style.images}`}
               >
-                <img className="w-[220px]" src={item?.images} alt="" />
+                <img className="w-[220px]" src={item?.images} alt={item.name} />
                 <h1 className={Style.productt_name}>{item.name}</h1>
               </Link>
-            //    <Link
-            //    to={`/products/${categoryId}/${item.name}`}
-            //    key={item.id}
-            //    className={`flex flex-col items-center justify-between relative ${Style.images}`}
-            //  >
-            //    <img className="w-[220px]" src={item?.images} alt={item.name} />
-            //    <div
-            //      className={`${Style.productt_name} rotate-6 absolute -bottom-5 left-0 right-0 text-white bg-[var(--primary-color)] opacity-0 transition-opacity duration-300 ease-in-out`}
-            //    >
-            //      <h1 className="-rotate-6">{item.name}</h1>
-            //    </div>
-            //  </Link>
             );
           })}
         </div>

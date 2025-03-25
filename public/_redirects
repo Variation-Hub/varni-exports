@@ -1,0 +1,63 @@
+# Redirect from old URLs to new URLs with 301 status code
+/products /all-products 301
+/services/private-lable /services/private-lablel 301
+
+# Redirects for URLs with spaces to hyphenated URLs
+/products/sesame%20seeds/* /products/sesame-seeds/:splat 301
+/products/peanuts/Bold%20Peanut%20Seeds /products/peanuts/Bold-Peanut-Seeds 301
+/products/peanuts/Java%20Peanut%20Seed /products/peanuts/Java-Peanut-Seed 301
+/products/peanuts/Blanched%20Peanut%20Seeds /products/peanuts/Blanched-Peanut-Seeds 301
+/products/peanuts/Ground%20Nuts /products/peanuts/Ground-Nuts 301
+/products/peanuts/Roasted%20Peanuts /products/peanuts/Roasted-Peanuts 301
+/products/peanuts/TJ%20Peanut /products/peanuts/TJ-Peanut 301
+/products/sesame%20seeds/Natural%20Sesame%20Seeds /products/sesame-seeds/Natural-Sesame-Seeds 301
+/products/sesame%20seeds/Black%20Sesame%20Seeds /products/sesame-seeds/Black-Sesame-Seeds 301
+/products/sesame%20seeds/Brown%20Sesame%20Seeds /products/sesame-seeds/Brown-Sesame-Seeds 301
+/products/sesame%20seeds/Hulled%20Sesame%20Seeds /products/sesame-seeds/Hulled-Sesame-Seeds 301
+/products/sesame%20seeds/Roasted%20Sesame%20Seeds /products/sesame-seeds/Roasted-Sesame-Seeds 301
+/products/pulses/Soya%20Beans /products/pulses/Soya-Beans 301
+/products/pulses/Black%20Eyed%20Peas /products/pulses/Black-Eyed-Peas 301
+/products/pulses/Green%20Gram /products/pulses/Green-Gram 301
+/products/pulses/Green%20Moong%20Lentils /products/pulses/Green-Moong-Lentils 301
+/products/pulses/Yellow%20Lentils /products/pulses/Yellow-Lentils 301
+/products/pulses/Black%20Gram /products/pulses/Black-Gram 301
+/products/pulses/Black%20Urad%20Lentils /products/pulses/Black-Urad-Lentils 301
+/products/pulses/Red%20Kidney%20Beans /products/pulses/Red-Kidney-Beans 301
+/products/pulses/Quinoa%20Seeds /products/pulses/Quinoa-Seeds 301
+/products/pulses/Red%20Quinoa /products/pulses/Red-Quinoa 301
+/products/pulses/Green%20Lentils /products/pulses/Green-Lentils 301
+/products/dehydrated-product/Dehydrated%20Red%20Onion%20Flakes /products/dehydrated-product/Dehydrated-Red-Onion-Flakes 301
+/products/dehydrated-product/Dehydrated%20White%20Onion%20Flakes /products/dehydrated-product/Dehydrated-White-Onion-Flakes 301
+/products/dehydrated-product/Dehydrated%20Pink%20Onion%20Flakes /products/dehydrated-product/Dehydrated-Pink-Onion-Flakes 301
+/products/dehydrated-product/Dehydrated%20Red%20Onion%20Powder /products/dehydrated-product/Dehydrated-Red-Onion-Powder 301
+/products/dehydrated-product/Dehydrated%20White%20Onion%20Powder /products/dehydrated-product/Dehydrated-White-Onion-Powder 301
+/products/dehydrated-product/Dehydrated%20Pink%20Onion%20Powder /products/dehydrated-product/Dehydrated-Pink-Onion-Powder 301
+/products/dehydrated-product/Dehydrated%20Garlic%20Cloves /products/dehydrated-product/Dehydrated-Garlic-Cloves 301
+/products/dehydrated-product/Dehydrated%20Garlic%20Flakes /products/dehydrated-product/Dehydrated-Garlic-Flakes 301
+/products/dehydrated-product/Dehydrated%20Garlic%20Powder /products/dehydrated-product/Dehydrated-Garlic-Powder 301
+/products/dehydrated-product/Ginger%20Flakes /products/dehydrated-product/Ginger-Flakes 301
+/products/dehydrated-product/Ginger%20Powder /products/dehydrated-product/Ginger-Powder 301
+/products/raisins/Golden%20Raisins /products/raisins/Golden-Raisins 301
+/products/raisins/Golden%20Long%20Raisins /products/raisins/Golden-Long-Raisins 301
+/products/raisins/Golden%20Round%20Raisins /products/raisins/Golden-Round-Raisins 301
+/products/raisins/Green%20Raisins /products/raisins/Green-Raisins 301
+/products/raisins/Sultanas%20Raisins /products/raisins/Sultanas-Raisins 301
+/products/raisins/Black%20Raisins /products/raisins/Black-Raisins 301
+/products/raisins/Brown%20Raisins /products/raisins/Brown-Raisins 301
+/products/raisins/Yellow%20Raisins /products/raisins/Yellow-Raisins 301
+/products/onion/Red%20Onion /products/onion/Red-Onion 301
+/products/onion/Yellow%20Onion /products/onion/Yellow-Onion 301
+/products/onion/White%20Onions /products/onion/White-Onions 301
+/products/onion/Pink%20Onion /products/onion/Pink-Onion 301
+/products/grains/Green%20Millet /products/grains/Green-Millet 301
+/products/grains/Flax%20Seeds /products/grains/Flax-Seeds 301
+/products/grains/Sooji%20(Semolina) /products/grains/Sooji-(Semolina) 301
+/products/roasted-gram/Roasted%20Gram%20With%20Skin /products/roasted-gram/Roasted-Gram-With-Skin 301
+/products/roasted-gram/Roasted%20Gram%20Whole%20Without%20Skin /products/roasted-gram/Roasted-Gram-Whole-Without-Skin 301
+/products/roasted-gram/Roasted%20Gram%20Split%20Without%20Skin /products/roasted-gram/Roasted-Gram-Split-Without-Skin 301
+/products/other-products/Soya%20Chunks /products/other-products/Soya-Chunks 301
+/products/other-products/Poha%20Thin /products/other-products/Poha-Thin 301
+/products/other-products/Poha%20Thick /products/other-products/Poha-Thick 301
+
+# Fallback for SPA
+/* /index.html 200 

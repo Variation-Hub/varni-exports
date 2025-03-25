@@ -34,6 +34,17 @@
   <meta name="twitter:title" content="Varni Exports - Premium Indian Spices & Food Products Exports" />
   <meta name="twitter:description" content="Premium quality Indian spices, food products, and agricultural commodities from a trusted export partner." />
   
+  <!-- Error Handler for Third-Party Scripts -->
+  <script>
+    window.onerror = function(message, source, lineno, colno, error) {
+      if (source && (source.includes('googletagmanager') || source.includes('el_main') || source.includes('el_conf'))) {
+        console.warn('External script error suppressed:', message);
+        return true;
+      }
+      return false;
+    };
+  </script>
+  
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

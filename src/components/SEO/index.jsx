@@ -1,4 +1,4 @@
-import { Helmet } from 'react-helmet';
+import { Helmet } from 'react-helmet-async';
 
 const SEO = ({ 
   title = 'Varni Exports - Premium Indian Spices & Food Products Exports',
