@@ -1,3 +1,13 @@
+# Redirect HTTP to HTTPS (force secure connection)
+http://varniexports.com/* https://varniexports.com/:splat 301
+http://www.varniexports.com/* https://varniexports.com/:splat 301
+https://www.varniexports.com/* https://varniexports.com/:splat 301
+
+# Handle trailing slash and non-trailing slash redirects
+https://varniexports.com/* https://varniexports.com/:splat 301
+
+
+
 # Redirect from old URLs to new URLs with 301 status code
 /products /all-products 301
 /services/private-lable /services/private-lablel 301
