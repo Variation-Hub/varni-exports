@@ -1,0 +1,80 @@
+.img_style {
+    position: relative;
+    top: 0vh;
+    color: white;
+    margin-bottom: 0vh;
+}
+
+.img_style h1 {
+    font-size: 55px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    text-shadow: 0px -5px 1px black;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    word-spacing: 15px;
+}
+
+.label_image {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+}
+
+.label_image h1 {
+    font-size: 50px;
+}
+
+.artical_private_label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5vh 2vh;
+}
+
+.artical_private_label p {
+    width: 80%;
+}
+
+.private_img {
+    height: 400px;
+}
+
+@media screen and (max-width: 426px) {
+    .img_style h1 {
+        top: 38%;
+        font-size: 35px;
+        width: 100%;
+        text-align: center;
+    }
+    .img_style img {
+        height: 30vh;
+    }
+    .privateimg_container {
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+    }
+    .private_img {
+        width: 55%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .img_style h1 {
+        top: 38%;
+        font-size: 35px;
+    }
+    .img_style img {
+        height: 40vh;
+    }
+    .private_img {
+        height: 300px;
+    }
+}

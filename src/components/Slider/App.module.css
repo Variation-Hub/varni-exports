@@ -1,0 +1,170 @@
+.sliderImages {
+    padding: 7% 0% 0% 0%;
+}
+
+.slider_component {
+    height: 25rem;
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* border: 1px solid black; */
+    gap: 10%;
+}
+
+
+.img {
+    height: 190px;
+    width: 190px;
+    z-index: 1;
+    position: relative;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;   
+    border: 1px solid black;
+}
+
+.sliderText {
+    height: 50%;
+    width: 85%;
+    position: relative;
+    /* border: 1px solid rgba(0, 0, 0,0.5); */
+    display: flex;
+    justify-content:center;
+    align-items: end;
+    top: -100px;
+    left: 50%;
+    transform: translate(-50%,0%);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Manrope, sans-serif;
+    text-align: center;
+    color: rgb(2, 61, 85);
+    padding: 10px;
+
+}
+.slider{
+    width: 100%;
+    height: 0%;
+    position: absolute;
+    background-color: rgb(2, 61, 85);
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -1;
+    display: flex;
+    justify-content:center;
+    align-items: end;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Manrope, sans-serif;
+    text-align: center;
+
+
+}
+
+.slider_component:hover .sliderText .slider {
+    height: 100%;
+    transition: .5s ease;
+    color: white;
+    padding: 10px;
+
+}
+.slider_component:hover .sliderText h2{
+    display: none;
+}
+
+.titel {
+    text-align: center;
+}
+
+.our {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    color: var(--primary-color);
+    margin-bottom: 4vh;
+    margin-top: 3vh;
+}
+
+.offering {
+    font-size: 45px;
+    font-weight: 600;
+    color: rgb(2, 61, 85);
+}
+
+.slider_component_category {
+    width: 80% !important;
+
+    margin: 0% 10% !important;
+    border-radius: 1rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+}
+
+.slider_component_category img {
+    border-radius: 1rem;
+    transition: all 0.3s;
+}
+
+.slider_component_category:hover img {
+    transform: scale(1.1);
+}
+
+.name_category {
+    width: 100%;
+    height: 12%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2vw;
+    margin-top: 1vw;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.name_category:hover {
+    color: rgba(0, 0, 255, 0.637);
+    text-decoration: underline;
+}
+
+.slider_main {
+    margin: 5% 0%;
+}
+
+
+@media screen and (max-width: 768px) {
+    .name_category {
+        font-size: 2.2vw;
+    }
+    .img {
+        height: 150px;
+    }
+    .Slider_products {
+        height: 53vh;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .name_category {
+        font-size: 4.5vw;
+    }
+    .name {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 421px) {
+    .name_category {
+        font-size: 5vw;
+    }
+}
+
+

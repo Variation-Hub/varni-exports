@@ -1,0 +1,295 @@
+.sliderImages {
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+    top: -9vh;
+}
+
+.slider_component {
+    position: relative;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.sliderText h1 {
+    animation: slideIn 1s ease-in-out forwards;
+}
+
+.sliderText p {
+    transform: translateX(-500%);
+    animation: slideIn 1s ease-in-out forwards;
+    animation-delay: 1s;
+}
+
+
+.slider_component img {
+    height: 100vh;
+}
+
+.sliderText {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+
+.sliderText h1 {
+    font-size: 3vw;
+    color: var(--primary-color);
+}
+
+.sliderText p {
+    font-size: 1.5vw;
+    color: var(--secondary-color);
+}
+
+.commit_container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.commitmentSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    gap: 10px;
+}
+
+.commitmentSection div {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.commitmentSection h2 {
+    font-size: 1.5vw;
+    color: var(--primary-color);
+}
+
+.commitmentSection article {
+    text-align: center;
+    width: 100%;
+    color: var(--secondary-color);
+}
+
+.Service_servicess {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.import,
+.impex_solution {
+    height: 35vh;
+    width: 41vw;
+    font-size: 18px;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    padding: 5%;
+}
+
+.import:hover {
+    background-color: rgba(0, 0, 0);
+    color: rgba(255, 255, 255);
+}
+
+.Export,
+.Service_broker {
+    /*  : 1px solid black; */
+    height: 35vh;
+    width: 41vw;
+    font-size: 18px;
+    background-color: white;
+    opacity: 0.45;
+    color: black;
+    padding: 5%;
+}
+
+.Export:hover {
+    background-color: rgba(255, 255, 255);
+    /* Change this to the desired color */
+}
+
+.Service_broker:hover {
+    background-color: rgba(255, 255, 255);
+    /* Change this to the desired color */
+}
+
+.impex_solution:hover {
+    background-color: rgba(0, 0, 0);
+    color: rgba(255, 255, 255);
+}
+
+.upper_services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.downe_services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sliderproduct {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    /* top: -9vh; */
+}
+
+.slider_products {
+    position: relative;
+}
+
+.image {
+    width: 0%;
+    height: 0%;
+    object-fit: cover;
+}
+
+.sliderImagesp {
+    width: 100vw;
+    height: 40vh;
+    overflow: hidden;
+    position: relative;
+    background-color: white;
+}
+
+.products_component:hover {
+    background-color: rgba(0, 0, 0);
+    opacity: 1;
+}
+
+.sliderTextp {
+    top: 100%;
+    position: absolute;
+    transition: all 0.2s ease-out;
+    /* background: black;
+    opacity: 0.5;
+    color: white; */
+}
+
+.products_component {
+    height: 40vh;
+    width: 100vw;
+    overflow: hidden;
+    /* border: 1px solid red; */
+    /* background: #ff0; */
+    position: relative;
+}
+
+.products_component:hover>.sliderTextp {
+    top: 0;
+}
+
+.hover {
+    position: absolute;
+    /* top: 0; */
+    /* left: 0; */
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
+}
+
+.service_container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1024px) {
+    .slider_component img {
+        height: 80vh;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .slider_component img {
+        height: 50vh;
+        width: 100vw;
+    }
+
+    .Card {
+        width: 15rem;
+    }
+
+    .read_more {
+        padding: 3px 10px;
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .slider_component img {
+        height: 30vh;
+    }
+}
+
+@media screen and (max-width: 325px) {
+    .slider_component img {
+        height: 26vh;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .slider_component img {
+        height: 37vh;
+    }
+
+    .sliderText h1 {
+        font-size: 4vw;
+    }
+
+    .sliderText p {
+        font-size: 3.3vw;
+    }
+
+    .card_section {
+        flex-direction: column;
+        gap: 50px;
+        align-items: center;
+    }
+
+    .Card {
+        width: 90%;
+    }
+
+    .commit_container {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .commitmentSection {
+        width: 70%;
+    }
+
+    .commitmentSection h2 {
+        font-size: 4vw;
+    }
+
+    .read_more {
+        padding: 3px 10px;
+        font-size: 12px;
+    }
+}
