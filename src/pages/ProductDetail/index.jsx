@@ -187,7 +187,7 @@ function Category() {
         productId && data2 ?
           <div className={style.container}>
             <div className={style.productSection}>
-              <h2 className={style.productName}>{data2?.name}</h2>
+              <h1 className={style.productName}>{data2?.name}</h1>
               <div className={`flex items-center justify-around gap-24 w-[80%] ${Style.details_head}`}>
                 {data2 && data2.images && (
                   <div className={style.image}>
@@ -288,7 +288,7 @@ function Category() {
       ) : (
         <div className={style.container}>
           <div className={style.productSection}>
-            <h2 className={style.productName}>{data?.name}</h2>
+            <h1 className={style.productName}>{data?.name}</h1>
             <div className={`flex items-center justify-around gap-24 w-[80%] ${Style.details_head}`}>
               {data && data.images && (
                 <div className={style.image}>

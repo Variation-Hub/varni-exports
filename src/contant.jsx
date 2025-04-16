@@ -431,19 +431,19 @@ export const catagories = [
         Loading: "25 to 50 tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Ideal Partner for Peanut Export</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Ideal Partner for Peanut Export</strong></h3>
             <br />
 
             <p>Are you in search of a reliable peanut exporter? Varni Exports is the perfect platform to establish enduring trade relationships for future endeavors.</p>
             <br />
 
-            <p><strong>High-Quality Peanuts from Fertile Regions</strong></p>
+            <h3><strong>High-Quality Peanuts from Fertile Regions</strong></h3>
             <br />
 
             <p>Varni Exports sources premium-quality peanuts from the fertile regions of western India and the Indo-Gangetic plains. These peanuts are exceptionally rich in protein and oil content. Following the sourcing process, the peanuts undergo meticulous cleaning, achieving a purity level of 90 to 95%.</p>
             <br />
 
-            <p><strong>Varieties and Sizes</strong></p>
+            <h3><strong>Varieties and Sizes</strong></h3>
             <br />
 
             <p>Varni Exports offers a wide range of peanut varieties:</p>
@@ -452,31 +452,31 @@ export const catagories = [
             <li><strong>Bold Varieties:</strong> Available in sizes 38/42, 40/50, 50/60, 60/70, 70/80, 80/90, 90/100, 140/160 counts per ounce.</li>
             <br />
 
-            <p><strong>State-of-the-Art Processing Plant</strong></p>
+            <h3><strong>State-of-the-Art Processing Plant</strong></h3>
             <br />
 
             <p>Our advanced processing plant is equipped with the latest machinery and employs eco-friendly practices with a focus on waste management. The natural Java peanuts produced are of the highest standards and export-ready. Varni Exports is dedicated to continuously improving its services to serve you better.</p>
             <br />
 
-            <p><strong>G20 Peanut Supplier, Exporter, and Producer</strong></p>
+            <h3><strong>G20 Peanut Supplier, Exporter, and Producer</strong></h3>
             <br />
 
             <p>Varni Exports is a recognized supplier, exporter, and producer of G20 peanuts. India ranks among the top three peanut producers worldwide, with a year-round supply thanks to its two-crop farming pattern (March and October).</p>
             <br />
 
-            <p><strong>Major Export Destinations</strong></p>
+            <h3><strong>Major Export Destinations</strong></h3>
             <br />
 
             <p>Java  are produced in large quantities in India and are primarily exported to Indonesia, Vietnam, and Thailand. G20 , characterized by their reddish appearance and shiny seeds, have strong outer shells for seed protection. Major production regions include Gujarat, Andhra Pradesh, Tamil Nadu, Karnataka, Maharashtra, and Rajasthan.</p>
             <br />
 
-            <p><strong>Nutritional Benefits of Indian Groundnuts</strong></p>
+            <h3><strong>Nutritional Benefits of Indian Groundnuts</strong></h3>
             <br />
 
             <p>Indian groundnuts are nutrient-dense and vitamin-rich due to the dry and humid weather conditions in India, with a life cycle of 4 to 5 months depending on the region.</p>
             <br />
 
-            <p><strong>Uses and Benefits of G20 </strong></p>
+            <h3><strong>Uses and Benefits of G20 </strong></h3>
             <br />
             <li><strong>Heart Health:</strong> Contains vital nutrients and vitamins that help maintain a healthy heart by balancing fat ratios.</li>
             <li><strong>Nutrient-Rich:</strong> A great source of fats, protein, fiber, and glucose, which help manage blood sugar levels and maintain a healthy weight.</li>
@@ -505,27 +505,27 @@ export const catagories = [
         Loading: "19 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Source for Premium Roasted Peanuts</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Source for Premium Roasted Peanuts</strong></h3>
             <br />
 
             <p>Are you in search of high-quality roasted peanuts? Look no further than Varni Exports, your trusted partner for top-notch roasted peanuts that are perfect for various culinary applications and snacking needs.</p>
             <br />
 
-            <p><strong>Superior Quality Roasted Peanuts</strong></p>
+            <h3><strong>Superior Quality Roasted Peanuts</strong></h3>
             <br />
 
             <p>At Varni Exports, we pride ourselves on offering the finest roasted peanuts sourced from the best farms in India. Our roasting process enhances the natural flavor of the peanuts, giving them a rich, nutty taste and a satisfying crunch.</p>
             <br />
 
-            <p><strong>Why Choose Roasted Peanuts from Varni Exports?</strong></p>
+            <h3><strong>Why Choose Roasted Peanuts from Varni Exports?</strong></h3>
             <br />
 
-            <p><strong>Exceptional Flavor and Texture</strong>
+            <h3><strong>Exceptional Flavor and Texture</strong></h3>
               <br />
-              Our roasted peanuts are known for their rich flavor and crisp texture, making them an ideal snack or ingredient for various recipes.</p>
+              Our roasted peanuts are known for their rich flavor and crisp texture, making them an ideal snack or ingredient for various recipes.
             <br />
 
-            <p><strong>Nutritional Benefits</strong></p>
+            <h3><strong>Nutritional Benefits</strong></h3>
             <br />
             <p>Roasted peanuts are a great source of protein, healthy fats, fiber, vitamins, and minerals. They provide numerous health benefits, including:</p>
             <br />
@@ -535,7 +535,7 @@ export const catagories = [
             <li><strong>Weight Management:</strong> High in fiber and protein, which promote satiety and help control weight.</li>
             <br />
 
-            <p><strong>Varieties and Sizes</strong></p>
+            <h3><strong>Varieties and Sizes</strong></h3>
             <br />
 
             <p>Varni Exports offers roasted peanuts in various sizes to meet diverse culinary needs:</p>
@@ -544,25 +544,25 @@ export const catagories = [
             <li><strong>Split Roasted Peanuts:</strong> Perfect for inclusion in baked goods, salads, and peanut butter.</li>
             <br />
 
-            <p><strong>Advanced Roasting Techniques</strong></p>
+            <h3><strong>Advanced Roasting Techniques</strong></h3>
             <br />
 
             <p>Our state-of-the-art roasting facility employs advanced techniques to ensure consistent quality and flavor. We adhere to strict quality control measures to deliver peanuts that meet international standards.</p>
             <br />
 
-            <p><strong>Sustainable Practices</strong></p>
+            <h3><strong>Sustainable Practices</strong></h3>
             <br />
 
             <p>At Varni Exports, we are committed to sustainable practices. Our processing plant incorporates eco-friendly methods and effective waste management systems to minimize our environmental impact.</p>
             <br />
 
-            <p><strong>Global Export and Supply</strong></p>
+            <h3><strong>Global Export and Supply</strong></h3>
             <br />
 
             <p>As a leading exporter, Varni Exports ensures timely delivery of roasted peanuts to clients worldwide. Our robust supply chain guarantees that you receive the freshest and most flavorful peanuts, whether you are a food manufacturer, retailer, or health-conscious consumer.</p>
             <br />
 
-            <p><strong>Uses and Benefits of Roasted Peanuts</strong></p>
+            <h3><strong>Uses and Benefits of Roasted Peanuts</strong></h3>
             <br />
 
             <p>Roasted peanuts are incredibly versatile and can be used in various ways:</p>
@@ -573,7 +573,7 @@ export const catagories = [
             <li><strong>Peanut Butter:</strong> Make homemade peanut butter with a rich, roasted flavor.</li>
             <br />
 
-            <p><strong>Experience the Varni Exports Difference</strong></p>
+            <h3><strong>Experience the Varni Exports Difference</strong></h3>
             <br />
 
             <p>Choose Varni Exports for premium roasted peanuts that are rich in flavor, nutrition, and quality. Contact us today to learn more about our products and place your order. Discover the endless culinary possibilities with our roasted peanuts!</p>
@@ -597,22 +597,22 @@ export const catagories = [
         Loading: "19 Tons",
         description:
           <div>
-            <p><strong>Are you looking for TJ Peanut Seeds?</strong></p>
+            <h3><strong>Are you looking for TJ Peanut Seeds?</strong></h3>
             <br />
 
-            <p><strong>Bhimani Exports Private Limited</strong> is a leading TJ peanut seeds manufacturer from India.</p>
+            <h3><strong>Bhimani Exports Private Limited</strong> is a leading TJ peanut seeds manufacturer from India.</h3>
             <br />
 
             <p>Welcome to Bhimani Exports Private Limited, the foremost TJ Peanut seed manufacturer in India. Our dedication to quality and excellence has made us a trusted name in the agricultural industry. We offer premium TJ Peanut seeds that meet the highest standards of purity and quality.</p>
             <br />
 
-            <p><strong>About TJ Peanuts</strong></p>
+            <h3><strong>About TJ Peanuts</strong></h3>
             <br />
 
             <p>TJ Peanuts are known for their superior quality, rich flavor, and high nutritional value. As a reputable peanut supplier, we ensure that our TJ Peanuts are sortex cleaned to provide the best product to our customers. Our peanut kernels are carefully selected and processed to maintain their natural taste and nutritional benefits.</p>
             <br />
 
-            <p><strong>Peanut Varieties</strong></p>
+            <h3><strong>Peanut Varieties</strong></h3>
             <br />
             <li><strong>TJ 50/60:</strong> This grade contains 50 to 60 peanuts per ounce, ensuring a consistent size and quality, perfect for various culinary uses.</li>
             <li><strong>TJ 80/90:</strong> With 80 to 90 peanuts per ounce, this variety offers a distinct texture and flavor, ideal for specific recipes and processing needs.</li>
@@ -624,13 +624,13 @@ export const catagories = [
             <p>Our processing unit is capable of producing 40 tons of peanuts per day, ensuring bulk supply for large-scale buyers and food manufacturers.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading peanut exporter, we have a robust distribution network that ensures timely delivery of our products worldwide. We offer bulk peanut supply to meet the needs of large-scale buyers and food manufacturers.</p>
             <br />
 
-            <p><strong>Use and Benefits of TJ Peanuts</strong></p>
+            <h3><strong>Use and Benefits of TJ Peanuts</strong></h3>
             <br />
             <li><strong>High Protein:</strong> TJ Peanuts offer a high protein content, aiding muscle growth and repair.</li>
             <li><strong>Rich in Healthy Fats:</strong> Contains beneficial monounsaturated and polyunsaturated fats.</li>
@@ -639,7 +639,7 @@ export const catagories = [
             <li><strong>Energy Boost:</strong> Provides a quick and sustained energy source.</li>
             <br />
 
-            <p><strong>Experience the premium quality of peanuts from India with Bhimani Exports Private Limited, your trusted TJ Peanut seed manufacturer.</strong></p>
+            <h3><strong>Experience the premium quality of peanuts from India with Bhimani Exports Private Limited, your trusted TJ Peanut seed manufacturer.</strong></h3>
           </div>
       }
 
@@ -4257,25 +4257,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Red Onion Flakes</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Red Onion Flakes</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated red onion flakes. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated Red Onion Flakes</strong></p>
+            <h3><strong>About Dehydrated Red Onion Flakes</strong></h3>
             <br />
 
             <p>Red onions are prized for their vibrant color and robust flavor, widely used in cooking and salads. Dehydrated red onion flakes retain the distinctive taste and nutritional benefits of fresh red onions while offering the convenience of a longer shelf life and easier storage. They are perfect for adding a burst of flavor and color to a variety of dishes.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our dehydrated red onion flakes are produced from the finest quality red onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion flakes retain their natural flavor, color, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated Red Onion Flakes</strong></p>
+            <h3><strong>Applications of Dehydrated Red Onion Flakes</strong></h3>
             <br />
 
             <p>Dehydrated red onion flakes are versatile and can be used in a wide range of culinary applications:</p>
@@ -4288,7 +4288,7 @@ export const catagories = [
             <li><strong>Garnishing:</strong> Use as a colorful and flavorful garnish for various dishes.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated Red Onion Flakes</strong></p>
+            <h3><strong>Benefits of Dehydrated Red Onion Flakes</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -4298,19 +4298,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated red onion flakes, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated red onion flakes or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4335,25 +4335,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated White Onion Flakes</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated White Onion Flakes</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated white onion flakes. We ensure that our products meet the highest standards of quality and hygiene, making them a reliable choice for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated White Onion Flakes</strong></p>
+            <h3><strong>About Dehydrated White Onion Flakes</strong></h3>
             <br />
 
             <p>Onions are one of the oldest spices known to humanity, widely used in cooking and salads. Pungent varieties serve as a condiment for flavoring a range of food items. Dehydrated onions, including flakes, powder, and granules, are gaining popularity as a spice due to their ease of packaging, quality control, and transportation. Dehydrated white onion flakes are extensively used in pickles, curries, sauces, and even in medicinal applications as a substitute for fresh onions.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we procure onions directly from cultivated farms and processors. Our dehydration process is carried out in well-equipped units where fresh onions undergo multiple steps of testing and sorting. The dehydrated onions are then stored at specific temperatures to maintain their material properties and shelf life. We offer the best quality dehydrated onions in various forms including flakes, chopped, minced, powder, and granules.</p>
             <br />
 
-            <p><strong>Applications</strong></p>
+            <h3><strong>Applications</strong></h3>
             <br />
 
             <p>Dehydrated white onion flakes are versatile and can be used in various applications such as:</p>
@@ -4369,7 +4369,7 @@ export const catagories = [
             <li>Bakery Toppings and Gourmet Sauces</li>
             <br />
 
-            <p><strong>Chemical Data</strong></p>
+            <h3><strong>Chemical Data</strong></h3>
             <br />
 
             <p>- <strong>Moisture:</strong> Max. 6%</p>
@@ -4377,7 +4377,7 @@ export const catagories = [
             <p>- <strong>Pesticides, Herbicides, Fungicides:</strong> Not Detectable</p>
             <br />
 
-            <p><strong>Microbiological Data</strong></p>
+            <h3><strong>Microbiological Data</strong></h3>
             <br />
 
             <p>- <strong>Total Plate Count:</strong> Max 150,000 /G</p>
@@ -4389,19 +4389,19 @@ export const catagories = [
             <p>- <strong>Staphylococcus Aureus:</strong> Negative in 1 G</p>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated white onion flakes, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated white onion flakes or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4425,25 +4425,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Pink Onion Flakes</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Pink Onion Flakes</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated pink onion flakes. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated Pink Onion Flakes</strong></p>
+            <h3><strong>About Dehydrated Pink Onion Flakes</strong></h3>
             <br />
 
             <p>Pink onions are cherished for their unique color and mild, sweet flavor, making them a versatile ingredient in cooking and salads. Dehydrated pink onion flakes retain the distinctive taste and nutritional benefits of fresh pink onions while offering the convenience of a longer shelf life and easier storage. They are perfect for adding a subtle onion flavor and appealing color to a variety of dishes.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our dehydrated pink onion flakes are produced from the finest quality pink onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion flakes retain their natural flavor, color, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated Pink Onion Flakes</strong></p>
+            <h3><strong>Applications of Dehydrated Pink Onion Flakes</strong></h3>
             <br />
 
             <p>Dehydrated pink onion flakes are versatile and can be used in a wide range of culinary applications:</p>
@@ -4456,7 +4456,7 @@ export const catagories = [
             <li><strong>Garnishing:</strong> Use as a colorful and flavorful garnish for various dishes.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated Pink Onion Flakes</strong></p>
+            <h3><strong>Benefits of Dehydrated Pink Onion Flakes</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -4466,19 +4466,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated pink onion flakes, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated pink onion flakes or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4505,25 +4505,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Red Onion Powder</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Red Onion Powder</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated red onion powder. Our dedication to quality ensures that our products meet the highest standards, making them a reliable choice for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated Red Onion Powder</strong></p>
+            <h3><strong>About Dehydrated Red Onion Powder</strong></h3>
             <br />
 
             <p>Red onions are known for their vibrant color and robust flavor, widely used in cooking and salads. Dehydrated red onion powder retains the distinctive taste and nutritional benefits of fresh red onions while offering the convenience of a longer shelf life and easier storage. This makes it an ideal ingredient for enhancing the flavor of a wide range of dishes.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our dehydrated red onion powder is produced from the finest quality red onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion powder retains its natural flavor, color, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated Red Onion Powder</strong></p>
+            <h3><strong>Applications of Dehydrated Red Onion Powder</strong></h3>
             <br />
 
             <p>Dehydrated red onion powder is versatile and extensively used in various culinary applications:</p>
@@ -4536,7 +4536,7 @@ export const catagories = [
             <li><strong>Dressings and Dips:</strong> Perfect for salad dressings, dips, and spreads.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated Red Onion Powder</strong></p>
+            <h3><strong>Benefits of Dehydrated Red Onion Powder</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -4546,19 +4546,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated red onion powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated red onion powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4583,25 +4583,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated White Onion Powder</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated White Onion Powder</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated white onion powder. Our commitment to excellence ensures that our products meet stringent quality standards and are ideal for a wide range of culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated White Onion Powder</strong></p>
+            <h3><strong>About Dehydrated White Onion Powder</strong></h3>
             <br />
 
             <p>Onions are among the oldest spices known to humanity, widely used in cooking and salads. Pungent varieties serve as a condiment for flavoring various food items. Dehydrated onion products, including white onion powder, flakes, and granules, are gaining popularity due to their ease of packaging, quality control, and transportability for global destinations.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our dehydrated white onion powder is produced from the finest quality onions, sourced directly from cultivated farms. The dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion powder retains its natural flavor and nutritional properties while being easy to store and use.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated White Onion Powder</strong></p>
+            <h3><strong>Applications of Dehydrated White Onion Powder</strong></h3>
             <br />
 
             <p>Dehydrated white onion powder is versatile and extensively used in various culinary applications:</p>
@@ -4613,7 +4613,7 @@ export const catagories = [
             <li><strong>Food Preparations:</strong> Suitable for any dish where a strong onion flavor and taste are desired, including dressings, marinades, and dips.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated White Onion Powder</strong></p>
+            <h3><strong>Benefits of Dehydrated White Onion Powder</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -4623,19 +4623,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated white onion powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated white onion powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4662,25 +4662,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Pink Onion Powder</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Pink Onion Powder</strong></h3>
             <br />
 
             <p>Varni Exports is your reliable partner for sourcing high-quality dehydrated pink onion powder. Our commitment to excellence ensures that our products meet the highest standards, making them ideal for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated Pink Onion Powder</strong></p>
+            <h3><strong>About Dehydrated Pink Onion Powder</strong></h3>
             <br />
 
             <p>Pink onions are known for their mild, sweet flavor and distinctive color, making them a versatile ingredient in many dishes. Dehydrated pink onion powder retains the unique taste and nutritional benefits of fresh pink onions while offering the convenience of a longer shelf life and easier storage. This makes it an ideal ingredient for enhancing the flavor of a wide range of dishes.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our dehydrated pink onion powder is produced from the finest quality pink onions, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh onions undergo multiple steps of testing and sorting. This meticulous approach guarantees that our onion powder retains its natural flavor, color, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated Pink Onion Powder</strong></p>
+            <h3><strong>Applications of Dehydrated Pink Onion Powder</strong></h3>
             <br />
 
             <p>Dehydrated pink onion powder is versatile and extensively used in various culinary applications:</p>
@@ -4693,7 +4693,7 @@ export const catagories = [
             <li><strong>Dressings and Dips:</strong> Perfect for salad dressings, dips, and spreads.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated Pink Onion Powder</strong></p>
+            <h3><strong>Benefits of Dehydrated Pink Onion Powder</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -4703,19 +4703,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Retains essential nutrients found in fresh onions.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated pink onion powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated pink onion powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4739,25 +4739,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Varni Exports: Premium Supplier of Dehydrated Garlic Cloves</strong></p>
+            <h3><strong>Varni Exports: Premium Supplier of Dehydrated Garlic Cloves</strong></h3>
             <br />
 
             <p>Varni Exports is a trusted name in sourcing and exporting high-quality dehydrated garlic cloves. Our commitment to excellence ensures that we deliver premium garlic products suitable for diverse culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated Garlic Cloves</strong></p>
+            <h3><strong>About Dehydrated Garlic Cloves</strong></h3>
             <br />
 
             <p>Garlic cloves, when dehydrated, retain their pungent flavor and nutritional benefits while offering the advantage of an extended shelf life. They are widely used in spice blends, seasoning mixes, and processed food products. Dehydrated garlic cloves are an ideal alternative to fresh garlic, saving time and reducing storage concerns.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we source garlic from carefully selected farms and process it in modern facilities to ensure premium quality. Our stringent quality checks ensure that our dehydrated garlic cloves maintain their natural flavor, aroma, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated Garlic Cloves</strong></p>
+            <h3><strong>Applications of Dehydrated Garlic Cloves</strong></h3>
             <br />
             <li><strong>Cooking:</strong> Used in soups, curries, stir-fries, and various cuisines.</li>
             <li><strong>Seasoning:</strong> Perfect for spice blends, dry rubs, and food processing.</li>
@@ -4765,7 +4765,7 @@ export const catagories = [
             <li><strong>Processed Foods:</strong> Essential in ready-to-eat meals and snacks.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated Garlic Cloves</strong></p>
+            <h3><strong>Benefits of Dehydrated Garlic Cloves</strong></h3>
             <br />
             <li><strong>Long Shelf Life:</strong> Can be stored for extended periods without losing potency.</li>
             <li><strong>Convenience:</strong> No need for peeling and chopping; ready for use.</li>
@@ -4773,19 +4773,19 @@ export const catagories = [
             <li><strong>Rich in Nutrients:</strong> Retains the essential compounds of fresh garlic.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>We at Varni Exports follow sustainable agricultural practices, collaborating with eco-conscious farmers. Our ethical sourcing guarantees not only high-quality garlic products but also environmentally responsible production.</p>
             <br />
 
-            <p><strong>Global Export Excellence</strong></p>
+            <h3><strong>Global Export Excellence</strong></h3>
             <br />
 
             <p>Varni Exports is a leading supplier of dehydrated garlic cloves, catering to global markets with superior-quality products. Our efficient logistics and timely delivery make us a preferred partner for international buyers.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>Looking for the best dehydrated garlic cloves? Contact Varni Exports today! Our team is ready to assist you with your sourcing needs and provide high-quality solutions tailored to your requirements.</p>
@@ -4810,25 +4810,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Garlic Flakes and Cloves</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Garlic Flakes and Cloves</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated garlic flakes and cloves. Our commitment to excellence ensures that our products meet stringent quality standards, making them ideal for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated Garlic Flakes and Cloves</strong></p>
+            <h3><strong>About Dehydrated Garlic Flakes and Cloves</strong></h3>
             <br />
 
             <p>Garlic is a staple ingredient in kitchens worldwide, known for its pungent flavor and numerous health benefits. Dehydrated garlic flakes and cloves retain the distinctive taste and nutritional benefits of fresh garlic while offering the convenience of a longer shelf life and easier storage. They are perfect for adding a robust garlic flavor to a variety of dishes without the hassle of peeling and chopping fresh garlic.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our dehydrated garlic flakes and cloves are produced from the finest quality garlic, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh garlic undergoes multiple steps of testing and sorting. This meticulous approach guarantees that our garlic products retain their natural flavor, aroma, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated Garlic Flakes and Cloves</strong></p>
+            <h3><strong>Applications of Dehydrated Garlic Flakes and Cloves</strong></h3>
             <br />
 
             <p>Dehydrated garlic flakes and cloves are versatile and can be used in a wide range of culinary applications:</p>
@@ -4840,7 +4840,7 @@ export const catagories = [
             <li><strong>Prepared Foods:</strong> Commonly used in ready-to-eat meals, snacks, and convenience foods.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated Garlic Flakes and Cloves</strong></p>
+            <h3><strong>Benefits of Dehydrated Garlic Flakes and Cloves</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -4850,19 +4850,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Retains essential nutrients and health benefits of fresh garlic.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated garlic flakes and cloves, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated garlic flakes and cloves or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4889,25 +4889,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Garlic Powder</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Dehydrated Garlic Powder</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality dehydrated garlic powder. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Dehydrated Garlic Powder</strong></p>
+            <h3><strong>About Dehydrated Garlic Powder</strong></h3>
             <br />
 
             <p>Garlic is a staple ingredient in kitchens worldwide, prized for its pungent flavor and numerous health benefits. Dehydrated garlic powder retains the distinctive taste and nutritional benefits of fresh garlic while offering the convenience of a longer shelf life and easier storage. It is perfect for adding a robust garlic flavor to a variety of dishes without the hassle of peeling and chopping fresh garlic.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our dehydrated garlic powder is produced from the finest quality garlic, sourced directly from cultivated farms. Our dehydration process is carried out in state-of-the-art facilities where fresh garlic undergoes multiple steps of testing and sorting. This meticulous approach guarantees that our garlic powder retains its natural flavor, aroma, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Dehydrated Garlic Powder</strong></p>
+            <h3><strong>Applications of Dehydrated Garlic Powder</strong></h3>
             <br />
 
             <p>Dehydrated garlic powder is versatile and extensively used in various culinary applications:</p>
@@ -4919,7 +4919,7 @@ export const catagories = [
             <li><strong>Prepared Foods:</strong> Commonly used in ready-to-eat meals, snacks, and convenience foods.</li>
             <br />
 
-            <p><strong>Benefits of Dehydrated Garlic Powder</strong></p>
+            <h3><strong>Benefits of Dehydrated Garlic Powder</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -4929,19 +4929,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Retains essential nutrients and health benefits of fresh garlic.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of dehydrated garlic powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium dehydrated garlic powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -4971,25 +4971,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Varni Exports: Your Reliable Source for Ginger Flakes</strong></p>
+            <h3><strong>Varni Exports: Your Reliable Source for Ginger Flakes</strong></h3>
             <br />
 
             <p>Welcome to Varni Exports, your trusted supplier of premium ginger flakes. We take pride in offering high-quality ginger flakes that are sourced from the finest ginger roots and processed using advanced techniques to preserve their natural flavor and aroma.</p>
             <br />
 
-            <p><strong>About Ginger Flakes</strong></p>
+            <h3><strong>About Ginger Flakes</strong></h3>
             <br />
 
             <p>Ginger flakes are obtained from fresh ginger roots that undergo a careful dehydration process. This process involves slicing the ginger into uniform flakes and then drying them to remove moisture while retaining their robust flavor and nutritional benefits. Ginger flakes are known for their distinctive spicy and warm flavor, making them a versatile ingredient in various culinary applications.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, quality is our top priority. We source our ginger flakes from reputable farmers who cultivate ginger using sustainable agricultural practices. Our state-of-the-art processing facilities ensure that the ginger flakes maintain their high quality throughout the dehydration process. Each batch of ginger flakes undergoes rigorous quality checks to meet international standards for purity, flavor, and nutritional content.</p>
             <br />
 
-            <p><strong>Culinary Uses</strong></p>
+            <h3><strong>Culinary Uses</strong></h3>
             <br />
 
             <p>Ginger flakes are widely used in both savory and sweet dishes:</p>
@@ -5000,7 +5000,7 @@ export const catagories = [
             <li><strong>Seasoning:</strong> Use ginger flakes as a seasoning for meat, seafood, vegetables, and sauces to enhance their flavor profile.</li>
             <br />
 
-            <p><strong>Health Benefits</strong></p>
+            <h3><strong>Health Benefits</strong></h3>
             <br />
 
             <p>Ginger flakes are not only prized for their culinary versatility but also for their health-promoting properties:</p>
@@ -5011,19 +5011,19 @@ export const catagories = [
             <li><strong>Aromatic:</strong> Adds a delightful aroma to dishes and beverages.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with farmers who prioritize eco-friendly farming methods, ensuring minimal environmental impact. By supporting sustainable agriculture, we contribute to the preservation of natural resources and biodiversity.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of ginger flakes, Varni Exports caters to global markets with a focus on quality, reliability, and customer satisfaction. Our efficient logistics network ensures timely delivery of orders to international destinations, meeting the diverse needs of our valued customers.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium ginger flakes or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide tailored solutions for your business. Experience the superior quality and flavor of Varni Exports’ ginger flakes today!</p>
@@ -5050,25 +5050,25 @@ export const catagories = [
         Loading: "20 to 25 Tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Supplier of Ginger Powder</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Supplier of Ginger Powder</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality ginger powder. Our commitment to excellence ensures that our products meet stringent quality standards, making them an ideal choice for various culinary and industrial applications.</p>
             <br />
 
-            <p><strong>About Ginger Powder</strong></p>
+            <h3><strong>About Ginger Powder</strong></h3>
             <br />
 
             <p>Ginger powder is derived from dried ginger roots and is a staple ingredient in kitchens worldwide. Known for its warm, spicy flavor and numerous health benefits, ginger powder is a versatile ingredient that enhances the taste of a wide variety of dishes. It is also valued for its medicinal properties.</p>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we ensure that our ginger powder is produced from the finest quality ginger roots, sourced directly from cultivated farms. Our dehydration and grinding processes are carried out in state-of-the-art facilities where fresh ginger undergoes multiple steps of testing and sorting. This meticulous approach guarantees that our ginger powder retains its natural flavor, aroma, and nutritional properties.</p>
             <br />
 
-            <p><strong>Applications of Ginger Powder</strong></p>
+            <h3><strong>Applications of Ginger Powder</strong></h3>
             <br />
 
             <p>Ginger powder is versatile and extensively used in various culinary and medicinal applications:</p>
@@ -5080,7 +5080,7 @@ export const catagories = [
             <li><strong>Medicinal:</strong> Known for its digestive and anti-inflammatory properties, ginger powder is used in traditional remedies and supplements.</li>
             <br />
 
-            <p><strong>Benefits of Ginger Powder</strong></p>
+            <h3><strong>Benefits of Ginger Powder</strong></h3>
             <br />
 
             <li><strong>Convenience:</strong> Easy to pack, store, and transport.</li>
@@ -5090,19 +5090,19 @@ export const catagories = [
             <li><strong>Nutritional Value:</strong> Rich in antioxidants, vitamins, and minerals, offering numerous health benefits.</li>
             <br />
 
-            <p><strong>Sustainable Sourcing</strong></p>
+            <h3><strong>Sustainable Sourcing</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable sourcing practices. We work closely with local farmers who adhere to eco-friendly agricultural methods. Our focus on sustainability ensures that we deliver products that are not only high in quality but also responsibly sourced.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of ginger powder, Varni Exports guarantees premium-quality products that meet international standards. We prioritize customer satisfaction and ensure timely delivery of orders through efficient logistics.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium ginger powder or to place an order, please contact Varni Exports. Our experienced team is ready to assist you with your requirements and provide reliable sourcing solutions. Experience the quality and reliability of Varni Exports today!</p>
@@ -5997,13 +5997,13 @@ export const catagories = [
         Packaging: "1 to 50 kg Jute Bag, PP Bag",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Reliable Wheat Supplier</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Reliable Wheat Supplier</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting premium quality wheat globally. We take pride in offering a variety of wheat products tailored to meet diverse culinary and industrial needs.</p>
             <br />
 
-            <p><strong>Premium Quality Wheat</strong></p>
+            <h3><strong>Premium Quality Wheat</strong></h3>
             <br />
 
             <p>Wheat is a staple food crop cultivated extensively around the world. At Varni Exports, we source the finest quality wheat from the fertile regions of India, ensuring it meets stringent quality standards. Our wheat varieties include:</p>
@@ -6014,7 +6014,7 @@ export const catagories = [
             <li><strong>Hard White Wheat</strong>: Similar to red wheat but with a lighter kernel color, suitable for bread and brewing.</li>
             <br />
 
-            <p><strong>Why Choose Wheat from Varni Exports?</strong></p>
+            <h3><strong>Why Choose Wheat from Varni Exports?</strong></h3>
             <br />
 
             <li><strong>High Nutritional Value</strong>: Wheat is a rich source of carbohydrates, proteins, dietary fiber, vitamins (B-complex), and minerals (iron, magnesium).</li>
@@ -6023,19 +6023,19 @@ export const catagories = [
             <li><strong>Health Benefits</strong>: Supports heart health, aids in digestion, and provides sustained energy due to its complex carbohydrates.</li>
             <br />
 
-            <p><strong>Sourcing and Processing</strong></p>
+            <h3><strong>Sourcing and Processing</strong></h3>
             <br />
 
             <p>Varni Exports ensures that our wheat undergoes rigorous quality checks from sourcing to processing. We partner with farmers who follow sustainable agricultural practices to cultivate wheat with minimal environmental impact. Our processing facilities are equipped with modern machinery to clean, mill, and package wheat to preserve its freshness and nutritional value.</p>
             <br />
 
-            <p><strong>Leading Wheat Exporter</strong></p>
+            <h3><strong>Leading Wheat Exporter</strong></h3>
             <br />
 
             <p>As a leading exporter of wheat from India, Varni Exports caters to international markets with a commitment to delivering premium quality products. Our dedication to excellence and customer satisfaction makes us a preferred choice among global buyers.</p>
             <br />
 
-            <p><strong>Uses and Benefits of Wheat</strong></p>
+            <h3><strong>Uses and Benefits of Wheat</strong></h3>
             <br />
             <li><strong>Diverse Culinary Uses</strong>: Used to make bread, pasta, noodles, cakes, cookies, breakfast cereals, and more.</li>
             <li><strong>Nutritional Powerhouse</strong>: Provides essential nutrients like carbohydrates, proteins, fiber, and various vitamins and minerals.</li>
@@ -6043,13 +6043,13 @@ export const catagories = [
             <li><strong>Economic Importance</strong>: Plays a crucial role in global food security and economic stability.</li>
             <br />
 
-            <p><strong>Commitment to Quality and Sustainability</strong></p>
+            <h3><strong>Commitment to Quality and Sustainability</strong></h3>
             <br />
 
             <p>At Varni Exports, quality is our top priority. We adhere to strict quality control measures and ethical sourcing practices to ensure that our wheat meets international standards. Our sustainable farming partnerships and efficient processing techniques reflect our commitment to environmental responsibility.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium quality wheat products or to place an order, please contact our knowledgeable team at Varni Exports. We look forward to serving your wheat sourcing needs with reliability, integrity, and excellence. Discover the difference with Varni Exports today!</p>
@@ -6083,7 +6083,7 @@ export const catagories = [
 
             <h3><strong>Nutritional Profile</strong></h3>
             <br />
-            <p> <strong>Green millet is packed with essential nutrients:</strong></p>
+            <h3> <strong>Green millet is packed with essential nutrients:</strong></h3>
             <br />
             <li><strong>Rich in Protein:</strong> Contains a significant amount of protein, making it an excellent dietary choice for vegetarians and vegans.</li>
             <li><strong>High in Fiber:</strong> A great source of dietary fiber, which aids in digestion and helps maintain healthy bowel movements.</li>
@@ -6146,13 +6146,13 @@ export const catagories = [
         Loading: "15 to 30 tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Maize/Corn Supplier</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Maize/Corn Supplier</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting premium quality maize (corn) globally. We are dedicated to providing a variety of maize products tailored to meet diverse culinary, industrial, and agricultural needs.</p>
             <br />
 
-            <p><strong>Premium Quality Maize (Corn)</strong></p>
+            <h3><strong>Premium Quality Maize (Corn)</strong></h3>
             <br />
             <p>Maize, commonly known as corn, is a versatile cereal grain that serves as a staple food for millions worldwide. At Varni Exports, we procure the finest quality maize from reliable sources across India, ensuring it meets stringent quality standards. Our maize varieties include:</p>
             <br />
@@ -6163,7 +6163,7 @@ export const catagories = [
             <li><strong>Popcorn</strong>: A specific type of maize that pops when heated, enjoyed as a popular snack.</li>
             <br />
 
-            <p><strong>Why Choose Maize (Corn) from Varni Exports?</strong></p>
+            <h3><strong>Why Choose Maize (Corn) from Varni Exports?</strong></h3>
             <br />
             <li><strong>Nutritional Value</strong>: Maize is rich in carbohydrates, dietary fiber, essential minerals (such as magnesium and phosphorus), and vitamins (mainly B-complex vitamins).</li>
             <li><strong>Versatility</strong>: Used in diverse applications including food products, animal feed, biofuels, and industrial uses such as starch and ethanol production.</li>
@@ -6171,17 +6171,17 @@ export const catagories = [
             <li><strong>Health Benefits</strong>: Supports digestive health, provides sustained energy, and contributes to overall well-being.</li>
             <br />
 
-            <p><strong>Sourcing and Processing</strong></p>
+            <h3><strong>Sourcing and Processing</strong></h3>
             <br />
             <p>Varni Exports ensures meticulous sourcing and processing of maize to maintain its nutritional integrity and quality. We partner with farmers who employ sustainable agricultural practices, ensuring environmentally responsible cultivation. Our state-of-the-art processing facilities are equipped to clean, dry, and package maize efficiently, preserving its freshness and nutritional benefits.</p>
             <br />
 
-            <p><strong>Leading Maize (Corn) Exporter</strong></p>
+            <h3><strong>Leading Maize (Corn) Exporter</strong></h3>
             <br />
             <p>As a leading exporter of maize from India, Varni Exports caters to global markets with a commitment to delivering superior quality products. We prioritize customer satisfaction and adhere to international standards in every aspect of our operations.</p>
             <br />
 
-            <p><strong>Uses and Benefits of Maize (Corn)</strong></p>
+            <h3><strong>Uses and Benefits of Maize (Corn)</strong></h3>
             <br />
             <li><strong>Food Production</strong>: Used in various forms such as cornmeal, cornflour, corn oil, and corn syrup, contributing to diverse cuisines worldwide.</li>
             <li><strong>Animal Feed</strong>: Valuable feed ingredient for livestock and poultry, providing essential nutrients for growth and health.</li>
@@ -6189,12 +6189,12 @@ export const catagories = [
             <li><strong>Cultural Significance</strong>: Plays a vital role in traditional diets and cultural celebrations in many countries around the world.</li>
             <br />
 
-            <p><strong>Commitment to Quality and Sustainability</strong></p>
+            <h3><strong>Commitment to Quality and Sustainability</strong></h3>
             <br />
             <p>At Varni Exports, we uphold stringent quality control measures and ethical sourcing practices to ensure the maize we export is of the highest standard. Our commitment to sustainability extends to promoting responsible farming practices and reducing environmental impact throughout the supply chain.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
             <p>For inquiries about our premium quality maize products or to place an order, please contact our knowledgeable team at Varni Exports. We are here to assist you with reliable sourcing solutions and unparalleled customer service. Discover the quality and reliability of Varni Exports today!</p>
           </div>,
@@ -6218,13 +6218,13 @@ export const catagories = [
         Loading: "18 to 20 tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Flax Seeds Supplier</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Flax Seeds Supplier</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting premium quality flax seeds globally. We take pride in offering flax seeds that are renowned for their nutritional benefits and versatile applications in various industries.</p>
             <br />
 
-            <p><strong>Premium Quality Flax Seeds</strong></p>
+            <h3><strong>Premium Quality Flax Seeds</strong></h3>
             <br />
             <p>Flax seeds, also known as linseeds, are small oil seeds harvested from the flax plant (Linum usitatissimum). These seeds are valued for their rich nutritional profile and have been used for centuries in traditional medicine and culinary practices. At Varni Exports, we provide the following varieties of flax seeds:</p>
             <br />
@@ -6233,7 +6233,7 @@ export const catagories = [
             <li><strong>Golden Flax Seeds</strong>: Similar to brown flax seeds but with a lighter color and slightly milder taste.</li>
             <br />
 
-            <p><strong>Why Choose Flax Seeds from Varni Exports?</strong></p>
+            <h3><strong>Why Choose Flax Seeds from Varni Exports?</strong></h3>
             <br />
             <li><strong>Nutritional Powerhouse</strong>: Flax seeds are rich in alpha-linolenic acid (ALA), an essential omega-3 fatty acid, as well as dietary fiber, lignans, and antioxidants.</li>
             <li><strong>Health Benefits</strong>: Consuming flax seeds may promote heart health, aid in digestion, support skin health, and contribute to overall well-being. They are also valued for their potential anti-inflammatory and antioxidant properties.</li>
@@ -6241,17 +6241,17 @@ export const catagories = [
             <li><strong>Industrial Applications</strong>: Beyond food, flax seeds are used in the production of linseed oil, which is used in paints, varnishes, and wood finishes due to its drying properties.</li>
             <br />
 
-            <p><strong>Sourcing and Processing</strong></p>
+            <h3><strong>Sourcing and Processing</strong></h3>
             <br />
             <p>Varni Exports ensures meticulous sourcing and processing of flax seeds to maintain their freshness, nutritional integrity, and flavor. We collaborate with trusted farmers who adhere to sustainable farming practices, ensuring high-quality seeds from cultivation to harvest. Our processing facilities are equipped with advanced technology to clean, sort, and package flax seeds efficiently.</p>
             <br />
 
-            <p><strong>Leading Flax Seeds Exporter</strong></p>
+            <h3><strong>Leading Flax Seeds Exporter</strong></h3>
             <br />
             <p>As a leading exporter of flax seeds from India, Varni Exports serves global markets with a commitment to delivering superior quality products. We prioritize customer satisfaction and adhere to stringent quality control measures to meet international standards.</p>
             <br />
 
-            <p><strong>Uses and Benefits of Flax Seeds</strong></p>
+            <h3><strong>Uses and Benefits of Flax Seeds</strong></h3>
             <br />
             <li><strong>Dietary Supplement</strong>: Flax seeds are commonly consumed as a dietary supplement due to their high content of omega-3 fatty acids and fiber, promoting cardiovascular health and digestive regularity.</li>
             <li><strong>Culinary Uses</strong>: Adds a nutty flavor and crunchy texture to baked goods, breakfast cereals, yogurt, and salads. Ground flax seeds (flaxseed meal) can be used as an egg substitute in vegan baking.</li>
@@ -6259,12 +6259,12 @@ export const catagories = [
             <li><strong>Natural Remedies</strong>: Used in traditional medicine for their potential anti-inflammatory properties and to alleviate symptoms of constipation.</li>
             <br />
 
-            <p><strong>Commitment to Quality and Sustainability</strong></p>
+            <h3><strong>Commitment to Quality and Sustainability</strong></h3>
             <br />
             <p>Varni Exports is committed to upholding the highest standards of quality and sustainability in every aspect of our operations. We work closely with our partners to ensure responsible sourcing and environmental stewardship throughout the supply chain.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
             <p>For inquiries about our premium quality flax seeds or to place an order, please contact our knowledgeable team at Varni Exports. We are dedicated to providing reliable sourcing solutions and excellent customer service. Experience the excellence of Varni Exports today!</p>
           </div>
@@ -6289,23 +6289,23 @@ export const catagories = [
         Loading: "20 to 24 tons",
         description:
           <div>
-            <p><strong>Welcome to Varni Exports: Your Trusted Sooji (Semolina) Supplier</strong></p>
+            <h3><strong>Welcome to Varni Exports: Your Trusted Sooji (Semolina) Supplier</strong></h3>
             <br />
 
             <p>Varni Exports specializes in sourcing and exporting high-quality Sooji (Semolina) globally. We take pride in offering Sooji that is renowned for its purity, freshness, and versatility in culinary applications.</p>
             <br />
 
-            <p><strong>About Sooji (Semolina)</strong></p>
+            <h3><strong>About Sooji (Semolina)</strong></h3>
             <br />
             <p>Sooji, also known as semolina or rava, is a coarse flour made from durum wheat. It is widely used in cooking across various cultures, prized for its texture and nutritional benefits. Sooji is commonly used in preparing a variety of dishes, ranging from savory to sweet.</p>
             <br />
 
-            <p><strong>Premium Quality Sooji</strong></p>
+            <h3><strong>Premium Quality Sooji</strong></h3>
             <br />
             <p>At Varni Exports, we provide Sooji made from the finest quality durum wheat grains. Our Sooji is processed under stringent quality standards to ensure superior texture, flavor, and nutritional value. It is characterized by its granular texture and pale yellow color.</p>
             <br />
 
-            <p><strong>Culinary Uses of Sooji</strong></p>
+            <h3><strong>Culinary Uses of Sooji</strong></h3>
             <br />
             <li><strong>Indian Cuisine</strong>: Sooji is a staple ingredient in Indian cuisine, used to prepare dishes such as upma, halwa, idli, dosa, and various sweets like ladoo and kesari.</li>
             <li><strong>Baking</strong>: Sooji is used in baking to create crisp crusts for bread, pizza, and biscuits. It is also added to doughs to enhance texture and structure.</li>
@@ -6313,7 +6313,7 @@ export const catagories = [
             <li><strong>Fried and Roasted Snacks</strong>: Sooji is used to make snacks like pakoras, bhajis, and crispy fried items by coating vegetables or meats.</li>
             <br />
 
-            <p><strong>Health Benefits of Sooji</strong></p>
+            <h3><strong>Health Benefits of Sooji</strong></h3>
             <br />
             <li><strong>Nutrient-Rich</strong>: Sooji is a good source of carbohydrates, providing energy for the body. It also contains protein, fiber, and essential vitamins and minerals.</li>
             <li><strong>Digestive Health</strong>: Sooji aids in digestion due to its fiber content, promoting digestive regularity and gut health.</li>
@@ -6321,17 +6321,17 @@ export const catagories = [
             <li><strong>Versatile Cooking Ingredient</strong>: Its neutral flavor and ability to absorb flavors make Sooji a versatile ingredient in both sweet and savory dishes.</li>
             <br />
 
-            <p><strong>Sourcing and Quality Assurance</strong></p>
+            <h3><strong>Sourcing and Quality Assurance</strong></h3>
             <br />
             <p>Varni Exports ensures that our Sooji is sourced from trusted suppliers who adhere to strict quality control measures. Our processing facilities are equipped with modern technology to clean, grind, and pack Sooji hygienically, preserving its freshness and nutritional content.</p>
             <br />
 
-            <p><strong>Exporting Excellence</strong></p>
+            <h3><strong>Exporting Excellence</strong></h3>
             <br />
             <p>As a leading exporter of Sooji from India, Varni Exports caters to global markets with a commitment to delivering premium quality products. We maintain transparent communication, adhere to international food safety standards, and prioritize customer satisfaction.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
             <p>For inquiries about our premium Sooji or to place an order, please contact our knowledgeable team at Varni Exports. We are dedicated to providing reliable sourcing solutions and excellent customer service. Experience the excellence of Varni Exports today!</p>
           </div>
@@ -6354,10 +6354,10 @@ export const catagories = [
         Certification: "FSSAI Certified",
         description:
           <div>
-            <p><strong>Rice is a fundamental staple in cuisines worldwide, known for its versatility, nutritional value, and ability to complement a wide range of dishes. At Varni Exports, we offer a selection of premium quality rice varieties that cater to diverse culinary needs, ensuring superior taste and texture.</strong></p>
+            <h3><strong>Rice is a fundamental staple in cuisines worldwide, known for its versatility, nutritional value, and ability to complement a wide range of dishes. At Varni Exports, we offer a selection of premium quality rice varieties that cater to diverse culinary needs, ensuring superior taste and texture.</strong></h3>
             <br />
 
-            <p><strong>Varieties of Rice</strong></p>
+            <h3><strong>Varieties of Rice</strong></h3>
             <br />
             <li><strong>Basmati Rice:</strong>
               <ul>
@@ -6403,28 +6403,28 @@ export const catagories = [
             </li>
             <br />
 
-            <p><strong>Health Benefits</strong></p>
+            <h3><strong>Health Benefits</strong></h3>
             <br />
             <li><strong>Nutrient-Rich:</strong> Rice is a good source of carbohydrates, providing energy and essential nutrients like B vitamins, iron, and magnesium.</li>
             <li><strong>Gluten-Free:</strong> Naturally gluten-free, making it suitable for individuals with gluten intolerance or celiac disease.</li>
             <li><strong>Versatile Dietary Option:</strong> Can be included in various dietary plans, from vegan and vegetarian to low-fat and heart-healthy diets.</li>
             <br />
 
-            <p><strong>Culinary Uses</strong></p>
+            <h3><strong>Culinary Uses</strong></h3>
             <br />
             <li><strong>Versatile Ingredient:</strong> Rice can be used in an array of dishes, from main courses and side dishes to desserts and snacks.</li>
             <li><strong>Complementary Base:</strong> Serves as a perfect base for stews, curries, stir-fries, and grilled dishes, absorbing flavors and adding texture.</li>
             <li><strong>Cultural Staple:</strong> Integral to numerous traditional cuisines, including Indian, Chinese, Japanese, Thai, Italian, and Middle Eastern.</li>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
             <li><strong>Sourced from Trusted Suppliers:</strong> We procure rice from reputable farmers and suppliers known for their commitment to quality and sustainable practices.</li>
             <li><strong>Rigorous Quality Control:</strong> Our rice undergoes stringent quality checks to ensure purity, consistency, and superior taste.</li>
             <li><strong>Hygienic Processing:</strong> Processed and packaged under hygienic conditions to preserve freshness and nutritional value.</li>
             <br />
 
-            <p><strong>Experience Premium Rice with Varni Exports</strong></p>
+            <h3><strong>Experience Premium Rice with Varni Exports</strong></h3>
             <br />
             <p>Discover the world of premium rice with Varni Exports. Whether you are a culinary professional or a home cook, our diverse range of rice varieties promises to elevate your cooking experience. Contact us today to explore our selection and place your order. Enjoy the authentic flavors and exceptional quality of rice from Varni Exports, your trusted partner in premium grains and staples.</p>
           </div>
@@ -6669,19 +6669,19 @@ export const catagories = [
         "Shelf Life": "7-14 Days",
         description:
           <div>
-            <p><strong>Varni Exports: Your Premier Source for Exquisite Mangoes</strong></p>
+            <h3><strong>Varni Exports: Your Premier Source for Exquisite Mangoes</strong></h3>
             <br />
 
             <p>Welcome to Varni Exports, your trusted partner for sourcing the finest mangoes from the lush orchards of India. Renowned for their unparalleled sweetness, vibrant color, and rich flavor, our mangoes are cultivated and processed with meticulous care to meet international standards of excellence.</p>
             <br />
 
-            <p><strong>About Mangoes</strong></p>
+            <h3><strong>About Mangoes</strong></h3>
             <br />
 
             <p>Mangoes (Mangifera indica) are often referred to as the "king of fruits" and have been cherished for thousands of years. These tropical fruits are prized for their juicy flesh, sweet taste, and delightful aroma. Mangoes are not only delicious but also packed with essential nutrients, making them a popular choice around the world.</p>
             <br />
 
-            <p><strong>Varieties</strong></p>
+            <h3><strong>Varieties</strong></h3>
             <br />
 
             <p>Varni Exports offers a range of mango varieties to cater to diverse tastes and preferences:</p>
@@ -6693,13 +6693,13 @@ export const catagories = [
             <li><strong>Langra Mangoes:</strong> Renowned for their unique flavor and smooth texture. Langra mangoes are sweet with a slight tang, perfect for enjoying fresh or in culinary creations.</li>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, quality is our utmost priority. We partner with experienced mango growers who adhere to stringent agricultural practices to ensure the best growing conditions and fruit quality. Our mangoes are harvested at the peak of ripeness to maximize flavor and nutritional content. Rigorous quality checks and hygiene standards are maintained throughout the packaging and export process to deliver premium-grade mangoes to our customers.</p>
             <br />
 
-            <p><strong>Culinary Uses</strong></p>
+            <h3><strong>Culinary Uses</strong></h3>
             <br />
 
             <p>Mangoes are incredibly versatile and can be enjoyed in numerous ways:</p>
@@ -6711,7 +6711,7 @@ export const catagories = [
             <li><strong>Preserves:</strong> Make mango jams, jellies, and pickles to enjoy the fruit year-round.</li>
             <br />
 
-            <p><strong>Nutritional Benefits</strong></p>
+            <h3><strong>Nutritional Benefits</strong></h3>
             <br />
 
             <p>Mangoes are not only delicious but also packed with essential nutrients:</p>
@@ -6722,7 +6722,7 @@ export const catagories = [
             <li><strong>Antioxidants:</strong> Packed with antioxidants that help protect cells from damage and support overall well-being.</li>
             <br />
 
-            <p><strong>Sustainability Commitment</strong></p>
+            <h3><strong>Sustainability Commitment</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable agriculture practices and environmental stewardship:</p>
@@ -6732,7 +6732,7 @@ export const catagories = [
             <li><strong>Community Support:</strong> Supporting local communities by providing fair wages and fostering socio-economic development in mango-growing regions.</li>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of mangoes, Varni Exports ensures prompt delivery and superior quality:</p>
@@ -6742,7 +6742,7 @@ export const catagories = [
             <li><strong>Logistics Expertise:</strong> We leverage a robust logistics network to deliver fresh mangoes efficiently and safely to destinations across the globe.</li>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium mangoes or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your needs and provide personalized solutions for your business. Experience the exceptional quality and flavor of Varni Exports’ mangoes today!</p>
@@ -6768,19 +6768,19 @@ export const catagories = [
         "Shelf Life": "10-15 Days",
         description:
           <div>
-            <p><strong>Varni Exports: Your Trusted Partner for Premium Bananas</strong></p>
+            <h3><strong>Varni Exports: Your Trusted Partner for Premium Bananas</strong></h3>
             <br />
 
             <p>Welcome to Varni Exports, where we bring you the finest quality bananas sourced from the lush plantations of India. Known for their sweet flavor, nutritional richness, and versatility, our bananas are carefully cultivated and processed to meet global standards of excellence.</p>
             <br />
 
-            <p><strong>About Bananas</strong></p>
+            <h3><strong>About Bananas</strong></h3>
             <br />
 
             <p>Bananas are one of the most popular and widely consumed fruits worldwide. They are botanically classified as berries and are harvested from large herbaceous flowering plants in the genus Musa. Bananas are characterized by their elongated shape, creamy flesh, and vibrant yellow peel when ripe. They are enjoyed both raw and cooked in a variety of culinary preparations.</p>
             <br />
 
-            <p><strong>Varieties</strong></p>
+            <h3><strong>Varieties</strong></h3>
             <br />
 
             <p>Varni Exports offers a range of banana varieties to cater to diverse consumer preferences and culinary uses:</p>
@@ -6791,13 +6791,12 @@ export const catagories = [
             <li><strong>Plantains:</strong> Larger and starchier bananas used primarily in cooking, often fried or boiled.</li>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
-
             <p>At Varni Exports, quality is paramount. We partner with experienced banana growers who adhere to stringent agricultural practices to ensure optimal growing conditions and fruit quality. Our bananas are harvested at peak ripeness to maximize flavor and nutritional content. Rigorous quality checks and hygiene standards are maintained throughout the packaging and export process to deliver premium-grade bananas to our customers.</p>
             <br />
 
-            <p><strong>Culinary Uses</strong></p>
+            <h3><strong>Culinary Uses</strong></h3>
             <br />
 
             <p>Bananas are incredibly versatile and can be enjoyed in numerous ways:</p>
@@ -6809,7 +6808,7 @@ export const catagories = [
             <li><strong>Freezing:</strong> Frozen bananas can be blended into creamy ice creams or used as a healthy alternative to traditional desserts.</li>
             <br />
 
-            <p><strong>Nutritional Benefits</strong></p>
+            <h3><strong>Nutritional Benefits</strong></h3>
             <br />
 
             <p>Bananas are not only delicious but also packed with essential nutrients:</p>
@@ -6819,19 +6818,19 @@ export const catagories = [
             <li><strong>Dietary Fiber:</strong> Contains soluble and insoluble fiber that aids digestion and promotes a feeling of fullness.</li>
             <br />
 
-            <p><strong>Sustainability Commitment</strong></p>
+            <h3><strong>Sustainability Commitment</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable agriculture practices and environmental stewardship. We work closely with our growers to minimize water usage, reduce carbon footprint, and promote biodiversity in banana plantations. By prioritizing sustainability, we contribute to the long-term health of our planet and communities.</p>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of bananas, Varni Exports serves global markets with a focus on reliability, quality, and customer satisfaction. Our efficient logistics network ensures timely delivery of fresh bananas to destinations worldwide, meeting the diverse needs of our international clientele.</p>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium bananas or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your requirements and provide personalized solutions for your business needs. Experience the superior quality and flavor of Varni Exports’ bananas today!</p>
@@ -6857,19 +6856,19 @@ export const catagories = [
         "Shelf Life": "7-14 Days",
         description:
           <div>
-            <p><strong>Varni Exports: Your Reliable Partner for Premium Pomegranates</strong></p>
+            <h3><strong>Varni Exports: Your Reliable Partner for Premium Pomegranates</strong></h3>
             <br />
 
             <p>Welcome to Varni Exports, your trusted source for high-quality pomegranates sourced from the fertile orchards of India. Renowned for their vibrant ruby-red arils and refreshing taste, our pomegranates are cultivated and processed with utmost care to meet international standards of excellence.</p>
             <br />
 
-            <p><strong>About Pomegranates</strong></p>
+            <h3><strong>About Pomegranates</strong></h3>
             <br />
 
             <p>Pomegranates (Punica granatum) are ancient fruits with a rich history dating back thousands of years. They are prized for their unique appearance, delicious flavor, and numerous health benefits. Pomegranates are characterized by their thick, leathery skin that protects clusters of jewel-like arils containing sweet-tart juice and seeds. Each aril is packed with nutrients, making pomegranates a popular choice for both culinary and medicinal purposes.</p>
             <br />
 
-            <p><strong>Varieties</strong></p>
+            <h3><strong>Varieties</strong></h3>
             <br />
 
             <p>Varni Exports offers a variety of pomegranate cultivars to cater to diverse consumer preferences:</p>
@@ -6879,7 +6878,7 @@ export const catagories = [
             <li><strong>Mollar de Elche Pomegranates:</strong> Hailing from Spain, these pomegranates are prized for their sweet and flavorful arils, ideal for fresh consumption.</li>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, we prioritize quality at every step of the supply chain:</p>
@@ -6889,7 +6888,7 @@ export const catagories = [
             <li><strong>Processing:</strong> Stringent quality controls are maintained during sorting, cleaning, and packaging to deliver premium-grade pomegranates that meet global hygiene and safety standards.</li>
             <br />
 
-            <p><strong>Culinary Uses</strong></p>
+            <h3><strong>Culinary Uses</strong></h3>
             <br />
 
             <p>Pomegranates are versatile fruits that can be enjoyed in various culinary creations:</p>
@@ -6899,8 +6898,7 @@ export const catagories = [
             <li><strong>Desserts:</strong> Sprinkle pomegranate arils over cakes, puddings, and ice creams for a burst of color and flavor.</li>
             <li><strong>Sauces and Dressings:</strong> Pomegranate molasses and sauces are used in Middle Eastern cuisine to enhance savory dishes.</li>
             <br />
-
-            <p><strong>Health Benefits</strong></p>
+            <h3><strong>Health Benefits</strong></h3>
             <br />
 
             <p>Pomegranates are celebrated for their nutritional richness and health-promoting properties:</p>
@@ -6911,7 +6909,7 @@ export const catagories = [
             <li><strong>Vitamins and Minerals:</strong> Pomegranates are a good source of vitamin C, vitamin K, potassium, and folate, essential for overall well-being.</li>
             <br />
 
-            <p><strong>Sustainability Commitment</strong></p>
+            <h3><strong>Sustainability Commitment</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable agriculture practices:</p>
@@ -6921,7 +6919,7 @@ export const catagories = [
             <li><strong>Community Engagement:</strong> We support local communities by providing fair wages and fostering socio-economic development in pomegranate-growing regions.</li>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of pomegranates, Varni Exports ensures prompt delivery and superior quality:</p>
@@ -6931,7 +6929,7 @@ export const catagories = [
             <li><strong>Logistics Expertise:</strong> We leverage a robust logistics network to deliver fresh pomegranates efficiently and safely to destinations across the globe.</li>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium pomegranates or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your needs and provide personalized solutions for your business. Experience the exceptional quality and flavor of Varni Exports’ pomegranates today!</p>
@@ -6956,19 +6954,19 @@ export const catagories = [
         Feature: "High Nutritional Value, Rich in Fiber",
         description:
           <div>
-            <p><strong>Varni Exports: Your Premier Source for Premium Coconuts</strong></p>
+            <h3><strong>Varni Exports: Your Premier Source for Premium Coconuts</strong></h3>
             <br />
 
             <p>Welcome to Varni Exports, your trusted partner for sourcing the finest coconuts from the tropical regions of India. Known for their versatile uses, rich flavor, and numerous health benefits, our coconuts are cultivated and processed with the utmost care to meet international standards of excellence.</p>
             <br />
 
-            <p><strong>About Coconuts</strong></p>
+            <h3><strong>About Coconuts</strong></h3>
             <br />
 
             <p>Coconuts (Cocos nucifera) are tropical fruits that have been valued for centuries for their diverse uses and nutritional benefits. The coconut tree is often referred to as the "Tree of Life" due to the wide array of products derived from its fruit, including coconut water, milk, oil, and meat. Coconuts are celebrated for their refreshing taste and versatile culinary applications.</p>
             <br />
 
-            <p><strong>Varieties</strong></p>
+            <h3><strong>Varieties</strong></h3>
             <br />
 
             <p>Varni Exports offers a range of coconut varieties to cater to diverse consumer preferences:</p>
@@ -6978,13 +6976,13 @@ export const catagories = [
             <li><strong>Semi-Husked Coconuts:</strong> These coconuts are partially husked for easy handling and transportation, suitable for both culinary and industrial uses.</li>
             <br />
 
-            <p><strong>Quality Assurance</strong></p>
+            <h3><strong>Quality Assurance</strong></h3>
             <br />
 
             <p>At Varni Exports, quality is our top priority. We partner with experienced coconut growers who follow sustainable agricultural practices to ensure optimal growing conditions and fruit quality. Our coconuts are harvested at the peak of ripeness to maximize flavor and nutritional content. Rigorous quality checks and hygiene standards are maintained throughout the packaging and export process to deliver premium-grade coconuts to our customers.</p>
             <br />
 
-            <p><strong>Culinary Uses</strong></p>
+            <h3><strong>Culinary Uses</strong></h3>
             <br />
 
             <p>Coconuts are incredibly versatile and can be enjoyed in various forms:</p>
@@ -6996,7 +6994,7 @@ export const catagories = [
             <li><strong>Coconut Meat:</strong> Eat fresh, dried, or shredded in a variety of sweet and savory dishes.</li>
             <br />
 
-            <p><strong>Nutritional Benefits</strong></p>
+            <h3><strong>Nutritional Benefits</strong></h3>
             <br />
 
             <p>Coconuts are not only delicious but also packed with essential nutrients:</p>
@@ -7007,7 +7005,7 @@ export const catagories = [
             <li><strong>Antioxidants:</strong> Packed with antioxidants that help protect cells from damage and support overall well-being.</li>
             <br />
 
-            <p><strong>Sustainability Commitment</strong></p>
+            <h3><strong>Sustainability Commitment</strong></h3>
             <br />
 
             <p>Varni Exports is committed to sustainable agriculture practices and environmental stewardship:</p>
@@ -7017,7 +7015,7 @@ export const catagories = [
             <li><strong>Community Support:</strong> Supporting local communities by providing fair wages and fostering socio-economic development in coconut-growing regions.</li>
             <br />
 
-            <p><strong>Export Excellence</strong></p>
+            <h3><strong>Export Excellence</strong></h3>
             <br />
 
             <p>As a leading exporter of coconuts, Varni Exports ensures prompt delivery and superior quality:</p>
@@ -7027,7 +7025,7 @@ export const catagories = [
             <li><strong>Logistics Expertise:</strong> We leverage a robust logistics network to deliver fresh coconuts efficiently and safely to destinations across the globe.</li>
             <br />
 
-            <p><strong>Contact Us</strong></p>
+            <h3><strong>Contact Us</strong></h3>
             <br />
 
             <p>For inquiries about our premium coconuts or to place an order, please contact Varni Exports. Our dedicated team is ready to assist you with your needs and provide personalized solutions for your business. Experience the exceptional quality and flavor of Varni Exports’ coconuts today!</p>
@@ -7525,3 +7523,5 @@ export const exportDetails = {
 
   last: `Your market, our expertise.`,
 };
+
+
