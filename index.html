@@ -35,6 +35,14 @@
   <meta name="twitter:description" content="Premium quality Indian spices, food products, and agricultural commodities from a trusted export partner." />
   
   <!-- Error Handler for Third-Party Scripts -->
+
+  <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-N4LJRLGP');
+    </script>
   <script>
     window.onerror = function(message, source, lineno, colno, error) {
       if (source && (source.includes('googletagmanager') || source.includes('el_main') || source.includes('el_conf'))) {
@@ -63,8 +71,11 @@
   </script>
   <!-- End Google Analytics -->
 </head>
-
 <body>
+   <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4LJRLGP"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NX3CVPDC"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -73,5 +84,6 @@
   <div id="root"></div>
   <script type="module" src="/src/main.jsx"></script>
 </body>
+
 
 </html>
